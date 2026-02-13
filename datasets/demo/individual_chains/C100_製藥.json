@@ -1,0 +1,1186 @@
+{
+  "title": "製藥產業鏈",
+  "introduction": "製藥產業鏈\n製藥產業為生技醫療產業的重要支柱，包括西藥製劑、生物製劑、中藥製劑、原料藥，涵蓋了藥品的研發、生產、製劑、銷售與市場推廣等多個環節。製藥產業的創新技術推動了精準醫療、個人化醫療、再生醫療等新興領域的發展，這些領域在癌症、退化性疾病、自體免疫疾病的治療中扮演關鍵角色。隨著全球醫療需求的快速增長及醫療科技的進步，製藥產業正面臨新的技術挑戰與市場機遇。\n臺灣食藥署規定，除了2014年新申請藥證的藥物外，包含疫苗、點滴等注射劑，均需揭露賦形劑的資訊。而在藥事法中，亦規範了除原料藥外，領有藥品許可證的其他藥品，都須將賦形劑的成分名或品名刊載於藥品說明書上。食藥署所修訂的「藥品查驗審查登記準則」，也要求藥廠將賦形劑主動送審核。\n近年熱門的CDMO（Contract Development and Manufacturing Organization；CDMO，委託開發製造）藥廠， MAH（Marketing Authorization Holder，上市許可持有者）委託，服務項目從臨床試驗階段的試驗用藥生產、生產流程設計、原料藥供應、到商業化生產模式的製劑生產、充填和包裝都包含在內。\n台灣的CDMO藥廠若是想跨足國際市場，必須具備台灣和他國的GMP認證，在新藥研發的臨床二期或三期時，先取得研發製造機會，若該新藥成功取得藥證，也有較高的機會把握住量產時的委製商機。\n1.上游\n藥物原料及技術研發\n包含幹細胞、基因編輯工具（如CRISPR-Cas9）和生物活性分子等原料的收集與儲存。台灣的幹細胞資源收集主要來自臍帶血、臍帶、骨髓、脂肪和乳牙等，這些細胞必須經過分離、純化和冷凍保存，以供後續治療使用。其主要分為藥物原材料製備以及新藥開發兩個部分。\n前者的製備主要是為後續的原料藥（API, Active Pharmaceutical Ingredients）和中藥材加工提供基礎材料。這些原材料涵蓋了西藥和中藥的原材料，其來源多樣，包括化學合成物、天然物質及生物製品。主要製程包括化學合成、天然物提取和生物技術應用三大領域。化學合成原料主要從化學品進行有機合成，並進一步進行分離和純化，這一部分以化學原料藥為主，滿足大部分的製藥需求。天然物提取原料則是從天然動植物中提取活性成分，透過發酵培養、萃取、分離和純化等技術處理，廣泛應用於中藥和生物製品的生產。隨著生物技術的進展，基因轉殖技術和組織培養技術的發展，已能利用基因改造的植物或動物來生產藥物原料，這項技術在幹細胞製劑和基因治療產品的開發中發揮關鍵作用。未來，這些技術的成熟將推動上游藥物生產的技術突破，促進新藥和生物製劑的研發，為產業帶來深遠影響。\n後者則是一個漫長複雜、高投資且高風險的過程，平均而言，一個藥物從研發到新藥上市，大約要花費十二至十五年的時間，上百億新臺幣的費用，大致區分為臨床前（新藥發掘與探索、價值確效、產品開發動物試驗）、臨床一期（Phase I）、臨床二期（Phase II）、臨床三期（Phase III）、新藥上市申請、上市量產等階段，成為藥品上市許可持有者（Market Authorization Holder; MAH）藥廠。專利藥研發驗證通過後，可享有20年的專利保護，到期後轉為學名藥不再享有專利權益，目前市場預估2026年為專利到期高峰期，台灣製藥產業多以學名藥為主，同時也是營收主要來源，其中癌症用藥為學名藥市場最大宗。\n新研發的藥物在獲准上市前須經過臨床一至三期試驗與審查，且須在試驗過程中進行雙盲測試；亦即讓病患隨機編制為實驗組和對照組來進行藥物試驗，直到研究結束後，才進行資料解盲與分析。雖然在進行臨床試驗中，會產出期中報告，但製藥是屬於高風險產業，最後的資料解盲與分析，往往直接影響到新藥可否領取藥證以及未來在市場上的潛在價值，對製藥產業來說，新藥研發之商機是一場和時間競爭的賽事，若新藥解盲後的成效優於預期，不僅對業者來說可以早日上市取得商機，對市場和產業來說亦可帶來正面效益；不過一旦解盲後資料分析結果是失敗的，仍將引發市場對新藥或業者的質疑。對業者而言，新藥的臨床試驗本來就存在高風險，臨床失敗不等同於新藥完全失效，相關研究資源仍可重新配置或挹注到其它開發中的新藥上，即使臨床試驗成功，新藥上市仍須面臨市場接受度的挑戰。\n2.中游\n製劑生產與研發\n中游的核心是再生醫療製劑的製備與標準化，如幹細胞培養、外泌體提取及藥品劑型的開發。製劑的標準化和產品質量的控制，對再生醫療的臨床應用至關重要。\n製藥產業鏈中游係從事原料藥工業及中藥材加工業。原料藥是藥物中具有醫療效用的基本成分，也被稱為活性藥物成分（Active Pharmaceutical Ingredients; API）。原料藥加工主要是將藥物原材料經過加工輔料賦型，由一般化學品製備者，主要製程技術為複雜的有機合成及分離純化。\n我國自2014年加入國際醫藥品稽核協約組織(The Pharmaceutical Inspection Convention and Co-operation Scheme, PIC/S)，並推動藥廠PIC/S GMP規範，促進我國製藥品質達到國際水準，並提供國人用藥安全。依據衛生福利部食品藥物管理署(以下簡稱衛福部食藥署)的統計，截至2024年4月底，我國通過PIC/S GMP查核的製藥工廠數達145家，計有126家西藥製劑公司，142個西藥製劑製藥工廠通過PIC/S GMP查核。。中藥材加工業主要是將中藥原材料加工成膏、丸、散、片、酊狀等不同劑型。中藥材被炮製後，就會進下游繼續加工濃縮成型，成為中藥製劑。至2024年3月底，符合中藥GMP規範之中藥製劑工廠有80家。\n3.下游\n臨床應用與市場推廣\n再生醫療在癌症、退化性疾病（如阿茲海默症、帕金森氏症）及自體免疫疾病（如紅斑性狼瘡）的治療中逐漸展現成效，許多療法已經進入臨床試驗的後期階段。\n中西藥製劑的生產和藥品代理通路經營構成了製藥產業鏈的下游核心環節。在中西藥製劑的生產部分，API（原料藥）與製劑輔料（如賦形劑、黏著劑）經過混合、加工後製成片劑、膠囊和注射液等多種劑型。製藥廠必須遵守GMP（良好製造規範）標準，確保產品質量穩定。此外，台灣自2014年起要求所有藥物的賦形劑成分必須公開，並標示於藥品說明書中，以增進用藥安全性和透明度。\n在藥品代理與通路經營方面，主要行銷通路包括醫療機構（如醫院、診所和藥局）及藥品代理和批發業者。代理商負責從國際市場引進藥品，並管理本地的銷售和分銷通路。面對市場競爭，製藥業者需應對專利藥到期的挑戰，尋求透過改良劑型或研發新技術來延續產品市場價值。\n近年來，CDMO模式成為產業新趨勢，台灣廠商不僅提供臨床試驗用藥的製造服務，還承接國際MAH（上市許可持有者）的商業化生產委託。這一趨勢使台灣的製藥產業有機會跨足國際市場，並參與全球藥品供應鏈的高附加價值環節。\n根據預估，2024 年全球生物藥品委託開發暨製造服務（CDMO）市場規模將達 1,437 億美元，並預期以年複合成長率（CAGR）11.52% 穩健成長，至 2029 年可望突破 2,479 億美元。\n相較之下，台灣製藥產業於 2024 年的全年產值約為新台幣 1,062.3 億元，較 2023 年下滑 7.7%。此衰退主要受限於原料藥與西藥製劑雙重疲弱，兩者產值分別較前一年減少 15.9% 與 7.0%。然而，生物藥品表現亮眼，在 2024 年呈現 21.2% 的成長幅度，有效緩解部分整體衰退壓力。中藥製劑方面則微幅下滑 0.4%，雖仍維持在高於疫情前的水準，但成長動能趨緩。整體而言，傳統藥品市場需求持續疲軟，而新藥、疫苗等生物製劑的產值成長已成為支撐產業的重要力量，有助於抵銷部分市場下行的影響。\n隨著全球藥品需求不斷攀升、創新藥物持續推陳出新，加上新興市場快速擴張，全球製藥產業預期於 2025 年將延續成長態勢。然而，值得留意的是，美國可能於該年第二季調整貿易政策，進一步升高全球貿易緊張局勢，進而衝擊藥品供應鏈與價格穩定。\n在地區動能方面，亞太地區持續吸引創新與資本投入，尤其中國大陸著重自給自足戰略，並將大量資金導向印度等市場；同時，中東、非洲與拉丁美洲等新興經濟體的藥品「在地化生產」趨勢亦方興未艾。有鑑於此，為強化國際競爭力，台灣製藥產業在原料藥、西藥製劑、生物藥品及中藥製劑等領域均展現良好成長動能，預估 2025 年產值將較 2024 年回升，達新台幣 1,103.7 億元。透過政策的推動和智慧化技術的導入，台灣製藥產業的發展已初見成效。AI、ICT和大數據技術的應用，使藥物開發更加高效，醫療系統的診斷與治療亦更為精準，預計可降低民眾的藥品成本，同時促進醫療服務的精準化。未來，台灣政府將持續推動生技醫藥的創新，強化國際市場的鏈接，並透過《生技醫藥產業發展條例》、「生醫產業創新推動方案」等政策支撐，促進國內藥品研發、產業升級和國際市場拓展，預期台灣將在全球製藥供應鏈中發揮更重要的戰略角色。",
+  "chains": [
+    {
+      "title": "上游",
+      "companies": [
+        {
+          "id": "ic_link_C110",
+          "text": "原材料",
+          "detailed_data": {
+            "title": "原材料",
+            "categories": [],
+            "companies": [
+              {
+                "name": "科妍",
+                "url": "company_basic.php?stk_code=1786",
+                "is_foreign": false
+              },
+              {
+                "name": "雙鍵",
+                "url": "company_basic.php?stk_code=4764",
+                "is_foreign": false
+              },
+              {
+                "name": "藥華藥",
+                "url": "company_basic.php?stk_code=6446",
+                "is_foreign": false
+              },
+              {
+                "name": "華安",
+                "url": "company_basic.php?stk_code=6657",
+                "is_foreign": false
+              },
+              {
+                "name": "台新藥",
+                "url": "company_basic.php?stk_code=6838",
+                "is_foreign": false
+              },
+              {
+                "name": "全福生技",
+                "url": "company_basic.php?stk_code=6885",
+                "is_foreign": false
+              },
+              {
+                "name": "康霈*",
+                "url": "company_basic.php?stk_code=6919",
+                "is_foreign": false
+              },
+              {
+                "name": "泰福-KY",
+                "url": "company_basic.php?stk_code=6541",
+                "is_foreign": false
+              },
+              {
+                "name": "基亞",
+                "url": "company_basic.php?stk_code=3176",
+                "is_foreign": false
+              },
+              {
+                "name": "東洋",
+                "url": "company_basic.php?stk_code=4105",
+                "is_foreign": false
+              },
+              {
+                "name": "中天",
+                "url": "company_basic.php?stk_code=4128",
+                "is_foreign": false
+              },
+              {
+                "name": "中裕",
+                "url": "company_basic.php?stk_code=4147",
+                "is_foreign": false
+              },
+              {
+                "name": "智擎",
+                "url": "company_basic.php?stk_code=4162",
+                "is_foreign": false
+              },
+              {
+                "name": "浩鼎",
+                "url": "company_basic.php?stk_code=4174",
+                "is_foreign": false
+              },
+              {
+                "name": "德英",
+                "url": "company_basic.php?stk_code=4911",
+                "is_foreign": false
+              },
+              {
+                "name": "生華科",
+                "url": "company_basic.php?stk_code=6492",
+                "is_foreign": false
+              },
+              {
+                "name": "科懋",
+                "url": "company_basic.php?stk_code=6496",
+                "is_foreign": false
+              },
+              {
+                "name": "聚和",
+                "url": "company_basic.php?stk_code=6509",
+                "is_foreign": false
+              },
+              {
+                "name": "順藥",
+                "url": "company_basic.php?stk_code=6535",
+                "is_foreign": false
+              },
+              {
+                "name": "威健生技",
+                "url": "company_basic.php?stk_code=6661",
+                "is_foreign": false
+              },
+              {
+                "name": "國鼎",
+                "url": "company_basic.php?stk_code=4132",
+                "is_foreign": false
+              },
+              {
+                "name": "泰宗",
+                "url": "company_basic.php?stk_code=4169",
+                "is_foreign": false
+              },
+              {
+                "name": "因華",
+                "url": "company_basic.php?stk_code=4172",
+                "is_foreign": false
+              },
+              {
+                "name": "禾生技",
+                "url": "company_basic.php?stk_code=4194",
+                "is_foreign": false
+              },
+              {
+                "name": "彥臣",
+                "url": "company_basic.php?stk_code=4732",
+                "is_foreign": false
+              },
+              {
+                "name": "景凱",
+                "url": "company_basic.php?stk_code=6549",
+                "is_foreign": false
+              },
+              {
+                "name": "安特羅",
+                "url": "company_basic.php?stk_code=6564",
+                "is_foreign": false
+              },
+              {
+                "name": "醣基",
+                "url": "company_basic.php?stk_code=6586",
+                "is_foreign": false
+              },
+              {
+                "name": "安成生技",
+                "url": "company_basic.php?stk_code=6610",
+                "is_foreign": false
+              },
+              {
+                "name": "元樟生技",
+                "url": "company_basic.php?stk_code=6864",
+                "is_foreign": false
+              },
+              {
+                "name": "朗齊生醫*",
+                "url": "company_basic.php?stk_code=6876",
+                "is_foreign": false
+              },
+              {
+                "name": "圓祥生技",
+                "url": "company_basic.php?stk_code=6945",
+                "is_foreign": false
+              },
+              {
+                "name": "視航生醫",
+                "url": "company_basic.php?stk_code=7759",
+                "is_foreign": false
+              },
+              {
+                "name": "吉晟生",
+                "url": "company_basic.php?stk_code=7762",
+                "is_foreign": false
+              },
+              {
+                "name": "寶泰生醫",
+                "url": "company_basic.php?stk_code=7850",
+                "is_foreign": false
+              },
+              {
+                "name": "鼎晉生技",
+                "url": "company_basic.php?stk_code=7876",
+                "is_foreign": false
+              },
+              {
+                "name": "安立璽榮-KY",
+                "url": "company_basic.php?stk_code=7871",
+                "is_foreign": false
+              },
+              {
+                "name": "那米亞",
+                "url": "company_basic.php?stk_code=7450",
+                "is_foreign": false
+              },
+              {
+                "name": "偉喬生醫",
+                "url": "company_basic.php?stk_code=7548",
+                "is_foreign": false
+              },
+              {
+                "name": "澄交生技",
+                "url": "company_basic.php?stk_code=7627",
+                "is_foreign": false
+              },
+              {
+                "name": "寶泓生醫",
+                "url": "company_basic.php?stk_code=7671",
+                "is_foreign": false
+              },
+              {
+                "name": "宏潤生技",
+                "url": "company_basic.php?stk_code=7695",
+                "is_foreign": false
+              },
+              {
+                "name": "拜耳",
+                "url": "https://www.bayer.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "L&F",
+                "url": "http://www.landf.co.kr/",
+                "is_foreign": true
+              },
+              {
+                "name": "默克集團",
+                "url": "http://www.merckgroup.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "山德士",
+                "url": "http://www.sandoz.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共46家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游",
+      "companies": [
+        {
+          "id": "ic_link_C120",
+          "text": "中藥材、/西藥原料藥",
+          "detailed_data": {
+            "title": "中藥材、西藥原料藥",
+            "categories": [],
+            "companies": [
+              {
+                "name": "永光",
+                "url": "company_basic.php?stk_code=1711",
+                "is_foreign": false
+              },
+              {
+                "name": "中化生",
+                "url": "company_basic.php?stk_code=1762",
+                "is_foreign": false
+              },
+              {
+                "name": "神隆",
+                "url": "company_basic.php?stk_code=1789",
+                "is_foreign": false
+              },
+              {
+                "name": "懷特",
+                "url": "company_basic.php?stk_code=4108",
+                "is_foreign": false
+              },
+              {
+                "name": "旭富",
+                "url": "company_basic.php?stk_code=4119",
+                "is_foreign": false
+              },
+              {
+                "name": "國光生",
+                "url": "company_basic.php?stk_code=4142",
+                "is_foreign": false
+              },
+              {
+                "name": "台耀",
+                "url": "company_basic.php?stk_code=4746",
+                "is_foreign": false
+              },
+              {
+                "name": "台新藥",
+                "url": "company_basic.php?stk_code=6838",
+                "is_foreign": false
+              },
+              {
+                "name": "生泰",
+                "url": "company_basic.php?stk_code=1777",
+                "is_foreign": false
+              },
+              {
+                "name": "永日",
+                "url": "company_basic.php?stk_code=4102",
+                "is_foreign": false
+              },
+              {
+                "name": "松瑞藥",
+                "url": "company_basic.php?stk_code=4167",
+                "is_foreign": false
+              },
+              {
+                "name": "杏國",
+                "url": "company_basic.php?stk_code=4192",
+                "is_foreign": false
+              },
+              {
+                "name": "永昕",
+                "url": "company_basic.php?stk_code=4726",
+                "is_foreign": false
+              },
+              {
+                "name": "合一",
+                "url": "company_basic.php?stk_code=4743",
+                "is_foreign": false
+              },
+              {
+                "name": "科懋",
+                "url": "company_basic.php?stk_code=6496",
+                "is_foreign": false
+              },
+              {
+                "name": "高端疫苗",
+                "url": "company_basic.php?stk_code=6547",
+                "is_foreign": false
+              },
+              {
+                "name": "威健生技",
+                "url": "company_basic.php?stk_code=6661",
+                "is_foreign": false
+              },
+              {
+                "name": "共信-KY",
+                "url": "company_basic.php?stk_code=6617",
+                "is_foreign": false
+              },
+              {
+                "name": "國鼎",
+                "url": "company_basic.php?stk_code=4132",
+                "is_foreign": false
+              },
+              {
+                "name": "原創生醫",
+                "url": "company_basic.php?stk_code=6483",
+                "is_foreign": false
+              },
+              {
+                "name": "台睿",
+                "url": "company_basic.php?stk_code=6580",
+                "is_foreign": false
+              },
+              {
+                "name": "欣耀",
+                "url": "company_basic.php?stk_code=6634",
+                "is_foreign": false
+              },
+              {
+                "name": "祥翊",
+                "url": "company_basic.php?stk_code=6676",
+                "is_foreign": false
+              },
+              {
+                "name": "巨生醫",
+                "url": "company_basic.php?stk_code=6827",
+                "is_foreign": false
+              },
+              {
+                "name": "樂迦再生",
+                "url": "company_basic.php?stk_code=6891",
+                "is_foreign": false
+              },
+              {
+                "name": "聖安生醫",
+                "url": "company_basic.php?stk_code=6926",
+                "is_foreign": false
+              },
+              {
+                "name": "王子製藥",
+                "url": "company_basic.php?stk_code=6935",
+                "is_foreign": false
+              },
+              {
+                "name": "啟弘生技",
+                "url": "company_basic.php?stk_code=6939",
+                "is_foreign": false
+              },
+              {
+                "name": "寶泰生醫",
+                "url": "company_basic.php?stk_code=7850",
+                "is_foreign": false
+              },
+              {
+                "name": "鼎晉生技",
+                "url": "company_basic.php?stk_code=7876",
+                "is_foreign": false
+              },
+              {
+                "name": "藥祇",
+                "url": "company_basic.php?stk_code=7878",
+                "is_foreign": false
+              },
+              {
+                "name": "博研醫藥",
+                "url": "company_basic.php?stk_code=7891",
+                "is_foreign": false
+              },
+              {
+                "name": "那米亞",
+                "url": "company_basic.php?stk_code=7450",
+                "is_foreign": false
+              },
+              {
+                "name": "澄交生技",
+                "url": "company_basic.php?stk_code=7627",
+                "is_foreign": false
+              },
+              {
+                "name": "宏潤生技",
+                "url": "company_basic.php?stk_code=7695",
+                "is_foreign": false
+              },
+              {
+                "name": "中國中藥",
+                "url": "http://www.china-tcm.com.cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "廣州醫藥集團",
+                "url": "http://www.gpc.com.cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "米蘭製藥",
+                "url": "http://www.mylan.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "山德士",
+                "url": "http://www.sandoz.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "上海醫藥集團",
+                "url": "http://www.sphchina.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "梯瓦製藥工業有限公司",
+                "url": "http://www.tevapharm.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共41家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游",
+      "companies": [
+        {
+          "id": "ic_link_C130",
+          "text": "中、西藥/製劑",
+          "detailed_data": {
+            "title": "中、西藥製劑",
+            "categories": [],
+            "companies": [
+              {
+                "name": "生達",
+                "url": "company_basic.php?stk_code=1720",
+                "is_foreign": false
+              },
+              {
+                "name": "杏輝",
+                "url": "company_basic.php?stk_code=1734",
+                "is_foreign": false
+              },
+              {
+                "name": "南光",
+                "url": "company_basic.php?stk_code=1752",
+                "is_foreign": false
+              },
+              {
+                "name": "寶齡富錦",
+                "url": "company_basic.php?stk_code=1760",
+                "is_foreign": false
+              },
+              {
+                "name": "科妍",
+                "url": "company_basic.php?stk_code=1786",
+                "is_foreign": false
+              },
+              {
+                "name": "美時",
+                "url": "company_basic.php?stk_code=1795",
+                "is_foreign": false
+              },
+              {
+                "name": "永信",
+                "url": "company_basic.php?stk_code=3705",
+                "is_foreign": false
+              },
+              {
+                "name": "中化控股",
+                "url": "company_basic.php?stk_code=3716",
+                "is_foreign": false
+              },
+              {
+                "name": "懷特",
+                "url": "company_basic.php?stk_code=4108",
+                "is_foreign": false
+              },
+              {
+                "name": "保瑞",
+                "url": "company_basic.php?stk_code=6472",
+                "is_foreign": false
+              },
+              {
+                "name": "台康生技",
+                "url": "company_basic.php?stk_code=6589",
+                "is_foreign": false
+              },
+              {
+                "name": "台新藥",
+                "url": "company_basic.php?stk_code=6838",
+                "is_foreign": false
+              },
+              {
+                "name": "全福生技",
+                "url": "company_basic.php?stk_code=6885",
+                "is_foreign": false
+              },
+              {
+                "name": "北極星藥業-KY",
+                "url": "company_basic.php?stk_code=6550",
+                "is_foreign": false
+              },
+              {
+                "name": "易威",
+                "url": "company_basic.php?stk_code=1799",
+                "is_foreign": false
+              },
+              {
+                "name": "進階",
+                "url": "company_basic.php?stk_code=3118",
+                "is_foreign": false
+              },
+              {
+                "name": "基亞",
+                "url": "company_basic.php?stk_code=3176",
+                "is_foreign": false
+              },
+              {
+                "name": "佰研",
+                "url": "company_basic.php?stk_code=3205",
+                "is_foreign": false
+              },
+              {
+                "name": "東洋",
+                "url": "company_basic.php?stk_code=4105",
+                "is_foreign": false
+              },
+              {
+                "name": "濟生",
+                "url": "company_basic.php?stk_code=4111",
+                "is_foreign": false
+              },
+              {
+                "name": "健喬",
+                "url": "company_basic.php?stk_code=4114",
+                "is_foreign": false
+              },
+              {
+                "name": "友華",
+                "url": "company_basic.php?stk_code=4120",
+                "is_foreign": false
+              },
+              {
+                "name": "晟德",
+                "url": "company_basic.php?stk_code=4123",
+                "is_foreign": false
+              },
+              {
+                "name": "天良",
+                "url": "company_basic.php?stk_code=4127",
+                "is_foreign": false
+              },
+              {
+                "name": "中天",
+                "url": "company_basic.php?stk_code=4128",
+                "is_foreign": false
+              },
+              {
+                "name": "健亞",
+                "url": "company_basic.php?stk_code=4130",
+                "is_foreign": false
+              },
+              {
+                "name": "友霖",
+                "url": "company_basic.php?stk_code=4166",
+                "is_foreign": false
+              },
+              {
+                "name": "松瑞藥",
+                "url": "company_basic.php?stk_code=4167",
+                "is_foreign": false
+              },
+              {
+                "name": "醣聯",
+                "url": "company_basic.php?stk_code=4168",
+                "is_foreign": false
+              },
+              {
+                "name": "永昕",
+                "url": "company_basic.php?stk_code=4726",
+                "is_foreign": false
+              },
+              {
+                "name": "合一",
+                "url": "company_basic.php?stk_code=4743",
+                "is_foreign": false
+              },
+              {
+                "name": "強生製藥",
+                "url": "company_basic.php?stk_code=4747",
+                "is_foreign": false
+              },
+              {
+                "name": "益得",
+                "url": "company_basic.php?stk_code=6461",
+                "is_foreign": false
+              },
+              {
+                "name": "科懋",
+                "url": "company_basic.php?stk_code=6496",
+                "is_foreign": false
+              },
+              {
+                "name": "聚和",
+                "url": "company_basic.php?stk_code=6509",
+                "is_foreign": false
+              },
+              {
+                "name": "高端疫苗",
+                "url": "company_basic.php?stk_code=6547",
+                "is_foreign": false
+              },
+              {
+                "name": "逸達",
+                "url": "company_basic.php?stk_code=6576",
+                "is_foreign": false
+              },
+              {
+                "name": "漢達",
+                "url": "company_basic.php?stk_code=6620",
+                "is_foreign": false
+              },
+              {
+                "name": "威健生技",
+                "url": "company_basic.php?stk_code=6661",
+                "is_foreign": false
+              },
+              {
+                "name": "樂斯科",
+                "url": "company_basic.php?stk_code=6662",
+                "is_foreign": false
+              },
+              {
+                "name": "昱展新藥",
+                "url": "company_basic.php?stk_code=6785",
+                "is_foreign": false
+              },
+              {
+                "name": "國邑*",
+                "url": "company_basic.php?stk_code=6875",
+                "is_foreign": false
+              },
+              {
+                "name": "太景*-KY",
+                "url": "company_basic.php?stk_code=4157",
+                "is_foreign": false
+              },
+              {
+                "name": "共信-KY",
+                "url": "company_basic.php?stk_code=6617",
+                "is_foreign": false
+              },
+              {
+                "name": "國鼎",
+                "url": "company_basic.php?stk_code=4132",
+                "is_foreign": false
+              },
+              {
+                "name": "禾生技",
+                "url": "company_basic.php?stk_code=4194",
+                "is_foreign": false
+              },
+              {
+                "name": "泰合",
+                "url": "company_basic.php?stk_code=6467",
+                "is_foreign": false
+              },
+              {
+                "name": "原創生醫",
+                "url": "company_basic.php?stk_code=6483",
+                "is_foreign": false
+              },
+              {
+                "name": "台睿",
+                "url": "company_basic.php?stk_code=6580",
+                "is_foreign": false
+              },
+              {
+                "name": "雅祥生醫",
+                "url": "company_basic.php?stk_code=6652",
+                "is_foreign": false
+              },
+              {
+                "name": "天明製藥",
+                "url": "company_basic.php?stk_code=6659",
+                "is_foreign": false
+              },
+              {
+                "name": "祥翊",
+                "url": "company_basic.php?stk_code=6676",
+                "is_foreign": false
+              },
+              {
+                "name": "瑩碩生技",
+                "url": "company_basic.php?stk_code=6677",
+                "is_foreign": false
+              },
+              {
+                "name": "仁新",
+                "url": "company_basic.php?stk_code=6696",
+                "is_foreign": false
+              },
+              {
+                "name": "昱厚生技",
+                "url": "company_basic.php?stk_code=6709",
+                "is_foreign": false
+              },
+              {
+                "name": "溫士頓",
+                "url": "company_basic.php?stk_code=6817",
+                "is_foreign": false
+              },
+              {
+                "name": "朗齊生醫*",
+                "url": "company_basic.php?stk_code=6876",
+                "is_foreign": false
+              },
+              {
+                "name": "樂迦再生",
+                "url": "company_basic.php?stk_code=6891",
+                "is_foreign": false
+              },
+              {
+                "name": "竟天",
+                "url": "company_basic.php?stk_code=6917",
+                "is_foreign": false
+              },
+              {
+                "name": "聖安生醫",
+                "url": "company_basic.php?stk_code=6926",
+                "is_foreign": false
+              },
+              {
+                "name": "水星生醫*",
+                "url": "company_basic.php?stk_code=6932",
+                "is_foreign": false
+              },
+              {
+                "name": "華上生醫",
+                "url": "company_basic.php?stk_code=7427",
+                "is_foreign": false
+              },
+              {
+                "name": "安基生技",
+                "url": "company_basic.php?stk_code=7754",
+                "is_foreign": false
+              },
+              {
+                "name": "吉晟生",
+                "url": "company_basic.php?stk_code=7762",
+                "is_foreign": false
+              },
+              {
+                "name": "富禾生醫",
+                "url": "company_basic.php?stk_code=7773",
+                "is_foreign": false
+              },
+              {
+                "name": "奧孟亞",
+                "url": "company_basic.php?stk_code=7776",
+                "is_foreign": false
+              },
+              {
+                "name": "智新生技*",
+                "url": "company_basic.php?stk_code=7832",
+                "is_foreign": false
+              },
+              {
+                "name": "寶泰生醫",
+                "url": "company_basic.php?stk_code=7850",
+                "is_foreign": false
+              },
+              {
+                "name": "得生製藥",
+                "url": "company_basic.php?stk_code=7860",
+                "is_foreign": false
+              },
+              {
+                "name": "鼎晉生技",
+                "url": "company_basic.php?stk_code=7876",
+                "is_foreign": false
+              },
+              {
+                "name": "藥祇",
+                "url": "company_basic.php?stk_code=7878",
+                "is_foreign": false
+              },
+              {
+                "name": "漢康-KY",
+                "url": "company_basic.php?stk_code=7827",
+                "is_foreign": false
+              },
+              {
+                "name": "思捷優達-KY",
+                "url": "company_basic.php?stk_code=7829",
+                "is_foreign": false
+              },
+              {
+                "name": "澄交生技",
+                "url": "company_basic.php?stk_code=7627",
+                "is_foreign": false
+              },
+              {
+                "name": "美國安進",
+                "url": "http://www.amgen.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "默克集團",
+                "url": "http://www.merckgroup.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "諾華",
+                "url": "https://www.novartis.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "輝瑞大藥廠",
+                "url": "https://www.pfizer.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "羅氏大藥廠",
+                "url": "http://www.roche.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共79家"
+          }
+        },
+        {
+          "id": "ic_link_C140",
+          "text": "藥品代理/銷售及通路",
+          "detailed_data": {
+            "title": "藥品代理銷售及通路",
+            "categories": [],
+            "companies": [
+              {
+                "name": "美吾華",
+                "url": "company_basic.php?stk_code=1731",
+                "is_foreign": false
+              },
+              {
+                "name": "寶齡富錦",
+                "url": "company_basic.php?stk_code=1760",
+                "is_foreign": false
+              },
+              {
+                "name": "佳醫",
+                "url": "company_basic.php?stk_code=4104",
+                "is_foreign": false
+              },
+              {
+                "name": "保瑞",
+                "url": "company_basic.php?stk_code=6472",
+                "is_foreign": false
+              },
+              {
+                "name": "台新藥",
+                "url": "company_basic.php?stk_code=6838",
+                "is_foreign": false
+              },
+              {
+                "name": "杏昌",
+                "url": "company_basic.php?stk_code=1788",
+                "is_foreign": false
+              },
+              {
+                "name": "基亞",
+                "url": "company_basic.php?stk_code=3176",
+                "is_foreign": false
+              },
+              {
+                "name": "東洋",
+                "url": "company_basic.php?stk_code=4105",
+                "is_foreign": false
+              },
+              {
+                "name": "健喬",
+                "url": "company_basic.php?stk_code=4114",
+                "is_foreign": false
+              },
+              {
+                "name": "友華",
+                "url": "company_basic.php?stk_code=4120",
+                "is_foreign": false
+              },
+              {
+                "name": "優盛",
+                "url": "company_basic.php?stk_code=4121",
+                "is_foreign": false
+              },
+              {
+                "name": "天良",
+                "url": "company_basic.php?stk_code=4127",
+                "is_foreign": false
+              },
+              {
+                "name": "健亞",
+                "url": "company_basic.php?stk_code=4130",
+                "is_foreign": false
+              },
+              {
+                "name": "久裕",
+                "url": "company_basic.php?stk_code=4173",
+                "is_foreign": false
+              },
+              {
+                "name": "杏一",
+                "url": "company_basic.php?stk_code=4175",
+                "is_foreign": false
+              },
+              {
+                "name": "杏國",
+                "url": "company_basic.php?stk_code=4192",
+                "is_foreign": false
+              },
+              {
+                "name": "合一",
+                "url": "company_basic.php?stk_code=4743",
+                "is_foreign": false
+              },
+              {
+                "name": "強生製藥",
+                "url": "company_basic.php?stk_code=4747",
+                "is_foreign": false
+              },
+              {
+                "name": "慕康生醫",
+                "url": "company_basic.php?stk_code=5398",
+                "is_foreign": false
+              },
+              {
+                "name": "上亞科技",
+                "url": "company_basic.php?stk_code=6130",
+                "is_foreign": false
+              },
+              {
+                "name": "益得",
+                "url": "company_basic.php?stk_code=6461",
+                "is_foreign": false
+              },
+              {
+                "name": "大樹",
+                "url": "company_basic.php?stk_code=6469",
+                "is_foreign": false
+              },
+              {
+                "name": "科懋",
+                "url": "company_basic.php?stk_code=6496",
+                "is_foreign": false
+              },
+              {
+                "name": "威健生技",
+                "url": "company_basic.php?stk_code=6661",
+                "is_foreign": false
+              },
+              {
+                "name": "諾貝兒",
+                "url": "company_basic.php?stk_code=6844",
+                "is_foreign": false
+              },
+              {
+                "name": "盛弘",
+                "url": "company_basic.php?stk_code=8403",
+                "is_foreign": false
+              },
+              {
+                "name": "東生華",
+                "url": "company_basic.php?stk_code=8432",
+                "is_foreign": false
+              },
+              {
+                "name": "晨暉生技",
+                "url": "company_basic.php?stk_code=1271",
+                "is_foreign": false
+              },
+              {
+                "name": "泰宗",
+                "url": "company_basic.php?stk_code=4169",
+                "is_foreign": false
+              },
+              {
+                "name": "禾生技",
+                "url": "company_basic.php?stk_code=4194",
+                "is_foreign": false
+              },
+              {
+                "name": "彥臣",
+                "url": "company_basic.php?stk_code=4732",
+                "is_foreign": false
+              },
+              {
+                "name": "安特羅",
+                "url": "company_basic.php?stk_code=6564",
+                "is_foreign": false
+              },
+              {
+                "name": "溫士頓",
+                "url": "company_basic.php?stk_code=6817",
+                "is_foreign": false
+              },
+              {
+                "name": "安美得",
+                "url": "company_basic.php?stk_code=7575",
+                "is_foreign": false
+              },
+              {
+                "name": "吉晟生",
+                "url": "company_basic.php?stk_code=7762",
+                "is_foreign": false
+              },
+              {
+                "name": "寶泰生醫",
+                "url": "company_basic.php?stk_code=7850",
+                "is_foreign": false
+              },
+              {
+                "name": "得生製藥",
+                "url": "company_basic.php?stk_code=7860",
+                "is_foreign": false
+              },
+              {
+                "name": "鼎晉生技",
+                "url": "company_basic.php?stk_code=7876",
+                "is_foreign": false
+              },
+              {
+                "name": "思捷優達-KY",
+                "url": "company_basic.php?stk_code=7829",
+                "is_foreign": false
+              },
+              {
+                "name": "多利生醫",
+                "url": "company_basic.php?stk_code=7591",
+                "is_foreign": false
+              },
+              {
+                "name": "盛雲藥品",
+                "url": "company_basic.php?stk_code=7664",
+                "is_foreign": false
+              },
+              {
+                "name": "CVS Health Corporation",
+                "url": "https://cvshealth.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "dm",
+                "url": "https://www.dm.de/",
+                "is_foreign": true
+              },
+              {
+                "name": "國大藥房",
+                "url": "http://www.guodadrugstores.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "沃爾格林",
+                "url": "http://www.walgreens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共45家"
+          }
+        },
+        {
+          "id": "ic_link_C150",
+          "text": "醫療院所",
+          "detailed_data": {
+            "title": "醫療院所",
+            "categories": [],
+            "companies": [
+              {
+                "name": "佳醫",
+                "url": "company_basic.php?stk_code=4104",
+                "is_foreign": false
+              },
+              {
+                "name": "台新藥",
+                "url": "company_basic.php?stk_code=6838",
+                "is_foreign": false
+              },
+              {
+                "name": "科懋",
+                "url": "company_basic.php?stk_code=6496",
+                "is_foreign": false
+              },
+              {
+                "name": "威健生技",
+                "url": "company_basic.php?stk_code=6661",
+                "is_foreign": false
+              },
+              {
+                "name": "馬光-KY",
+                "url": "company_basic.php?stk_code=4139",
+                "is_foreign": false
+              },
+              {
+                "name": "寶泰生醫",
+                "url": "company_basic.php?stk_code=7850",
+                "is_foreign": false
+              },
+              {
+                "name": "國聯醫管",
+                "url": "company_basic.php?stk_code=7604",
+                "is_foreign": false
+              },
+              {
+                "name": "Asklepios",
+                "url": "http://www.asklepios.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "CHS",
+                "url": "http://www.chs.net/",
+                "is_foreign": true
+              },
+              {
+                "name": "HCA",
+                "url": "http://hcahealthcare.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "IHH Healthcare Bhd",
+                "url": "https://www.ihhhealthcare.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共11家"
+          }
+        }
+      ]
+    }
+  ]
+}

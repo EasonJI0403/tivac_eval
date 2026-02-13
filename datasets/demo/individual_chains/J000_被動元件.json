@@ -1,0 +1,743 @@
+{
+  "title": "被動元件產業鏈",
+  "introduction": "被動元件產業鏈\n被動元件產業上游為電阻器、電容器、電感器、濾波器及振盪器的材料供應商，中游為電阻器、電容器、電感器、濾波器及振盪器之製造業者，下游為各類電子產品之供應商。\n一、上游：\n被動元件產業上游為電阻器、電容器、電感器、濾波器、振盪器之材料供應商。台灣被動元件產業相關廠商主要專注於被動元件之生產，極少投入上游材料開發，目前台灣被動元件產業所需要的材料，如介面瓷粉、陶瓷基板、氧化鋁基板、石英基板、導電接著劑、陰極箔等，七成以上由日系廠商所提供。\n二、中游：\n中游為電阻器、電容器、電感器、濾波器、振盪器之製造商。被動元件為不可或缺的電子元件，廣泛應用於PC、手機、平板電腦、伺服器、視聽設備、汽車等產品。陶瓷電容受到青睞因有耐高電壓、高熱、運作溫度範圍廣及高頻使用時損失率低等物理特性，且能晶片化使體積縮小、價格低廉及穩定性高等優勢非常適合大量生產。\n被動元件是電子產品的基礎元件，廣泛應用於PC、手機、平板電腦等各式各樣電子終端，與消費性電子市場有密切關係。2025年上半年受到關稅不確定性，中國五一長假前的提前備貨潮，以及美國90天的對等關稅豁免期提早拉貨下，加上AI相關需求穩健，高階應用如AI伺服器、車用電子、電腦相關需求穩健成長，被動元件廠商表現亮眼。2025年下半年由於MLCC (Multi-layer Ceramic Capacitor) 五成以上應用，仍集中在手機等消費性電子產品，在關稅戰導致消費性終端產品售價上升、或經濟衰退等疑慮下，將影響上游MLCC拉貨力道。MLCC供應商更面臨OEM下修訂單、被要求降價二大挑戰。\n台灣被動元件龍頭國巨積極透過併購多元化產品線，目前在電感、晶片電阻市占率上亦躋身全球前三大業者，產品線已由過往標準型產品跨足利基型產品，因此較不單受MLCC市況明顯影響營運。AI時代來臨，鉭電容扮演關鍵角色，特色是高電容和小尺寸，適合高階應用，包括AI\n伺服器\n、AI電腦、交換器、加速卡、自動駕駛、數據存儲及電腦視覺等領域。全球前三大鉭電容廠基美（國巨）、松下、AVX均未擴產，使得部份鉭電容料號2024年第4季起\n即開始缺貨，2025供需缺口更達一成以上，國巨鉭電容報價已於2025年第二季率先漲價，經濟不確定下，2025年表現仍可期。華新科亦受惠於AI（人工智慧）、車用以及產品組合優化下，有望帶動營收成長、毛利率更將顯著攀升，且看好AI\n伺服器\n大電源供應器內的被動元件價值將增加10-30%，加上電阻規格升級，價值較傳統伺服器增加40-60%，都將挹注華新科的業績表現。\n除了AI帶來相關被動元件商機外，車用亦扮演長期成長關鍵動能。汽車電子化推升每台車MLCC用量達約5千顆，電動車每台用量更翻倍甚至破萬，相較傳統燃油車用量達5~10倍，未來在ADAS、電動車滲透率持續提升之下，需求量將持續擴大。被動元件龍頭國巨以往車用以影音娛樂系統供應為主，併購基美(KEMET)後陸續新增ADAS(先進駕駛輔助系統)、Powertrain(傳動系統)等，也因利基型佔比提升、持續優化產品結構，有助帶動獲利。華新科新應用及模組化將推動單機元件使用量增加，可望持續為電容/電阻/LTCC低溫共燒陶瓷濾波器帶來成長，亦將主要資源和產能轉移到車規電容、車規晶片電阻、高壓/高頻等高階產品。華新科旗下位於大馬、主攻車用電阻的子公司釜屋電機（Kamaya）亦積極擴產，預期2025年將再擴產15%，助力母公司華新科衝刺車用布局。\nAI相關應用如大型語言模型、自動駕駛等對高階被動元件需求強勁。AI伺服器使用的高階MLCC、電阻、電感數量遠高於一般伺服器，且對元件規格要求更高。隨著AI應用擴展，這部分需求將成為被動元件廠商新的成長引擎。",
+  "chains": [
+    {
+      "title": "上游",
+      "companies": [
+        {
+          "id": "ic_link_J100",
+          "text": "電阻器材料/(氧化鋁陶瓷基板、導電漿墨)",
+          "detailed_data": {
+            "title": "電阻器材料(氧化鋁陶瓷基板、導電漿墨)",
+            "categories": [],
+            "companies": [
+              {
+                "name": "崇越",
+                "url": "company_basic.php?stk_code=5434",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫科",
+                "url": "company_basic.php?stk_code=3663",
+                "is_foreign": false
+              },
+              {
+                "name": "勤凱科技",
+                "url": "company_basic.php?stk_code=4760",
+                "is_foreign": false
+              },
+              {
+                "name": "九豪",
+                "url": "company_basic.php?stk_code=6127",
+                "is_foreign": false
+              },
+              {
+                "name": "艾華",
+                "url": "company_basic.php?stk_code=6204",
+                "is_foreign": false
+              },
+              {
+                "name": "喬越",
+                "url": "company_basic.php?stk_code=7896",
+                "is_foreign": false
+              },
+              {
+                "name": "陶氏",
+                "url": "http://www.dow.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Ferro",
+                "url": "https://vibrantz.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "賀利氏",
+                "url": "https://www.heraeus.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "京瓷",
+                "url": "http://www.kyocera.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "Maruwa",
+                "url": "http://www.maruwa-g.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Nippon Carbide",
+                "url": "http://www.carbide.co.jp/en/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共12家"
+          }
+        },
+        {
+          "id": "ic_link_J200",
+          "text": "電容器材料/(如電蝕/化成鋁箔、介面瓷粉)",
+          "detailed_data": {
+            "title": "電容器材料(如電蝕／化成鋁箔、介面瓷粉)",
+            "categories": [],
+            "companies": [
+              {
+                "name": "華新科",
+                "url": "company_basic.php?stk_code=2492",
+                "is_foreign": false
+              },
+              {
+                "name": "勤凱科技",
+                "url": "company_basic.php?stk_code=4760",
+                "is_foreign": false
+              },
+              {
+                "name": "信昌電",
+                "url": "company_basic.php?stk_code=6173",
+                "is_foreign": false
+              },
+              {
+                "name": "立敦",
+                "url": "company_basic.php?stk_code=6175",
+                "is_foreign": false
+              },
+              {
+                "name": "陶氏",
+                "url": "http://www.dow.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Ferro",
+                "url": "https://vibrantz.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "東陽光科",
+                "url": "http://www.hec-al.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "日立化成",
+                "url": "http://www.hitachi-chem.co.jp/japanese/index.html",
+                "is_foreign": true
+              },
+              {
+                "name": "日本蓄電器株式会社",
+                "url": "http://www.jcc-foil.co.jp/index.html",
+                "is_foreign": true
+              },
+              {
+                "name": "日本ケミコン株式会社",
+                "url": "https://www.chemi-con.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "Resonac",
+                "url": "https://www.resonac.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "堺化学",
+                "url": "http://www.sakai-chem.co.jp",
+                "is_foreign": true
+              },
+              {
+                "name": "昭和電工材料",
+                "url": "https://www.resonac.com/jp",
+                "is_foreign": true
+              },
+              {
+                "name": "TDK Foil",
+                "url": "https://foil.tdk-electronics.tdk.com/en-it",
+                "is_foreign": true
+              },
+              {
+                "name": "華鋒股份",
+                "url": "http://www.c-hfcc.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共15家"
+          }
+        },
+        {
+          "id": "ic_link_J300",
+          "text": "電感器材料/(如鐵氧體、導電漿墨)",
+          "detailed_data": {
+            "title": "電感器材料(如鐵氧體、導電漿墨)",
+            "categories": [],
+            "companies": [
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "鈞寶",
+                "url": "company_basic.php?stk_code=6155",
+                "is_foreign": false
+              },
+              {
+                "name": "臺慶科",
+                "url": "company_basic.php?stk_code=3357",
+                "is_foreign": false
+              },
+              {
+                "name": "勤凱科技",
+                "url": "company_basic.php?stk_code=4760",
+                "is_foreign": false
+              },
+              {
+                "name": "越峰",
+                "url": "company_basic.php?stk_code=8121",
+                "is_foreign": false
+              },
+              {
+                "name": "喬越",
+                "url": "company_basic.php?stk_code=7896",
+                "is_foreign": false
+              },
+              {
+                "name": "Ferro",
+                "url": "https://vibrantz.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "賀利氏",
+                "url": "https://www.heraeus.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "美磁",
+                "url": "https://www.mag-inc.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "NEC/TOKIN",
+                "url": "https://www.tokin.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "東電化",
+                "url": "http://www.tdk.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "TOKIN",
+                "url": "https://www.tokin.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共12家"
+          }
+        },
+        {
+          "id": "ic_link_J400",
+          "text": "濾波器、振盪器材料/(鉭酸鋰/鈮酸鋰晶圓/片、石英基板、金屬及陶瓷封裝材料)",
+          "detailed_data": {
+            "title": "濾波器、振盪器材料(鉭酸鋰／鈮酸鋰晶圓／片、石英基板、金屬及陶瓷封裝材料)",
+            "categories": [],
+            "companies": [
+              {
+                "name": "康普",
+                "url": "company_basic.php?stk_code=4739",
+                "is_foreign": false
+              },
+              {
+                "name": "光洋科",
+                "url": "company_basic.php?stk_code=1785",
+                "is_foreign": false
+              },
+              {
+                "name": "京瓷",
+                "url": "http://www.kyocera.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "Saint-Gobain",
+                "url": "www.saint-gobain.com",
+                "is_foreign": true
+              },
+              {
+                "name": "信越化學",
+                "url": "https://www.shinetsu.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "住友金屬礦山",
+                "url": "http://www.smm.co.jp/E/",
+                "is_foreign": true
+              },
+              {
+                "name": "德山株式會社",
+                "url": "http://www.tokuyama.co.jp/eng/",
+                "is_foreign": true
+              },
+              {
+                "name": "VY Optics Photoelectric Technology Co., Ltd.",
+                "url": "http://www.vyoptics.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共8家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游",
+      "companies": [
+        {
+          "id": "ic_link_J500",
+          "text": "電阻器",
+          "detailed_data": {
+            "title": "電阻器",
+            "categories": [],
+            "companies": [
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "國巨*",
+                "url": "company_basic.php?stk_code=2327",
+                "is_foreign": false
+              },
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "興勤",
+                "url": "company_basic.php?stk_code=2428",
+                "is_foreign": false
+              },
+              {
+                "name": "大毅",
+                "url": "company_basic.php?stk_code=2478",
+                "is_foreign": false
+              },
+              {
+                "name": "華新科",
+                "url": "company_basic.php?stk_code=2492",
+                "is_foreign": false
+              },
+              {
+                "name": "聚鼎",
+                "url": "company_basic.php?stk_code=6224",
+                "is_foreign": false
+              },
+              {
+                "name": "天二科技",
+                "url": "company_basic.php?stk_code=6834",
+                "is_foreign": false
+              },
+              {
+                "name": "光頡",
+                "url": "company_basic.php?stk_code=3624",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫科",
+                "url": "company_basic.php?stk_code=3663",
+                "is_foreign": false
+              },
+              {
+                "name": "信昌電",
+                "url": "company_basic.php?stk_code=6173",
+                "is_foreign": false
+              },
+              {
+                "name": "艾華",
+                "url": "company_basic.php?stk_code=6204",
+                "is_foreign": false
+              },
+              {
+                "name": "雷科",
+                "url": "company_basic.php?stk_code=6207",
+                "is_foreign": false
+              },
+              {
+                "name": "富致",
+                "url": "company_basic.php?stk_code=6642",
+                "is_foreign": false
+              },
+              {
+                "name": "能率網通",
+                "url": "company_basic.php?stk_code=8071",
+                "is_foreign": false
+              },
+              {
+                "name": "福華",
+                "url": "company_basic.php?stk_code=8085",
+                "is_foreign": false
+              },
+              {
+                "name": "KOA株式會社",
+                "url": "http://www.koaglobal.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "太陽誘電",
+                "url": "http://www.yuden.co.jp/jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "VISHAY",
+                "url": "http://www.vishay.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共19家"
+          }
+        },
+        {
+          "id": "ic_link_J600",
+          "text": "電容器",
+          "detailed_data": {
+            "title": "電容器",
+            "categories": [],
+            "companies": [
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "國巨*",
+                "url": "company_basic.php?stk_code=2327",
+                "is_foreign": false
+              },
+              {
+                "name": "凱美",
+                "url": "company_basic.php?stk_code=2375",
+                "is_foreign": false
+              },
+              {
+                "name": "環科",
+                "url": "company_basic.php?stk_code=2413",
+                "is_foreign": false
+              },
+              {
+                "name": "立隆電",
+                "url": "company_basic.php?stk_code=2472",
+                "is_foreign": false
+              },
+              {
+                "name": "華新科",
+                "url": "company_basic.php?stk_code=2492",
+                "is_foreign": false
+              },
+              {
+                "name": "禾伸堂",
+                "url": "company_basic.php?stk_code=3026",
+                "is_foreign": false
+              },
+              {
+                "name": "日電貿",
+                "url": "company_basic.php?stk_code=3090",
+                "is_foreign": false
+              },
+              {
+                "name": "鈺邦",
+                "url": "company_basic.php?stk_code=6449",
+                "is_foreign": false
+              },
+              {
+                "name": "堡達",
+                "url": "company_basic.php?stk_code=3537",
+                "is_foreign": false
+              },
+              {
+                "name": "華容",
+                "url": "company_basic.php?stk_code=5328",
+                "is_foreign": false
+              },
+              {
+                "name": "信昌電",
+                "url": "company_basic.php?stk_code=6173",
+                "is_foreign": false
+              },
+              {
+                "name": "雷科",
+                "url": "company_basic.php?stk_code=6207",
+                "is_foreign": false
+              },
+              {
+                "name": "佳邦",
+                "url": "company_basic.php?stk_code=6284",
+                "is_foreign": false
+              },
+              {
+                "name": "金山電",
+                "url": "company_basic.php?stk_code=8042",
+                "is_foreign": false
+              },
+              {
+                "name": "蜜望實",
+                "url": "company_basic.php?stk_code=8043",
+                "is_foreign": false
+              },
+              {
+                "name": "能率網通",
+                "url": "company_basic.php?stk_code=8071",
+                "is_foreign": false
+              },
+              {
+                "name": "村田製作所",
+                "url": "http://www.murata.com/zh-cn",
+                "is_foreign": true
+              },
+              {
+                "name": "三星電機",
+                "url": "https://www.samsungsem.com/global/index.do",
+                "is_foreign": true
+              },
+              {
+                "name": "SEMCO",
+                "url": "http://www.semco.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "東電化",
+                "url": "http://www.tdk.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共21家"
+          }
+        },
+        {
+          "id": "ic_link_J700",
+          "text": "電感器",
+          "detailed_data": {
+            "title": "電感器",
+            "categories": [],
+            "companies": [
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "國巨*",
+                "url": "company_basic.php?stk_code=2327",
+                "is_foreign": false
+              },
+              {
+                "name": "華新科",
+                "url": "company_basic.php?stk_code=2492",
+                "is_foreign": false
+              },
+              {
+                "name": "崇越",
+                "url": "company_basic.php?stk_code=5434",
+                "is_foreign": false
+              },
+              {
+                "name": "鈞寶",
+                "url": "company_basic.php?stk_code=6155",
+                "is_foreign": false
+              },
+              {
+                "name": "耀勝",
+                "url": "company_basic.php?stk_code=3207",
+                "is_foreign": false
+              },
+              {
+                "name": "千如",
+                "url": "company_basic.php?stk_code=3236",
+                "is_foreign": false
+              },
+              {
+                "name": "臺慶科",
+                "url": "company_basic.php?stk_code=3357",
+                "is_foreign": false
+              },
+              {
+                "name": "光頡",
+                "url": "company_basic.php?stk_code=3624",
+                "is_foreign": false
+              },
+              {
+                "name": "鈺鎧",
+                "url": "company_basic.php?stk_code=5228",
+                "is_foreign": false
+              },
+              {
+                "name": "松上",
+                "url": "company_basic.php?stk_code=6156",
+                "is_foreign": false
+              },
+              {
+                "name": "信昌電",
+                "url": "company_basic.php?stk_code=6173",
+                "is_foreign": false
+              },
+              {
+                "name": "百徽",
+                "url": "company_basic.php?stk_code=6259",
+                "is_foreign": false
+              },
+              {
+                "name": "佳邦",
+                "url": "company_basic.php?stk_code=6284",
+                "is_foreign": false
+              },
+              {
+                "name": "迅德",
+                "url": "company_basic.php?stk_code=6292",
+                "is_foreign": false
+              },
+              {
+                "name": "今展科",
+                "url": "company_basic.php?stk_code=6432",
+                "is_foreign": false
+              },
+              {
+                "name": "聯寶",
+                "url": "company_basic.php?stk_code=6821",
+                "is_foreign": false
+              },
+              {
+                "name": "能率網通",
+                "url": "company_basic.php?stk_code=8071",
+                "is_foreign": false
+              },
+              {
+                "name": "年程",
+                "url": "company_basic.php?stk_code=3117",
+                "is_foreign": false
+              },
+              {
+                "name": "太陽誘電",
+                "url": "http://www.yuden.co.jp/jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "東電化",
+                "url": "http://www.tdk.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "TDK Electronics",
+                "url": "https://www.tdk.com/ja/index.html",
+                "is_foreign": true
+              },
+              {
+                "name": "VISHAY",
+                "url": "http://www.vishay.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共23家"
+          }
+        },
+        {
+          "id": "ic_link_J800",
+          "text": "濾波器、振盪器",
+          "detailed_data": {
+            "title": "濾波器、振盪器",
+            "categories": [],
+            "companies": [
+              {
+                "name": "國巨*",
+                "url": "company_basic.php?stk_code=2327",
+                "is_foreign": false
+              },
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "希華",
+                "url": "company_basic.php?stk_code=2484",
+                "is_foreign": false
+              },
+              {
+                "name": "華新科",
+                "url": "company_basic.php?stk_code=2492",
+                "is_foreign": false
+              },
+              {
+                "name": "禾伸堂",
+                "url": "company_basic.php?stk_code=3026",
+                "is_foreign": false
+              },
+              {
+                "name": "晶技",
+                "url": "company_basic.php?stk_code=3042",
+                "is_foreign": false
+              },
+              {
+                "name": "鈞寶",
+                "url": "company_basic.php?stk_code=6155",
+                "is_foreign": false
+              },
+              {
+                "name": "台嘉碩",
+                "url": "company_basic.php?stk_code=3221",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫科",
+                "url": "company_basic.php?stk_code=3663",
+                "is_foreign": false
+              },
+              {
+                "name": "安碁",
+                "url": "company_basic.php?stk_code=6174",
+                "is_foreign": false
+              },
+              {
+                "name": "佳邦",
+                "url": "company_basic.php?stk_code=6284",
+                "is_foreign": false
+              },
+              {
+                "name": "聯寶",
+                "url": "company_basic.php?stk_code=6821",
+                "is_foreign": false
+              },
+              {
+                "name": "能率網通",
+                "url": "company_basic.php?stk_code=8071",
+                "is_foreign": false
+              },
+              {
+                "name": "加高",
+                "url": "company_basic.php?stk_code=8182",
+                "is_foreign": false
+              },
+              {
+                "name": "泰藝",
+                "url": "company_basic.php?stk_code=8289",
+                "is_foreign": false
+              },
+              {
+                "name": "愛普生",
+                "url": "https://www.epsondevice.com/crystal/en/",
+                "is_foreign": true
+              },
+              {
+                "name": "日本電波工業",
+                "url": "https://www.ndk.com/jp/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共17家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游",
+      "companies": []
+    }
+  ]
+}

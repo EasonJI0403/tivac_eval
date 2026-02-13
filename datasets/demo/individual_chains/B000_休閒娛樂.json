@@ -1,0 +1,960 @@
+{
+  "title": "休閒娛樂產業鏈",
+  "chains": [
+    {
+      "title": "高爾夫球具業",
+      "companies": [
+        {
+          "id": "ic_link_B100",
+          "text": "高爾夫球具業",
+          "detailed_data": {
+            "title": "高爾夫球具業",
+            "companies": [
+              {
+                "name": "復盛應用",
+                "url": "company_basic.php?stk_code=6670",
+                "is_foreign": false
+              },
+              {
+                "name": "政伸",
+                "url": "company_basic.php?stk_code=8481",
+                "is_foreign": false
+              },
+              {
+                "name": "大田",
+                "url": "company_basic.php?stk_code=8924",
+                "is_foreign": false
+              },
+              {
+                "name": "鉅明",
+                "url": "company_basic.php?stk_code=8928",
+                "is_foreign": false
+              },
+              {
+                "name": "明安",
+                "url": "company_basic.php?stk_code=8938",
+                "is_foreign": false
+              },
+              {
+                "name": "邁達康",
+                "url": "company_basic.php?stk_code=9960",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共6家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "旅遊服務業",
+      "companies": [
+        {
+          "id": "ic_link_B200",
+          "text": "旅遊服務業",
+          "detailed_data": {
+            "title": "旅遊服務業",
+            "companies": [
+              {
+                "name": "雄獅",
+                "url": "company_basic.php?stk_code=2731",
+                "is_foreign": false
+              },
+              {
+                "name": "鳳凰",
+                "url": "company_basic.php?stk_code=5706",
+                "is_foreign": false
+              },
+              {
+                "name": "燦星旅",
+                "url": "company_basic.php?stk_code=2719",
+                "is_foreign": false
+              },
+              {
+                "name": "易飛網",
+                "url": "company_basic.php?stk_code=2734",
+                "is_foreign": false
+              },
+              {
+                "name": "山富",
+                "url": "company_basic.php?stk_code=2743",
+                "is_foreign": false
+              },
+              {
+                "name": "五福",
+                "url": "company_basic.php?stk_code=2745",
+                "is_foreign": false
+              },
+              {
+                "name": "寶得利",
+                "url": "company_basic.php?stk_code=5301",
+                "is_foreign": false
+              },
+              {
+                "name": "維格餅家",
+                "url": "company_basic.php?stk_code=2733",
+                "is_foreign": false
+              },
+              {
+                "name": "旅天下",
+                "url": "company_basic.php?stk_code=6961",
+                "is_foreign": false
+              },
+              {
+                "name": "亞果遊艇",
+                "url": "company_basic.php?stk_code=7566",
+                "is_foreign": false
+              },
+              {
+                "name": "十鼓文創",
+                "url": "company_basic.php?stk_code=7554",
+                "is_foreign": false
+              },
+              {
+                "name": "亞歆海洋",
+                "url": "company_basic.php?stk_code=7691",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共12家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "線上遊戲業",
+      "companies": [
+        {
+          "id": "ic_link_B300",
+          "text": "線上遊戲業",
+          "detailed_data": {
+            "title": "線上遊戲業",
+            "companies": [
+              {
+                "name": "傳奇",
+                "url": "company_basic.php?stk_code=4994",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上市公司(1家)"
+              },
+              {
+                "name": "泰偉",
+                "url": "company_basic.php?stk_code=3064",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "網龍",
+                "url": "company_basic.php?stk_code=3083",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "華義",
+                "url": "company_basic.php?stk_code=3086",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "鈊象",
+                "url": "company_basic.php?stk_code=3293",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "宇峻",
+                "url": "company_basic.php?stk_code=3546",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "歐買尬",
+                "url": "company_basic.php?stk_code=3687",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "天剛",
+                "url": "company_basic.php?stk_code=5310",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "智冠",
+                "url": "company_basic.php?stk_code=5478",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "光聚晶電",
+                "url": "company_basic.php?stk_code=6111",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "昱泉",
+                "url": "company_basic.php?stk_code=6169",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "橘子",
+                "url": "company_basic.php?stk_code=6180",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "隆中",
+                "url": "company_basic.php?stk_code=6542",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "本國上櫃公司(12家)"
+              },
+              {
+                "name": "雲程在線",
+                "url": "company_basic.php?stk_code=7605",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B310",
+                "category": "創櫃公司(1家)"
+              },
+              {
+                "name": "麗臺",
+                "url": "company_basic.php?stk_code=2465",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上市公司(2家)"
+              },
+              {
+                "name": "傳奇",
+                "url": "company_basic.php?stk_code=4994",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上市公司(2家)"
+              },
+              {
+                "name": "泰偉",
+                "url": "company_basic.php?stk_code=3064",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "網龍",
+                "url": "company_basic.php?stk_code=3083",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "華義",
+                "url": "company_basic.php?stk_code=3086",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "鈊象",
+                "url": "company_basic.php?stk_code=3293",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "歐買尬",
+                "url": "company_basic.php?stk_code=3687",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "辣椒",
+                "url": "company_basic.php?stk_code=4946",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "天剛",
+                "url": "company_basic.php?stk_code=5310",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "智冠",
+                "url": "company_basic.php?stk_code=5478",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "光聚晶電",
+                "url": "company_basic.php?stk_code=6111",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "昱泉",
+                "url": "company_basic.php?stk_code=6169",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "橘子",
+                "url": "company_basic.php?stk_code=6180",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "隆中",
+                "url": "company_basic.php?stk_code=6542",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "樂意",
+                "url": "company_basic.php?stk_code=7584",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "本國上櫃公司(13家)"
+              },
+              {
+                "name": "雲程在線",
+                "url": "company_basic.php?stk_code=7605",
+                "is_foreign": false,
+                "subcategory": "",
+                "subcategory_id": "sc_company_B320",
+                "category": "創櫃公司(1家)"
+              }
+            ],
+            "total_count": "共30家",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_B310",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "傳奇",
+                    "url": "company_basic.php?stk_code=4994",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上市公司(1家)"
+                  },
+                  {
+                    "name": "泰偉",
+                    "url": "company_basic.php?stk_code=3064",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "網龍",
+                    "url": "company_basic.php?stk_code=3083",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "華義",
+                    "url": "company_basic.php?stk_code=3086",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "鈊象",
+                    "url": "company_basic.php?stk_code=3293",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "宇峻",
+                    "url": "company_basic.php?stk_code=3546",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "歐買尬",
+                    "url": "company_basic.php?stk_code=3687",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "天剛",
+                    "url": "company_basic.php?stk_code=5310",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "智冠",
+                    "url": "company_basic.php?stk_code=5478",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "光聚晶電",
+                    "url": "company_basic.php?stk_code=6111",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "昱泉",
+                    "url": "company_basic.php?stk_code=6169",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "橘子",
+                    "url": "company_basic.php?stk_code=6180",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "隆中",
+                    "url": "company_basic.php?stk_code=6542",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "本國上櫃公司(12家)"
+                  },
+                  {
+                    "name": "雲程在線",
+                    "url": "company_basic.php?stk_code=7605",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B310",
+                    "category": "創櫃公司(1家)"
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_B320",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "麗臺",
+                    "url": "company_basic.php?stk_code=2465",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上市公司(2家)"
+                  },
+                  {
+                    "name": "傳奇",
+                    "url": "company_basic.php?stk_code=4994",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上市公司(2家)"
+                  },
+                  {
+                    "name": "泰偉",
+                    "url": "company_basic.php?stk_code=3064",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "網龍",
+                    "url": "company_basic.php?stk_code=3083",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "華義",
+                    "url": "company_basic.php?stk_code=3086",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "鈊象",
+                    "url": "company_basic.php?stk_code=3293",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "歐買尬",
+                    "url": "company_basic.php?stk_code=3687",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "辣椒",
+                    "url": "company_basic.php?stk_code=4946",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "天剛",
+                    "url": "company_basic.php?stk_code=5310",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "智冠",
+                    "url": "company_basic.php?stk_code=5478",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "光聚晶電",
+                    "url": "company_basic.php?stk_code=6111",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "昱泉",
+                    "url": "company_basic.php?stk_code=6169",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "橘子",
+                    "url": "company_basic.php?stk_code=6180",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "隆中",
+                    "url": "company_basic.php?stk_code=6542",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "樂意",
+                    "url": "company_basic.php?stk_code=7584",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "本國上櫃公司(13家)"
+                  },
+                  {
+                    "name": "雲程在線",
+                    "url": "company_basic.php?stk_code=7605",
+                    "is_foreign": false,
+                    "subcategory": "",
+                    "subcategory_id": "sc_company_B320",
+                    "category": "創櫃公司(1家)"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "娛樂服務業",
+      "companies": [
+        {
+          "id": "ic_link_B400",
+          "text": "娛樂服務業",
+          "detailed_data": {
+            "title": "娛樂服務業",
+            "companies": [
+              {
+                "name": "大魯閣",
+                "url": "company_basic.php?stk_code=1432",
+                "is_foreign": false
+              },
+              {
+                "name": "勤美",
+                "url": "company_basic.php?stk_code=1532",
+                "is_foreign": false
+              },
+              {
+                "name": "萬企",
+                "url": "company_basic.php?stk_code=2701",
+                "is_foreign": false
+              },
+              {
+                "name": "六福",
+                "url": "company_basic.php?stk_code=2705",
+                "is_foreign": false
+              },
+              {
+                "name": "柏文",
+                "url": "company_basic.php?stk_code=8462",
+                "is_foreign": false
+              },
+              {
+                "name": "好樂迪",
+                "url": "company_basic.php?stk_code=9943",
+                "is_foreign": false
+              },
+              {
+                "name": "智崴",
+                "url": "company_basic.php?stk_code=5263",
+                "is_foreign": false
+              },
+              {
+                "name": "劍湖山",
+                "url": "company_basic.php?stk_code=5701",
+                "is_foreign": false
+              },
+              {
+                "name": "享溫馨",
+                "url": "company_basic.php?stk_code=7760",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠金融",
+                "url": "company_basic.php?stk_code=7819",
+                "is_foreign": false
+              },
+              {
+                "name": "錢櫃",
+                "url": "company_basic.php?stk_code=8359",
+                "is_foreign": false
+              },
+              {
+                "name": "宥盛",
+                "url": "company_basic.php?stk_code=7542",
+                "is_foreign": false
+              },
+              {
+                "name": "綠野馬術",
+                "url": "company_basic.php?stk_code=7546",
+                "is_foreign": false
+              },
+              {
+                "name": "海神",
+                "url": "company_basic.php?stk_code=7632",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共14家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "旅館服務業",
+      "companies": [
+        {
+          "id": "ic_link_B500",
+          "text": "旅館服務業",
+          "detailed_data": {
+            "title": "旅館服務業",
+            "companies": [
+              {
+                "name": "勤美",
+                "url": "company_basic.php?stk_code=1532",
+                "is_foreign": false
+              },
+              {
+                "name": "華園",
+                "url": "company_basic.php?stk_code=2702",
+                "is_foreign": false
+              },
+              {
+                "name": "國賓",
+                "url": "company_basic.php?stk_code=2704",
+                "is_foreign": false
+              },
+              {
+                "name": "六福",
+                "url": "company_basic.php?stk_code=2705",
+                "is_foreign": false
+              },
+              {
+                "name": "第一店",
+                "url": "company_basic.php?stk_code=2706",
+                "is_foreign": false
+              },
+              {
+                "name": "晶華",
+                "url": "company_basic.php?stk_code=2707",
+                "is_foreign": false
+              },
+              {
+                "name": "遠雄來",
+                "url": "company_basic.php?stk_code=2712",
+                "is_foreign": false
+              },
+              {
+                "name": "夏都",
+                "url": "company_basic.php?stk_code=2722",
+                "is_foreign": false
+              },
+              {
+                "name": "寒舍",
+                "url": "company_basic.php?stk_code=2739",
+                "is_foreign": false
+              },
+              {
+                "name": "雲品",
+                "url": "company_basic.php?stk_code=2748",
+                "is_foreign": false
+              },
+              {
+                "name": "上福",
+                "url": "company_basic.php?stk_code=6128",
+                "is_foreign": false
+              },
+              {
+                "name": "富野",
+                "url": "company_basic.php?stk_code=2736",
+                "is_foreign": false
+              },
+              {
+                "name": "海灣",
+                "url": "company_basic.php?stk_code=3252",
+                "is_foreign": false
+              },
+              {
+                "name": "士開",
+                "url": "company_basic.php?stk_code=5324",
+                "is_foreign": false
+              },
+              {
+                "name": "力麗店",
+                "url": "company_basic.php?stk_code=5364",
+                "is_foreign": false
+              },
+              {
+                "name": "霖宏",
+                "url": "company_basic.php?stk_code=5464",
+                "is_foreign": false
+              },
+              {
+                "name": "劍湖山",
+                "url": "company_basic.php?stk_code=5701",
+                "is_foreign": false
+              },
+              {
+                "name": "亞都麗緻",
+                "url": "company_basic.php?stk_code=5703",
+                "is_foreign": false
+              },
+              {
+                "name": "老爺知",
+                "url": "company_basic.php?stk_code=5704",
+                "is_foreign": false
+              },
+              {
+                "name": "南仁湖",
+                "url": "company_basic.php?stk_code=5905",
+                "is_foreign": false
+              },
+              {
+                "name": "富裔",
+                "url": "company_basic.php?stk_code=6264",
+                "is_foreign": false
+              },
+              {
+                "name": "洛碁",
+                "url": "company_basic.php?stk_code=8077",
+                "is_foreign": false
+              },
+              {
+                "name": "巨宇翔",
+                "url": "company_basic.php?stk_code=2760",
+                "is_foreign": false
+              },
+              {
+                "name": "宏碁智新",
+                "url": "company_basic.php?stk_code=7794",
+                "is_foreign": false
+              },
+              {
+                "name": "吉緻生活",
+                "url": "company_basic.php?stk_code=7654",
+                "is_foreign": false
+              },
+              {
+                "name": "小鹿文娛",
+                "url": "company_basic.php?stk_code=7665",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共26家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "休閒車業",
+      "companies": [
+        {
+          "id": "ic_link_B600",
+          "text": "休閒車業",
+          "detailed_data": {
+            "title": "休閒車業",
+            "companies": [
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "拓凱",
+                "url": "company_basic.php?stk_code=4536",
+                "is_foreign": false
+              },
+              {
+                "name": "桂盟",
+                "url": "company_basic.php?stk_code=5306",
+                "is_foreign": false
+              },
+              {
+                "name": "政伸",
+                "url": "company_basic.php?stk_code=8481",
+                "is_foreign": false
+              },
+              {
+                "name": "美利達",
+                "url": "company_basic.php?stk_code=9914",
+                "is_foreign": false
+              },
+              {
+                "name": "巨大",
+                "url": "company_basic.php?stk_code=9921",
+                "is_foreign": false
+              },
+              {
+                "name": "貿聯-KY",
+                "url": "company_basic.php?stk_code=3665",
+                "is_foreign": false
+              },
+              {
+                "name": "宏佳騰",
+                "url": "company_basic.php?stk_code=1599",
+                "is_foreign": false
+              },
+              {
+                "name": "精確",
+                "url": "company_basic.php?stk_code=3162",
+                "is_foreign": false
+              },
+              {
+                "name": "明係",
+                "url": "company_basic.php?stk_code=6804",
+                "is_foreign": false
+              },
+              {
+                "name": "愛地雅",
+                "url": "company_basic.php?stk_code=8933",
+                "is_foreign": false
+              },
+              {
+                "name": "合騏",
+                "url": "company_basic.php?stk_code=8937",
+                "is_foreign": false
+              },
+              {
+                "name": "久裕興",
+                "url": "company_basic.php?stk_code=4559",
+                "is_foreign": false
+              },
+              {
+                "name": "科建",
+                "url": "company_basic.php?stk_code=7886",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共14家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    }
+  ]
+}

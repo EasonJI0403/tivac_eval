@@ -1,0 +1,639 @@
+{
+  "title": "文化創意業產業鏈",
+  "chains": [
+    {
+      "title": "工藝產業",
+      "companies": [
+        {
+          "id": "ic_link_Y100",
+          "text": "工藝產業",
+          "detailed_data": {
+            "title": "工藝產業",
+            "companies": [
+              {
+                "name": "琉園",
+                "url": "company_basic.php?stk_code=9949",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫囍創業",
+                "url": "company_basic.php?stk_code=7748",
+                "is_foreign": false
+              },
+              {
+                "name": "萬寶隆空間設計",
+                "url": "company_basic.php?stk_code=7410",
+                "is_foreign": false
+              },
+              {
+                "name": "華圓設計",
+                "url": "company_basic.php?stk_code=7532",
+                "is_foreign": false
+              },
+              {
+                "name": "大中圖書",
+                "url": "company_basic.php?stk_code=7652",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共5家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "廣播電視/電影產業",
+      "companies": [
+        {
+          "id": "ic_link_Y200",
+          "text": "廣播電視/電影產業",
+          "detailed_data": {
+            "title": "廣播電視/電影產業",
+            "companies": [
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              },
+              {
+                "name": "大豐電",
+                "url": "company_basic.php?stk_code=6184",
+                "is_foreign": false
+              },
+              {
+                "name": "富邦媒",
+                "url": "company_basic.php?stk_code=8454",
+                "is_foreign": false
+              },
+              {
+                "name": "愛爾達-創",
+                "url": "company_basic.php?stk_code=8487",
+                "is_foreign": false
+              },
+              {
+                "name": "中視",
+                "url": "company_basic.php?stk_code=9928",
+                "is_foreign": false
+              },
+              {
+                "name": "桂田文創",
+                "url": "company_basic.php?stk_code=4806",
+                "is_foreign": false
+              },
+              {
+                "name": "得利影",
+                "url": "company_basic.php?stk_code=6144",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫傳",
+                "url": "company_basic.php?stk_code=6856",
+                "is_foreign": false
+              },
+              {
+                "name": "友松",
+                "url": "company_basic.php?stk_code=6583",
+                "is_foreign": false
+              },
+              {
+                "name": "百聿數碼",
+                "url": "company_basic.php?stk_code=6622",
+                "is_foreign": false
+              },
+              {
+                "name": "帝圖",
+                "url": "company_basic.php?stk_code=6650",
+                "is_foreign": false
+              },
+              {
+                "name": "智寶",
+                "url": "company_basic.php?stk_code=7824",
+                "is_foreign": false
+              },
+              {
+                "name": "台視",
+                "url": "company_basic.php?stk_code=8329",
+                "is_foreign": false
+              },
+              {
+                "name": "影一",
+                "url": "company_basic.php?stk_code=8458",
+                "is_foreign": false
+              },
+              {
+                "name": "萬寶隆空間設計",
+                "url": "company_basic.php?stk_code=7410",
+                "is_foreign": false
+              },
+              {
+                "name": "樂群",
+                "url": "company_basic.php?stk_code=7490",
+                "is_foreign": false
+              },
+              {
+                "name": "大中圖書",
+                "url": "company_basic.php?stk_code=7652",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共17家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "出版產業",
+      "companies": [
+        {
+          "id": "ic_link_Y300",
+          "text": "出版產業",
+          "detailed_data": {
+            "title": "出版產業",
+            "companies": [
+              {
+                "name": "時報",
+                "url": "company_basic.php?stk_code=8923",
+                "is_foreign": false
+              },
+              {
+                "name": "智寶",
+                "url": "company_basic.php?stk_code=7824",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "萬寶隆空間設計",
+                "url": "company_basic.php?stk_code=7410",
+                "is_foreign": false
+              },
+              {
+                "name": "麗文文化",
+                "url": "company_basic.php?stk_code=7636",
+                "is_foreign": false
+              },
+              {
+                "name": "大中圖書",
+                "url": "company_basic.php?stk_code=7652",
+                "is_foreign": false
+              },
+              {
+                "name": "擺渡",
+                "url": "company_basic.php?stk_code=7679",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共7家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "數位內容產業",
+      "companies": [
+        {
+          "id": "ic_link_Y400",
+          "text": "數位內容產業",
+          "detailed_data": {
+            "title": "數位內容產業",
+            "companies": [
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              },
+              {
+                "name": "泰偉",
+                "url": "company_basic.php?stk_code=3064",
+                "is_foreign": false
+              },
+              {
+                "name": "網龍",
+                "url": "company_basic.php?stk_code=3083",
+                "is_foreign": false
+              },
+              {
+                "name": "華義",
+                "url": "company_basic.php?stk_code=3086",
+                "is_foreign": false
+              },
+              {
+                "name": "鈊象",
+                "url": "company_basic.php?stk_code=3293",
+                "is_foreign": false
+              },
+              {
+                "name": "宇峻",
+                "url": "company_basic.php?stk_code=3546",
+                "is_foreign": false
+              },
+              {
+                "name": "地心引力",
+                "url": "company_basic.php?stk_code=3629",
+                "is_foreign": false
+              },
+              {
+                "name": "辣椒",
+                "url": "company_basic.php?stk_code=4946",
+                "is_foreign": false
+              },
+              {
+                "name": "智崴",
+                "url": "company_basic.php?stk_code=5263",
+                "is_foreign": false
+              },
+              {
+                "name": "智冠",
+                "url": "company_basic.php?stk_code=5478",
+                "is_foreign": false
+              },
+              {
+                "name": "光聚晶電",
+                "url": "company_basic.php?stk_code=6111",
+                "is_foreign": false
+              },
+              {
+                "name": "昱泉",
+                "url": "company_basic.php?stk_code=6169",
+                "is_foreign": false
+              },
+              {
+                "name": "橘子",
+                "url": "company_basic.php?stk_code=6180",
+                "is_foreign": false
+              },
+              {
+                "name": "智基",
+                "url": "company_basic.php?stk_code=6294",
+                "is_foreign": false
+              },
+              {
+                "name": "弘煜科",
+                "url": "company_basic.php?stk_code=6482",
+                "is_foreign": false
+              },
+              {
+                "name": "樂意",
+                "url": "company_basic.php?stk_code=7584",
+                "is_foreign": false
+              },
+              {
+                "name": "三貝德",
+                "url": "company_basic.php?stk_code=8489",
+                "is_foreign": false
+              },
+              {
+                "name": "台灣淘米",
+                "url": "company_basic.php?stk_code=6428",
+                "is_foreign": false
+              },
+              {
+                "name": "美賣*",
+                "url": "company_basic.php?stk_code=6473",
+                "is_foreign": false
+              },
+              {
+                "name": "光禹國際",
+                "url": "company_basic.php?stk_code=6595",
+                "is_foreign": false
+              },
+              {
+                "name": "學習王",
+                "url": "company_basic.php?stk_code=6780",
+                "is_foreign": false
+              },
+              {
+                "name": "宏碁遊戲",
+                "url": "company_basic.php?stk_code=6908",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫囍創業",
+                "url": "company_basic.php?stk_code=7748",
+                "is_foreign": false
+              },
+              {
+                "name": "智寶",
+                "url": "company_basic.php?stk_code=7824",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "萬寶隆空間設計",
+                "url": "company_basic.php?stk_code=7410",
+                "is_foreign": false
+              },
+              {
+                "name": "樂群",
+                "url": "company_basic.php?stk_code=7490",
+                "is_foreign": false
+              },
+              {
+                "name": "華圓設計",
+                "url": "company_basic.php?stk_code=7532",
+                "is_foreign": false
+              },
+              {
+                "name": "優思",
+                "url": "company_basic.php?stk_code=7589",
+                "is_foreign": false
+              },
+              {
+                "name": "優思睿智科技",
+                "url": "company_basic.php?stk_code=7593",
+                "is_foreign": false
+              },
+              {
+                "name": "戴爾美語",
+                "url": "company_basic.php?stk_code=7603",
+                "is_foreign": false
+              },
+              {
+                "name": "萬里遊",
+                "url": "company_basic.php?stk_code=7643",
+                "is_foreign": false
+              },
+              {
+                "name": "大中圖書",
+                "url": "company_basic.php?stk_code=7652",
+                "is_foreign": false
+              },
+              {
+                "name": "對稱資訊",
+                "url": "company_basic.php?stk_code=7684",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共34家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "創意生活產業",
+      "companies": [
+        {
+          "id": "ic_link_Y500",
+          "text": "創意生活產業",
+          "detailed_data": {
+            "title": "創意生活產業",
+            "companies": [
+              {
+                "name": "誠品生活",
+                "url": "company_basic.php?stk_code=2926",
+                "is_foreign": false
+              },
+              {
+                "name": "地心引力",
+                "url": "company_basic.php?stk_code=3629",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫囍創業",
+                "url": "company_basic.php?stk_code=7748",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "萬寶隆空間設計",
+                "url": "company_basic.php?stk_code=7410",
+                "is_foreign": false
+              },
+              {
+                "name": "頂豪",
+                "url": "company_basic.php?stk_code=7451",
+                "is_foreign": false
+              },
+              {
+                "name": "華圓設計",
+                "url": "company_basic.php?stk_code=7532",
+                "is_foreign": false
+              },
+              {
+                "name": "宥盛",
+                "url": "company_basic.php?stk_code=7542",
+                "is_foreign": false
+              },
+              {
+                "name": "綠野馬術",
+                "url": "company_basic.php?stk_code=7546",
+                "is_foreign": false
+              },
+              {
+                "name": "發條橘子",
+                "url": "company_basic.php?stk_code=7569",
+                "is_foreign": false
+              },
+              {
+                "name": "睿創設計整合",
+                "url": "company_basic.php?stk_code=7571",
+                "is_foreign": false
+              },
+              {
+                "name": "優思",
+                "url": "company_basic.php?stk_code=7589",
+                "is_foreign": false
+              },
+              {
+                "name": "大中圖書",
+                "url": "company_basic.php?stk_code=7652",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共13家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "流行音樂及文化內容產業",
+      "companies": [
+        {
+          "id": "ic_link_Y600",
+          "text": "流行音樂及文化內容產業",
+          "detailed_data": {
+            "title": "流行音樂及文化內容產業",
+            "companies": [
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              },
+              {
+                "name": "必應",
+                "url": "company_basic.php?stk_code=6625",
+                "is_foreign": false
+              },
+              {
+                "name": "寬魚國際",
+                "url": "company_basic.php?stk_code=6101",
+                "is_foreign": false
+              },
+              {
+                "name": "寬宏藝術",
+                "url": "company_basic.php?stk_code=6596",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫傳",
+                "url": "company_basic.php?stk_code=6856",
+                "is_foreign": false
+              },
+              {
+                "name": "華研",
+                "url": "company_basic.php?stk_code=8446",
+                "is_foreign": false
+              },
+              {
+                "name": "霹靂",
+                "url": "company_basic.php?stk_code=8450",
+                "is_foreign": false
+              },
+              {
+                "name": "智寶",
+                "url": "company_basic.php?stk_code=7824",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "萬寶隆空間設計",
+                "url": "company_basic.php?stk_code=7410",
+                "is_foreign": false
+              },
+              {
+                "name": "大中圖書",
+                "url": "company_basic.php?stk_code=7652",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共11家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "其他",
+      "companies": [
+        {
+          "id": "ic_link_Y700",
+          "text": "其他",
+          "detailed_data": {
+            "title": "其他",
+            "companies": [
+              {
+                "name": "新華",
+                "url": "company_basic.php?stk_code=5481",
+                "is_foreign": false
+              },
+              {
+                "name": "樂威科-KY",
+                "url": "company_basic.php?stk_code=4154",
+                "is_foreign": false
+              },
+              {
+                "name": "帝圖",
+                "url": "company_basic.php?stk_code=6650",
+                "is_foreign": false
+              },
+              {
+                "name": "宏碁遊戲",
+                "url": "company_basic.php?stk_code=6908",
+                "is_foreign": false
+              },
+              {
+                "name": "智寶",
+                "url": "company_basic.php?stk_code=7824",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "萬寶隆空間設計",
+                "url": "company_basic.php?stk_code=7410",
+                "is_foreign": false
+              },
+              {
+                "name": "樂群",
+                "url": "company_basic.php?stk_code=7490",
+                "is_foreign": false
+              },
+              {
+                "name": "睿創設計整合",
+                "url": "company_basic.php?stk_code=7571",
+                "is_foreign": false
+              },
+              {
+                "name": "精彩創意",
+                "url": "company_basic.php?stk_code=7577",
+                "is_foreign": false
+              },
+              {
+                "name": "戴爾美語",
+                "url": "company_basic.php?stk_code=7603",
+                "is_foreign": false
+              },
+              {
+                "name": "瀚將",
+                "url": "company_basic.php?stk_code=7606",
+                "is_foreign": false
+              },
+              {
+                "name": "摩境",
+                "url": "company_basic.php?stk_code=7622",
+                "is_foreign": false
+              },
+              {
+                "name": "鉅秀",
+                "url": "company_basic.php?stk_code=7630",
+                "is_foreign": false
+              },
+              {
+                "name": "大中圖書",
+                "url": "company_basic.php?stk_code=7652",
+                "is_foreign": false
+              },
+              {
+                "name": "擺渡",
+                "url": "company_basic.php?stk_code=7679",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共16家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "title": "風力發電產業鏈",
+  "introduction": "風力發電產業鏈\n風力發電產業可以區分為設備製造業、整合服務業以及風力發電業三部分，另根據風力發電機裝設位置，可區分為安裝在陸地上的陸域型風機，以及裝設在海上的離岸型風機兩類，當前以陸域型風機技術較為成熟，而離岸型風機仍處於發展階段，尚存在不少技術困難。\n設備製造業包括風力發電機之原材料、零組件及配件、次系統之供應與風機設備系統組裝，其中風機原材料供應涵蓋鋼材、玻璃纖維、碳纖維及樹酯，零組件與配件則涵蓋風機系統相關之葉片、齒輪箱、塔架、電纜及其他配件，次系統則包括監控系統與電力系統兩部分，風機設備系統則有陸域型與離岸型；整合服務業包括風場規劃、風場營造以及風機維護等廠商；風力發電業則包括風場開發業者及發電營運業者。\n一、上游：\n風力發電產業的上游主要是設備製造供應商，最主要的關鍵便是風力機系統。風力機系統主要由葉片、塔架、機艙與其他次系統所組成，機艙內由齒輪箱、發電機、軸承等其他零配件組成機組核心，再輔以監控與電力系統，構建成完整的風力機組設施。\n原材料以鋼材與樹脂為主流，用以建造風機系統的塔架與葉片等零組件，國際大型鋼材供應商有大陸首鋼集團、韓國浦項鋼鐵為代表，樹酯材料則有LM Wind Power及中材科技為代表；台灣相關業者有中鋼的鋼材，上緯的樹酯材料等。零組件/配件中塔架供應商有北美的Arcosa、歐洲的Windar與Welcon及中國大陸的天順風能為代表，台灣則有中鋼機械提供；葉片方面，國際大廠有TPI Composites SA、Vestas、LM Wind Power（GE子公司）、Siemens Gamesa等大型風電業者，臺灣原有天力離岸生產葉片，但在規模經濟難以擴張下業務已轉向風機葉片維運；齒輪箱有ZF Wind Power Antwerpen(前身為Hansen Transmissions)及Bosch Rexroth最具規模，台灣則有台朔重工的齒輪箱為代表，全球市場規模預計2025年可望達到216.5億美元水準，於2030年達到328.6億美元，年複合成長率為8.7%；次系統領導業者有ABB及Winergy，台灣則有東元的控制系統，華城、中興、士電等的電力系統；全球風電機組整機設備以丹麥的Vestas為代表，其他主要業者有美國GE Vernova、中國大陸金風科技及合併後的Siemens Gamesa等業者，台灣則以東元電機為代表，在產業結構方面，中國大陸的金風科技、遠景能源、運達股份等業者趁著中國近年政策的風向，2025年新裝機規模排名大幅成長，與歐美等業者分庭抗禮。\n二、中游：\n風力發電產業鏈的中游為整合服務業，有風場規劃、風場營造及風機維護等業者。風場規劃是業者在預選定的發展區域，根據基本環境資料(諸如海象、漂沙及底床質、水深、地質、生態、社會人文等)，所進行之風力場場址選擇、風能規模與發電量評估、採用機組評估與佈置方案、電源線路規劃及後續施工規劃等業務。風場營造則是根據施工規劃，在場址進行整地、基礎結構、建築設備安裝及土木工程之興建、改建等活動。風機維護業者則是在風力發電廠完成相關硬體設施並營運後，由風機設備供應商或協力廠商業者提供設備之後續保固、檢測與維修替換服務。\n在業者佈局方面，國際上大型的風場規劃及風場營造廠商多以能源服務業者為主，例如沃旭(前丹能)、E.ON等，台灣在風場規劃則有台電、英華威、沃旭、永傳、中興工程等，在風場營造則有中鋼、台船、中興電工、華城、樂士、星能等業者，且自2025年起，多個大型風場如海龍風場、大彰化風場等陸續完工併網，台灣本土營造業者市場實績持續看好；至於風機維護業者，以國際風力機組供應商為主，例如Vestas、美國GE Vernova或是Siemens Gamesa等，輔以區域設備代理商或合作設備維修業者。\n三、下游：\n風力發電產業的下游包括風力發電的綜合開發業者及發電營運業者，綜合開發業者亦多為能源服務供應商，針對預開發之風場進行包括風場潛能、技術、工程、財務等進行可行性分析，統籌風場規劃、營造乃至於營運活動等顧問諮詢服務。發電營運業者包括綜合電業廠商以及獨立電力供應商(Independent Power Producer, IPP)兩類，綜合電業業者為具備發電、輸電、配電三個部份的垂直整合業務之廠商，當前臺灣代表就是台灣電力公司；至於指非由綜合電業公司經營、或不屬公用事業的發電廠，即是獨立電力供應商，目前台灣在風能領域的獨立電力供應商有英華威、麥格理、福海風力發電、富崴能源等業者，然近期有麥格理出售其海能風場股權之消息，值得關注其後續對台灣風電市場的影響。\n台灣風力發電產業始於1980年代初期的能源危機，政府委託工研院陸續開發4kW、15kW、與150kW之風力發電機，然在能源危機解除後就停止開發工作。西元2000年，政府發布了「風力發電示範系統設置補助辦法」，由台灣電力公司、台朔重工，以及正隆公司，分別在澎湖、雲林和新竹，設置三個總容量共8.64MW的風力發電系統再度開展。至2004年政府開放民營電廠設置，開啟民間廠商投入風力發電開發。\n隨著全球風力發電市場快速成長，台灣廠商開始切入風力發電零組件產業，包括葉片、鑄件、塔架、變壓器、電力纜線與設施等，台灣在風力發電產業鏈已漸趨完整，大型風力機系統有東元電機，其他較具代表性的零組件廠商包括 樹脂材料的上緯、鑄件供給的永冠、中鋼機械的塔架、已經暫停葉片生產的天力，以及信邦、華新麗華的電力纜線等。除了大型風力機之外，國內約有二十家業者從事小型風力發電機開發，業者規模普遍不大。台灣風力發電產值以零組件占大宗，多為歐、美、中國大陸系統廠商之零組件供應商。\n全球風能協會（Global Wind Energy Council, GWEC）2025年報告顯示，2024年全球新設風機容量為117GW，估計2025年全球風電新增裝置容量將達到138GW，到2030年前，全球風電總計將新增982 GW容量，年複合成長率達8.8%。從裝機結構來看，2024年陸域風機新增裝機109GW，年增10.9%。離岸風機2024年有新增裝機8GW，預估2025至2030年離岸風電年複合成長率為28%。規模方面，中國新增容量佔全年65%，年增加19.2%，其次是美國、德國、印度和巴西，這五國佔全球總裝置容量的前五名。成長率方面，中東與非洲成長顯著，年增率達107%水準。\n根據國際可再生能源署（IRENA）2025年最新報告，全球再生能源裝置容量在2024年達到約4,448 GW，較2023年3,870GW成長15.1%，亞洲地區尤其是中國，貢獻了全球約64%的新增容量，成為推動全球再生能源成長的主要動力。就國際研究機構Precedence Research估計，全球離岸風電市場規模將在2029年達到1,080億美元水準，並在2030年超過1,290億美元規模，2022到2030年其年複合成長率可達18%的水準。伴隨著2026年到2028年建置需求高峰期逼近，預估全球裝置容量將會出現短期供應不足，包括風力設備供應、安裝船舶、能源資源以及人力需求等方面的壓力，亦是未來各國風電發展主要挑戰。\n根據國際工程顧問公司4Coffshore的資料顯示，全球前20大最好的風場，台灣海峽就佔了16處，加上在政府積極推動離岸風電計畫政策之下，自2013年經濟部公布第一階段「示範風場」起，2018年完成第二階段「潛力場址」遴選、競價作業，至2019年底海洋風場全面完工商轉，並於2021年公布「區塊開發」選商機制，宣告台灣離岸風電發展，正式步入第三階段。第三階段將分三期核配風場，每期共配發兩年的裝置容量共3GW，於2023年8月公布第一期共五家業者完成申請簽約，總容量約2.3GW（2335MW），本階段預計於2026、2027年完工併網，加上台歐雙方經過協商，將放寬3.2期離岸風電計畫的國產化限制，並承諾未來3.3期計畫不再強制實施IRP要求，將緩解開發商的壓力，繼續推升台灣風電的發展，亦有助加速台灣邁向淨零排放的目標。故根據全球風能協會2025年報告顯示，台灣在2024年成功併網933MW離岸風電，使總裝置容量突破3GW大關，一舉成為全球離岸風電累計裝置容量第五大國家，僅2024年便完成了包括雲林、大彰化一期（東南、西南風場）、彰芳二期暨西島，以及中能離岸風場等四座離岸風場建設，合計共安裝107座風機的成果。政策框架調整方面，預期未來將放寬離岸風場投標的產業關聯（Local Content Requirements）政策，並傳出政府已與歐盟就世界貿易組織（WTO）諮詢請求達成初步協議，臺灣亦將維持亞太地區離岸風電發展的領先地位。",
+  "chains": [
+    {
+      "title": "上游設備製造業",
+      "companies": [
+        {
+          "id": "ic_link_AB21",
+          "text": "鋼材",
+          "detailed_data": {
+            "title": "鋼材",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中鋼構",
+                "url": "company_basic.php?stk_code=2013",
+                "is_foreign": false
+              },
+              {
+                "name": "新光鋼",
+                "url": "company_basic.php?stk_code=2031",
+                "is_foreign": false
+              },
+              {
+                "name": "前端風電",
+                "url": "company_basic.php?stk_code=7702",
+                "is_foreign": false
+              },
+              {
+                "name": "首鋼",
+                "url": "http://www.sggf.com.cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "浦項鋼鐵",
+                "url": "https://www.posco.co.kr/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_AB22",
+          "text": "玻/碳纖",
+          "detailed_data": {
+            "title": "玻/碳纖",
+            "categories": [],
+            "companies": [
+              {
+                "name": "上緯投控",
+                "url": "company_basic.php?stk_code=3708",
+                "is_foreign": false
+              },
+              {
+                "name": "LM Wind Power",
+                "url": "https://www.lmwindpower.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "上海玻璃鋼",
+                "url": "http://www.shfrp.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "上海玻璃鋼",
+                "url": "http://www.shfrp.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中國中材集團",
+                "url": "http://www.sinomatech.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中材科技",
+                "url": "http://www.sinomatech.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中材科技",
+                "url": "http://www.sinomatech.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Zoltek Companies Inc.",
+                "url": "http://zoltek.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共8家"
+          }
+        },
+        {
+          "id": "ic_link_AB23",
+          "text": "樹酯",
+          "detailed_data": {
+            "title": "樹酯",
+            "categories": [],
+            "companies": [
+              {
+                "name": "上緯投控",
+                "url": "company_basic.php?stk_code=3708",
+                "is_foreign": false
+              },
+              {
+                "name": "LM Wind Power",
+                "url": "https://www.lmwindpower.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中國中材集團",
+                "url": "http://www.sinomatech.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中材科技",
+                "url": "http://www.sinomatech.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中材科技",
+                "url": "http://www.sinomatech.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_AB24",
+          "text": "葉片",
+          "detailed_data": {
+            "title": "葉片",
+            "categories": [],
+            "companies": [
+              {
+                "name": "天力離岸",
+                "url": "company_basic.php?stk_code=6793",
+                "is_foreign": false
+              },
+              {
+                "name": "LM Wind Power",
+                "url": "https://www.lmwindpower.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中國中材集團",
+                "url": "http://www.sinomatech.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中材科技",
+                "url": "http://www.sinomatech.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "SSP Technology",
+                "url": "https://www.nordex-online.com/en/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_AB25",
+          "text": "齒輪箱",
+          "detailed_data": {
+            "title": "齒輪箱",
+            "categories": [],
+            "companies": [
+              {
+                "name": "永冠-KY",
+                "url": "company_basic.php?stk_code=1589",
+                "is_foreign": false
+              },
+              {
+                "name": "博世力士樂",
+                "url": "http://www.boschrexroth.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "ZF Wind Power Antwerpen",
+                "url": "https://www.zf.com/corporate/en_de/products/further_product_ranges/wind_power/index.html",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共3家"
+          }
+        },
+        {
+          "id": "ic_link_AB26",
+          "text": "塔架",
+          "detailed_data": {
+            "title": "塔架",
+            "categories": [],
+            "companies": [
+              {
+                "name": "新光鋼",
+                "url": "company_basic.php?stk_code=2031",
+                "is_foreign": false
+              },
+              {
+                "name": "世紀鋼",
+                "url": "company_basic.php?stk_code=9958",
+                "is_foreign": false
+              },
+              {
+                "name": "TITAN WIND",
+                "url": "http://www.titan-wind.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Trinity Structural  Towers, Inc.",
+                "url": "http://www.trinitytowers.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Trinity Structural Towers, Inc.",
+                "url": "http://www.trinitytowers.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_AB27",
+          "text": "電纜",
+          "detailed_data": {
+            "title": "電纜",
+            "categories": [],
+            "companies": [
+              {
+                "name": "華新",
+                "url": "company_basic.php?stk_code=1605",
+                "is_foreign": false
+              },
+              {
+                "name": "大亞",
+                "url": "company_basic.php?stk_code=1609",
+                "is_foreign": false
+              },
+              {
+                "name": "宏泰",
+                "url": "company_basic.php?stk_code=1612",
+                "is_foreign": false
+              },
+              {
+                "name": "合機",
+                "url": "company_basic.php?stk_code=1618",
+                "is_foreign": false
+              },
+              {
+                "name": "大東電",
+                "url": "company_basic.php?stk_code=1623",
+                "is_foreign": false
+              },
+              {
+                "name": "世紀鋼",
+                "url": "company_basic.php?stk_code=9958",
+                "is_foreign": false
+              },
+              {
+                "name": "耐克森",
+                "url": "https://www.nexans.com",
+                "is_foreign": true
+              },
+              {
+                "name": "普睿司曼",
+                "url": "https://www.prysmiangroup.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共8家"
+          }
+        },
+        {
+          "id": "ic_link_AB28",
+          "text": "其他配件",
+          "detailed_data": {
+            "title": "其他配件",
+            "categories": [],
+            "companies": [
+              {
+                "name": "春雨",
+                "url": "company_basic.php?stk_code=2012",
+                "is_foreign": false
+              },
+              {
+                "name": "新光鋼",
+                "url": "company_basic.php?stk_code=2031",
+                "is_foreign": false
+              },
+              {
+                "name": "信邦",
+                "url": "company_basic.php?stk_code=3023",
+                "is_foreign": false
+              },
+              {
+                "name": "潤泰材",
+                "url": "company_basic.php?stk_code=8463",
+                "is_foreign": false
+              },
+              {
+                "name": "中鼎",
+                "url": "company_basic.php?stk_code=9933",
+                "is_foreign": false
+              },
+              {
+                "name": "世紀鋼",
+                "url": "company_basic.php?stk_code=9958",
+                "is_foreign": false
+              },
+              {
+                "name": "永冠-KY",
+                "url": "company_basic.php?stk_code=1589",
+                "is_foreign": false
+              },
+              {
+                "name": "世紀風電",
+                "url": "company_basic.php?stk_code=2072",
+                "is_foreign": false
+              },
+              {
+                "name": "前端風電",
+                "url": "company_basic.php?stk_code=7702",
+                "is_foreign": false
+              },
+              {
+                "name": "世紀樺欣",
+                "url": "company_basic.php?stk_code=7752",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "吉鑫科技",
+                "url": "http://www.sinojit.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共13家"
+          }
+        },
+        {
+          "id": "ic_link_AB29",
+          "text": "監控系統",
+          "detailed_data": {
+            "title": "監控系統",
+            "categories": [],
+            "companies": [
+              {
+                "name": "東元",
+                "url": "company_basic.php?stk_code=1504",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Bachmann electronic GmbH",
+                "url": "https://www.bachmann.info/en/bachmann/",
+                "is_foreign": true
+              },
+              {
+                "name": "Winergy",
+                "url": "https://www.winergy-group.com/cms/website.php?id=/en/index.htm",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_AB2A",
+          "text": "電力系統",
+          "detailed_data": {
+            "title": "電力系統",
+            "categories": [],
+            "companies": [
+              {
+                "name": "士電",
+                "url": "company_basic.php?stk_code=1503",
+                "is_foreign": false
+              },
+              {
+                "name": "東元",
+                "url": "company_basic.php?stk_code=1504",
+                "is_foreign": false
+              },
+              {
+                "name": "亞力",
+                "url": "company_basic.php?stk_code=1514",
+                "is_foreign": false
+              },
+              {
+                "name": "華城",
+                "url": "company_basic.php?stk_code=1519",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Bachmann electronic GmbH",
+                "url": "https://www.bachmann.info/en/bachmann/",
+                "is_foreign": true
+              },
+              {
+                "name": "Winergy",
+                "url": "https://www.winergy-group.com/cms/website.php?id=/en/index.htm",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共9家"
+          }
+        },
+        {
+          "id": "ic_link_AB2B",
+          "text": "離岸風機",
+          "detailed_data": {
+            "title": "離岸風機",
+            "categories": [],
+            "companies": [
+              {
+                "name": "MHI Vestas",
+                "url": "http://www.mhivestasoffshore.com",
+                "is_foreign": true
+              },
+              {
+                "name": "上海電氣",
+                "url": "http://www.shanghai-electric.com/Pages/Index.aspx",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "SIEMENS Gamesa Renewable Energy",
+                "url": "http://www.gamesacorp.com/gamesa/en/siemensgamesa.html",
+                "is_foreign": true
+              },
+              {
+                "name": "Vestas",
+                "url": "https://www.vestas.com/en",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_AB2C",
+          "text": "陸域風機",
+          "detailed_data": {
+            "title": "陸域風機",
+            "categories": [],
+            "companies": [
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Vestas",
+                "url": "https://www.vestas.com/en",
+                "is_foreign": true
+              },
+              {
+                "name": "金風科技",
+                "url": "www.goldwind.cn",
+                "is_foreign": true
+              },
+              {
+                "name": "金風科技",
+                "url": "www.goldwind.cn",
+                "is_foreign": true
+              },
+              {
+                "name": "金風科技",
+                "url": "www.goldwind.cn",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游整合服務業",
+      "companies": [
+        {
+          "id": "ic_link_AB2D",
+          "text": "風場規劃",
+          "detailed_data": {
+            "title": "風場規劃",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中興電",
+                "url": "company_basic.php?stk_code=1513",
+                "is_foreign": false
+              },
+              {
+                "name": "永崴投控",
+                "url": "company_basic.php?stk_code=3712",
+                "is_foreign": false
+              },
+              {
+                "name": "森崴能源",
+                "url": "company_basic.php?stk_code=6806",
+                "is_foreign": false
+              },
+              {
+                "name": "東方風能",
+                "url": "company_basic.php?stk_code=7786",
+                "is_foreign": false
+              },
+              {
+                "name": "台汽電",
+                "url": "company_basic.php?stk_code=8926",
+                "is_foreign": false
+              },
+              {
+                "name": "國際海洋",
+                "url": "company_basic.php?stk_code=7583",
+                "is_foreign": false
+              },
+              {
+                "name": "E.ON",
+                "url": "https://www.eon.com",
+                "is_foreign": true
+              },
+              {
+                "name": "EDP",
+                "url": "http://www.edpr.com",
+                "is_foreign": true
+              },
+              {
+                "name": "沃旭",
+                "url": "https://orsted.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共9家"
+          }
+        },
+        {
+          "id": "ic_link_AB2E",
+          "text": "風場營造",
+          "detailed_data": {
+            "title": "風場營造",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中興電",
+                "url": "company_basic.php?stk_code=1513",
+                "is_foreign": false
+              },
+              {
+                "name": "台船",
+                "url": "company_basic.php?stk_code=2208",
+                "is_foreign": false
+              },
+              {
+                "name": "永崴投控",
+                "url": "company_basic.php?stk_code=3712",
+                "is_foreign": false
+              },
+              {
+                "name": "森崴能源",
+                "url": "company_basic.php?stk_code=6806",
+                "is_foreign": false
+              },
+              {
+                "name": "東方風能",
+                "url": "company_basic.php?stk_code=7786",
+                "is_foreign": false
+              },
+              {
+                "name": "台汽電",
+                "url": "company_basic.php?stk_code=8926",
+                "is_foreign": false
+              },
+              {
+                "name": "國際海洋",
+                "url": "company_basic.php?stk_code=7583",
+                "is_foreign": false
+              },
+              {
+                "name": "佳運",
+                "url": "company_basic.php?stk_code=7783",
+                "is_foreign": false
+              },
+              {
+                "name": "E.ON",
+                "url": "https://www.eon.com",
+                "is_foreign": true
+              },
+              {
+                "name": "沃旭",
+                "url": "https://orsted.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "RWE",
+                "url": "https://www.rwe.com",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共11家"
+          }
+        },
+        {
+          "id": "ic_link_AB2F",
+          "text": "風機維護",
+          "detailed_data": {
+            "title": "風機維護",
+            "categories": [],
+            "companies": [
+              {
+                "name": "永崴投控",
+                "url": "company_basic.php?stk_code=3712",
+                "is_foreign": false
+              },
+              {
+                "name": "森崴能源",
+                "url": "company_basic.php?stk_code=6806",
+                "is_foreign": false
+              },
+              {
+                "name": "東方風能",
+                "url": "company_basic.php?stk_code=7786",
+                "is_foreign": false
+              },
+              {
+                "name": "台汽電",
+                "url": "company_basic.php?stk_code=8926",
+                "is_foreign": false
+              },
+              {
+                "name": "國際海洋",
+                "url": "company_basic.php?stk_code=7583",
+                "is_foreign": false
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "SIEMENS Gamesa Renewable Energy",
+                "url": "http://www.gamesacorp.com/gamesa/en/siemensgamesa.html",
+                "is_foreign": true
+              },
+              {
+                "name": "Vestas",
+                "url": "https://www.vestas.com/en",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共9家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游發電業",
+      "companies": [
+        {
+          "id": "ic_link_AB2G",
+          "text": "風場開發",
+          "detailed_data": {
+            "title": "風場開發",
+            "categories": [],
+            "companies": [
+              {
+                "name": "亞泥",
+                "url": "company_basic.php?stk_code=1102",
+                "is_foreign": false
+              },
+              {
+                "name": "永崴投控",
+                "url": "company_basic.php?stk_code=3712",
+                "is_foreign": false
+              },
+              {
+                "name": "森崴能源",
+                "url": "company_basic.php?stk_code=6806",
+                "is_foreign": false
+              },
+              {
+                "name": "雲豹能源",
+                "url": "company_basic.php?stk_code=6869",
+                "is_foreign": false
+              },
+              {
+                "name": "泓德能源",
+                "url": "company_basic.php?stk_code=6873",
+                "is_foreign": false
+              },
+              {
+                "name": "台汽電",
+                "url": "company_basic.php?stk_code=8926",
+                "is_foreign": false
+              },
+              {
+                "name": "永冠-KY",
+                "url": "company_basic.php?stk_code=1589",
+                "is_foreign": false
+              },
+              {
+                "name": "E.ON",
+                "url": "https://www.eon.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Northland Power",
+                "url": "http://www.northlandpower.ca",
+                "is_foreign": true
+              },
+              {
+                "name": "沃旭",
+                "url": "https://orsted.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共10家"
+          }
+        },
+        {
+          "id": "ic_link_AB2H",
+          "text": "發電營運",
+          "detailed_data": {
+            "title": "發電營運",
+            "categories": [],
+            "companies": [
+              {
+                "name": "亞泥",
+                "url": "company_basic.php?stk_code=1102",
+                "is_foreign": false
+              },
+              {
+                "name": "永崴投控",
+                "url": "company_basic.php?stk_code=3712",
+                "is_foreign": false
+              },
+              {
+                "name": "森崴能源",
+                "url": "company_basic.php?stk_code=6806",
+                "is_foreign": false
+              },
+              {
+                "name": "雲豹能源",
+                "url": "company_basic.php?stk_code=6869",
+                "is_foreign": false
+              },
+              {
+                "name": "泓德能源",
+                "url": "company_basic.php?stk_code=6873",
+                "is_foreign": false
+              },
+              {
+                "name": "台汽電",
+                "url": "company_basic.php?stk_code=8926",
+                "is_foreign": false
+              },
+              {
+                "name": "大唐新能源",
+                "url": "http://www.cdt-re.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "大唐新能源",
+                "url": "http://www.cdt-re.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "E.ON",
+                "url": "https://www.eon.com",
+                "is_foreign": true
+              },
+              {
+                "name": "龍源電力",
+                "url": "http://www.clypg.com.cn",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共10家"
+          }
+        }
+      ]
+    }
+  ]
+}

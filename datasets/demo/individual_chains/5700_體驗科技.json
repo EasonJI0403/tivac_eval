@@ -1,0 +1,2167 @@
+{
+  "title": "體驗科技產業鏈",
+  "introduction": "體驗科技產業鏈\n體驗科技涉及AR（增強實境）、VR（虛擬實境）、MR（混合實境）等軟硬體技術，形塑沉浸互動式的用戶體驗，近年已受到資訊科技業界的廣泛重視。體驗科技發展迄今已建立出相應的生態含括體系雛形，「上游廠商」涵蓋處理器／IC、近眼顯示、感測器／模組等關鍵硬體零組件供應商、開發引擎／編輯工具等軟硬體供應商，「中下游廠商」則包含應用軟體與內容開發商、系統整合商與資訊服務提供商（亦即解決方案供應商）、智慧裝置組裝業者、支援服務供應者（例如顧問公司），以及終端產品之品牌商等。\n由於當前體驗科技的市場普及率有待提升，業內裝置品牌大廠傾向布局多個產業環節，以確保有足夠的資源來推動技術成熟與商業發展，以及支持理想、規模化的應用情境。如Meta、Microsoft、Apple論等XR頭戴裝置品牌商業務橫跨上、中、下游業務，以推動技術從概念到落地的轉化，期盼加速體驗普及與市場的擴大發展。簡要來說，體驗科技市場目前仍可粗分為硬體裝置與軟體服務共兩大範疇。\n硬體：\n體驗科技之硬體廠商涵蓋零組件供應商、裝置組裝廠，以及品牌業者等。其中關鍵零組件供應商又包括處理器／IC、近眼顯示零組件、感測器／模組、電池模組、主機板、記憶體、散熱元件／模組、外接式主機等供應商。組裝業者則多是當前智慧裝置的OEM廠商，或由OBM業者自行製造。當前主要著名的裝置品牌業者如Microsoft、Meta、Epson、Sony、HTC、Pico（字節跳動）、Vuzix、Realwear、XREAL、Pimax、Apple等。台灣部分則包括鈺創、中光電等感測、顯示技術廠商，以及宏達電、佐臻等布局中、下游的品牌廠商。\n經歷連續兩年出貨量下滑後，2025年XR頭戴裝置市場出現回暖跡象。Meta推出平價版Quest 3S，Apple Vision Pro引入Apple Intelligence功能，以及Samsung預計於2025年第三季推出搭載Android XR系統的Project Moohan，皆為市場注入新動能。進一步說明國際大廠近期發展重點動態，當前Meta以平價策略擴大市場，繼2024年9月推出Quest 3S（售價299美元），定位於高性價比的VR裝置，旨在吸引更多用戶跨入XR世界並與Apple Vision Pro競爭，接著又2025年4月底，官方正式開放Passthrough Camera API，將帶動開發人員有機會製作更多AR與MR應用程式。近期，據悉Meta目前正在開發「Supernova、Supernova 2、Hypernova」三款智慧眼鏡，不僅與品牌夥伴雷朋（Ray-Bans）、Oakley合作設計開發，也有機會讓使用者能於眼鏡上查看通知、照片等，預計最快在2027年推出，其輕量化設計與先進功能引發關注。\nApple Vision Pro部分，鑒於2024年初上市的高訂價（3,499美元）策略限制其市場擴展，為此，Apple在2025年3月底的visionOS 2.4版本中結合Apple Intelligence，加入Writing Tools、Image Playground等AI功能。另一方面，據傳Apple將於6月9日WWDC上推出最新版本visionOS 3，其中將包含eye tracking controls的眼動控制功能，以提升使用體驗、為產品加值。此外，Apple也在開發價格更親民、重量更輕薄的版本，加速布局空間運算市場。\nGoogle方面，目前正積極發展Android XR系統，已於Google I/O 2025宣布Android 16更新項目，整合Gemini AI助理功能於與Samsung、Qualcomn合作開發的XR頭戴裝置Project Moohan（在韓語中是「無限」的意思），提供沉浸式的使用體驗。該裝置預計於2025年下半年上市，據傳將搭載高解析度顯示器，訂價則落在1,000美元至3,500美元之間預測不一。\n值得關注的是，2025年3月法國MR頭戴裝置開發商Lynx在社群X發文稱Valve下一代HMD的設計相當驚人，並表示Lynx與Valve有著相似的零組件供應商。當前市場普遍以「Deckard」代稱Valve正在研發的新頭戴式裝置，預期能在2025年推出，並與Meta Quest正面交鋒。\n台灣體感硬體部分，台廠積極透過加入國際品牌供應鏈、與國際大廠合作開發等模式維持國際市場地位。如鴻海、鴻海子公司－新煒、佐臻、GIS業成、Porotech等廠商於SID Display Week 2025宣布共組「AR智造聯盟」，結合AR光引擎模組、光學模組、AR眼鏡設計等技術加速AR產品投入市場；抑或是廣達近3年持續投資美國AR眼鏡與技術供應商Vuzix，結合人機介面系統商Mentra打造具AI功能的智慧眼鏡通用作業系統AugmentOS，加速邊緣裝置應用發展。\n此外則如崇越科技，以SCIVAX 奈米壓印技術推動AR眼鏡等產品的低成本、體積輕發展；LED廠錼創也推出專為AI眼鏡設計、0.18吋、透明度55%的新型顯示器，為AR產品輕量、高解析發展提供助益；而建準的散熱模組設計、玉晶光的AI光學鏡頭、鈺創的顯示驅動IC、義隆的觸控與手勢辨識IC、瑞昱的網路通訊晶片、揚明光的光學鏡片、驊訊的多媒體 IC等技術，皆為頭戴式裝置發展奠定穩固基礎。\n軟體：\n體驗科技之軟體廠商涵蓋應用軟體開發引擎／編輯工具平台等業務，包含工作流程創建、內容管理與創建，以及3D工具等供應商，包括如Apple（ARKit、Reality Composer Pro）、Autodesk（3ds Max）、Google（ARCore）、Meta（Meta Spark）、Microsoft（Azure Spatial Anchors）、Maya、Unity、Unreal Engine等；而應用軟體與內容開發商方面，目前則有專注於特定垂直應用領域之解決方案，如：／KOSÉ的MR高速投影試妝系統專注於時尚美妝、娛樂製作等領域，Woongjin Thinkbi的AR兒童互動繪本ARpedia則在AR閱讀領域頗具基礎；以及推行跨產業之應用，如：Spatial的AR虛擬空間軟體、Ninantic的Lightship AR沉浸體驗軟體等。資訊服務廠商方面，則包括系統整合商、IT服務業者。而相關支援服務方面，則有垂直領域專長業者、數位專長業者及顧問等。台灣部分則包括宏達電、緯創、宏碁資訊、宇萌、智崴、鈊象電子等軟體開發、系統整合、內容設計等上市、興櫃、創櫃公司，更多的則是夢想動畫、集仕多、愛吠的狗等具備技術實力的中小型業者。\n綜觀XR體驗科技應用，行動AR由於人手一機，其應用擴散範疇廣泛，涵蓋遊戲娛樂、社交濾鏡，以及導航、搜尋、學習、零售等等領域；頭戴型AR依然主攻商業應用領域，如製造、物流、醫療等。另一方面，VR應用也已在消費性市場擴散，除了普遍受到歡迎的遊戲社交功能，亦興起不少商用需求，如情境模擬、專業培訓、VR會議等。 儘管近年發展勢頭有所減緩，成長速度不如以往，擴散效果相對不夠顯著，但在AI熱潮的帶動下，XR軟體服務已開始出現再次轉型的跡象，甚至已經從加速開發端產製流程，發展至增添用戶體驗豐富度，更有助於促進XR體驗的規模化發展、吸引多元受眾。此現象在娛樂領域表現尤為顯著，如AI音樂元宇宙公司Verses開發的AI女團元宇宙音樂互動世界 aespa world，結合GAI引擎處理文字、影音、動畫內容，讓用戶在大廳、舞台、商店、拍照亭中與偶像同樂；或是AI 3D軟體公司NationA開發的AI虛擬角色互動體驗Hye.D，用戶只需上傳3張圖片即可生成AI驅動的3D角色，能透過文字或語音的方式與其聊天互動。\n此外，由於AR內容相對容易與AI結合，連結物件辨識、人臉辨識、姿態辨識等技術應用也更受矚目。如Snapchat推出GenAI 影片Lenses，用戶可透過AR濾鏡將浣熊、狐狸和花束與影響融合。受惠於軟體與內容開發引擎易用性提升（no code/low code），加上結合行動裝置的GenAI讓內容產製可隨時隨地進行，各廠商策略性地降低用戶導入門檻，有助於吸引更多領域的廠商、甚至用戶投入體驗科技軟體與發展，進而帶動數位內容規模擴大與累積。\n台灣體感軟體部分，在產品發展方針上，絕大多數業者都在積極投入連結GAI與虛擬科技的產品服務，涵蓋虛擬人、虛擬試妝、XR互動服務等各種範疇與領域，更有不少智慧內容業者已經可以藉由模組化、工具平台化的設計來降低技術導入門檻，以期進一步提升顧客接受度與市場滲透率。如集仕多為客家電視台打造AI客語主播，播報客庄旅遊與未來一週氣象資訊；訊連旗下AI與AR廠商玩美移動推出AI毛躁髮偵測技術「AI Frizzy Hair Analyzer」，能進一步結合既有髮質分、髮長分析以及虛擬染髮、髮型設計技術與功能等。\n從技術量能觀察，國內已有不少業者在AI生成、影像辨識與互動技術等領域展現優異的技術整合實力，也展示了企業如何透過高度定製化的解決方案來滿足不同行業的需求，並推動新技術在多種領域的應用落地，如HTC旗下文化科技發展的VIVE Arts，攜手法國凡爾賽宮推出VR沉浸式體驗《凡爾賽：太陽王的失落花園》，結合適地性娛樂（Location-Based Entertainment, LBE）與VR技術，重現17世紀的法國樣貌；邏仕數位開發WebXR虛擬實境場地編輯器系統，助力旅宿場域規劃與管理變革；紅然則於華山推出全境式沉浸互動娛樂展演《流浪蓋婭號WANDERING GAIA》，展現多媒體內容與互動科技的巧妙結合。\n進一步從市場應用布局分析國內廠商，已有不少業者在國內市場深耕的同時，積極拓展亞、歐市場等拓展海外商機，意味著在長期發展下，企業可透過多元市場布局與國際合作，擴展產品應用範圍，並依賴成功案例建立市場信任與競爭優勢。如方舟智慧以AI、AR、VR 等技術，推動博物館與地方文化場域的智慧轉型，近期也積極以技術授權方式建立海外合作關係，以此將體感科技推向國際市場。\n整體而言，體感科技業者延續前一年市場布局策略，轉而聚焦軟體、硬體等單一環節，或透過策略聯盟來分攤風險、整合資源，隨著Meta、Apple、Samsung、Google、Valve等紛紛推出新產品或技術升級，為市場注入新動能，2025年上半年市場出現回暖跡象，也可觀察到市場成長驅動潛力。以AI為裝置加值體驗可視為今年硬體發展主軸，結合空間運算技術提升，有望帶動虛實應用突破，而API的開放與平價版產品的發布，也有利於從應用內容供給與需求的角度助力市場成長，藉此創造更多體驗科技應用的機會。\n與此同時，軟體端的創新與轉型也因AI再度升溫，在GenAI的驅動下，XR軟體服務正快速從提升開發流程效率，進一步擴展至強化用戶體驗的內容生成與互動層面，為推動體驗科技的規模化應用創造新的可能性，在娛樂產業尤為顯著。另一方面，AR內容與AI技術的結合潛力也持續擴大，尤其在人臉辨識、姿態追蹤與物件辨識等應用上逐步成熟。隨著no-code/low-code開發工具普及，搭配智慧型手機與雲端服務的支援，讓XR內容的生成與部署不再受限於技術門檻，軟體開發朝向人人皆可創作的民主化方向演進。這不僅有助於擴展XR應用場景，也促使更多產業與終端用戶開始投入相關創作與使用行為，為體驗科技市場注入持續發展的動力\n對於國內體驗科技產業發展，在硬體與軟體兩端皆持續展現韌性與創新潛力。在硬體部分，面對全球XR裝置競爭日趨激烈的局勢，台廠積極透過強化光學模組、顯示器、驅動IC、散熱與感測元件等關鍵零組件技術，進一步整合AR光引擎與系統設計能力，以維持在全球供應鏈中的關鍵地位。此外，也逐步朝向標準化模組、聯盟式開發與客製化設計方向邁進，加速產品上市時程，並提升參與國際產品定義與合作研發的角色份量。\n在軟體端，國內業者近年聚焦AI與虛擬技術的深度整合，不僅涵蓋虛擬人、XR互動、智慧零售與數位娛樂等應用，也積極投入模組化、工具化平台的開發，以降低企業與終端用戶的導入門檻。生成式AI的普及更進一步促進創作流程與內容互動的變革，使體感軟體不再侷限於展示，而轉向高度沉浸與即時互動體驗。此轉型同時強化軟體在行銷、教育、文化與旅遊等領域的實用性，拓展了應用深度與受眾基礎。\n綜合觀察，台灣體驗科技產業正透過技術整合、在地創新與全球合作策略，在XR、AR與AI融合的趨勢下穩健前行。除了持續強化本土市場布局外，國內業者也積極拓展亞歐市場，結合實績經驗與在地化策略，推動體驗科技向外輸出。展望未來，若能進一步強化跨域整合、加快標準制定與商模優化，有望在全球體驗科技生態系中擴大影響力與競爭優勢。",
+  "chains": [
+    {
+      "title": null,
+      "companies": [
+        {
+          "id": "ic_link_5710",
+          "text": "處理器/IC",
+          "detailed_data": {
+            "title": "處理器/IC",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_5711",
+                "title": "CPU",
+                "companies": [
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "蘋果",
+                    "url": "https://www.apple.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "高通",
+                    "url": "https://www.qualcomm.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5712",
+                "title": "GPU",
+                "companies": [
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "蘋果",
+                    "url": "https://www.apple.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "高通",
+                    "url": "https://www.qualcomm.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5713",
+                "title": "HPU",
+                "companies": [
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "蘋果",
+                    "url": "https://www.apple.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "高通",
+                    "url": "https://www.qualcomm.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5714",
+                "title": "SoC",
+                "companies": [
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "蘋果",
+                    "url": "https://www.apple.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "高通",
+                    "url": "https://www.qualcomm.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5715",
+                "title": "IC",
+                "companies": [
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "蘋果",
+                    "url": "https://www.apple.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "高通",
+                    "url": "https://www.qualcomm.com/",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共21家"
+          }
+        },
+        {
+          "id": "ic_link_5720",
+          "text": "近眼顯示",
+          "detailed_data": {
+            "title": "近眼顯示(Dear-Eye Display)",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_5721",
+                "title": "顯示技術",
+                "companies": [
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "和亞智慧",
+                    "url": "company_basic.php?stk_code=7825",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Vuzix",
+                    "url": "https://www.vuzix.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5722",
+                "title": "光學元件/模組",
+                "companies": [
+                  {
+                    "name": "敦吉",
+                    "url": "company_basic.php?stk_code=2459",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "澤米",
+                    "url": "company_basic.php?stk_code=6742",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "和亞智慧",
+                    "url": "company_basic.php?stk_code=7825",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Vuzix",
+                    "url": "https://www.vuzix.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5723",
+                "title": "LCoS",
+                "companies": [
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "和亞智慧",
+                    "url": "company_basic.php?stk_code=7825",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Vuzix",
+                    "url": "https://www.vuzix.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5724",
+                "title": "OLED",
+                "companies": [
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Vuzix",
+                    "url": "https://www.vuzix.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5725",
+                "title": "Micro LED",
+                "companies": [
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "和亞智慧",
+                    "url": "company_basic.php?stk_code=7825",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Vuzix",
+                    "url": "https://www.vuzix.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5726",
+                "title": "微型顯示器/光機引擎(Light Engine)",
+                "companies": [
+                  {
+                    "name": "敦吉",
+                    "url": "company_basic.php?stk_code=2459",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "和亞智慧",
+                    "url": "company_basic.php?stk_code=7825",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Vuzix",
+                    "url": "https://www.vuzix.com",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共35家"
+          }
+        },
+        {
+          "id": "ic_link_5730",
+          "text": "感測器/模組",
+          "detailed_data": {
+            "title": "感測器/模組",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_5731",
+                "title": "環境感知",
+                "companies": [
+                  {
+                    "name": "光寶科",
+                    "url": "company_basic.php?stk_code=2301",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "台亞",
+                    "url": "company_basic.php?stk_code=2340",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "同欣電",
+                    "url": "company_basic.php?stk_code=6271",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "澤米",
+                    "url": "company_basic.php?stk_code=6742",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "艾華",
+                    "url": "company_basic.php?stk_code=6204",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "和亞智慧",
+                    "url": "company_basic.php?stk_code=7825",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5732",
+                "title": "深度感測",
+                "companies": [
+                  {
+                    "name": "光寶科",
+                    "url": "company_basic.php?stk_code=2301",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "台亞",
+                    "url": "company_basic.php?stk_code=2340",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "澤米",
+                    "url": "company_basic.php?stk_code=6742",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "艾華",
+                    "url": "company_basic.php?stk_code=6204",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "和亞智慧",
+                    "url": "company_basic.php?stk_code=7825",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5733",
+                "title": "SLAM",
+                "companies": [
+                  {
+                    "name": "台亞",
+                    "url": "company_basic.php?stk_code=2340",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "艾華",
+                    "url": "company_basic.php?stk_code=6204",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5734",
+                "title": "其他",
+                "companies": [
+                  {
+                    "name": "台亞",
+                    "url": "company_basic.php?stk_code=2340",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "艾華",
+                    "url": "company_basic.php?stk_code=6204",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "眾智",
+                    "url": "company_basic.php?stk_code=6819",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5735",
+                "title": "使用者感知",
+                "companies": [
+                  {
+                    "name": "台亞",
+                    "url": "company_basic.php?stk_code=2340",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "艾華",
+                    "url": "company_basic.php?stk_code=6204",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "和亞智慧",
+                    "url": "company_basic.php?stk_code=7825",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5736",
+                "title": "視覺",
+                "companies": [
+                  {
+                    "name": "光寶科",
+                    "url": "company_basic.php?stk_code=2301",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "台亞",
+                    "url": "company_basic.php?stk_code=2340",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "澤米",
+                    "url": "company_basic.php?stk_code=6742",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "艾華",
+                    "url": "company_basic.php?stk_code=6204",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "和亞智慧",
+                    "url": "company_basic.php?stk_code=7825",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5737",
+                "title": "語音",
+                "companies": [
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "艾華",
+                    "url": "company_basic.php?stk_code=6204",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5738",
+                "title": "手勢/動作",
+                "companies": [
+                  {
+                    "name": "光寶科",
+                    "url": "company_basic.php?stk_code=2301",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "台亞",
+                    "url": "company_basic.php?stk_code=2340",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "艾華",
+                    "url": "company_basic.php?stk_code=6204",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "智微",
+                    "url": "company_basic.php?stk_code=4925",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5739",
+                "title": "觸覺",
+                "companies": [
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "艾華",
+                    "url": "company_basic.php?stk_code=6204",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精工愛普生",
+                    "url": "http://www.epson.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共80家"
+          }
+        },
+        {
+          "id": "ic_link_5740",
+          "text": "其他",
+          "detailed_data": {
+            "title": "其他",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_5741",
+                "title": "電池模組",
+                "companies": [
+                  {
+                    "name": "台達電",
+                    "url": "company_basic.php?stk_code=2308",
+                    "is_foreign": false
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5742",
+                "title": "主機板",
+                "companies": []
+              },
+              {
+                "id": "sc_company_5743",
+                "title": "記憶體",
+                "companies": [
+                  {
+                    "name": "英柏得",
+                    "url": "company_basic.php?stk_code=7843",
+                    "is_foreign": false
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5744",
+                "title": "散熱元件/模組",
+                "companies": [
+                  {
+                    "name": "建準",
+                    "url": "company_basic.php?stk_code=2421",
+                    "is_foreign": false
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5745",
+                "title": "外接式主機",
+                "companies": []
+              },
+              {
+                "id": "sc_company_5746",
+                "title": "伺服器(雲端/邊緣)",
+                "companies": []
+              }
+            ],
+            "total_count": "共3家"
+          }
+        }
+      ]
+    },
+    {
+      "title": null,
+      "companies": [
+        {
+          "id": "ic_link_5750",
+          "text": "頭顯裝置品牌廠",
+          "detailed_data": {
+            "title": "頭顯裝置品牌廠",
+            "categories": [],
+            "companies": [
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              },
+              {
+                "name": "鈺創",
+                "url": "company_basic.php?stk_code=5351",
+                "is_foreign": false
+              },
+              {
+                "name": "蘋果",
+                "url": "https://www.apple.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "大朋",
+                "url": "https://www.dpvr.com/cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "精工愛普生",
+                "url": "http://www.epson.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Magic Leap",
+                "url": "https://www.magicleap.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Meta",
+                "url": "https://about.facebook.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "微軟",
+                "url": "http://www.microsoft.com/zh-tw/",
+                "is_foreign": true
+              },
+              {
+                "name": "PICO",
+                "url": "https://www.pico-interactive.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "小派",
+                "url": "https://cn.pimax.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "索尼",
+                "url": "http://www.sony.net/",
+                "is_foreign": true
+              },
+              {
+                "name": "Valve",
+                "url": "https://www.valvesoftware.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Varjo",
+                "url": "https://varjo.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Virtuix",
+                "url": "https://virtuix.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "太若科技",
+                "url": "https://www.xreal.cn/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共15家"
+          }
+        },
+        {
+          "id": "ic_link_5760",
+          "text": "硬體開發工具",
+          "detailed_data": {
+            "title": "硬體開發工具",
+            "categories": [],
+            "companies": [
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              },
+              {
+                "name": "佐臻",
+                "url": "company_basic.php?stk_code=4980",
+                "is_foreign": false
+              },
+              {
+                "name": "DigiLens",
+                "url": "https://www.digilens.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "高通",
+                "url": "https://www.qualcomm.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "詮視科技",
+                "url": "https://www.xvisiotech.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_5770",
+          "text": "軟體開發工具",
+          "detailed_data": {
+            "title": "軟體開發工具",
+            "categories": [],
+            "companies": [
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              },
+              {
+                "name": "佐臻",
+                "url": "company_basic.php?stk_code=4980",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "4th Wall Breakers",
+                "url": "https://www.4thwallbreakers.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Adobe",
+                "url": "https://www.adobe.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Alphabet Inc.",
+                "url": "https://abc.xyz",
+                "is_foreign": true
+              },
+              {
+                "name": "蘋果",
+                "url": "https://www.apple.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "歐特克",
+                "url": "https://www.autodesk.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Campfire 3D",
+                "url": "https://campfire3d.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Matterport",
+                "url": "https://matterport.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "微軟",
+                "url": "http://www.microsoft.com/zh-tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共11家"
+          }
+        },
+        {
+          "id": "ic_link_5790",
+          "text": "技術標準/聯盟",
+          "detailed_data": {
+            "title": "技術標準/聯盟",
+            "categories": [],
+            "companies": [
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共1家"
+          }
+        },
+        {
+          "id": "ic_link_57A0",
+          "text": "資服",
+          "detailed_data": {
+            "title": "資服",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_57A1",
+                "title": "系統整合",
+                "companies": [
+                  {
+                    "name": "資拓宏宇",
+                    "url": "company_basic.php?stk_code=6614",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "普萊德",
+                    "url": "company_basic.php?stk_code=6263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宏碁資訊",
+                    "url": "company_basic.php?stk_code=6811",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "大世科",
+                    "url": "company_basic.php?stk_code=8099",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聖育",
+                    "url": "company_basic.php?stk_code=7868",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "埃森哲",
+                    "url": "https://www.accenture.com/us-en/services/data-analytics-index",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "國際商業機器股份有限公司",
+                    "url": "http://www.ibm.com/en-us/homepage-d.html",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "思愛普",
+                    "url": "https://www.sap.com/index.html",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57A2",
+                "title": "IT服務",
+                "companies": [
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "普萊德",
+                    "url": "company_basic.php?stk_code=6263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宏碁資訊",
+                    "url": "company_basic.php?stk_code=6811",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "大世科",
+                    "url": "company_basic.php?stk_code=8099",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聖育",
+                    "url": "company_basic.php?stk_code=7868",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "埃森哲",
+                    "url": "https://www.accenture.com/us-en/services/data-analytics-index",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "國際商業機器股份有限公司",
+                    "url": "http://www.ibm.com/en-us/homepage-d.html",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "思愛普",
+                    "url": "https://www.sap.com/index.html",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共19家"
+          }
+        }
+      ]
+    },
+    {
+      "title": null,
+      "companies": [
+        {
+          "id": "ic_link_5780",
+          "text": "組裝廠",
+          "detailed_data": {
+            "title": "組裝廠",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_5781",
+                "title": "OBM",
+                "companies": [
+                  {
+                    "name": "歌爾聲學",
+                    "url": "https://www.goertek.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "立訊精密",
+                    "url": "https://www.luxshare-ict.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5782",
+                "title": "ODM/OEM",
+                "companies": [
+                  {
+                    "name": "正崴",
+                    "url": "company_basic.php?stk_code=2392",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "歌爾聲學",
+                    "url": "https://www.goertek.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "立訊精密",
+                    "url": "https://www.luxshare-ict.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_5783",
+                "title": "其他",
+                "companies": [
+                  {
+                    "name": "歌爾聲學",
+                    "url": "https://www.goertek.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "立訊精密",
+                    "url": "https://www.luxshare-ict.com/",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共8家"
+          }
+        },
+        {
+          "id": "ic_link_57B0",
+          "text": "應用軟體/內容",
+          "detailed_data": {
+            "title": "應用軟體/內容",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_57B1",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "宏達電",
+                    "url": "company_basic.php?stk_code=2498",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈊象",
+                    "url": "company_basic.php?stk_code=3293",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Meta",
+                    "url": "https://about.facebook.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Naver Z",
+                    "url": "https://www.naverz-corp.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Niantic",
+                    "url": "https://nianticlabs.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Snap",
+                    "url": "https://www.snap.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Spatial",
+                    "url": "https://www.spatial.io/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Valve",
+                    "url": "https://www.valvesoftware.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "VR Chat",
+                    "url": "http://vrchat.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57B2",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "宏達電",
+                    "url": "company_basic.php?stk_code=2498",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈊象",
+                    "url": "company_basic.php?stk_code=3293",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Meta",
+                    "url": "https://about.facebook.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Naver Z",
+                    "url": "https://www.naverz-corp.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Niantic",
+                    "url": "https://nianticlabs.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Snap",
+                    "url": "https://www.snap.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Spatial",
+                    "url": "https://www.spatial.io/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Valve",
+                    "url": "https://www.valvesoftware.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "VR Chat",
+                    "url": "http://vrchat.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57B3",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "宏達電",
+                    "url": "company_basic.php?stk_code=2498",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "資拓宏宇",
+                    "url": "company_basic.php?stk_code=6614",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈊象",
+                    "url": "company_basic.php?stk_code=3293",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宏碁資訊",
+                    "url": "company_basic.php?stk_code=6811",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Meta",
+                    "url": "https://about.facebook.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Naver Z",
+                    "url": "https://www.naverz-corp.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Niantic",
+                    "url": "https://nianticlabs.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Snap",
+                    "url": "https://www.snap.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Spatial",
+                    "url": "https://www.spatial.io/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Valve",
+                    "url": "https://www.valvesoftware.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "VR Chat",
+                    "url": "http://vrchat.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57B4",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "宏達電",
+                    "url": "company_basic.php?stk_code=2498",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈊象",
+                    "url": "company_basic.php?stk_code=3293",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Meta",
+                    "url": "https://about.facebook.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Naver Z",
+                    "url": "https://www.naverz-corp.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Niantic",
+                    "url": "https://nianticlabs.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Snap",
+                    "url": "https://www.snap.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Spatial",
+                    "url": "https://www.spatial.io/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Valve",
+                    "url": "https://www.valvesoftware.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "VR Chat",
+                    "url": "http://vrchat.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57B5",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "宏達電",
+                    "url": "company_basic.php?stk_code=2498",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈊象",
+                    "url": "company_basic.php?stk_code=3293",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Meta",
+                    "url": "https://about.facebook.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Naver Z",
+                    "url": "https://www.naverz-corp.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Niantic",
+                    "url": "https://nianticlabs.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Snap",
+                    "url": "https://www.snap.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Spatial",
+                    "url": "https://www.spatial.io/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Valve",
+                    "url": "https://www.valvesoftware.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "VR Chat",
+                    "url": "http://vrchat.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57B6",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "宏達電",
+                    "url": "company_basic.php?stk_code=2498",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈊象",
+                    "url": "company_basic.php?stk_code=3293",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宏碁資訊",
+                    "url": "company_basic.php?stk_code=6811",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "數位經濟",
+                    "url": "company_basic.php?stk_code=7624",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Meta",
+                    "url": "https://about.facebook.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "微軟",
+                    "url": "http://www.microsoft.com/zh-tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Naver Z",
+                    "url": "https://www.naverz-corp.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Niantic",
+                    "url": "https://nianticlabs.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Snap",
+                    "url": "https://www.snap.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Spatial",
+                    "url": "https://www.spatial.io/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Valve",
+                    "url": "https://www.valvesoftware.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "VR Chat",
+                    "url": "http://vrchat.com",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共76家"
+          }
+        },
+        {
+          "id": "ic_link_57C0",
+          "text": "垂直應用方案",
+          "detailed_data": {
+            "title": "垂直應用方案",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_57C1",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "FundamentalVR",
+                    "url": "https://fundamentalsurgery.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Medivis",
+                    "url": "https://www.medivis.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Obsess",
+                    "url": "https://obsessar.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "參數科技",
+                    "url": "https://ptc.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "TeamViewer",
+                    "url": "https://www.teamviewer.com/tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Wave",
+                    "url": "https://wavexr.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57C2",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "FundamentalVR",
+                    "url": "https://fundamentalsurgery.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Medivis",
+                    "url": "https://www.medivis.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Obsess",
+                    "url": "https://obsessar.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "參數科技",
+                    "url": "https://ptc.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "TeamViewer",
+                    "url": "https://www.teamviewer.com/tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Wave",
+                    "url": "https://wavexr.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57C3",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "FundamentalVR",
+                    "url": "https://fundamentalsurgery.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Medivis",
+                    "url": "https://www.medivis.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Obsess",
+                    "url": "https://obsessar.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "參數科技",
+                    "url": "https://ptc.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "TeamViewer",
+                    "url": "https://www.teamviewer.com/tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Wave",
+                    "url": "https://wavexr.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57C4",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "FundamentalVR",
+                    "url": "https://fundamentalsurgery.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Medivis",
+                    "url": "https://www.medivis.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Obsess",
+                    "url": "https://obsessar.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "參數科技",
+                    "url": "https://ptc.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "TeamViewer",
+                    "url": "https://www.teamviewer.com/tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Wave",
+                    "url": "https://wavexr.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57C5",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佐臻",
+                    "url": "company_basic.php?stk_code=4980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "FundamentalVR",
+                    "url": "https://fundamentalsurgery.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Medivis",
+                    "url": "https://www.medivis.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Obsess",
+                    "url": "https://obsessar.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "參數科技",
+                    "url": "https://ptc.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "TeamViewer",
+                    "url": "https://www.teamviewer.com/tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Wave",
+                    "url": "https://wavexr.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57C6",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "智崴",
+                    "url": "company_basic.php?stk_code=5263",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "中光電",
+                    "url": "company_basic.php?stk_code=5371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "FundamentalVR",
+                    "url": "https://fundamentalsurgery.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Medivis",
+                    "url": "https://www.medivis.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Obsess",
+                    "url": "https://obsessar.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "參數科技",
+                    "url": "https://ptc.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "TeamViewer",
+                    "url": "https://www.teamviewer.com/tw/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Wave",
+                    "url": "https://wavexr.com/",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共59家"
+          }
+        },
+        {
+          "id": "ic_link_57D0",
+          "text": "支援服務",
+          "detailed_data": {
+            "title": "支援服務",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_57D1",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Fieldbit",
+                    "url": "https://www.fieldbit.net/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "INOVX",
+                    "url": "https://www.inovx.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Wade FX",
+                    "url": "http://wadefx3d.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57D2",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Fieldbit",
+                    "url": "https://www.fieldbit.net/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "INOVX",
+                    "url": "https://www.inovx.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Wade FX",
+                    "url": "http://wadefx3d.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_57D3",
+                "title": "",
+                "companies": [
+                  {
+                    "name": "資拓宏宇",
+                    "url": "company_basic.php?stk_code=6614",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宇萌",
+                    "url": "company_basic.php?stk_code=7406",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Fieldbit",
+                    "url": "https://www.fieldbit.net/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "INOVX",
+                    "url": "https://www.inovx.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Wade FX",
+                    "url": "http://wadefx3d.com/",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共13家"
+          }
+        }
+      ]
+    }
+  ]
+}

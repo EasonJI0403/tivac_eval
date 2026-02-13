@@ -1,0 +1,1127 @@
+{
+  "title": "電子商務產業鏈",
+  "introduction": "電子商務產業鏈\n自網際網路在2000年後快速崛起，電子商務逐漸取代實體通路，由電商龍頭亞馬遜（Amazon）伊始，諸多電商業者其實力與規模已凌駕傳統零售業者，中國大陸代表業者阿里巴巴更是引領風潮之佼佼者。\n隨著電子商務發展逐漸成熟，網路購物已成為民眾日常消費的重要管道，整體數位金額在消費支出之占比有很明顯的成長，2014年至2024年間的年複合成長率達到16.9%。\n電子商務產業鏈可以區分為上游的支援服務業、中游的平台服務業以及下游的銷售服務業三個部分。上游的支援服務業涵蓋所有支持電子商務產業核心發展所需關聯業務，諸如物流倉儲、資訊系統建置、金流串接處理、資料分析處理以及行銷廣告等業務；中游的平台服務業則包括提供店點開設管理、交易撮(媒)合以及資訊聚合服務之業者；下游的銷售服務業則有自有產品(服務)銷售、一般零售以及票券銷售服務之業者。\n一、上游：\n電子商務產業鏈的上游為支持電子商務產業核心發展所需之關聯業務供應商，其涵蓋物流倉儲、資訊系統建置、金流串接處理、資料分析處理以及行銷廣告等，用以滿足經營電子商務業務所需之資訊流、金流以及物流等需求。\n物流倉儲有UPS、DHL為例；臺灣本地有老字號新竹物流、嘉里大榮及統一集團旗下的統一速達(黑貓宅急便)為代表，獨立倉儲則有永聯物流(物流共和國)為代表。除第三方物流業者外，電商平台中本土的momo、PCHome，及外來的蝦皮、酷澎、CYBERBIZ及SHOPLINE等業者近年均大幅投入自建物流體系。\n資訊系統建置有AWS(Amazon Web Service)；金流串接處理除有老字號Paypal外，Stripe等新創也異軍突起，臺灣則有綠界、藍新等業者雄踞市場。\n二、中游：\n電子商務產業鏈的中游為平台服務業者，其核心能力在於以平台之姿，串接資訊流、金流乃至於物流等服務，便利有意經營電子商務之商家得以快速進入市場，有店點開設管理、交易撮(媒)合以及資訊聚合服務等類型。\n店點開設管理業者主要以協助商家快速設置其專屬之交易環境(店點)為業務範疇，大型業者有亞馬遜、淘寶(阿里巴巴集團)或微信小店(騰訊集團)等，台灣則有露天市集、Yahoo!超級商城、91APP等業者為代表，其中PCHome集團的商店街於2024年底正式調整為集團官網，平台業務則交棒露天市集，並與CYBERBIZ進行策略合作，推出「平台+品牌官網」雙平台開店服務。\n交易撮(媒)合業者其核心業務為提供實體產品或服務之供需雙方線上交易環境，透過抽取交易佣金為報酬，有綜合型電商業者、大宗物資交易市集或金融商品交易市集等類型。代表業者中，綜合型電商有亞馬遜、eBay，台灣則有露天市集及Yahoo!超級商城；大宗物資交易市集以台灣食品廠商大成長城集團及中國大陸最大的糧油食品集團中糧集團發起的中華食物網，聚焦在大宗穀物市場的B2B電子商務交易平台，提供商流、金流、物流及資訊流之完整服務，台灣類似的有台塑網電子交易市集；金融商品交易市集則是以標準化金融商品為交易撮合對象，而相較於成熟的傳統金融商品市集，2021年上市那斯達克的加密貨幣交易所coinbase，台灣幣託(BitoEX)的BitoPro交易所及MainCoin集團的MAX交易所等新興業者亦受到矚目。\n資訊聚合類型之電商業者，其核心業務為提供各類資訊之聚集與整合平台，例如有提供視訊聚合服務的Youtube、人力資源的Monster Worldwide，或近年崛起零工平台的Upwork及TaskRabbit，以及美食評論的Yelp、大眾點評網等。台灣業者中，人力資源領域有傳統的104、518人力銀行，以及零工平台的小雞上工。\n三、下游：\n電子商務產業鏈下游為銷售服務業，包括自有產品(服務)銷售、一般零售以及票券銷售服務等類型業者。其中自有產品(服務)銷售是具備自有品牌之業者，有綜合型電商業者如亞馬遜，陸續建立各式各樣的自有商品品牌；有實體零售業者透過線上平台提供商品銷售服務，諸如蘋果(Apple)或是Walmart；亦有自製影片提供影音串流服務的網飛(Netflix)、迪士尼(Disney+)等。\n一般零售業者則是以自建平台作為第三方商品銷售之管道，諸如線上百貨的概念，例如綜合性業者如亞馬遜、阿里巴巴轄下之天貓為例。台灣市場方面則有PCHome線上購物、Yahoo奇摩購物中心、momo購物網等業者，近年則不少大型實體連鎖零售業者搶入，統一7-11、全家、全聯等均來勢洶洶。\n票券銷售服務其特色是提供各類實體或電子票券之銷售服務，國際知名業者有Eventbrite、Stubhub或隸屬阿里巴巴的大麥網等，台灣業者有兩廳院、寬宏、年代、KKTix等。\n根據eMarketer數據預估，2025年全球電子商務市場規模將突破7兆美元水準，占整體零售市場規模的24.5%，預估至2027年整體市場可超越8兆美元。另根據分析機構Statista報告推估，2025年全球行動商務市場規模可達2.5兆美元，期望至2027年整體規模可以上看3.4兆美元水準。\n臺灣市場部分，統一集團收購雅虎台灣電商，再入股PCHome 30%股份，堪稱年度產業最大變數；此外，近年電商業者相繼推出付費會員制，諸如蝦皮、momo，以及酷澎，也預告著未來臺灣電商市場的競爭態勢將更加詭譎。調研機構統計2024年台灣零售業網路銷售規模(含純電商及實體零售業網路銷售額) 新台幣6,533億元，其年增率為2.7%，除整體電商市場規模占整體零售銷售比例持續攀升之外，2025年規模亦可望邁向新台幣7,000億的水準。\n在電商次領域市場發展上，隨著TikTok在美國正式推出「TikTok Shop」服務，正式掀起北美地區短影音社群電商大戰。至於跨境電商方面，根據Coherent Market Insight最新資料顯示，2025年全球跨境電商市場規模為1.47兆美元，2032年規模可望達到4.81兆美元，年複合成長率為18.4%；其中以B2C模式占比最高，2025年約占79.6%，反映消費者對國際商品的購買需求日益增加。\n隨著整體電子商務市場，包含行動電商等的擴展，驅動數位支付規模的持續成長，根據調研機構Statista最新數據顯示，2025年全球數位支付市場規模為20兆美元，到2030年將達到38兆美元，年複合成長率13.6%。至於基於電商交易為基礎的先買後付BNPL服務，更走出2022年的低谷，根據Research And Markets報告顯示，2025年全球BNPL市場規模達到5,601億美元，預估2030年可至9,118億美元，年複合成長率為10.2%。伴隨著市場成長，亦引來諸多支付業者、網購平台陸續投入BNPL服務，包括Apple在美國正式推出Apple Pay Later搶市，台灣更有日系的AFTEE、新加坡Atome及慢點付等業者積極搶市，預估臺灣BNPL規模至2028年有機會達到新台幣1兆元的水準。",
+  "chains": [
+    {
+      "title": "上游支援服務業",
+      "companies": [
+        {
+          "id": "ic_link_R310",
+          "text": "物流倉儲服務",
+          "detailed_data": {
+            "title": "物流倉儲服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "富邦媒",
+                "url": "company_basic.php?stk_code=8454",
+                "is_foreign": false
+              },
+              {
+                "name": "欣新網",
+                "url": "company_basic.php?stk_code=2949",
+                "is_foreign": false
+              },
+              {
+                "name": "新零售",
+                "url": "company_basic.php?stk_code=3085",
+                "is_foreign": false
+              },
+              {
+                "name": "網家",
+                "url": "company_basic.php?stk_code=8044",
+                "is_foreign": false
+              },
+              {
+                "name": "聯邦快遞",
+                "url": "https://www.fedex.com/global/choose-location.html",
+                "is_foreign": true
+              },
+              {
+                "name": "優比速公司",
+                "url": "https://m.ups.com/mDot/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_R320",
+          "text": "資訊系統建置服務",
+          "detailed_data": {
+            "title": "資訊系統建置服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "佳世達",
+                "url": "company_basic.php?stk_code=2352",
+                "is_foreign": false
+              },
+              {
+                "name": "關貿",
+                "url": "company_basic.php?stk_code=6183",
+                "is_foreign": false
+              },
+              {
+                "name": "微程式",
+                "url": "company_basic.php?stk_code=7721",
+                "is_foreign": false
+              },
+              {
+                "name": "中華資安",
+                "url": "company_basic.php?stk_code=7765",
+                "is_foreign": false
+              },
+              {
+                "name": "欣新網",
+                "url": "company_basic.php?stk_code=2949",
+                "is_foreign": false
+              },
+              {
+                "name": "智冠",
+                "url": "company_basic.php?stk_code=5478",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "德鴻",
+                "url": "company_basic.php?stk_code=6910",
+                "is_foreign": false
+              },
+              {
+                "name": "意藍",
+                "url": "company_basic.php?stk_code=6925",
+                "is_foreign": false
+              },
+              {
+                "name": "光速火箭",
+                "url": "company_basic.php?stk_code=7782",
+                "is_foreign": false
+              },
+              {
+                "name": "網家",
+                "url": "company_basic.php?stk_code=8044",
+                "is_foreign": false
+              },
+              {
+                "name": "三竹",
+                "url": "company_basic.php?stk_code=8284",
+                "is_foreign": false
+              },
+              {
+                "name": "91APP*-KY",
+                "url": "company_basic.php?stk_code=6741",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠金融",
+                "url": "company_basic.php?stk_code=7819",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "發條橘子",
+                "url": "company_basic.php?stk_code=7569",
+                "is_foreign": false
+              },
+              {
+                "name": "環球睿視",
+                "url": "company_basic.php?stk_code=7587",
+                "is_foreign": false
+              },
+              {
+                "name": "優思睿智科技",
+                "url": "company_basic.php?stk_code=7593",
+                "is_foreign": false
+              },
+              {
+                "name": "大麥網路",
+                "url": "company_basic.php?stk_code=7600",
+                "is_foreign": false
+              },
+              {
+                "name": "數位經濟",
+                "url": "company_basic.php?stk_code=7624",
+                "is_foreign": false
+              },
+              {
+                "name": "方鼎資訊",
+                "url": "company_basic.php?stk_code=7673",
+                "is_foreign": false
+              },
+              {
+                "name": "亞馬遜",
+                "url": "http://www.amazon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "亞馬遜網路服務公司",
+                "url": "https://aws.amazon.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Google",
+                "url": "https://about.google/intl/ALL_tw/",
+                "is_foreign": true
+              },
+              {
+                "name": "國際商業機器股份有限公司",
+                "url": "http://www.ibm.com/en-us/homepage-d.html",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共28家"
+          }
+        },
+        {
+          "id": "ic_link_R330",
+          "text": "金流串接處理服務",
+          "detailed_data": {
+            "title": "金流串接處理服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "關貿",
+                "url": "company_basic.php?stk_code=6183",
+                "is_foreign": false
+              },
+              {
+                "name": "微程式",
+                "url": "company_basic.php?stk_code=7721",
+                "is_foreign": false
+              },
+              {
+                "name": "LINEPAY",
+                "url": "company_basic.php?stk_code=7722",
+                "is_foreign": false
+              },
+              {
+                "name": "欣新網",
+                "url": "company_basic.php?stk_code=2949",
+                "is_foreign": false
+              },
+              {
+                "name": "歐買尬",
+                "url": "company_basic.php?stk_code=3687",
+                "is_foreign": false
+              },
+              {
+                "name": "智冠",
+                "url": "company_basic.php?stk_code=5478",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "綠界科技*",
+                "url": "company_basic.php?stk_code=6763",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "網家",
+                "url": "company_basic.php?stk_code=8044",
+                "is_foreign": false
+              },
+              {
+                "name": "91APP*-KY",
+                "url": "company_basic.php?stk_code=6741",
+                "is_foreign": false
+              },
+              {
+                "name": "ACpay",
+                "url": "company_basic.php?stk_code=6984",
+                "is_foreign": false
+              },
+              {
+                "name": "紅陽",
+                "url": "company_basic.php?stk_code=7745",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠金融",
+                "url": "company_basic.php?stk_code=7819",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "數位經濟",
+                "url": "company_basic.php?stk_code=7624",
+                "is_foreign": false
+              },
+              {
+                "name": "美家人力",
+                "url": "company_basic.php?stk_code=7680",
+                "is_foreign": false
+              },
+              {
+                "name": "亞馬遜",
+                "url": "http://www.amazon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Ant Group",
+                "url": "https://www.antgroup.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "First Data",
+                "url": "https://www.firstdata.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Paypal",
+                "url": "www.paypal.com",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共22家"
+          }
+        },
+        {
+          "id": "ic_link_R340",
+          "text": "資料分析處理服務",
+          "detailed_data": {
+            "title": "資料分析處理服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "佳世達",
+                "url": "company_basic.php?stk_code=2352",
+                "is_foreign": false
+              },
+              {
+                "name": "關貿",
+                "url": "company_basic.php?stk_code=6183",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "微程式",
+                "url": "company_basic.php?stk_code=7721",
+                "is_foreign": false
+              },
+              {
+                "name": "中華資安",
+                "url": "company_basic.php?stk_code=7765",
+                "is_foreign": false
+              },
+              {
+                "name": "欣新網",
+                "url": "company_basic.php?stk_code=2949",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "意藍",
+                "url": "company_basic.php?stk_code=6925",
+                "is_foreign": false
+              },
+              {
+                "name": "網家",
+                "url": "company_basic.php?stk_code=8044",
+                "is_foreign": false
+              },
+              {
+                "name": "三竹",
+                "url": "company_basic.php?stk_code=8284",
+                "is_foreign": false
+              },
+              {
+                "name": "91APP*-KY",
+                "url": "company_basic.php?stk_code=6741",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠金融",
+                "url": "company_basic.php?stk_code=7819",
+                "is_foreign": false
+              },
+              {
+                "name": "極風雲創",
+                "url": "company_basic.php?stk_code=7826",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "環球睿視",
+                "url": "company_basic.php?stk_code=7587",
+                "is_foreign": false
+              },
+              {
+                "name": "亞馬遜",
+                "url": "http://www.amazon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "國際商業機器股份有限公司",
+                "url": "http://www.ibm.com/en-us/homepage-d.html",
+                "is_foreign": true
+              },
+              {
+                "name": "微軟",
+                "url": "http://www.microsoft.com/zh-tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共20家"
+          }
+        },
+        {
+          "id": "ic_link_R350",
+          "text": "行銷廣告服務",
+          "detailed_data": {
+            "title": "行銷廣告服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "一零四",
+                "url": "company_basic.php?stk_code=3130",
+                "is_foreign": false
+              },
+              {
+                "name": "LINEPAY",
+                "url": "company_basic.php?stk_code=7722",
+                "is_foreign": false
+              },
+              {
+                "name": "欣新網",
+                "url": "company_basic.php?stk_code=2949",
+                "is_foreign": false
+              },
+              {
+                "name": "新零售",
+                "url": "company_basic.php?stk_code=3085",
+                "is_foreign": false
+              },
+              {
+                "name": "數字",
+                "url": "company_basic.php?stk_code=5287",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "意藍",
+                "url": "company_basic.php?stk_code=6925",
+                "is_foreign": false
+              },
+              {
+                "name": "光速火箭",
+                "url": "company_basic.php?stk_code=7782",
+                "is_foreign": false
+              },
+              {
+                "name": "網家",
+                "url": "company_basic.php?stk_code=8044",
+                "is_foreign": false
+              },
+              {
+                "name": "三竹",
+                "url": "company_basic.php?stk_code=8284",
+                "is_foreign": false
+              },
+              {
+                "name": "91APP*-KY",
+                "url": "company_basic.php?stk_code=6741",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "樂居科技",
+                "url": "company_basic.php?stk_code=7609",
+                "is_foreign": false
+              },
+              {
+                "name": "數位經濟",
+                "url": "company_basic.php?stk_code=7624",
+                "is_foreign": false
+              },
+              {
+                "name": "數位獵人",
+                "url": "company_basic.php?stk_code=7674",
+                "is_foreign": false
+              },
+              {
+                "name": "亞馬遜",
+                "url": "http://www.amazon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Google",
+                "url": "https://about.google/intl/ALL_tw/",
+                "is_foreign": true
+              },
+              {
+                "name": "Meta",
+                "url": "https://about.facebook.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共19家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游平台服務業",
+      "companies": [
+        {
+          "id": "ic_link_R360",
+          "text": "店點開設管理",
+          "detailed_data": {
+            "title": "店點開設管理",
+            "categories": [],
+            "companies": [
+              {
+                "name": "富邦媒",
+                "url": "company_basic.php?stk_code=8454",
+                "is_foreign": false
+              },
+              {
+                "name": "欣新網",
+                "url": "company_basic.php?stk_code=2949",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "網家",
+                "url": "company_basic.php?stk_code=8044",
+                "is_foreign": false
+              },
+              {
+                "name": "91APP*-KY",
+                "url": "company_basic.php?stk_code=6741",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "環球睿視",
+                "url": "company_basic.php?stk_code=7587",
+                "is_foreign": false
+              },
+              {
+                "name": "大麥網路",
+                "url": "company_basic.php?stk_code=7600",
+                "is_foreign": false
+              },
+              {
+                "name": "數位經濟",
+                "url": "company_basic.php?stk_code=7624",
+                "is_foreign": false
+              },
+              {
+                "name": "創客共好",
+                "url": "company_basic.php?stk_code=7688",
+                "is_foreign": false
+              },
+              {
+                "name": "阿里巴巴集團",
+                "url": "http://www.alibabagroup.com/cn/global/home",
+                "is_foreign": true
+              },
+              {
+                "name": "亞馬遜",
+                "url": "http://www.amazon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "電子海灣",
+                "url": "http://m.ebay.com/?_mwBanner=1",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共14家"
+          }
+        },
+        {
+          "id": "ic_link_R370",
+          "text": "交易撮(媒)合",
+          "detailed_data": {
+            "title": "交易撮(媒)合",
+            "categories": [],
+            "companies": [
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "大車隊",
+                "url": "company_basic.php?stk_code=2640",
+                "is_foreign": false
+              },
+              {
+                "name": "尚凡*",
+                "url": "company_basic.php?stk_code=5278",
+                "is_foreign": false
+              },
+              {
+                "name": "數字",
+                "url": "company_basic.php?stk_code=5287",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "91APP*-KY",
+                "url": "company_basic.php?stk_code=6741",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "環球睿視",
+                "url": "company_basic.php?stk_code=7587",
+                "is_foreign": false
+              },
+              {
+                "name": "數位經濟",
+                "url": "company_basic.php?stk_code=7624",
+                "is_foreign": false
+              },
+              {
+                "name": "美家人力",
+                "url": "company_basic.php?stk_code=7680",
+                "is_foreign": false
+              },
+              {
+                "name": "亞馬遜",
+                "url": "http://www.amazon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "幣安",
+                "url": "https://www.binance.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "北京中聯鋼電子商務",
+                "url": "http://www.custeel.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中國聯合鋼鐵網",
+                "url": "http://www.custeel.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共14家"
+          }
+        },
+        {
+          "id": "ic_link_R380",
+          "text": "資訊聚合",
+          "detailed_data": {
+            "title": "資訊聚合",
+            "categories": [],
+            "companies": [
+              {
+                "name": "佳世達",
+                "url": "company_basic.php?stk_code=2352",
+                "is_foreign": false
+              },
+              {
+                "name": "一零四",
+                "url": "company_basic.php?stk_code=3130",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "微程式",
+                "url": "company_basic.php?stk_code=7721",
+                "is_foreign": false
+              },
+              {
+                "name": "尚凡*",
+                "url": "company_basic.php?stk_code=5278",
+                "is_foreign": false
+              },
+              {
+                "name": "數字",
+                "url": "company_basic.php?stk_code=5287",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "意藍",
+                "url": "company_basic.php?stk_code=6925",
+                "is_foreign": false
+              },
+              {
+                "name": "網家",
+                "url": "company_basic.php?stk_code=8044",
+                "is_foreign": false
+              },
+              {
+                "name": "三竹",
+                "url": "company_basic.php?stk_code=8284",
+                "is_foreign": false
+              },
+              {
+                "name": "91APP*-KY",
+                "url": "company_basic.php?stk_code=6741",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "環球睿視",
+                "url": "company_basic.php?stk_code=7587",
+                "is_foreign": false
+              },
+              {
+                "name": "樂居科技",
+                "url": "company_basic.php?stk_code=7609",
+                "is_foreign": false
+              },
+              {
+                "name": "數位經濟",
+                "url": "company_basic.php?stk_code=7624",
+                "is_foreign": false
+              },
+              {
+                "name": "亞馬遜",
+                "url": "http://www.amazon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Monster Worldwide",
+                "url": "https://www.monster.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Yelp",
+                "url": "https://www.yelp.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Youtube",
+                "url": "www.youtube.com",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共21家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游銷售服務業",
+      "companies": [
+        {
+          "id": "ic_link_R390",
+          "text": "自有產品(服務)銷售",
+          "detailed_data": {
+            "title": "自有產品(服務)銷售",
+            "categories": [],
+            "companies": [
+              {
+                "name": "宏正",
+                "url": "company_basic.php?stk_code=6277",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "新零售",
+                "url": "company_basic.php?stk_code=3085",
+                "is_foreign": false
+              },
+              {
+                "name": "美而快",
+                "url": "company_basic.php?stk_code=5321",
+                "is_foreign": false
+              },
+              {
+                "name": "智冠",
+                "url": "company_basic.php?stk_code=5478",
+                "is_foreign": false
+              },
+              {
+                "name": "岳豐",
+                "url": "company_basic.php?stk_code=6220",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "軒郁",
+                "url": "company_basic.php?stk_code=6703",
+                "is_foreign": false
+              },
+              {
+                "name": "光速火箭",
+                "url": "company_basic.php?stk_code=7782",
+                "is_foreign": false
+              },
+              {
+                "name": "麗彤",
+                "url": "company_basic.php?stk_code=6539",
+                "is_foreign": false
+              },
+              {
+                "name": "晶鑽生醫",
+                "url": "company_basic.php?stk_code=6815",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "易得雲端",
+                "url": "company_basic.php?stk_code=7408",
+                "is_foreign": false
+              },
+              {
+                "name": "優思睿智科技",
+                "url": "company_basic.php?stk_code=7593",
+                "is_foreign": false
+              },
+              {
+                "name": "樂居科技",
+                "url": "company_basic.php?stk_code=7609",
+                "is_foreign": false
+              },
+              {
+                "name": "數位經濟",
+                "url": "company_basic.php?stk_code=7624",
+                "is_foreign": false
+              },
+              {
+                "name": "對稱資訊",
+                "url": "company_basic.php?stk_code=7684",
+                "is_foreign": false
+              },
+              {
+                "name": "Airbnb",
+                "url": "https://www.airbnb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "亞馬遜",
+                "url": "http://www.amazon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "蘋果",
+                "url": "https://www.apple.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Dropbox",
+                "url": "www.dropbox.com",
+                "is_foreign": true
+              },
+              {
+                "name": "網飛",
+                "url": "https://www.netflix.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Walmart",
+                "url": "https://www.walmart.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共23家"
+          }
+        },
+        {
+          "id": "ic_link_R3A0",
+          "text": "一般零售",
+          "detailed_data": {
+            "title": "一般零售",
+            "categories": [],
+            "companies": [
+              {
+                "name": "富邦媒",
+                "url": "company_basic.php?stk_code=8454",
+                "is_foreign": false
+              },
+              {
+                "name": "欣新網",
+                "url": "company_basic.php?stk_code=2949",
+                "is_foreign": false
+              },
+              {
+                "name": "新零售",
+                "url": "company_basic.php?stk_code=3085",
+                "is_foreign": false
+              },
+              {
+                "name": "岳豐",
+                "url": "company_basic.php?stk_code=6220",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "軒郁",
+                "url": "company_basic.php?stk_code=6703",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫傳",
+                "url": "company_basic.php?stk_code=6856",
+                "is_foreign": false
+              },
+              {
+                "name": "光速火箭",
+                "url": "company_basic.php?stk_code=7782",
+                "is_foreign": false
+              },
+              {
+                "name": "網家",
+                "url": "company_basic.php?stk_code=8044",
+                "is_foreign": false
+              },
+              {
+                "name": "夠麻吉",
+                "url": "company_basic.php?stk_code=8472",
+                "is_foreign": false
+              },
+              {
+                "name": "創業家",
+                "url": "company_basic.php?stk_code=8477",
+                "is_foreign": false
+              },
+              {
+                "name": "美賣*",
+                "url": "company_basic.php?stk_code=6473",
+                "is_foreign": false
+              },
+              {
+                "name": "麗彤",
+                "url": "company_basic.php?stk_code=6539",
+                "is_foreign": false
+              },
+              {
+                "name": "路迦生醫",
+                "url": "company_basic.php?stk_code=6814",
+                "is_foreign": false
+              },
+              {
+                "name": "晶鑽生醫",
+                "url": "company_basic.php?stk_code=6815",
+                "is_foreign": false
+              },
+              {
+                "name": "優思睿智科技",
+                "url": "company_basic.php?stk_code=7593",
+                "is_foreign": false
+              },
+              {
+                "name": "阿里巴巴集團",
+                "url": "http://www.alibabagroup.com/cn/global/home",
+                "is_foreign": true
+              },
+              {
+                "name": "亞馬遜",
+                "url": "http://www.amazon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "電子海灣",
+                "url": "http://m.ebay.com/?_mwBanner=1",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共19家"
+          }
+        },
+        {
+          "id": "ic_link_R3B0",
+          "text": "票券銷售",
+          "detailed_data": {
+            "title": "票券銷售",
+            "categories": [],
+            "companies": [
+              {
+                "name": "LINEPAY",
+                "url": "company_basic.php?stk_code=7722",
+                "is_foreign": false
+              },
+              {
+                "name": "富邦媒",
+                "url": "company_basic.php?stk_code=8454",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "網家",
+                "url": "company_basic.php?stk_code=8044",
+                "is_foreign": false
+              },
+              {
+                "name": "夠麻吉",
+                "url": "company_basic.php?stk_code=8472",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "大麥網路",
+                "url": "company_basic.php?stk_code=7600",
+                "is_foreign": false
+              },
+              {
+                "name": "damai.cn",
+                "url": "https://www.damai.cn",
+                "is_foreign": true
+              },
+              {
+                "name": "Eventbrite",
+                "url": "https://www.eventbrite.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Stubhub",
+                "url": "https://www.stubhub.com",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共11家"
+          }
+        }
+      ]
+    }
+  ]
+}

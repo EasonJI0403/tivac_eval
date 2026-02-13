@@ -1,0 +1,657 @@
+{
+  "title": "太空衛星科技產業鏈",
+  "introduction": "太空衛星科技產業鏈\n太空衛星產業鏈上游包含零組件供應與設備製造，中游為發射營運商，下游為應用服務商。\n一、上游：\n太空衛星產業上游包含零組件/材料供應、次系統及整機製造等。整機設備主要可分為衛星、發射載具、太空船及地面設備等四大類型，依照設備類型各自擁有不同之次系統及零組件/材料供應廠商。衛星在太空中依循特定軌道運行在地球周圍執行不同任務；依軌道高度而言，衛星可分為地球同步軌道衛星（Geostationary Orbit Satellite, GSO）及非地球同步軌道衛星（Non-geostationary Orbit Satellite, NGSO），GSO在距離地球表面35,786公里高度之軌道上運行，而NGSO則可再依高度細分為中軌道衛星（Medium Earth Orbit, MEO）及低軌道衛星（Low Earth Orbit, LEO）。依任務屬性不同可分為地球觀測、通訊、導航、廣播及軍事等衛星。國際主要衛星製造業者如Boeing、Airbus、Thales Alenia Space、Lockheed Martin等。\n發射載具主要是將衛星或載人太空船運輸至次軌道、地球軌道或其他太空空間之載運工具，包含消耗性運載火箭及可重複使用運載火箭。國際發射載具製造商如美國Boeing、Arca Space、Astra Space、Space Exploration Technologies（SpaceX）。\n太空船可分為物流太空船與載人太空船；物流太空船任務包含運輸食物、推進器、機具等至太空站，載人太空船則負責將太空人送至太空站執行任務。主要國際太空船製造廠商如SpaceX、Northrop Grumman Innovation Systems、Blue Origin、Boeing等。\n地面設備部分可分為地面站（Earth station/ Ground Station）及用戶終端（User Terminal）等兩大類型。地面站具備射頻設備及相關電子元件可與衛星間進行發射、接收等通訊訊號傳輸，地面站透過數據分析設備或連結外部分析設備，提供衛星高度、移動與運作狀態等資訊分析，部分地面站兼具追蹤、指令與控制衛星之功能。國際主要地面站製造商如Comtech、Hughes等。用戶終端部分，依據不同應用類型包含衛星機上盒、小型衛星地面終端設備（Very Small Aperture Terminal, VSAT）、導航設備、衛星電話等。其中衛星通訊為近年衛星營運商主要布局應用，帶動家庭、企業衛星寬頻連線之VSAT相關裝置成長，主要品牌業者為Hughes、ST Engineering iDirect、Gilat、Comtech等。除既有品牌業者外，新興低軌衛星通訊服務業者如Starlink、Kuiper等則傾向自行設計，與零組件、OEM業者合作製造地面設備。\n次系統部分，整合零組件/材料後依照不同設備所需之功能，提供相對應之次系統，主要包含酬載、通訊、航電系統、結構、電源與熱控等。以酬載次系統為例主要廠商如Northrop Grummamn、Airbus、Thales Alenia Space及L3Harris Technologies等。\n零組件/材料供應部分主要可分為通訊使用之天線及射頻/基頻元件與晶片，其中天線可分為碟型天線、一般天線與平板相位陣列天線；隨衛星通訊逐步採用毫米波頻段，衛星服務商與設備業者多投入發展與採用相位陣列天線，負責陣列天線控制之Beamforming IC為關鍵零組件，主要廠商為STMicroelectronics、Analog Devices及Anokiwave等。近年隨低軌衛星通訊服務商用發展，擁有大型星系的服務商為提升衛星通訊傳輸效率與減少大型地面站的建置與維運，開始在衛星中導入採用雷射光通訊技術的衛星間通訊系統，提供高速之衛星間數據傳輸，帶動業者投入開發相關產品，主要業者包含Airbus子公司Tesat-Spacecom、Thales Alenia Space、德國新創Mynaric等。\n太陽能板與電池則提供衛星等太空設備之電力供應，其中太陽能電池供應廠商如Spectrolab（Boeing子公司）、Rocket Lab（併購SolAero）等。其他主要零組件/材料如協助地球觀測任務之影像感測、提供火箭推進動力之燃料等。\n二、中游：\n太空衛星產業鏈中游包含發射服務、仲介服務與營運管理等領域。發射服務商提供運載火箭協助政府、學研機構與企業等將衛星、太空船等設備載運至太空，主要發射服務提供商如SpaceX、Arianespace、United Launch Alliance、Rocket Lab、Virgin Orbit等。\n仲介服務主要提供發射服務媒合、發射服務代理、發射任務顧問管理等服務，通常為立方衛星、小型衛星等尋找合適之發射服務商，國際主要業者如Mitsui（併購Spaceflight）、Nanoracks、SEOPS (L2 Solutions子公司)等。\n營運管理服務方面，可分為衛星網路及地面設備兩部分。衛星網路營運管理業者可直接提供服務給用戶，或透過代理、租用方式由服務商提供衛星通訊、導航等服務。衛星網路營運管理業者如Echostar、Eutelsat、Inmarsat等傳統衛星通訊業者，多採用地球同步軌道衛星，相關軌道資源有限且僅需少數衛星即可覆蓋全球，因此通常衛星數量較少；另一方面，由Starlink（SpaceX）、Eutelsat OneWeb等業者代表之低軌衛星通訊業者，則具大規模星系，衛星數量從數百顆至萬顆不等。導航衛星部分，目前全球代表性的導航衛星系統多由政府所營運管理，如美國太空軍（United States Space Force）營運全球定位系統（Global Positioning System, GPS）、俄羅斯航太營運之格洛納斯系統（Globalnaya Navigatsionnaya Sputnikovaya Sistema, GLONASS）及歐盟太空計畫局的伽利略定位系統（Galileo）等。\n地面設備營運管理部分，除可由衛星營運商自行建置管理外，鑑於許多小型衛星業者缺乏於全球範圍下建置地面網路之能力，發展出地面網路託管或地面站即服務（Ground Station as a Service）等業務，提供衛星地面網路之設計、採購、天線安裝及營運、衛星控制、數據分析等服務。主要業者如Kongsberg Satellite Services（K-SAT）、Swedish Space Corporation（SSC）、AWS、Microsoft、Viasat等。\n三、下游：\n太空衛星產業下游包含通訊、影像遙測、導航定位等服務。衛星通訊服務部分，可分為衛星語音及窄頻數據傳輸服務、衛星物聯網服務及衛星寬頻服務。衛星通訊服務之提供除前述由衛星網路營運商直接提供外，亦可透過服務代理商向終端用戶提供。衛星語音及窄頻數據服務商如HughesNet、Viasat、Thuraya、Iridium、Globalstar等；衛星物聯網則提供環境監測、物流、能源等垂直領域之連網服務，相關服務商如Inmarsat、Orbcomm、Kepler等。運用點數波等技術之高通量衛星則可提供較傳統固定衛星通信高出數倍以上傳輸速度與容量之衛星寬頻服務，主要服務商包含高通量（High Throughput Satellites, HTS）高軌衛星業者如Viasat、Eutelsat等，低軌衛星業者如Starlink、Eutelsat OneＷeb、Project Kuiper、Telesat等。\n導航定位則利用導航衛星之定位資訊提供相關服務；影像感測部分，從衛星拍攝之影像數據，可應用於環境監測、農業、災害預防、地圖、能源、基礎建設等領域，主要業者如Maxar Technologies、Spire Global、Planet等。\n觀察衛星服務市場發展，根據衛星產業協會（Satellite Industry Association, SIA）指出，2024年約259次火箭發射，協助布建2,695顆衛星進入軌道，其中超過7成皆為通訊衛星，推升全球在軌運作之衛星達11,539顆。SIA報告顯示，2024年由Starlink、Eutelsat OneWeb等新興衛星通訊營運商服務在全球展開，帶動相關服務營收成長；但傳統衛星服務如高軌衛星通訊服務、衛星電視服務營收下滑。此外，在產業數位化趨勢下，帶動以衛星影像為主之衛星遙測服務營收亦增加，使2024年衛星服務營收達1,083億美元。\n主要服務業者發展方面，Starlink自2020年10月推出測試服務後加速全球布局腳步，至2025年中已完成約7,714顆衛星發射，其中超過7,691顆衛星在軌道上運行，其中包含約494顆可支援手機直連功能之衛星。以衛星寬頻服務而言，至2025上半年約有135國可使用，包含歐美亞洲地區，其中印度市場於2025年6月獲准提供衛星網路服務，預計未來12個月內將可開始營運。根據Starlink於2025年公布之資訊，目前全球用戶數已突破600萬戶。在手機直連服務方面，2024年底隨第一階段直連衛星布建完成，將支援美國行動通訊營運商T-Mobile使用之頻段，首先於美國推出手機直連衛星服務，截至目前為止已於美國、日本、澳洲、紐西蘭及烏克蘭等地開通服務。現階段以提供簡訊傳輸服務為主，2025年後預計增加語音、數據傳輸及IoT服務。Eutelsat OneWeb於2023年中已完成第一代所有衛星約634顆衛星布建，2025年隨地面站建設完成，將達成全球覆蓋。同時，中華電信為台灣Eutelsat OneWeb服務代理商，並於2025年6月取得商用許可，合作提供政府、企業市場衛星寬頻通訊．亦預計於2025年於其他亞洲市場如南韓提供服務。另一家低軌衛星寬頻業者Amazon旗下Project Kuiper，在前幾年發射延遲後，於2025年起規劃多次發射任務，加速布建商用星系；加拿大業者Telesat低軌衛星星系Lightspeed亦預計於2026年發射衛星，，2027年提供服務，目前已與多家高軌衛星業者、電信業者簽訂合作，預定其衛星容量提供服務。\n除Starlink、Eutelsat OneWeb等兩家大規模星系業者外，以提供衛星電話、衛星物聯網服務之低軌衛星營運商Globalstar，2022年宣布與Apple合作，利用Globalstar的24顆L-band頻段衛星，提供手機衛星緊急救助簡訊服務，2024年Apple宣布加碼投資Globalstar約17億美元，以強化其衛星通訊服務，目前最新版的iOS 18作業系統下，除緊急訊息外，衛星通訊亦可用作傳輸Apple自有的多媒體訊息服務iMessage。2024年底Globalstar宣佈其C-3衛星計畫，強化其手機直連衛星服務。除Apple外，其他Android陣營智慧型手機品牌業者，亦加入提供衛星通訊功能，如華為Ｍate旗艦系列手機利用中國北斗衛星及天通衛星等中高軌衛星提供簡訊傳輸及語音通話服務，並宣布將於2025年開始測試與低軌衛星通訊之功能。其他業者包含Google、小米、榮耀等手機品牌也陸續跟進。而手機晶片業者如聯發科、高通、三星也投入衛星通訊晶片之開發與商用，如衛星平台業者Skylo與聯發科、高通等業者合作開發衛星直連應用。隨著手機直連議題持續受到關注，主要投入相關應用之新創衛星業者AST SpaceＭobile、Lynk Global等，也陸續取得與電信營運商的合作，如AST SpaceＭobile規劃建立由168顆衛星組成的衛星網路，將與AT&T、Verizon、Vodafone等營運商合作，利用現有的LTE/5G手機就可以與衛星進行連線。Lynk Global則已在所羅門群島、庫克群島及帛琉等地提供服務，並與台灣大哥大合作驗證相關技術；2025年預計亦將進入美國市場，首先將於關島提供服務。高軌衛星通訊業者則受到低軌衛星營運商的競爭，使其用戶數及營收受到衝擊，積極思考強化服務與轉型。如Viasat、SES、Intelsat等業者積極與低軌衛星業者合作，可利用高軌衛星的廣富蓋及低軌衛星的低延遲等優勢，規劃在如航空、海事等領域提供多軌道衛星整合服務。",
+  "chains": [
+    {
+      "title": "上游",
+      "companies": [
+        {
+          "id": "ic_link_4110",
+          "text": "零組件/材料",
+          "detailed_data": {
+            "title": "零組件/材料",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_4111",
+                "title": "天線/射頻基頻",
+                "companies": [
+                  {
+                    "name": "台達電",
+                    "url": "company_basic.php?stk_code=2308",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "台揚",
+                    "url": "company_basic.php?stk_code=2314",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佳世達",
+                    "url": "company_basic.php?stk_code=2352",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "明泰",
+                    "url": "company_basic.php?stk_code=3380",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "同欣電",
+                    "url": "company_basic.php?stk_code=6271",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "啟碁",
+                    "url": "company_basic.php?stk_code=6285",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "穩懋",
+                    "url": "company_basic.php?stk_code=3105",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "昇達科",
+                    "url": "company_basic.php?stk_code=3491",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "新復興",
+                    "url": "company_basic.php?stk_code=4909",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宣德",
+                    "url": "company_basic.php?stk_code=5457",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "崴寶",
+                    "url": "company_basic.php?stk_code=7744",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鐳洋科技",
+                    "url": "company_basic.php?stk_code=6980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "科建",
+                    "url": "company_basic.php?stk_code=7886",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "亞德諾半導體",
+                    "url": "http://www.analog.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Anokiwave",
+                    "url": "https://www.anokiwave.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "意法半導體",
+                    "url": "http://www.st.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_4112",
+                "title": "太陽能板/電池",
+                "companies": [
+                  {
+                    "name": "昇達科",
+                    "url": "company_basic.php?stk_code=3491",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "新復興",
+                    "url": "company_basic.php?stk_code=4909",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宣德",
+                    "url": "company_basic.php?stk_code=5457",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "崴寶",
+                    "url": "company_basic.php?stk_code=7744",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "科建",
+                    "url": "company_basic.php?stk_code=7886",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Rocket Lab",
+                    "url": "https://www.rocketlabusa.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Spectrolab",
+                    "url": "https://www.spectrolab.com",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_4113",
+                "title": "感測器",
+                "companies": [
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "昇達科",
+                    "url": "company_basic.php?stk_code=3491",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "新復興",
+                    "url": "company_basic.php?stk_code=4909",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宣德",
+                    "url": "company_basic.php?stk_code=5457",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "崴寶",
+                    "url": "company_basic.php?stk_code=7744",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "科建",
+                    "url": "company_basic.php?stk_code=7886",
+                    "is_foreign": false
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_4114",
+                "title": "微電子",
+                "companies": [
+                  {
+                    "name": "昇達科",
+                    "url": "company_basic.php?stk_code=3491",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "新復興",
+                    "url": "company_basic.php?stk_code=4909",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宣德",
+                    "url": "company_basic.php?stk_code=5457",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "崴寶",
+                    "url": "company_basic.php?stk_code=7744",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "科建",
+                    "url": "company_basic.php?stk_code=7886",
+                    "is_foreign": false
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_4115",
+                "title": "金屬/燃料",
+                "companies": [
+                  {
+                    "name": "公準",
+                    "url": "company_basic.php?stk_code=3178",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "昇達科",
+                    "url": "company_basic.php?stk_code=3491",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "新復興",
+                    "url": "company_basic.php?stk_code=4909",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宣德",
+                    "url": "company_basic.php?stk_code=5457",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "崴寶",
+                    "url": "company_basic.php?stk_code=7744",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "科建",
+                    "url": "company_basic.php?stk_code=7886",
+                    "is_foreign": false
+                  }
+                ]
+              }
+            ],
+            "total_count": "共40家"
+          }
+        },
+        {
+          "id": "ic_link_4120",
+          "text": "次系統",
+          "detailed_data": {
+            "title": "次系統",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_4121",
+                "title": "酬載",
+                "companies": [
+                  {
+                    "name": "鐳洋科技",
+                    "url": "company_basic.php?stk_code=6980",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "空中巴士",
+                    "url": "https://www.airbus.com/en",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "L3Harris Technologies",
+                    "url": "https://www.l3harris.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Northrop Grumman",
+                    "url": "https://www.northropgrumman.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Thales Alenia Space",
+                    "url": "https://www.thalesgroup.com/en/global/activities/space",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_4122",
+                "title": "通訊",
+                "companies": [
+                  {
+                    "name": "鐳洋科技",
+                    "url": "company_basic.php?stk_code=6980",
+                    "is_foreign": false
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_4123",
+                "title": "航電系統",
+                "companies": [
+                  {
+                    "name": "Aerojet Rocketdyne",
+                    "url": "https://www.rocket.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_4124",
+                "title": "結構",
+                "companies": []
+              },
+              {
+                "id": "sc_company_4125",
+                "title": "電源",
+                "companies": []
+              },
+              {
+                "id": "sc_company_4126",
+                "title": "熱控",
+                "companies": []
+              }
+            ],
+            "total_count": "共7家"
+          }
+        },
+        {
+          "id": "ic_link_4130",
+          "text": "整機",
+          "detailed_data": {
+            "title": "整機",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_4131",
+                "title": "衛星",
+                "companies": [
+                  {
+                    "name": "空中巴士",
+                    "url": "https://www.airbus.com/en",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "波音",
+                    "url": "https://www.boeing.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "洛克希德·馬丁",
+                    "url": "https://www.lockheedmartin.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Thales Alenia Space",
+                    "url": "https://www.thalesgroup.com/en/global/activities/space",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_4132",
+                "title": "發射載具",
+                "companies": [
+                  {
+                    "name": "Arca Space",
+                    "url": "https://www.arcaspace.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Astra Space",
+                    "url": "https://astra.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_4133",
+                "title": "太空船",
+                "companies": [
+                  {
+                    "name": "Northrop Grumman",
+                    "url": "https://www.northropgrumman.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "SpaceX",
+                    "url": "https://www.spacex.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_4134",
+                "title": "地面設備",
+                "companies": [
+                  {
+                    "name": "Comtech",
+                    "url": "https://www.comtechtel.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Gilat",
+                    "url": "https://www.gilat.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "ST Engineering iDirect",
+                    "url": "https://www.idirect.net/",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共11家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游",
+      "companies": [
+        {
+          "id": "ic_link_4140",
+          "text": "發射服務",
+          "detailed_data": {
+            "title": "發射服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "Arianespace",
+                "url": "https://www.arianespace.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Blue Origin",
+                "url": "https://www.blueorigin.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Northrop Grumman Innovation Systems",
+                "url": "https://www.northropgrumman.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Rocket Lab",
+                "url": "https://www.rocketlabusa.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "SpaceX",
+                "url": "https://www.spacex.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "United Launch Alliance",
+                "url": "https://www.ulalaunch.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Virgin Orbit",
+                "url": "https://virginorbit.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共7家"
+          }
+        },
+        {
+          "id": "ic_link_4150",
+          "text": "仲介服務",
+          "detailed_data": {
+            "title": "仲介服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "Nanoracks",
+                "url": "https://nanoracks.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "SEOPS",
+                "url": "https://seopsllc.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共2家"
+          }
+        },
+        {
+          "id": "ic_link_4160",
+          "text": "營運管理",
+          "detailed_data": {
+            "title": "營運管理",
+            "categories": [],
+            "companies": [
+              {
+                "name": "Echostar",
+                "url": "https://www.echostar.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Eutelsat",
+                "url": "https://www.eutelsat.com/en/home.html",
+                "is_foreign": true
+              },
+              {
+                "name": "Inmarsat",
+                "url": "https://www.inmarsat.com/en/index.html",
+                "is_foreign": true
+              },
+              {
+                "name": "Kongsberg Satellite Services (K-SAT)",
+                "url": "https://www.ksat.no/",
+                "is_foreign": true
+              },
+              {
+                "name": "Kongsberg Satellite Services（K-SAT）",
+                "url": "https://www.ksat.no/",
+                "is_foreign": true
+              },
+              {
+                "name": "Oneweb",
+                "url": "https://oneweb.net/",
+                "is_foreign": true
+              },
+              {
+                "name": "俄羅斯航太",
+                "url": "http://en.roscosmos.ru/",
+                "is_foreign": true
+              },
+              {
+                "name": "Starlink",
+                "url": "https://www.starlink.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Swedish Space Corporation (SSC)",
+                "url": "https://sscspace.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Swedish Space Corporation（SSC）",
+                "url": "https://sscspace.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共10家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游",
+      "companies": [
+        {
+          "id": "ic_link_4170",
+          "text": "通訊",
+          "detailed_data": {
+            "title": "通訊",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "Globalstar",
+                "url": "https://www.globalstar.com/en-us/",
+                "is_foreign": true
+              },
+              {
+                "name": "Oneweb",
+                "url": "https://oneweb.net/",
+                "is_foreign": true
+              },
+              {
+                "name": "Starlink",
+                "url": "https://www.starlink.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Viasat",
+                "url": "https://www.viasat.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_4180",
+          "text": "影像遙測",
+          "detailed_data": {
+            "title": "影像遙測",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "Maxar Technologies",
+                "url": "https://www.maxar.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Planet Labs",
+                "url": "https://www.planet.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Spire Global",
+                "url": "https://spire.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_4190",
+          "text": "導航定位",
+          "detailed_data": {
+            "title": "導航定位",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "研勤",
+                "url": "company_basic.php?stk_code=3632",
+                "is_foreign": false
+              },
+              {
+                "name": "台灣國際航電",
+                "url": "http://www.garmin.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "TomTom",
+                "url": "http://www.tomtom.com/zh_tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        }
+      ]
+    }
+  ]
+}

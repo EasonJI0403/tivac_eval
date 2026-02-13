@@ -1,0 +1,503 @@
+{
+  "title": "自動化產業鏈",
+  "introduction": "隨著全球產業數位轉型浪潮加速，各領域自動化的需求正持續攀升。企業面臨人力成本上升、勞動力短缺與市場競爭加劇等挑戰，紛紛導入各項自動化應用，從而提升營運效率及降低經營成本。近年在工業4.0與智慧製造趨勢下，使製造業能夠以更少的人力資源達成更高的產能與靈活調度，並透過數據分析、遠端監控、預測性維護等手段實現生產營運流程的最佳化。特別是在新冠疫情後，全球供應鏈韌性與敏捷製造需求提升，自動化技術與應用更成為企業確保競爭力與永續經營的關鍵，推動全球製造產業升級與價值再造。至於服務業自動化方面，諸多產業均面臨專業人力不足的困境，如醫療、零售、倉儲與物流等領域，亦積極導入各項自動化方案，包括服務機器人、智慧倉儲等應用，減輕人力負擔以提升營運效率、降低人力成本並強化客戶體驗。\n自動化，係指運用科技與技術，包括但不限於機器、設備、軟體、系統等軟硬體工具或設施，在生產、服務以及其他活動或流程中，降低減少人為介入，以提升效率、生產力、品質與安全性。而自動化產業，則是指設計、製造、建構與部署各式自動化軟體、技術、裝置、系統及解決方案或周邊支援服務之業者組合。\n自動化產業價值鏈，可區分為上下游兩大部分，上游包括所有支持自動化裝置、應用所需要的硬體元件及軟體工具；下游則從機器人、自動化裝置設備、資訊系統到整體解決方案的供應商，以及聚焦在將這些軟硬體、解決方案導入企業場域的系統整合、顧問諮詢以及導入部署的服務業者。\n一、上游：\n自動化產業的上游是支持自動化裝置、應用所需要的硬體元件及軟體工具供應業者。硬體元件供應商則包括感測器、控制器以及人機介面(Human Machine Interface, HMI)三個部分。感測器在自動化系統裝置中，能即時監測溫度、壓力、濕度、光線、位置、加速度、氣體濃度等多種參數，為各類應用系統諸如消費電子、工業自動化、汽車、醫療等多個領域提供準確的數據支持，以實現自動控制、預警及智慧決策。代表業者有影像感測器的索尼與三星電子，以及廣泛工業領域應用的綜合感測器業者Honeywell、BOSCH或Emerson等。\n控制器在自動化應用中，負責接收來自感測器的輸入信號，根據預先設定的控制程式或邏輯，計算並產生相應的控制指令，驅動執行裝置（如馬達、閥門、繼電器等）以完成工作。常見的控制器類型有可程式化邏輯控制器（Programmable Logic Controller, PLC）、分散式控制系統（Distributed Control System, DCS）、現場總線控制系統（Fieldbus Control System, FCS）等，代表業者有西門子、ABB及洛克威爾自動化等。\n人機介面HMI是提供操作人員與機器設備間互動溝通的設施，讓操作人員據此監控、控制和調整機械裝置、設備或系統的運作。當前國際主要供應商有三菱電機、西門子及施耐德電機等工業設備業者。\n軟體工具則涵蓋電腦輔助設計CAD（Computer-Aided Design）、電腦輔助工程CAE（Computer-Aided Engineering）、電腦輔助製造CAM（Computer-Aided Manufacturing）及數據分析與視覺化工具等。CAD、CAE、CAM三類軟體工具在工業設計與製造流程中各有不同的功能和定位，其中CAD專注設計建模，幫助工程師產生2D或3D的產品圖形，包括外型、零件組裝和材質定義等，作為CAE和CAM的基礎，以提供精確的設計模型與數據；CAE側重工程分析驗證，對CAD所建立的產品模型進行工程分析與模擬，如結構強度、熱力學、流體力學、動態運動等性能的虛擬測試；CAM則負責製造加工執行，根據CAD模型，規劃和控制製造設備的加工路徑和工藝流程，以實現自動化生產。而數據分析與視覺化工具，則是在各專業應用領域中，聚焦以數據為基礎的模擬、分析、決策支援及視覺化呈現，支援企業營運。代表業者有CAD的PTC、CAD/CAM為主的Autodesk及達梭系統、CAE的ANSYS，而數據分析與視覺化則有西門子及SAS。\n二、下游：\n自動化產業的下游則涵蓋機器人、自動化裝置設備、資訊系統到整體解決方案的供應商，以及為企業提供導入這些軟硬體裝置、解決方案的系統整合、顧問諮詢以及導入部署的服務業者。\n機器人包括工業型機器人、自動導引車(Automated Guided Vehicle, AGV)與自主移動機器人(Autonomous Mobile Robot, AMR)及人形與服務型機器人。其中工業型機器人領域代表業者有KUKA、ABB及發那科等；AGV及AMR則可在用於倉儲、物流、工廠內部運輸，代表業者有Mobile Industrial Robots (MiR)、Fetch Robotics及Clearpath Robotics；而人形與服務型機器人方面，在全球人口老化、退休潮與技能缺口導致主要經濟體（如日本、中國等）面臨嚴重的勞動力短缺問題，則備受服務業高度期待，代表業者有Boston Dynamics、 Tesla以及中國的宇樹科技。\n自動化裝置設備，係指能在無人或少人干預下，依照預先設定的指令或流程，自動執行特定任務或生產作業的機械裝置或設備機台，包括提供各式領域加工的加工機台、檢測分析機台、乃至於運輸與包裝等流水線裝置等，知名大廠有工具機台聞名的森精機、MAZAK，檢測分析的Advantest、Hexagon AB、Thermo Fisher Scientific及安捷倫科技，或食品加工包裝設備的利樂等業者。\n工業自動化領域中，除硬體裝置的運用之外，資訊系統亦扮演關鍵的角色，在各作業環節增進其營運效能，包括專注於即時監控與執行生產流程的製造執行系統(MES，Manufacturing Execution System)、用於蒐集掌握工業生產環境各類資訊的監控與數據採集系統（SCADA，Supervisory Control and Data Acquisition）、提供動態優化生產資源配置的先進排程系統（APS，Advanced Planning and Scheduling）以及產品生命週期管理系統（PLM，Product Lifecycle Management），有西門子、洛克威爾自動化、施耐德電機及達梭系統為代表。\n自動化的解決方案供應商，則是針對特定應用領域，提供企業一種涵蓋多樣自動化設備及軟體系統的整體方案，諸如自動倉儲、智慧工廠、能源管理等，其中代表性大廠有專精倉儲裝卸的大福、Dematic，鎖定智慧工廠的西門子、洛克威爾自動化、三菱電機及博世力士樂，及能源管理的施耐德電機等業者。\n系統整合服務是指將建築物內之各種不同的應用子系統，如門禁控制、消防與安全警報、能源監控、公共設施管理等，加以連結整合，使建物內之訊息流通共用，促進操作方便性、避免資源浪費。台灣的系統整合商包括宜碩、中興保全、中華電信、中興電工、新鼎系統等，其中不少業者亦同時提供能源管理服務業務。\n相較於提供硬體裝置、資訊系統及整體解決方案的業者，為企業提供導入系統整合、顧問諮詢以及導入部署的服務業者也扮演企業自動化升級轉型的重要角色。其中系統整合是提供自動化所需之客製服務的業者，知名業者有IBM分拆的勤睿達、印度的Wipro及Infosys等。顧問諮詢則以提供企業自動化所需之規劃、設計與建議服務，代表業者有勤睿達、埃森哲及德勤顧問等。至於提供企業針對自動化設備、系統或解決方案之導入與部署服務的業者，屬於落地服務環節，多數以在地資訊服務業者為主。\n國際研究機構Precedence Research報告顯示，2024年全球自動化市場規模為 2,338億美元，2025年市場可達到2560億美元水準，預計到2034年將達到約5,692億美元，2025年至2034年的年複合成長率為9.31%。得利於智慧製造、人工智慧、物聯網、機器學習等新興技術的成熟導入，將推動自動化應用從傳統製造延伸至物流、醫療、能源等多元場域。\n另針對工業機器人的發展，根據國際機器人聯合會（International Federation of Robotics, IFR）的研究顯示，2024年全球工業機器人市場規模達165億美元，營運中的機器人數量超過420萬台水準，並提出幾大趨勢，包括物理AI的發展將加速虛擬環境中的自我訓練，進而減少傳統程式開發的成本依賴；重視永續發展，驅動機器人輕量化、節能模式與材料減量；以及新商業模式機器人即服務（RaaS）將擴大中小型企業的採用。另近期在包括特斯拉、NVIDIA、Google DeepMind、Agility Robotics、宇樹科技等國際大廠與新創爭相投入，亦加速推動機器人技術與生態系統的發展，進而帶動產業創新與商業落地。。\n至於台灣市場方面，根據工研院數據顯示，臺灣機械產業產值預計2025年達新台幣11,224億元，年增3.7%，其中智慧機械（AI、無人載具、數位孿生）將成為核心驅動力，促進包括製造業與半導體、國防航太、能源等領域深度整合。此外在機器人產業方面，臺灣產業則涵蓋人形機器人開發、關鍵零組件製造、系統整合與AI技術應用等，代表有協作與人形機器人的達明、台達電，關鍵零組件的上銀、大銀微、臺灣精銳，及所羅門、盟立等系統整合與解決方案業者，預估在全球勞動力短缺及自動化需求增長之下，台灣機器人產業的成長可期。",
+  "chains": [
+    {
+      "title": "上游",
+      "companies": [
+        {
+          "id": "ic_link_6110",
+          "text": "感測器",
+          "detailed_data": {
+            "title": "感測器",
+            "categories": [],
+            "companies": [
+              {
+                "name": "鼎翰",
+                "url": "company_basic.php?stk_code=3611",
+                "is_foreign": false
+              },
+              {
+                "name": "富晶通",
+                "url": "company_basic.php?stk_code=3623",
+                "is_foreign": false
+              },
+              {
+                "name": "勞勃·博世公司",
+                "url": "http://m.bosch.com/en/com/home/index.php",
+                "is_foreign": true
+              },
+              {
+                "name": "艾默生電氣公司",
+                "url": "http://www.emerson.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Honeywell",
+                "url": "https://www.honeywell.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "三星電子",
+                "url": "http://www.samsung.com/tw/home/",
+                "is_foreign": true
+              },
+              {
+                "name": "索尼",
+                "url": "http://www.sony.net/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共7家"
+          }
+        },
+        {
+          "id": "ic_link_6120",
+          "text": "控制器",
+          "detailed_data": {
+            "title": "控制器",
+            "categories": [],
+            "companies": [
+              {
+                "name": "鼎翰",
+                "url": "company_basic.php?stk_code=3611",
+                "is_foreign": false
+              },
+              {
+                "name": "富晶通",
+                "url": "company_basic.php?stk_code=3623",
+                "is_foreign": false
+              },
+              {
+                "name": "竹陞科技",
+                "url": "company_basic.php?stk_code=6739",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "洛克威爾自動化",
+                "url": "http://www.rockwellautomation.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_6130",
+          "text": "HMI",
+          "detailed_data": {
+            "title": "HMI",
+            "categories": [],
+            "companies": [
+              {
+                "name": "鼎翰",
+                "url": "company_basic.php?stk_code=3611",
+                "is_foreign": false
+              },
+              {
+                "name": "富晶通",
+                "url": "company_basic.php?stk_code=3623",
+                "is_foreign": false
+              },
+              {
+                "name": "三菱電機",
+                "url": "http://www.mitsubishielectric.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "施耐德電機公司",
+                "url": "schneider-electric.com",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_6200",
+          "text": "軟體工具/(例如CAD/CAE/CAM、數據分析與視覺化工具)",
+          "detailed_data": {
+            "title": "軟體工具",
+            "categories": [],
+            "companies": [
+              {
+                "name": "ANSYS",
+                "url": "http://www.ansys.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "歐特克",
+                "url": "https://www.autodesk.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "達梭系統",
+                "url": "http://www.3ds.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "PTC",
+                "url": "https://ptc.com",
+                "is_foreign": true
+              },
+              {
+                "name": "SAS",
+                "url": "https://www.sas.com/en_us/home.html",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游",
+      "companies": [
+        {
+          "id": "ic_link_6310",
+          "text": "工業型機器人",
+          "detailed_data": {
+            "title": "工業型機器人",
+            "categories": [],
+            "companies": [
+              {
+                "name": "上銀",
+                "url": "company_basic.php?stk_code=2049",
+                "is_foreign": false
+              },
+              {
+                "name": "竹陞科技",
+                "url": "company_basic.php?stk_code=6739",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共3家"
+          }
+        },
+        {
+          "id": "ic_link_6320",
+          "text": "AGV及AMR",
+          "detailed_data": {
+            "title": "AGV及AMR",
+            "categories": [],
+            "companies": [
+              {
+                "name": "竹陞科技",
+                "url": "company_basic.php?stk_code=6739",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共1家"
+          }
+        },
+        {
+          "id": "ic_link_6330",
+          "text": "服務型及人型機器人",
+          "detailed_data": {
+            "title": "服務型及人型機器人",
+            "categories": [],
+            "companies": [
+              {
+                "name": "卡德爾",
+                "url": "company_basic.php?stk_code=7675",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共1家"
+          }
+        },
+        {
+          "id": "ic_link_6400",
+          "text": "自動化機台/(例如加工、運輸、檢測、包裝等機台)",
+          "detailed_data": {
+            "title": "自動化機台",
+            "categories": [],
+            "companies": [
+              {
+                "name": "倚強科",
+                "url": "company_basic.php?stk_code=3219",
+                "is_foreign": false
+              },
+              {
+                "name": "富晶通",
+                "url": "company_basic.php?stk_code=3623",
+                "is_foreign": false
+              },
+              {
+                "name": "豪勉",
+                "url": "company_basic.php?stk_code=6218",
+                "is_foreign": false
+              },
+              {
+                "name": "高僑",
+                "url": "company_basic.php?stk_code=6234",
+                "is_foreign": false
+              },
+              {
+                "name": "易發",
+                "url": "company_basic.php?stk_code=6425",
+                "is_foreign": false
+              },
+              {
+                "name": "群翊",
+                "url": "company_basic.php?stk_code=6664",
+                "is_foreign": false
+              },
+              {
+                "name": "竹陞科技",
+                "url": "company_basic.php?stk_code=6739",
+                "is_foreign": false
+              },
+              {
+                "name": "榮田",
+                "url": "company_basic.php?stk_code=7709",
+                "is_foreign": false
+              },
+              {
+                "name": "鈦昇",
+                "url": "company_basic.php?stk_code=8027",
+                "is_foreign": false
+              },
+              {
+                "name": "卡德爾",
+                "url": "company_basic.php?stk_code=7675",
+                "is_foreign": false
+              },
+              {
+                "name": "Advantest",
+                "url": "https://www.advantest.com/ja/",
+                "is_foreign": true
+              },
+              {
+                "name": "安捷倫科技",
+                "url": "http://www.agilent.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "森精機",
+                "url": "https://www.dmgmori.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "Hexagon AB",
+                "url": "http://www.hexagon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "MAZAK",
+                "url": "https://www.mazak.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "利樂",
+                "url": "https://www.tetrapak.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Thermo Fisher Scientific",
+                "url": "http://www.thermofisher.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共17家"
+          }
+        },
+        {
+          "id": "ic_link_6600",
+          "text": "資訊系統/(如MES、SCADA、APS 、PLM等)",
+          "detailed_data": {
+            "title": "資訊系統",
+            "categories": [],
+            "companies": [
+              {
+                "name": "達梭系統",
+                "url": "http://www.3ds.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "洛克威爾自動化",
+                "url": "http://www.rockwellautomation.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "施耐德電機公司",
+                "url": "schneider-electric.com",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_6500",
+          "text": "整體解決方案/(例如自動倉儲、運輸搬運、智慧工廠、能源管理等)",
+          "detailed_data": {
+            "title": "整體解決方案",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中光電",
+                "url": "company_basic.php?stk_code=5371",
+                "is_foreign": false
+              },
+              {
+                "name": "廣運",
+                "url": "company_basic.php?stk_code=6125",
+                "is_foreign": false
+              },
+              {
+                "name": "高僑",
+                "url": "company_basic.php?stk_code=6234",
+                "is_foreign": false
+              },
+              {
+                "name": "卡德爾",
+                "url": "company_basic.php?stk_code=7675",
+                "is_foreign": false
+              },
+              {
+                "name": "博世力士樂",
+                "url": "http://www.boschrexroth.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "大福",
+                "url": "https://www.daifuku.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Dematic",
+                "url": "https://www.dematic.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "三菱電機",
+                "url": "http://www.mitsubishielectric.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "洛克威爾自動化",
+                "url": "http://www.rockwellautomation.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "施耐德電機公司",
+                "url": "schneider-electric.com",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共11家"
+          }
+        },
+        {
+          "id": "ic_link_6700",
+          "text": "系統整合",
+          "detailed_data": {
+            "title": "系統整合",
+            "categories": [],
+            "companies": [
+              {
+                "name": "卡德爾",
+                "url": "company_basic.php?stk_code=7675",
+                "is_foreign": false
+              },
+              {
+                "name": "印孚瑟斯",
+                "url": "https://www.infosys.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "勤達睿",
+                "url": "https://www.kyndryl.com",
+                "is_foreign": true
+              },
+              {
+                "name": "維布絡",
+                "url": "https://www.wipro.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_6800",
+          "text": "顧問諮詢",
+          "detailed_data": {
+            "title": "顧問諮詢",
+            "categories": [],
+            "companies": [
+              {
+                "name": "卡德爾",
+                "url": "company_basic.php?stk_code=7675",
+                "is_foreign": false
+              },
+              {
+                "name": "埃森哲",
+                "url": "https://www.accenture.com/us-en/services/data-analytics-index",
+                "is_foreign": true
+              },
+              {
+                "name": "Deloitte Consulting LLP",
+                "url": "https://www2.deloitte.com/global/en/services/consulting-deloitte.html",
+                "is_foreign": true
+              },
+              {
+                "name": "勤達睿",
+                "url": "https://www.kyndryl.com",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_6900",
+          "text": "導入部署",
+          "detailed_data": {
+            "title": "導入部署",
+            "categories": [],
+            "companies": [],
+            "total_count": "共0家"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "title": "電動車輛產業產業鏈",
+  "introduction": "電動車產業鏈\n以電池為儲能及動力來源並由馬達驅動之車輛稱為電動車。電動車電力供給方式及所占的比例不同，可分為BEV（純電動車）、HEV（混合動力車）、PHEV（插電式混合動力車）與REEV（增程式電動車）等類型，此外尚有可由車體自行產生能量的車輛類型如燃料電池車或太陽能電池車等。\n電動車輛產業鏈上游為電池材料之供應商，中游為電動車輛零組件之供應商（如大功率電池芯/模組、電池管理系統、動力馬達、電源供應器等），下游為電動汽機車、電動自行車之供應商。\n一、上游：\n電動車輛產業上游產品包含電池材料、馬達材料（如矽鋼片）、車體材料等，其中最關鍵的電池材料包括正極材料（已進入商業化的正極材料包括鈷酸鋰（LCO）、三元材料（NCM）、錳酸鋰（LMO）和磷酸鐵鋰（LFP））、負極材料（主要是人造石墨等碳系材料、銅箔等金屬化合物）、隔離膜與電解液等四大材料。\n電池材料所需之金屬原料如鋰、鎳、鈷、銅等，其中又以鎳、鋰為最受市場關注。截至 2025 年，根據最新數據，EV 電池中鋰、鎳、鈷、錳及石墨等金屬的含量成本已從 2024 年初的約 600美元左右，下降到約 506美元，明顯低於 2023 年初超過 1,900美元的成本最高值\n。\n2025 年鋰（金屬或碳酸鋰）的價值每輛 EV 中含鋰成本已降至約 209美元，而鎳成本同為約 207美元，兩者在今年僅有小幅變化；至於鈷價格在 2025 年 3 月攀升至每輛車超過 60美元，這是自 2023 年 12 月以來的最高峰。錳和石墨成本在最新數據中分別約為 7美元和約 23美元，兩者持續偏低。\n在電池模組價格方面，IEA 與 S&P Global 資料指出，2024 年鋰離子電池組價格下降約 20%，為自 2017 年以來最大跌幅。Goldman Sachs 研究預測，2025 年價格將突破歷史門檻，降至99/kWh美元，相較 2022 年水準低約 40%。價格下降的關鍵因素包括原材料成本削減、供應過剩帶來的競爭壓力，中國製造的 LFP 電池推波助瀾。這一趨勢將推動電動車成本更接近傳統燃油車，進一步強化其經濟可行性。\n根據高盛研究，全球平均電池價格從2022年的每千瓦時153美元下降到2023年的149美元，到2024年年底，電池價格將降至每千瓦時111美元。高盛預測電池價格將在 2025 年進一步突破，達到約每千瓦時99美元，而至2026年，平均電池價格可能降至每千瓦時80美元左右，較2023年下降近50%。在這個價格範圍內，在其他條件不變下，電動汽車未來可望無需補貼，便可實現與燃油汽車的擁有成本平價。\n部分國家已考慮實施在地關鍵金屬政策，包括美國為確保穩定永續的關鍵礦物來源，以《降低通膨法案》（Inflation Reduction Act，IRA）要求車用電池關鍵礦物比例須有40%來自於北美與自由交易貿易協定（Free Trade Agreement，FTA）夥伴，而後每年增加10%至2027年的80%，符合此規定才可獲稅收減免資格；近期更進一步提出追加限制，凡電動車採用「受關注外國實體」（FEOC）所生產之電池或原材料，將不符合減免資格，其中FEOC的範圍更包括中國業者持股25%以上的合資廠。2025 年擴大至關鍵礦物亦不得涉入，才能獲得 IRA 稅收抵免。\n另外，美國2024年起加大對中國電池企業出口障礙。首先，2024年國防授權法案，美國國防部被禁止從寧德時代、比亞迪、遠景能源、億緯鋰能、國軒高科和海辰儲能採購電池，當前並由美國多名眾議員提出議案「脫離外國敵對電池依賴法」，要求禁止美國國土安全部向六家中國鋰電池企業採購電池，同時也希望推動供應鏈與美國地緣政治對手「脫鉤」。\n另外， 2024年5月，美國拜登政府公布，貿易法（U.S. Trade Act）第301條款擬議修改法案，對自中國進口的180億美元的產品加徵關稅，美國貿易代表署（Office of the United States Trade Representative，USTR）說明產品主要是13項，鋰離子電動車電池關稅稅率從7.5%提高至25%。\n而後，2024年9月13日公布最終法案，對中國的301關稅政策，確定將於2024年9月27日起執行，新能源汽車用的動力鋰電池關稅增至25%，至於非電動車用鋰離子電池關稅增至25%，則於2026年1月1日生效。此外，301關稅政策也讓中國出口至美國電動車整車關稅達100%，電池零件亦達 25%；2025年起部分高科技產品（半導體）關稅提升至 50%。然而在目前關稅執行方面，美方延長部分針對中方技術產品的 301 關稅豁免至 2025 年 8 月 31 日。\n歐盟《關鍵原料法案》（Critical Material Act）規定至2030年歐盟每年消費的鋰、鈷、鎳、錳、銅、稀土等戰略性與關鍵礦物比例，境內開採占10%、冶煉加工占40%、回收再利用占25%，以確保包括鋰、鈷、鎳、錳、稀土等原料安全供應。另外，歐盟在2025年發布《電池廢棄物分類》更新，將「黑礦石」（Black mass）列為特定廢棄物，禁止出口至非 OECD 國家，提升電池回收率與供應鏈透明。未來，歐盟預計於 2027 年 8 月 正式施行新版《電池管制》（Battery Regulation）強制電池原料盡職審查義務。\n日本經濟產業省針對在日本設立電池生產廠商，提供最高33%的設備投資補助，最新政策延續至 2025 年；另外，日本也積極與歐盟深化原料回收與數據協作，並透過 EU–Japan BRT 推動電池廢料與數據交換機制合作。\n另外值得注意的是，動力電池的壽命可分爲循環壽命與日曆壽命，多半以循環壽命計算爲主。動力電池的電池容量衰减到初始容量的80%以下，磷酸鐵鋰電池的循環壽命可達2,000-3,000 次、三元電池的循環壽命可達1,500-2,000 次動力電池的使用壽命大約5-8年，以此估算，xEV動力電池將在2023-2030年將迎來大規模退役，電池回收政策也在各國展開。\n歐洲議會通過新電池法《歐盟電池和廢電池法規(EU Batteries Regulation)》，自 2024 年 2 月 18 日起生效，並將於 2025 年 8 月全面取代原《電池指令》（2006/66/EC）。該法規涵蓋電池全生命週期，從設計、生產、銷售到廢棄處理，旨在配合歐盟《綠色政綱》與《循環經濟行動計畫》，強化資源永續與環境管理責任，推動產業邁向電池循環經濟。法規適用對象涵蓋電動車用電池（EV battery）、輕型交通工具電池（如電動滑板車等 LMT battery）、容量超過 2kWh 的可充式工業電池，以及消費性電子產品用的便攜式電池。重點規範如下：\n1. 碳足跡與數位電池護照管理：自 2025 年起，電動車及大型電池需揭露製造過程碳足跡並通過第三方驗證；2026 年起須建立具備 QR 碼的數位電池護照，詳細記錄電池成分、碳排量、壽命、來源與回收資訊，以提升供應鏈透明度；\n2. 產品設計義務：自 2027 年起，所有消費性產品搭載的可攜式電池需具備可拆卸與可更換設計，便於維修與回收；\n3.廢電池回收目標，包含可攜式電池：2023年為45%，2027年為63%，2030 年為73%；LMT電池：2028年為51%，2031年為61%；\n4.廢電池回收材料目標比例，2027年鋰為50%，鈷、鎳、銅、鉛皆為90%；2031年鋰應達到80%，鈷、鎳、銅、鉛達到95%；\n5.法規生效八年後，新電池使用再生材料的最低比例至少應為鈷16%、鉛85%、鋰6%、鎳6%；法規生效十三年後，再生材料使用比例至少應為鈷26%、鉛85%、鋰12%、鎳15%。\n6.供應鏈盡職調查與製造者責任：年營收超過 4,000 萬歐元的電池製造商，須依 OECD 指引執行供應鏈盡職調查（Due Diligence），涵蓋鈷、鋰、鎳與天然石墨等關鍵原料來源；此外，所有製造商皆須履行延伸生產者責任（EPR），提供免費回收機制並達成收集與回收目標。\n自2025年川普上任後，美國針對電池製造、回收與相關補助政策出現明顯轉向，原先在拜登任內推動的《降低通膨法案》（IRA）與《兩黨基礎設施法案》（BIL）中，對電動車電池生產、回收與再利用的補助計畫大幅縮減或暫停。多項已核定但尚未發放的能源部（DOE）補助計畫進入檢討期，其中包含針對電池材料回收技術的資助案雖未全數中止，但資金釋出速度明顯減緩。此外，許多企業原先預計設立的新電池廠，如Kore Power、Freyr Battery等，也因補助不確定性而宣布暫停投資或撤回擴產計畫。\n儘管聯邦對清潔能源資金的支持趨於保守，川普政府仍透過《國防生產法》第303條，推動對關鍵礦物如鋰、鎳、鈷與石墨的國內供應鏈投資，並於2025年3月發布行政命令，放寬聯邦對礦產開採與加工的審查流程，以加快本土礦產生產速度。此外，川普政府延續國家安全政策，擴大對外國關注實體（Foreign Entity of Concern, FEOC）的限制，包含對中國電池原料與零件徵收高額關稅，並啟動《貿易擴張法》（Section 232）對電池材料與設備進口安全進行審查，意圖保護美國本土供應鏈免於中國競爭。\n儘管整體政策偏向縮減公共補助，但部分既有DOE電池回收項目如Ascend Elements、Redwood Materials等，在州政府與私人資本支援下仍持續運作。此外，DOE於2025年1月發布通知，計劃提供高達7.25億美元資金（under MESC計劃）以強化關鍵礦產與電池材料的國產處理與製造能力 。\n整體而言，川普政府現行政策將清潔能源與電池補助資源重新聚焦於「戰略性自主」與「製造業回流」，以本土採礦與基礎建設為優先，對再生能源與電池回收的支持則轉由市場力量與部分州級政策接棒承擔。\n目前台灣廠商有投入電池正極材料、負極材料、隔離膜及電解液等領域，但因上游材料專利技術與資源需求龐大，因此大多數投入上游材料之台灣廠商，背後多有集團資源支持，也有廠商是透過研究法人機構技轉方式取得技術。因應交通部施行「電動大客車推動計畫車輛業者資格審查作業要點」並參考聯合國車輛安全法規R100電池規定，自2024年起要求申請資格審查電動大客車廠商應檢附電池組製造廠商符合UN R100.03規定等證明文件，並將國產電池芯納入電動大客車國產化及技術評估項目，故此，台灣近年來投入電巴用電池布局。\n1.台塑新智能：開發磷酸鋰鐵電池等產品，透過台塑尖端能源在彰濱工業區興建5GWh磷酸鋰鐵電池芯廠，2024年Q3將完成第一期2.1GWh產能並接續建置2.9GWh產能；已與成運及華德等國內電巴廠商接洽，並積極與印度廠商洽商。2024 年底宣布於彰濱工業區完工首條 2.1 GWh LFP 電池芯生產線，目標 2025 年達滿產，年產能達 5 GWh，為臺灣最大 LFP 電池廠\n2. 鴻海科技集團：投入電池開發，在高雄橋頭科學園區及和發產業園區興建3及1.2GWh磷酸鋰鐵電池芯工廠，以及與印尼能源公司Indika旗下Mitra Motor Group合資成立Foxconn Indika Motor，以生產電池及電動車；量產後可望就近供應同集團電巴需求，並與Gogoro、Indika及印尼政府展開磷酸鋰鐵電池等合作。此外，在國內市場方面，未來該工廠也將支援集團內部電動公車需求。\n3. 格斯科技：研發鈦酸鋰電池芯等產品，在新北汐止設立電池工廠，另在桃園中壢工業區興建Q3量產的鋰電池工廠，2024年Q2年產能將超過1GWh及600萬顆電池；持續與多家電池及電巴廠商合作，包括英國Echion Technologies、挪威Beyonder、印度Midwest Energy Pvt. Ltd，以及成運等電巴廠。\n4. 創奕能源：生產電巴及鋰電池芯等產品，在桃園及新竹設立電池及電巴工廠，並在印度興建電巴用電池廠；持續將電池系統搭載在創奕電巴，並輸出馬來西亞及印度等國家。\n5. 有量科技：產製鋰電池芯等產品，在桃園設立電池工廠，並持續深化與總盈及泰國能源集團EA等電巴電池合作。\n針對電池回收方面，環境部於2025年4月修正乾電池回收處理費，鼓勵建立本地回收生態鏈：符合規模者可享國內回收每公斤回饋 5.1 元、國際合作者回饋6.66元。\n國內業者方面則有銘福集團、美琪瑪、康普與台泥轄下康普。銘福集團是國內最大廢車回收處理業者，旗下位於高雄小港的名仁資源回收已計畫在台南麻豆擴建二廠，規劃以濕式溶解進行貴金屬提煉，加上本身已有的物理回收設備，正好完成前後段整合服務。\n美琪瑪是國內電池材料上游業者，發展貴金屬提煉技術，但因為本身無法取得大量來源，故以合資模式，希望以一條龍的方式固樁客戶。美琪瑪目前在氧化觸媒的回收生意上，客戶只要加裝回收設備後，每公斤只要付給美琪瑪10~12美元的加工費，就可取得再生原料，若以每公斤鈷的市場行情價格約60美元計算，客戶就能用10美元的成本取得60美元的鈷再生原料。這就是台灣廠商在電動車回收行業上能執行的商業模式。\n康普也正在發展相關計畫，康普材料旗下天弘化學，及聯友金屬科技旗下聯友能源科技，因應新歐盟電池法案，共同簽署合作備忘錄，攜手搶攻再生材料龐大循環經濟商機，因電動車驗證時間需1至3年，因聯友能源的回收廠已蓋好，將回收動力電池材料，交給天弘做萃取、精煉之後，再送給車廠驗證及使用。\n二、中游：\n電動車輛產業中游產品為動力總成、電能總成、車身總成、減速器總成、煞車系統、驅動/非驅動軸總成、車架總成、轉向器系統、車輛電子與其他零組件。\n動力總成正走向動力總成和熱管理系統，包括驅動系統、電池系統、充電和功率電子及熱管理系統，在某種程度上開始進一步融合發展，進入高整合化階段。模組化整合是一個重要方向-3+3+3：驅動系統（電機、逆變器、減速器三合一驅動）+電池系統（電池+OBC+DC/DC整合），熱管理整合（PTC、壓縮機和管路、閥），往上面更多的整合，如GM在Ultium平臺推出「8合1」的高整合電驅單元，這裡包括了電機、逆變器和減速器，整車控制器、整合PDU、OBC和兩個DC/DC 。\n我國動力總成投入廠商包括台達電、康舒、富田、大同、東元、晟昌、士林電機、致茂、和大、國淵、台亞、本土等，以及功率元件朋程、強茂、信通，我國動力總成投入多為分散式，部分廠商已投入三合一總成（驅控器/馬達/齒輪箱，台達電、富田/致茂）。\n此外，台灣電動車產業近年積極邁向高附加價值的整合系統研發，已開始發展輕量化、高效率的多合一動力總成解決方案。最新案例顯示，由工研院攜手康舒科技、富田機電與化合物半導體廠達信綠能展開跨域合作，共同打造多合一電動動力總成與「碳化矽（SiC）動力馬達驅控器」，展現出台灣整合驅動系統、功率電子與先進材料技術的關鍵實力。\n其中，富田機電具備40年產業經驗，長期為特斯拉等國際品牌提供核心動力系統，此次合作結合其驅動器實作經驗與達信綠能的SiC元件設計能力，進一步提升整體系統的能效與功率密度，並有效降低體積與重量。該整合方案已成功切入日本車廠供應鏈，象徵台灣從單一模組供應商轉型為具備關鍵系統開發能力的電動車系統廠商。未來在東亞電動車供應鏈重組趨勢下，該合作模式也有望擴大輸出至其他國際車廠，推動台灣智慧電動車產業升級，並為整體經濟發展帶來新動能。\n電能總成中電池芯/模組是關鍵，2024年1-9月全球電池芯/模組由三大廠商掌握（根據電池裝機GWh），依據SNE Research預估，主要是中國大陸寧德時代（36.7%）、比亞迪（16.4%），與LG Energy Solution（12.1%）所掌握。\n然而整車廠為了確保自家生產電動車有電池可以用，加上政府的支持，近年來採取四種戰略並多管道齊下的方式：戰略一，完全依賴電池商生產：電動車車廠會與多家電池供應商採購電池，維持供應商之間競爭的關係，例如Tesla除了向Panasonic購買之外，也向寧德時代、LG Energy Solution等採購；戰略二，車廠自行研發和生產：日本豐田（TOYOTA）將目標轉向固態電池，同時，與松下（Panasonic）合作，有望於2027年進行量產。日產汽車（Nissan）則是於2023年車展展示全固態電池（ASSB）技術，最快在2028年前就可以投入運用。\n戰略三，整車廠投資鋰電池供應商：Toyota投資近8成Primearth EV Energy、Honda投資5成Blue Energy、Mitsubishi Motor投資5 成的 Lithium Energy Japan ，上述供應商的產品都可確保供貨給投資的車廠們；戰略四，政府、車廠直接和電池上游廠商合作：車廠為了確保上游原料的供應，會直接與電池材料或原料廠商簽訂協議，如Tesla、BMW與通用汽車(GM)皆與瑞士原物料交易暨礦業巨擘嘉能可(Glencore)針對鈷原料簽訂包銷協議。\n我國在電芯、電池組搭配技術、電池組結構至電能管理系統，均有廠商投入研發與生產，如能元、有量、長利、昇陽、輝能、新普、新盛力、台達電等。目前固態電池也有新創業者積極投入並獲國外大廠合作機會，如輝能科技。\n車輛電子方面，智慧座艙是近期整車廠發展重點，智慧座艙被視為是汽車邁向智慧化及聯網化的關鍵人機接口，為消費者高級駕駛體驗最直接的觸點。未來智慧座艙整合多種資通訊和新興資訊技術，結合聯網化、智駕化、數位化與人性化特徵，由駕駛艙轉變為「第三生活空間」，為駕駛及乘客提供智慧服務，並促進行車安全。智慧座艙可分為資訊娛樂系統（IVI）、先進駕駛輔助系統（ADAS）與車聯網系統三大主要次系統。目前臺灣廠商在艙內IVI次系統布局較為完整，可提供完整解決方案，包括：系統整合(如公信電子、凱銳光電、和碩、友達等)、HUD(如怡利電子、宇碩電子、大眾控、光寶、英錡等)、車用顯示器(如友達、群創、宸鴻等)、電子後視鏡(如怡利電子、宇碩電子等)與人機互動相關產品（如安富科技、原相科技等)、感測子系統(如輝創電子、歐特明、怡利電子、啟碁科技、安富科技、奇美車電、宇碩電子等)；然而在基礎硬體方面，像是座艙域控制器（DCU）、系統級晶片（SoC）等主要控制組件，由於臺灣較缺乏國內應用市場，目前仍以OEM為主。\n在ADAS次系統部分，主要則集中在上游感測階段，如毫米波雷達、視覺鏡頭、超音波雷達與光達等感測模組廠(如同致電子、輝創電子、啟碁科技、為升科、歐特明、亞光、台灣彩光等)，然而隨著國內廠商布局演算法及IC業者自主研發感測IC，多數感測模組廠進一步深入整合感測硬體與視覺算法，提供完整解決方案給下游廠商，產業布局更加完整。另外，與IVI次系統相同，由於我國較缺乏整車應用市場，故在ADAS產業鏈中運算與控制階段較缺乏相關業者投入。\n至於在車聯網次系統中，在對內通訊部分，我國部分業者握未來技術的相對優勢，如瑞昱為車載乙太網之物理層晶片的第三大業者，預期後進者較難以進入或影響市場地位。在對外通訊部分，我國業者也深入布局T-BOX及藍芽通訊模組等(如威潤科技、技嘉科技、安富科技、啟碁科技等)，目前也具國外大廠應用實績。\n三、下游：\n電動車輛產業下游產品包括電動大客車、電動汽車、電動機車及電動自行車、高爾夫球車等終端應用產品。隨著主要國家政策從禁售燃油車到完全零排放，並藉由補助政策激勵電動車銷售，然而，由於2024正值歐美大國重要選舉年，禁售燃油車時程與規範是否會有更改仍有待觀察。\n受惠於碳排放限制、政府獎勵補貼利多政策影響；根據Marklines、IHS、中國乘聯會等組織公布數據推估，根據 Rho Motion 與 Benchmark Minerals 資料，2025年1到4月全球 EV 銷量約為 560 萬台，同比增長29%。全球電動車銷售量仍以中國為主，佔全球市場59%，雖購買補貼激勵措施已正式退場，但中國境內車廠開啟價格戰，以平價價格吸引消費者購買，加上國內產能過剩大舉向海外輸出的戰略，使得在全球電動車集團銷售量前十排名中，中國車廠佔五席。中國境內市場電動車集團前十銷售量排名，中國則佔九席。\n2025年電動車市場展現出深度的地緣政治干擾與市場分裂趨勢：中國持續擴張，卻需面對關稅與國際對手環伺；歐洲堅持環保政策但壓低中國補貼優勢；美國則內部偏好燃油車但維持電動技術領導。全球車廠愈來愈依賴本土化生產策略，以化解關稅挑戰並維持市場接近性。2025年後，電動車格局將不再是單純的技術競賽，而是全球地緣政治的核心戰場。\n全球電動車發展各地有其正負面因素驅動。中國仍將電動車視為國家級戰略產業，大力推動「電換油」政策及本土車廠國際拓展，技術與生產快速擴張。然而內需市場出現疲態，消費信心下降，削弱了內需動能。此外，2025 年以來中美貿易摩擦升溫，美國曾在 4 月祭出對中國進口商品高達 104% 關稅，並在 5 月暫時緩和至 30%，導致電動車與相關零部件面臨更高進口成本。歐盟也正在考慮以最低定價取代高成本關稅，並仍保留最高至 45% 的中國電動車課稅措施。\n歐盟市場預計維持約25%的EV滲透率（2025年季報顯示Q1為約 25%）。環保與碳排標準嚴格、2035 年禁售燃油車目標明確，是主要推動力。但對中國電動車實施高額反補貼稅，稅率自17%-38% 不等，此舉與中國對歐豬肉報復措施同步進行，也引發雙邊政治緊張。歐盟正與中國磋商最低定價、美國相關報復條款也觸動歐美汽車產業。\n中國電動車產業回應策略，車廠在整車製造，海外發展主要模式有四：1.整車出口；2.完全散裝組裝（Completely-Knocked-Down，CKD）出口+當地組裝；3.海外建廠-收購工廠或自建；4.技術輸出新合作模式。首先，針對尚未啟動加徵關稅政策國家，如中亞五國、沙烏地阿拉伯、澳洲、紐西蘭等，持續以整車出口／CKD出口搭配當地組裝模式。\n然為避免美歐關稅啟動後之連鎖反應，2024年~2026年間，中國將有14個以上的海外新能源車工廠／產線將啟用，以東南亞（泰國、馬來西亞、印尼）、歐洲（英國、匈牙利、比利時、瑞典、斯洛伐克）和南美洲（墨西哥、巴西）為主，透過產能輸出以投資方式替代直接出口，達到產業本地化、供應鏈升級。\n相較於2024年起國際對於中國電動車進口的限制，當前我國最新政策是：為防止業者進口大量中國零組件衝擊台灣汽車供應鏈，經濟部2024年8月1日實施新制，若國內車廠業者規劃引進中國品牌者等4種車款樣態，須符合零件在地化採購比例，且須逐年提高，已上市車款亦須遵守相關規範。\n2025年初起，所有中國品牌電動車申請進口台灣市場，不僅需通UNR100電池安全驗證，還新增國內型式認證條件，包括electronic control unit (ECU)、制動系統等車用電子架構必須提交完整測試報告，強化技術審查門檻。\n此外，2025年台灣政府已開始對有意在台成立研發或製造據點的中國車廠進行更嚴審查。若該車廠無法提出「技術移轉計畫」或無助於提升本地產業能量，即使通過產品安全標準，仍不予許可原裝車整車進口。\n台灣在電動車下游產品，包括電動大客車、電動汽車、電動機車及電動自行車、高爾夫球車等終端應用產品。電動汽車如納智捷、電動自行車如美利達、捷安特等，電動機車如宏佳騰、Gogoro、CMC中華汽車等，電動大客車整車廠如凱勝綠能、華德動能、唐榮車輛、創奕能源等。配合自2017年底行政院訂定2030市區公車全面電動化之目標，國內電動大客車供應鏈包括電能系統、動力系統及其他零組件等，除ADAS先進駕駛輔助系統、驅控器、電池芯及驅動/非驅動總成等考量安全及經濟規模而多採BOSCH及ZF等國外大廠製品外，國內均具備研發及生產能力。",
+  "chains": [
+    {
+      "title": "上游",
+      "companies": [
+        {
+          "id": "ic_link_A310",
+          "text": "鋰電池材料",
+          "detailed_data": {
+            "title": "鋰電池材料",
+            "categories": [],
+            "companies": [
+              {
+                "name": "華新",
+                "url": "company_basic.php?stk_code=1605",
+                "is_foreign": false
+              },
+              {
+                "name": "中電",
+                "url": "company_basic.php?stk_code=1611",
+                "is_foreign": false
+              },
+              {
+                "name": "中碳",
+                "url": "company_basic.php?stk_code=1723",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "佳世達",
+                "url": "company_basic.php?stk_code=2352",
+                "is_foreign": false
+              },
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "華立",
+                "url": "company_basic.php?stk_code=3010",
+                "is_foreign": false
+              },
+              {
+                "name": "康普",
+                "url": "company_basic.php?stk_code=4739",
+                "is_foreign": false
+              },
+              {
+                "name": "達興材料",
+                "url": "company_basic.php?stk_code=5234",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "明基材",
+                "url": "company_basic.php?stk_code=8215",
+                "is_foreign": false
+              },
+              {
+                "name": "美琪瑪",
+                "url": "company_basic.php?stk_code=4721",
+                "is_foreign": false
+              },
+              {
+                "name": "長園科",
+                "url": "company_basic.php?stk_code=8038",
+                "is_foreign": false
+              },
+              {
+                "name": "金居",
+                "url": "company_basic.php?stk_code=8358",
+                "is_foreign": false
+              },
+              {
+                "name": "立凱-KY",
+                "url": "company_basic.php?stk_code=5227",
+                "is_foreign": false
+              },
+              {
+                "name": "泓辰",
+                "url": "company_basic.php?stk_code=3616",
+                "is_foreign": false
+              },
+              {
+                "name": "榮炭",
+                "url": "company_basic.php?stk_code=6555",
+                "is_foreign": false
+              },
+              {
+                "name": "益瑞",
+                "url": "company_basic.php?stk_code=7618",
+                "is_foreign": false
+              },
+              {
+                "name": "貝特瑞",
+                "url": "http://www.btrchina.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "L&F",
+                "url": "http://www.landf.co.kr/",
+                "is_foreign": true
+              },
+              {
+                "name": "日亞化",
+                "url": "http://www.nichia.co.jp/en/about_nichia/index.html",
+                "is_foreign": true
+              },
+              {
+                "name": "Resonac",
+                "url": "https://www.resonac.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "上海杉杉",
+                "url": "http://www.shanshantech.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "昭和電工材料",
+                "url": "https://www.resonac.com/jp",
+                "is_foreign": true
+              },
+              {
+                "name": "優美科",
+                "url": "http://www.umicore.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共25家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游",
+      "companies": [
+        {
+          "id": "ic_link_A320",
+          "text": "零組件",
+          "detailed_data": {
+            "title": "大功率鋰電池芯/模組、電池管理系統、動力馬達等零組件",
+            "categories": [],
+            "companies": [
+              {
+                "name": "士電",
+                "url": "company_basic.php?stk_code=1503",
+                "is_foreign": false
+              },
+              {
+                "name": "東元",
+                "url": "company_basic.php?stk_code=1504",
+                "is_foreign": false
+              },
+              {
+                "name": "華城",
+                "url": "company_basic.php?stk_code=1519",
+                "is_foreign": false
+              },
+              {
+                "name": "車王電",
+                "url": "company_basic.php?stk_code=1533",
+                "is_foreign": false
+              },
+              {
+                "name": "和大",
+                "url": "company_basic.php?stk_code=1536",
+                "is_foreign": false
+              },
+              {
+                "name": "廣隆",
+                "url": "company_basic.php?stk_code=1537",
+                "is_foreign": false
+              },
+              {
+                "name": "華新",
+                "url": "company_basic.php?stk_code=1605",
+                "is_foreign": false
+              },
+              {
+                "name": "建大",
+                "url": "company_basic.php?stk_code=2106",
+                "is_foreign": false
+              },
+              {
+                "name": "和泰車",
+                "url": "company_basic.php?stk_code=2207",
+                "is_foreign": false
+              },
+              {
+                "name": "光寶科",
+                "url": "company_basic.php?stk_code=2301",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "鴻海",
+                "url": "company_basic.php?stk_code=2317",
+                "is_foreign": false
+              },
+              {
+                "name": "致茂",
+                "url": "company_basic.php?stk_code=2360",
+                "is_foreign": false
+              },
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "技嘉",
+                "url": "company_basic.php?stk_code=2376",
+                "is_foreign": false
+              },
+              {
+                "name": "正崴",
+                "url": "company_basic.php?stk_code=2392",
+                "is_foreign": false
+              },
+              {
+                "name": "凌陽",
+                "url": "company_basic.php?stk_code=2401",
+                "is_foreign": false
+              },
+              {
+                "name": "建準",
+                "url": "company_basic.php?stk_code=2421",
+                "is_foreign": false
+              },
+              {
+                "name": "飛宏",
+                "url": "company_basic.php?stk_code=2457",
+                "is_foreign": false
+              },
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "百容",
+                "url": "company_basic.php?stk_code=2483",
+                "is_foreign": false
+              },
+              {
+                "name": "健和興",
+                "url": "company_basic.php?stk_code=3003",
+                "is_foreign": false
+              },
+              {
+                "name": "全漢",
+                "url": "company_basic.php?stk_code=3015",
+                "is_foreign": false
+              },
+              {
+                "name": "信邦",
+                "url": "company_basic.php?stk_code=3023",
+                "is_foreign": false
+              },
+              {
+                "name": "立德",
+                "url": "company_basic.php?stk_code=3058",
+                "is_foreign": false
+              },
+              {
+                "name": "維熹",
+                "url": "company_basic.php?stk_code=3501",
+                "is_foreign": false
+              },
+              {
+                "name": "盛群",
+                "url": "company_basic.php?stk_code=6202",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "康舒",
+                "url": "company_basic.php?stk_code=6282",
+                "is_foreign": false
+              },
+              {
+                "name": "松川精密",
+                "url": "company_basic.php?stk_code=7788",
+                "is_foreign": false
+              },
+              {
+                "name": "貿聯-KY",
+                "url": "company_basic.php?stk_code=3665",
+                "is_foreign": false
+              },
+              {
+                "name": "世德",
+                "url": "company_basic.php?stk_code=2066",
+                "is_foreign": false
+              },
+              {
+                "name": "順達",
+                "url": "company_basic.php?stk_code=3211",
+                "is_foreign": false
+              },
+              {
+                "name": "佳穎",
+                "url": "company_basic.php?stk_code=3310",
+                "is_foreign": false
+              },
+              {
+                "name": "加百裕",
+                "url": "company_basic.php?stk_code=3323",
+                "is_foreign": false
+              },
+              {
+                "name": "西勝",
+                "url": "company_basic.php?stk_code=3625",
+                "is_foreign": false
+              },
+              {
+                "name": "金雨",
+                "url": "company_basic.php?stk_code=4503",
+                "is_foreign": false
+              },
+              {
+                "name": "至興",
+                "url": "company_basic.php?stk_code=4535",
+                "is_foreign": false
+              },
+              {
+                "name": "新盛力",
+                "url": "company_basic.php?stk_code=4931",
+                "is_foreign": false
+              },
+              {
+                "name": "高技",
+                "url": "company_basic.php?stk_code=5439",
+                "is_foreign": false
+              },
+              {
+                "name": "宣德",
+                "url": "company_basic.php?stk_code=5457",
+                "is_foreign": false
+              },
+              {
+                "name": "新普",
+                "url": "company_basic.php?stk_code=6121",
+                "is_foreign": false
+              },
+              {
+                "name": "茂達",
+                "url": "company_basic.php?stk_code=6138",
+                "is_foreign": false
+              },
+              {
+                "name": "元山",
+                "url": "company_basic.php?stk_code=6275",
+                "is_foreign": false
+              },
+              {
+                "name": "聚和",
+                "url": "company_basic.php?stk_code=6509",
+                "is_foreign": false
+              },
+              {
+                "name": "崴寶",
+                "url": "company_basic.php?stk_code=7744",
+                "is_foreign": false
+              },
+              {
+                "name": "長園科",
+                "url": "company_basic.php?stk_code=8038",
+                "is_foreign": false
+              },
+              {
+                "name": "博大",
+                "url": "company_basic.php?stk_code=8109",
+                "is_foreign": false
+              },
+              {
+                "name": "天宇",
+                "url": "company_basic.php?stk_code=8171",
+                "is_foreign": false
+              },
+              {
+                "name": "精星",
+                "url": "company_basic.php?stk_code=8183",
+                "is_foreign": false
+              },
+              {
+                "name": "朋程",
+                "url": "company_basic.php?stk_code=8255",
+                "is_foreign": false
+              },
+              {
+                "name": "恒耀國際",
+                "url": "company_basic.php?stk_code=8349",
+                "is_foreign": false
+              },
+              {
+                "name": "格斯科技*",
+                "url": "company_basic.php?stk_code=6940",
+                "is_foreign": false
+              },
+              {
+                "name": "睿騰能源",
+                "url": "company_basic.php?stk_code=7758",
+                "is_foreign": false
+              },
+              {
+                "name": "佐茂",
+                "url": "company_basic.php?stk_code=7854",
+                "is_foreign": false
+              },
+              {
+                "name": "益瑞",
+                "url": "company_basic.php?stk_code=7618",
+                "is_foreign": false
+              },
+              {
+                "name": "ASEC",
+                "url": "http://www.eco-aesc-lb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "比亞迪",
+                "url": "http://www.byd.cn/byd/index.jsp",
+                "is_foreign": true
+              },
+              {
+                "name": "比亞迪汽車",
+                "url": "https://www.bydauto.com.cn/pc/",
+                "is_foreign": true
+              },
+              {
+                "name": "寧德時代",
+                "url": "http://www.catlbattery.com",
+                "is_foreign": true
+              },
+              {
+                "name": "LG化學",
+                "url": "https://www.lgchem.com/main/index",
+                "is_foreign": true
+              },
+              {
+                "name": "松下電器",
+                "url": "http://www.panasonic.com/tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共62家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游",
+      "companies": [
+        {
+          "id": "ic_link_A330",
+          "text": "電動汽車、電動機車、電動自行車",
+          "detailed_data": {
+            "title": "電動汽車、電動機車、電動自行車",
+            "categories": [],
+            "companies": [
+              {
+                "name": "和泰車",
+                "url": "company_basic.php?stk_code=2207",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "全漢",
+                "url": "company_basic.php?stk_code=3015",
+                "is_foreign": false
+              },
+              {
+                "name": "凌通",
+                "url": "company_basic.php?stk_code=4952",
+                "is_foreign": false
+              },
+              {
+                "name": "盛群",
+                "url": "company_basic.php?stk_code=6202",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "富鼎",
+                "url": "company_basic.php?stk_code=8261",
+                "is_foreign": false
+              },
+              {
+                "name": "美利達",
+                "url": "company_basic.php?stk_code=9914",
+                "is_foreign": false
+              },
+              {
+                "name": "宏佳騰",
+                "url": "company_basic.php?stk_code=1599",
+                "is_foreign": false
+              },
+              {
+                "name": "宣德",
+                "url": "company_basic.php?stk_code=5457",
+                "is_foreign": false
+              },
+              {
+                "name": "愛地雅",
+                "url": "company_basic.php?stk_code=8933",
+                "is_foreign": false
+              },
+              {
+                "name": "合騏",
+                "url": "company_basic.php?stk_code=8937",
+                "is_foreign": false
+              },
+              {
+                "name": "立凱-KY",
+                "url": "company_basic.php?stk_code=5227",
+                "is_foreign": false
+              },
+              {
+                "name": "華德動能",
+                "url": "company_basic.php?stk_code=2237",
+                "is_foreign": false
+              },
+              {
+                "name": "泓辰",
+                "url": "company_basic.php?stk_code=3616",
+                "is_foreign": false
+              },
+              {
+                "name": "微笑元素創意",
+                "url": "company_basic.php?stk_code=7697",
+                "is_foreign": false
+              },
+              {
+                "name": "Accell Group",
+                "url": "https://www.accell-group.com/nl",
+                "is_foreign": true
+              },
+              {
+                "name": "北京汽車",
+                "url": "http://www.baicmotor.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "比亞迪汽車",
+                "url": "https://www.bydauto.com.cn/pc/",
+                "is_foreign": true
+              },
+              {
+                "name": "本田技研工業有限公司",
+                "url": "http://world.honda.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "比雅久",
+                "url": "http://www.piaggio.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "特斯拉",
+                "url": "http://www.teslamotors.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "豐田汽車",
+                "url": "http://www.toyota.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Trek",
+                "url": "https://www.trekbikes.com/us/en_US/",
+                "is_foreign": true
+              },
+              {
+                "name": "福斯集團",
+                "url": "http://www.volkswagenag.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "雅迪",
+                "url": "https://www.yadea.com.cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "山葉發動機株式會社",
+                "url": "http://www.yamaha-motor.co.jp/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共27家"
+          }
+        }
+      ]
+    }
+  ]
+}

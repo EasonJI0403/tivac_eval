@@ -1,0 +1,645 @@
+{
+  "title": "金融科技產業鏈",
+  "introduction": "金融科技產業價值鏈\n依據金管會於2016年5月公佈之金融科技發展策略白皮書，金融科技（Financial technology，簡稱FinTech）是指運用數位平台，提供方便、低成本、高效率的商品與服務，以增加客戶體驗，創造新型態的商業模式，使企業透過金融科技讓金融服務更有效率，因此金融科技可以分為2個面向，一是創新商品與服務，另一是運用資訊科技的數位平台，換言之，金融科技包含應用面的金融服務創新，及技術面的創新科技應用。\n金融科技產業價值鏈，可區分為三個層次，分別是「底層技術」、「中介工具」及「領域應用」。其中「底層技術」在提供支持金融科技應用的各類基礎運算技術，包括人工智慧、大數據、雲端運算及區塊鏈等；「中介工具」則是提供支持各類金融科技應用的工具或服務，包括數據分析、資訊安全、資料聚合以及數位身分/KYC；至於「領域應用」則是涵蓋傳統或新興的金融應用服務，包括支付、保險、數位銀行、理財投資、加密資產或監理法遵等領域。\n一、底層技術：\n金融科技產業的底層技術供應商，主要為提供支持金融科技應用的各類基礎運算技術，包括人工智慧、大數據、雲端運算及區塊鏈等。目前業者結構以傳統資訊服務大廠(IBM、HPE)、軟體大廠(SAS、甲骨文)及雲端領導業者(微軟、Google)等分庭抗禮。\n二、中介工具：\n金融科技產業的中介工具供應商，主要作為提供支持各類金融科技應用的工具或服務，包括數據分析、資訊安全、資料聚合以及數位身分/KYC等。\n數據分析業者主要是提供數據處理、分析工具軟體的業者，例如SAS、Teradata都是代表；資料聚合則是提供基於數據的整合、處理、分析服務的業者，例如Fiserv、那斯達克；資訊安全自是各類提供資訊安全防護工具或服務的業者，由於金融領域本是資安重點領域，因此這部分業者競爭者眾；最後是提供數位化的個人身分憑證發行服務的數位身分或KYC業者，大型資訊服務業者、電信服務商參與者眾。\n三、領域應用：\n領域應用顧名思義是則是提供包括支付、保險、數位銀行、理財投資、加密資產或監理法遵等各類金融領域的服務業者，其中有傳統金融業者，亦有不少挾資訊科技優勢的新進業者，是金融科技領域中涵蓋面最廣，參與者最多的部分，支付業者從知名的第三方支付公司PayPal到近期的Stripe及聚焦跨境支付的WISE；保險科技有2021年方於那斯達克掛牌的Lemonade或近期歐洲走紅的Wefox；數位銀行更有包括社群起家的Fidor Bank，或被稱之為挑戰者銀行的Starling或Monzo等，乃至於聚焦拉丁美洲市場的NuBank；理財投資的代表便是知名散戶交易集散的Robinhood；加密資產則以加密貨幣交易所最為成熟，例如coinbase已經順利在美掛牌，及近期高調掛牌的穩定幣發行商Circle；最後伴隨著跨國金融互動頻繁，新興金融科技應用推陳出新，監理法遵服務業者則是近期全球高度關注的領域，目前主要仍以反洗錢AML為大宗，代表業者有Cube或BAE Systems等。\n根據Fortune Business Insights報告顯示，2025年全球金融科技市場規模為3,948億美元，預估至2032年，市場規模可以達到1.12兆美元。另據全球投資調研機構CB Insights報告顯示，金融科技新創圈在2024年共達成4,639筆交易，獲投總額為956億美元，創2017年以來新低。其中，美洲筆數最多為2,267筆交易，投資額為638億美元，歐非中東地區有1,465筆交易共203億美元，亞太地區則有896筆交易合計114億美元投資。2024年全球金融科技獨角獸為326家，占全體獨角獸企業比率的26%。進一步細看不同階段別的獲投比重，可以發現鑒於穩健及保守考量，中晚期階段（Mid-stage加上Late-stage）的投資項目交易比重呈現攀升態勢，又以財富科技及數位借貸這兩項子領域最為明顯。\n臺灣金融科技發展方面，根據金管會2024年底公布數據顯示，2023年臺灣金融業投入金融科技發展總金額為新台幣290.7億元，其中銀行業為221.76億元、證券期貨業34.78億元、保險業28.81億元、周邊單位5.34億元。就用途而言則包括系統及軟硬體費用占68.30%共198.56億元，轉投資金融科技公司共36.88億元占12.69%，及金融科技研發經費55.25億元。預估2025年整體投入金額將增至373.28億元，年成長率為28.41%。展望未來，臺灣2024至2025年金融科技政策以法規鬆綁、創新實驗擴大、產業聯盟合作及數位安全提升為核心，並積極推動數位銀行、數位保險、虛擬資產及AI應用，持續強化金融科技生態系統與國際競爭力。",
+  "chains": [
+    {
+      "title": "領域應用",
+      "companies": [
+        {
+          "id": "ic_link_5210",
+          "text": "保險",
+          "detailed_data": {
+            "title": "保險",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "三商壽",
+                "url": "company_basic.php?stk_code=2867",
+                "is_foreign": false
+              },
+              {
+                "name": "德鴻",
+                "url": "company_basic.php?stk_code=6910",
+                "is_foreign": false
+              },
+              {
+                "name": "捷智商訊",
+                "url": "company_basic.php?stk_code=6816",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "Lemonade",
+                "url": "https://www.lemonade.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "WeFox",
+                "url": "https://www.wefox.com/de-ch",
+                "is_foreign": true
+              },
+              {
+                "name": "眾安",
+                "url": "https://www.zhongan.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共9家"
+          }
+        },
+        {
+          "id": "ic_link_5220",
+          "text": "支付",
+          "detailed_data": {
+            "title": "支付",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "LINEPAY",
+                "url": "company_basic.php?stk_code=7722",
+                "is_foreign": false
+              },
+              {
+                "name": "智冠",
+                "url": "company_basic.php?stk_code=5478",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "綠界科技*",
+                "url": "company_basic.php?stk_code=6763",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "東聯互動",
+                "url": "company_basic.php?stk_code=7738",
+                "is_foreign": false
+              },
+              {
+                "name": "91APP*-KY",
+                "url": "company_basic.php?stk_code=6741",
+                "is_foreign": false
+              },
+              {
+                "name": "歐付寶",
+                "url": "company_basic.php?stk_code=6878",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "北祥科服",
+                "url": "company_basic.php?stk_code=7785",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠金融",
+                "url": "company_basic.php?stk_code=7819",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "環球睿視",
+                "url": "company_basic.php?stk_code=7587",
+                "is_foreign": false
+              },
+              {
+                "name": "美家人力",
+                "url": "company_basic.php?stk_code=7680",
+                "is_foreign": false
+              },
+              {
+                "name": "支付寶",
+                "url": "https://www.alipay.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Paypal",
+                "url": "www.paypal.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Stripe",
+                "url": "https://stripe.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "WISE",
+                "url": "https://wise.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共19家"
+          }
+        },
+        {
+          "id": "ic_link_5230",
+          "text": "數位銀行",
+          "detailed_data": {
+            "title": "數位銀行",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "緯軟",
+                "url": "company_basic.php?stk_code=4953",
+                "is_foreign": false
+              },
+              {
+                "name": "德鴻",
+                "url": "company_basic.php?stk_code=6910",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "北祥科服",
+                "url": "company_basic.php?stk_code=7785",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "Fidor Bank",
+                "url": "https://www.fidor.de/",
+                "is_foreign": true
+              },
+              {
+                "name": "Monzo",
+                "url": "https://monzo.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "NuBank",
+                "url": "http://www.nubank.com.br/",
+                "is_foreign": true
+              },
+              {
+                "name": "Starling",
+                "url": "https://www.starlingbank.com/hht/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共11家"
+          }
+        },
+        {
+          "id": "ic_link_5240",
+          "text": "監理法遵",
+          "detailed_data": {
+            "title": "監理法遵",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "資通",
+                "url": "company_basic.php?stk_code=2471",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "偉康科技",
+                "url": "company_basic.php?stk_code=6865",
+                "is_foreign": false
+              },
+              {
+                "name": "德鴻",
+                "url": "company_basic.php?stk_code=6910",
+                "is_foreign": false
+              },
+              {
+                "name": "捷智商訊",
+                "url": "company_basic.php?stk_code=6816",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "北祥科服",
+                "url": "company_basic.php?stk_code=7785",
+                "is_foreign": false
+              },
+              {
+                "name": "極風雲創",
+                "url": "company_basic.php?stk_code=7826",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "BAE System",
+                "url": "https://www.baesystems.com/en-financialservices/solutions/banking-compliance/aml",
+                "is_foreign": true
+              },
+              {
+                "name": "Cube",
+                "url": "https://www.cube.global/",
+                "is_foreign": true
+              },
+              {
+                "name": "Nice Actimize",
+                "url": "https://www.niceactimize.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共13家"
+          }
+        },
+        {
+          "id": "ic_link_5250",
+          "text": "理財投資",
+          "detailed_data": {
+            "title": "理財投資",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "嘉實",
+                "url": "company_basic.php?stk_code=3158",
+                "is_foreign": false
+              },
+              {
+                "name": "三竹",
+                "url": "company_basic.php?stk_code=8284",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "高曼",
+                "url": "company_basic.php?stk_code=7573",
+                "is_foreign": false
+              },
+              {
+                "name": "億創理財",
+                "url": "https://us.etrade.com/home",
+                "is_foreign": true
+              },
+              {
+                "name": "Robinhood",
+                "url": "https://robinhood.com/us/en/",
+                "is_foreign": true
+              },
+              {
+                "name": "TD Ameritrade",
+                "url": "https://www.tdameritrade.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共8家"
+          }
+        },
+        {
+          "id": "ic_link_5260",
+          "text": "加密資產",
+          "detailed_data": {
+            "title": "加密資產",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "幣安",
+                "url": "https://www.binance.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Coinbase",
+                "url": "https://www.coinbase.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Coinbase Ventures",
+                "url": "https://www.coinbase.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "eTORO",
+                "url": "https://www.etoro.com/zh-tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共7家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中介工具",
+      "companies": [
+        {
+          "id": "ic_link_5270",
+          "text": "數據分析",
+          "detailed_data": {
+            "title": "數據分析",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "敦陽科",
+                "url": "company_basic.php?stk_code=2480",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "偉康科技",
+                "url": "company_basic.php?stk_code=6865",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "德鴻",
+                "url": "company_basic.php?stk_code=6910",
+                "is_foreign": false
+              },
+              {
+                "name": "創泓科技",
+                "url": "company_basic.php?stk_code=7714",
+                "is_foreign": false
+              },
+              {
+                "name": "91APP*-KY",
+                "url": "company_basic.php?stk_code=6741",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "極風雲創",
+                "url": "company_basic.php?stk_code=7826",
+                "is_foreign": false
+              },
+              {
+                "name": "甲骨文",
+                "url": "https://www.oracle.com/index.html",
+                "is_foreign": true
+              },
+              {
+                "name": "SAS",
+                "url": "https://www.sas.com/en_us/home.html",
+                "is_foreign": true
+              },
+              {
+                "name": "Teradata",
+                "url": "https://www.teradata.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共13家"
+          }
+        },
+        {
+          "id": "ic_link_5500",
+          "text": "資訊安全",
+          "detailed_data": {}
+        },
+        {
+          "id": "ic_link_5290",
+          "text": "資料聚合",
+          "detailed_data": {
+            "title": "資料聚合",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "敦陽科",
+                "url": "company_basic.php?stk_code=2480",
+                "is_foreign": false
+              },
+              {
+                "name": "偉康科技",
+                "url": "company_basic.php?stk_code=6865",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "91APP*-KY",
+                "url": "company_basic.php?stk_code=6741",
+                "is_foreign": false
+              },
+              {
+                "name": "捷智商訊",
+                "url": "company_basic.php?stk_code=6816",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "極風雲創",
+                "url": "company_basic.php?stk_code=7826",
+                "is_foreign": false
+              },
+              {
+                "name": "Fiserv",
+                "url": "https://www.fiserv.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Nasdaq",
+                "url": "https://www.nasdaq.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Teradata",
+                "url": "https://www.teradata.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共11家"
+          }
+        },
+        {
+          "id": "ic_link_52A0",
+          "text": "數位身分",
+          "detailed_data": {
+            "title": "數位身分",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "敦陽科",
+                "url": "company_basic.php?stk_code=2480",
+                "is_foreign": false
+              },
+              {
+                "name": "偉康科技",
+                "url": "company_basic.php?stk_code=6865",
+                "is_foreign": false
+              },
+              {
+                "name": "創泓科技",
+                "url": "company_basic.php?stk_code=7714",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "ComplyAdvantage",
+                "url": "https://complyadvantage.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Napier",
+                "url": "https://www.napier.ai/",
+                "is_foreign": true
+              },
+              {
+                "name": "TruNarrative",
+                "url": "https://trunarrative.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共9家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "底層技術",
+      "companies": [
+        {
+          "id": "ic_link_5300",
+          "text": "人工智慧",
+          "detailed_data": {}
+        },
+        {
+          "id": "ic_link_5600",
+          "text": "大數據",
+          "detailed_data": {}
+        },
+        {
+          "id": "ic_link_5400",
+          "text": "雲端運算",
+          "detailed_data": {}
+        },
+        {
+          "id": "ic_link_5100",
+          "text": "區塊鏈",
+          "detailed_data": {}
+        }
+      ]
+    }
+  ]
+}

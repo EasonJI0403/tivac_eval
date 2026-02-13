@@ -1,0 +1,824 @@
+{
+  "title": "智慧電網產業鏈",
+  "introduction": "智慧電網產業鏈\n智慧電網（Smart grid）是一種現代化的電力輸送網路，利用資通訊科技，偵測與收集供應端的電力供應狀況，及使用端的電力使用狀況。進而利用該資訊來調整電力的生產與輸配，或調整家庭及企業用戶的耗電量，藉此達到節約能源、降低損耗、增強電網可靠性。\n當今智慧電網產業的開展，源自各國所推動的能源改革政策，其目的在促進再生能源發展、提倡節能及增加能源使用效率。欲達成相關目標，關鍵在於電力基礎設施的升級，因此各國開始制定能源改革法案以及推動智慧電網建設等相關法規，從而造就智慧電網的市場需求。歐盟在2005年推動的「歐洲科技平臺（ETP）計畫」中，宣示2020年以後發展與推廣智慧電網的願景，以及2020年智慧電表占八成之目標；美國亦在2005年制訂能源政策法案(Energy Policy Act)，用以促進發展再生能源、鼓勵提高能源效率、能源節約，並建立需量反應機制及鼓勵制訂智慧電表標準等項目；中國大陸除在2009年正式將「智慧能源網」納入「十二五」計畫中，並在2020年4月將智慧能源基礎設施畫入「新基建」的範圍，預計掌握智慧電網核心關鍵技術、形成具有自有智財權的智慧電網技術和標準體系，以及建立完整的智慧電網產業鏈等。\n智慧電網產業可以區分為上游發電業、中游電網暨裝置設置業及下游的應用服務業。上游發電業包括傳統發電業者諸如火力、水力、核能發電，以及風力發電、太陽能發電或汽電共生等新興發電業者；中游的電網暨裝置設置業者包括電網端的設備製造、電網營造與維運以及用戶端的智慧電表製造兩大部分；下游的應用服務業者則有能源管理服務(Energy Service Company, ESCO)業者、系統整合業者以及電力零售業者等三類型。\n一、上游：\n智慧電網產業鏈的上游為發電業者，涵蓋綜合電業廠商以及獨立電力供應商(Independent Power Producer, IPP)兩類，綜合電業業者為具備發電、輸電、配電三個部份的垂直整合業務之廠商，當前臺灣代表就是台灣電力公司；至於獨立電力供應商，則是指非由綜合電業公司經營、或不屬公用事業的電力供給廠商，台灣多指為民營電廠。以發電形式區隔，有傳統的火力、水力及核能發電，以及新興的太陽能、風能等類型，台灣除核能發電之外，其他類型電廠均有民營業者參與。\n二、中游：\n電網暨裝置設置業者屬於智慧電網產業鏈的中游，其範疇涵蓋電網端的設備製造、電網營造與維運，以及用戶端的智慧電表製造兩大部分。電網設備製造可分為高/低壓輸電設施製造及配電管理設施兩大類，均涵蓋電力線路、變電裝置、控制設施及感測器與通訊裝置等。國際上電網端設備製造由ABB、西門子及GE等業者所主導，台灣業者多以低壓、配電設施為主，例如亞力、中興電工、華城等業者。\n電網營造商負責承包電網基礎設施建置之業務，舉凡基地整理、基礎結構施作、電網設備安裝等相關之土木、機電工程均涵蓋其中。業者佈局上，國際上除傳統電網系統、裝置業者參與之外，亦有電網維運業者直接或間接透過所屬之營造子公司參與相關業務運作，以及專屬之基礎設施工程集團投入。\n電網維運業者則是以電網為基礎提供電力調度及輸配服務，業者多以區域服務為主。中國大陸的國家電網是全球最大的電網公司，其次則是義大利的Enel SpA及法國的法國電力公司EDF。國家電網近年更積極在國際上併購區域電網公司，業務範圍橫跨亞洲、歐洲乃至於南美洲的巴西；台灣的電網維運業者目前僅有國營的台灣電力一家，即便在未來電業自由化後，台電仍擔負台灣唯一的電網規劃、維護與營運之任務。\n國際智慧電表業者則以Landis+Gyr、Itron等業者代表，台灣業者中，大同在高低壓用戶產品皆有實績，其他業者如士電、台達電或康舒等亦積極搶進智慧電表領域。\n三、下游：\n智慧電網產業鏈下游為應用服務業者，包括能源管理服務業者、系統整合業者以及電力零售業者等三類型。\n能源管理服務業者是指協助客戶進行能源管理軟硬體設備安裝、提供客戶查詢能源資訊平臺，以及提供能源管理相關建議服務的廠商。國際上能源管理服務業者樣貌眾多，有以機電設施為發展基礎的Honeywell Building Solutions SES，以電網服務商身分提供服務的國網綜合能源服務集團(原名稱為國網節能，隸屬於大陸國家電網公司)，及美國Con Edison與Ameresco等單純的能源管理服務商。台灣業者在能源服務領域起步較晚，規模有限，具備優勢亦各有不同。代表業者有電信業務為核心的中華電信，物業管理為基礎的中興保全，機電設備商中興電工，以及新鼎系統、巨路國際、漢唐集成等業者。\n系統整合服務是指將建築物內之各種不同的應用子系統，如門禁控制、消防與安全警報、能源監控、公共設施管理等，加以連結整合，使建物內之訊息流通共用，促進操作方便性、避免資源浪費。台灣的系統整合商包括宜碩、中興保全、中華電信、中興電工、新鼎系統等，其中不少業者亦同時提供能源管理服務業務。\n電力零售業者經由電網業者購得電力，再提出購電方案給消費者選擇，向大眾銷售電力。日本在2016年起正式開放電力零售全面自由化，帶動許多新興電力零售業者崛起，諸如Looop電氣(發電業)、東京瓦斯(瓦斯業)、 KDDI(電信業)等。台灣過往唯一的電力零售業者是台灣電力，但在電業法2017年大幅修正後，發電業、售電業開放民間綠電加入，打開綠電交易市場大門，2024年7月再度放寬再生能源售電業間可交易行為，擴大綠電交易市場，僅登記在案業者就超過80家規模，例如富崴電力、陽光伏特家等，亦有不少系統整合業者提供電力交易服務，如華城電機的華城能源。\n台灣產業鏈方面，智慧電表製造佈局已漸趨完整，目前朝向全系統方案提供邁進。在電網設備方面，輸配電自動化之配電、變電及饋線自動化已有大同、華城、亞力及祥正等投入配電自動化及智慧變壓器開發。\n根據Precedence Research報告顯示，伴隨著疫情對能源的影響，降低能耗等議題，各國均積極透過電網數位化手段企圖解決電力損失、輸配電基礎設施薄弱等問題，2025年全球智慧電網市場規模為525億美元，預估到2034年，全球智慧電網市場規模將達到2,151億美元，2024至2034年的年複合成長率達到17%水準。另在智慧電表市場規模方面，IMARC Group數據顯示，2024年全球智慧電表市場規模達到267億美元水準，預計到2033年將增長至503億美元，年複合成長率為7.2%。市場結構方面，伴隨著中國和印度等國家的快速城市化和人口增長，亞太地區是智慧電錶市場最大板塊。\n至於微電網部分，伴隨著日益複雜的資通訊和高密度計算基礎設施的大量設置，商業活動和系統設施對停電的容忍度亦隨之降低，都驅動微電網市場的發展，根據MarketsandMarkets報告數據顯示，2024年全球微電網市場規模將為376億美元水準，預計到2029年將超過878億美元，年複合年增長率18.5%。另在儲能市場方面，根據Mordor Intelligence數據顯示，2025年市場規模預計可達584.1億美元，至2030年達到1,140.1億美元水準，年複合成長率為14.31%。\n至於台灣市場方面，基於台電對2025年的輔助服務容量規劃及用電大戶條款，加上303事故全國性停電影響，正式於2022年9月公布「強化電網韌性建設計畫」，將於10年內投入5,645億元，以「力求分散、持續強固、加強防衛」3大主軸、10大面向，全面提升全國電網面對突發事故的因應能力；同時根據行政院核定的智慧電表布建期程，台電將在2030年完成600萬智慧電表布建目標，並依照2050淨零排放路徑規劃，於2035年全面換成智慧電表，預期將推升台灣智慧電網市場規模。",
+  "chains": [
+    {
+      "title": "上游發電",
+      "companies": []
+    },
+    {
+      "title": "中游電網暨裝置設置",
+      "companies": [
+        {
+          "id": "ic_link_AD11",
+          "text": "高/低壓輸電設施",
+          "detailed_data": {
+            "title": "高/低壓輸電設施",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中興電",
+                "url": "company_basic.php?stk_code=1513",
+                "is_foreign": false
+              },
+              {
+                "name": "華城",
+                "url": "company_basic.php?stk_code=1519",
+                "is_foreign": false
+              },
+              {
+                "name": "華電",
+                "url": "company_basic.php?stk_code=1603",
+                "is_foreign": false
+              },
+              {
+                "name": "華新",
+                "url": "company_basic.php?stk_code=1605",
+                "is_foreign": false
+              },
+              {
+                "name": "大亞",
+                "url": "company_basic.php?stk_code=1609",
+                "is_foreign": false
+              },
+              {
+                "name": "宏泰",
+                "url": "company_basic.php?stk_code=1612",
+                "is_foreign": false
+              },
+              {
+                "name": "大山",
+                "url": "company_basic.php?stk_code=1615",
+                "is_foreign": false
+              },
+              {
+                "name": "合機",
+                "url": "company_basic.php?stk_code=1618",
+                "is_foreign": false
+              },
+              {
+                "name": "大東電",
+                "url": "company_basic.php?stk_code=1623",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "致茂",
+                "url": "company_basic.php?stk_code=2360",
+                "is_foreign": false
+              },
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "洋華",
+                "url": "company_basic.php?stk_code=3622",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "康舒",
+                "url": "company_basic.php?stk_code=6282",
+                "is_foreign": false
+              },
+              {
+                "name": "光譜",
+                "url": "company_basic.php?stk_code=5381",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "大唐新能源",
+                "url": "http://www.cdt-re.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "EDF",
+                "url": "https://www.edf.fr/",
+                "is_foreign": true
+              },
+              {
+                "name": "第一太陽能",
+                "url": "http://www.firstsolar.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共23家"
+          }
+        },
+        {
+          "id": "ic_link_AD12",
+          "text": "配電管理設施",
+          "detailed_data": {
+            "title": "配電管理設施",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中興電",
+                "url": "company_basic.php?stk_code=1513",
+                "is_foreign": false
+              },
+              {
+                "name": "華城",
+                "url": "company_basic.php?stk_code=1519",
+                "is_foreign": false
+              },
+              {
+                "name": "光寶科",
+                "url": "company_basic.php?stk_code=2301",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "致茂",
+                "url": "company_basic.php?stk_code=2360",
+                "is_foreign": false
+              },
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "洋華",
+                "url": "company_basic.php?stk_code=3622",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "康舒",
+                "url": "company_basic.php?stk_code=6282",
+                "is_foreign": false
+              },
+              {
+                "name": "廣錠",
+                "url": "company_basic.php?stk_code=6441",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "大唐新能源",
+                "url": "http://www.cdt-re.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "EDF",
+                "url": "https://www.edf.fr/",
+                "is_foreign": true
+              },
+              {
+                "name": "第一太陽能",
+                "url": "http://www.firstsolar.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共15家"
+          }
+        },
+        {
+          "id": "ic_link_AD13",
+          "text": "電網營造",
+          "detailed_data": {
+            "title": "電網營造",
+            "categories": [],
+            "companies": [
+              {
+                "name": "華城",
+                "url": "company_basic.php?stk_code=1519",
+                "is_foreign": false
+              },
+              {
+                "name": "洋華",
+                "url": "company_basic.php?stk_code=3622",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_AD14",
+          "text": "電網維運",
+          "detailed_data": {
+            "title": "電網維運",
+            "categories": [],
+            "companies": [
+              {
+                "name": "洋華",
+                "url": "company_basic.php?stk_code=3622",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "Enel S.p.A",
+                "url": "https://www.enel.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Enel S.p.A.",
+                "url": "https://www.enel.com",
+                "is_foreign": true
+              },
+              {
+                "name": "PJM Interconnection",
+                "url": "http://www.pjm.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中國電力建設",
+                "url": "http://www.powerchina.cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "國家電網",
+                "url": "http://www.sgcc.com.cn/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共7家"
+          }
+        },
+        {
+          "id": "ic_link_AD15",
+          "text": "高壓AMI",
+          "detailed_data": {
+            "title": "高壓AMI",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中興電",
+                "url": "company_basic.php?stk_code=1513",
+                "is_foreign": false
+              },
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "洋華",
+                "url": "company_basic.php?stk_code=3622",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "宣德",
+                "url": "company_basic.php?stk_code=5457",
+                "is_foreign": false
+              },
+              {
+                "name": "斯其大",
+                "url": "company_basic.php?stk_code=6648",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "ITRON",
+                "url": "https://www.itron.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Landis+Gyr",
+                "url": "https://www.landisgyr.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共11家"
+          }
+        },
+        {
+          "id": "ic_link_AD16",
+          "text": "低壓AMI",
+          "detailed_data": {
+            "title": "低壓AMI",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中興電",
+                "url": "company_basic.php?stk_code=1513",
+                "is_foreign": false
+              },
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "洋華",
+                "url": "company_basic.php?stk_code=3622",
+                "is_foreign": false
+              },
+              {
+                "name": "玖鼎電力",
+                "url": "company_basic.php?stk_code=4588",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "宣德",
+                "url": "company_basic.php?stk_code=5457",
+                "is_foreign": false
+              },
+              {
+                "name": "斯其大",
+                "url": "company_basic.php?stk_code=6648",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "ITRON",
+                "url": "https://www.itron.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Landis+Gyr",
+                "url": "https://www.landisgyr.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共12家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游應用服務",
+      "companies": [
+        {
+          "id": "ic_link_AD17",
+          "text": "能源管理服務",
+          "detailed_data": {
+            "title": "能源管理服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中興電",
+                "url": "company_basic.php?stk_code=1513",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "佳世達",
+                "url": "company_basic.php?stk_code=2352",
+                "is_foreign": false
+              },
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "中華電",
+                "url": "company_basic.php?stk_code=2412",
+                "is_foreign": false
+              },
+              {
+                "name": "洋華",
+                "url": "company_basic.php?stk_code=3622",
+                "is_foreign": false
+              },
+              {
+                "name": "玖鼎電力",
+                "url": "company_basic.php?stk_code=4588",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "雲豹能源",
+                "url": "company_basic.php?stk_code=6869",
+                "is_foreign": false
+              },
+              {
+                "name": "泓德能源",
+                "url": "company_basic.php?stk_code=6873",
+                "is_foreign": false
+              },
+              {
+                "name": "富威電力",
+                "url": "company_basic.php?stk_code=6994",
+                "is_foreign": false
+              },
+              {
+                "name": "熙特爾-創",
+                "url": "company_basic.php?stk_code=7740",
+                "is_foreign": false
+              },
+              {
+                "name": "羅昇",
+                "url": "company_basic.php?stk_code=8374",
+                "is_foreign": false
+              },
+              {
+                "name": "連展投控",
+                "url": "company_basic.php?stk_code=3710",
+                "is_foreign": false
+              },
+              {
+                "name": "華電網",
+                "url": "company_basic.php?stk_code=6163",
+                "is_foreign": false
+              },
+              {
+                "name": "斯其大",
+                "url": "company_basic.php?stk_code=6648",
+                "is_foreign": false
+              },
+              {
+                "name": "天能綠電",
+                "url": "company_basic.php?stk_code=7842",
+                "is_foreign": false
+              },
+              {
+                "name": "宏于電機",
+                "url": "company_basic.php?stk_code=7869",
+                "is_foreign": false
+              },
+              {
+                "name": "美格能",
+                "url": "company_basic.php?stk_code=7409",
+                "is_foreign": false
+              },
+              {
+                "name": "發條橘子",
+                "url": "company_basic.php?stk_code=7569",
+                "is_foreign": false
+              },
+              {
+                "name": "Ameresco",
+                "url": "https://www.ameresco.com",
+                "is_foreign": true
+              },
+              {
+                "name": "ConEdison",
+                "url": "https://www.coned.com",
+                "is_foreign": true
+              },
+              {
+                "name": "E.ON",
+                "url": "https://www.eon.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Honeywell",
+                "url": "https://www.honeywell.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Honeywell Building Solutions SES",
+                "url": "https://buildingsolutions.honeywell.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "國家電網",
+                "url": "http://www.sgcc.com.cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "State Grid Energy Conservation Service Co.,ltd",
+                "url": "国网综合能源服务集团",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共28家"
+          }
+        },
+        {
+          "id": "ic_link_AD18",
+          "text": "系統整合服務",
+          "detailed_data": {
+            "title": "系統整合服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中興電",
+                "url": "company_basic.php?stk_code=1513",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "研華",
+                "url": "company_basic.php?stk_code=2395",
+                "is_foreign": false
+              },
+              {
+                "name": "中華電",
+                "url": "company_basic.php?stk_code=2412",
+                "is_foreign": false
+              },
+              {
+                "name": "洋華",
+                "url": "company_basic.php?stk_code=3622",
+                "is_foreign": false
+              },
+              {
+                "name": "玖鼎電力",
+                "url": "company_basic.php?stk_code=4588",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "雲豹能源",
+                "url": "company_basic.php?stk_code=6869",
+                "is_foreign": false
+              },
+              {
+                "name": "泓德能源",
+                "url": "company_basic.php?stk_code=6873",
+                "is_foreign": false
+              },
+              {
+                "name": "富威電力",
+                "url": "company_basic.php?stk_code=6994",
+                "is_foreign": false
+              },
+              {
+                "name": "熙特爾-創",
+                "url": "company_basic.php?stk_code=7740",
+                "is_foreign": false
+              },
+              {
+                "name": "羅昇",
+                "url": "company_basic.php?stk_code=8374",
+                "is_foreign": false
+              },
+              {
+                "name": "中保科",
+                "url": "company_basic.php?stk_code=9917",
+                "is_foreign": false
+              },
+              {
+                "name": "華電網",
+                "url": "company_basic.php?stk_code=6163",
+                "is_foreign": false
+              },
+              {
+                "name": "大世科",
+                "url": "company_basic.php?stk_code=8099",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "天能綠電",
+                "url": "company_basic.php?stk_code=7842",
+                "is_foreign": false
+              },
+              {
+                "name": "聖育",
+                "url": "company_basic.php?stk_code=7868",
+                "is_foreign": false
+              },
+              {
+                "name": "宏于電機",
+                "url": "company_basic.php?stk_code=7869",
+                "is_foreign": false
+              },
+              {
+                "name": "美格能",
+                "url": "company_basic.php?stk_code=7409",
+                "is_foreign": false
+              },
+              {
+                "name": "富宸",
+                "url": "company_basic.php?stk_code=7543",
+                "is_foreign": false
+              },
+              {
+                "name": "發條橘子",
+                "url": "company_basic.php?stk_code=7569",
+                "is_foreign": false
+              },
+              {
+                "name": "台智能",
+                "url": "company_basic.php?stk_code=7692",
+                "is_foreign": false
+              },
+              {
+                "name": "Control4",
+                "url": "https://www.control4.com",
+                "is_foreign": true
+              },
+              {
+                "name": "國際商業機器股份有限公司",
+                "url": "http://www.ibm.com/en-us/homepage-d.html",
+                "is_foreign": true
+              },
+              {
+                "name": "勤達睿",
+                "url": "https://www.kyndryl.com",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共27家"
+          }
+        },
+        {
+          "id": "ic_link_AD19",
+          "text": "電力零售業",
+          "detailed_data": {
+            "title": "電力零售業",
+            "categories": [],
+            "companies": [
+              {
+                "name": "洋華",
+                "url": "company_basic.php?stk_code=3622",
+                "is_foreign": false
+              },
+              {
+                "name": "台表科",
+                "url": "company_basic.php?stk_code=6278",
+                "is_foreign": false
+              },
+              {
+                "name": "雲豹能源",
+                "url": "company_basic.php?stk_code=6869",
+                "is_foreign": false
+              },
+              {
+                "name": "泓德能源",
+                "url": "company_basic.php?stk_code=6873",
+                "is_foreign": false
+              },
+              {
+                "name": "富威電力",
+                "url": "company_basic.php?stk_code=6994",
+                "is_foreign": false
+              },
+              {
+                "name": "羅昇",
+                "url": "company_basic.php?stk_code=8374",
+                "is_foreign": false
+              },
+              {
+                "name": "台汽電",
+                "url": "company_basic.php?stk_code=8926",
+                "is_foreign": false
+              },
+              {
+                "name": "寶晶能源*",
+                "url": "company_basic.php?stk_code=6987",
+                "is_foreign": false
+              },
+              {
+                "name": "天能綠電",
+                "url": "company_basic.php?stk_code=7842",
+                "is_foreign": false
+              },
+              {
+                "name": "Enel S.p.A",
+                "url": "https://www.enel.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Enel S.p.A.",
+                "url": "https://www.enel.com",
+                "is_foreign": true
+              },
+              {
+                "name": "PJM Interconnection",
+                "url": "http://www.pjm.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "國家電網",
+                "url": "http://www.sgcc.com.cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "國家電網",
+                "url": "http://www.sgcc.com.cn/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共14家"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3186 @@
+{
+  "title": "半導體產業鏈",
+  "introduction": "半導體產業鏈\n半導體產業鏈上游為IP設計及IC設計業，中游為IC製造、晶圓製造、相關生產製程檢測設備、光罩、化學品等產業，下游為IC封裝測試、相關生產製程檢測設備、零組件（如基板、導線架）、IC模組、IC通路等業。台灣擁有全球最完整的半導體產業聚落及專業分工，IC設計公司在產品設計完成後，委由專業晶圓代工廠或IDM廠（整合型半導體廠，從IC設計、製造、封裝、測試到最終銷售都一手包辦）製作成晶圓半成品，經由前段測試，再轉給專業封裝廠進行切割及封裝，最後由專業測試廠進行後段測試，測試後之成品則經由銷售管道售予系統廠商裝配生產成為系統產品。\n一、上游：\nIC產品的源頭來自IC設計，IP為IC設計的智慧財產權，IP開發流程包含IP設計與IP驗證，在IC設計中，IP核心再利用可以有效縮短產品開發週期並降低成本，現今IC設計大幅增加了許多功能，因此必須運用既有的驗證有效IP元件，以滿足上市前置時間的要求。但是，由於功能要求與技術製程的差異，各公司必須提供的IP種類太多，因此產生專門從事IP設計之公司。IC設計使用CAD等輔助工具，將客戶或自行開發產品的規格與功能，藉由電路設計由IC表現出來，就是如何將一片晶片的功能從邏輯設計到晶圓設計之流程。IC可簡單區分為類比IC與數位IC兩大類。全球IC設計產業已進入美國、台灣與中國大陸三分天下的時代。中國大陸2014年開始大陸扶植半導體產業後，中國大陸IC設計產業在內需市場支撐下，近年來快速成長。美中貿易戰後，為避免關鍵技術受制於美國，更加速中國大陸半導體自主化之決心，積極發展自有半導體供應鏈。\n二、中游：\nIC製造的流程是將晶圓廠所做好的晶圓，以光罩印上電路基本圖樣，再以氧化、擴散、CVD、蝕刻、離子植入等方法，將電路及電路上的元件，在晶圓上製作出來。由於IC上的電路設計是層狀結構，因此還要經過多次的光罩投入、圖形製作、形成線路與元件等重複程序，才能製作出完整的積體電路。台灣IC製造業者在晶圓龍頭台積電先進製程技術上的發展，仍領先群雄。\n三、下游：\nIC封裝是將加工完成的晶圓，經切割過後的晶粒，以塑膠、陶瓷或金屬包覆，保護晶粒以免受汙染且易於裝配，並達成晶片與電子系統的電性連接與散熱效果。IC測試則可分為兩階段，一是進入封裝之前的晶圓測試，主要測試電性。另一則為IC成品測試，主要在測試IC功能、電性與散熱是否正常，以確保品質。台灣IC封裝與測試產業，穩坐全球之冠，隨著IoT應用興起，台灣IC封裝與測試業者持續布局高階封裝與異質整合技術，拉大與競爭業者之差距。\nIC通路業僅負責IC買賣銷售，不涉及生產製造，係向上游半導體設計廠或製造廠採購，提供給下游電子產業製造商所需之相關零件或材料。\n人工智慧（AI）市場需求持續看增，讓IC設計服務、高速傳輸、手機晶片等相關業者需求不斷攀升。AI技術在各個行業中的應用需求不斷增長，包括生成式AI、自動駕駛及智慧座艙、智慧家庭、醫療保健、工業自動化等領域，在AI商機大爆發下，帶動高性能及低功耗的晶片需求，針對各特定應用的ASIC需求也將大增，2024年後掀起台灣IC設計產業另一波成長高峰。\n台灣IC設計龍頭聯發科，除了持續耕耘高階智慧型手機市場，更強攻AI邊緣裝置市場，聯手輝達開發的AI PC新產品可望在2025年下半年問世，與高通在WoA（Windows on Arm）市場掀起新戰場。聯發科同時與輝達聯手合作車用架構平台，聯發科與多家歐美及中國大陸車廠合作的車用晶片方案也預計自2025年下半年起放量，未來將同時跨入車用自動駕駛及資通訊娛樂系統等市場，將邊緣運算產品擴展至非消費型市場。\n除IC設計龍頭受惠AI相關商機，在AI風潮帶動下，AI 應用需求不斷增長，邊緣運算和雲計算正迅速展開，全球科技巨頭在 AI 晶片領域的競爭加劇，都積極採用客製化晶片，以求在不斷增長的 AI 市場中降低成本、提升效能，台灣的IC設計服務業者更成為北美雲端服務大廠伺服器客製化CPU重要合作夥伴，使世芯、創意、智原，甚至布局客製化處理器晶片市場的聯發科、聯詠、瑞昱都有望受惠。IC廠威盛、指紋辨識IC廠神盾、電視機上盒IC廠揚智，近幾年也將ASIC視為重要轉型方針，相繼展開佈局。隨著AI算力增加、除了中央處理器、記憶體需要全面升級之外，在終端設備，各種傳輸介面也都要趕上運算速度的提升，高速傳輸晶片儼然成為資料傳輸頻寬大小的重要關鍵。除了祥碩之外，創惟、威鋒未來亦有機會切入相關市場，搶占AI相關高速傳輸晶片商機。整體而言，台灣IC設計業者，各族群展現多元化實力，在高速運算、智慧型手機、車載與物聯網等皆有所著墨，更在AI浪潮下各自搶占相關商機。\n2025年川普的對等關稅政策不確定因素，晶片業紛紛提前備貨以分散風險，加上國際大廠「去中化」態勢延續，台灣IC設計業成為業界下單首選。2025年第二季筆電品牌急單陸續湧進，因應90天寬限期內大量備貨，因此筆電、手機用驅動IC拉貨更加明顯，研判第3季需求將提前在第2季完成。生成式AI、邊緣運算與高速通訊技術帶動新一波數位浪潮，台灣IC設計業者2025年全力衝刺AI應用市場，盼迎來營收與獲利雙重突破。 然2025年下半年將面臨新台幣匯率與美國關稅陰霾雙重挑戰，勢必對整體營運造成壓力。\n台灣IC製造部分， 2025年AI依舊是帶動半導體產業上升週期的主力，加上關稅不確定性使得下游終端客戶提前拉貨，2025年上半年台灣晶圓動工業者營收呈現成長態勢。台灣晶圓代工龍頭台積電在先進製程絕對優勢下，擁有多數AI相關應用訂單， 2025年下半年更將如期量產2奈米，在智慧型手機、PC 和伺服器等推動下，客戶採用度高，有望成為台積電最暢銷製程。\n隨著美中貿易衝突態勢尚未明朗下，儘管在某種程度上為台灣晶圓廠帶來轉單效應，但中國晶圓廠的快速擴張仍對台灣業者形成壓力。二線晶圓代工業者，在中國大陸晶圓代工廠持續擴張產能，使成熟製程供過於求狀況延續，加上關稅尚未明朗化下，2025年下半年市況不明，價格調幅受限，客戶態度也趨於保守，二線晶圓代工業者產能利用率復甦相對遲緩。\n二線晶圓代工廠也積極尋求差異減少中國晶圓代工產能過剩問題，包括聯電持續累積具技術差異化及領先的特殊製程，為強化美國製造，聯電與英特爾初步合作以12奈米製程為主，採用英特爾既有設備在美生產，銷售、研發、晶圓代工以聯電為主，預計在2027年量產。力積電則積極轉型至 AI 相關配套產品線，目前整合邏輯製程與記憶體的 Wafer on Wafer (WoW)3D 堆疊技術已完成開發，並獲得多個國際大廠採用及試產，未來銅鑼新廠的擴充也將以 WoW 3D 代工業務為主軸，以因應 AI 應用爆發性成長的市場需求。而世界先進與恩智浦半導體在新加坡成立合資公司VisionPower Semiconductor Manufacturing Company，以興建一座12吋晶圓廠，將採用130奈米至40奈米的技術，生產混合訊號、電源管理及類比產品，以支援汽車、工業、消費性電子及行動裝置等終端市場需求，期望能以策略性布局來迎戰紅色供應鏈的挑戰。\n記憶體部分， AI浪潮引爆的記憶體商機，主要在高頻寬記憶體（HBM），吸引全球記憶體三強搶進。台灣記憶體廠目前仍無法與國際三大廠在HBM領域競爭，轉而從周邊的AI邊緣運算應用切入，強化相關技術量能與產品布局。三星、SK海力士及美光等國際記憶體巨擘，皆積極投入高頻寬記憶體製程，三星和 SK 海力士轉專注擴大 HBM 產量，減少標準記憶體產量，已明確向客戶發出停產通知，除了舊製程停產因素以外，另外為躲避即將到來美國對半導體關稅可能提高政策，市場急單湧入，雙行效應下使得DDR4價格繼續上揚，6月DDR4報價大幅跳漲50%，無論是8Gb或16Gb現貨價格均強勢，也帶動DDR5價格上漲上漲。台灣記憶體業者南亞科為彌補國際大廠退出的市場空缺，並調整產能供貨策略。生成式AI持續爆發，推升高頻寬記憶體（HBM）需求急遽攀升。全球三大記憶體廠—美光、SK海力士與三星電子全面投入HBM4戰局，爭搶AI加速器記憶體主導權。\nIC封測部分， 2025年上半年在應\n美國商務部\n工業安全局（BIS）要求，眾多中國大陸IC設計廠受到限制令，中國大陸IC設計廠開發的16奈米以下產品未在BIS封裝廠白名單封裝，台積電將無法接單及出貨。目前出口到中國大陸晶片多由中國大陸封測廠承接，不過在美國商務部祭出新一輪管制後，台灣IC 封測廠近一步承接相關轉單訂單。除了中國大陸IC設計廠大量訂單之際，台灣IC封測廠也全力搶攻先進封裝市場，成為推升營運另一重要動能。\nAI大趨勢帶動高速運算（HPC）晶片發展浪潮，先進封裝需求同步崛起。由於今年客戶下單動能大增，相關先進封裝訂單開始從台積電外溢到委外封測廠（OSAT）以日月光投控及旗下矽品獲取最多訂單。\n全球半導體受AI、高效能運算（HPC）、5G與車用電子等新興應用持續擴大影響，推動先進封裝技術成為重要方向，目前先進封裝仍以CoWoS為主，但未來不再是其獨大的局面，其中扇出型面板級封裝（Fan-Out Panel Level Packaging, FOPLP）具備高效能、低成本與高良率等優勢，正快速崛起，為下一世代封裝的關鍵解方。\n台灣封測大廠也對此做好準備，日月光預計在2025年底前試產，力成已小量出貨，2026年起逐步擴大營運貢獻。與傳統封裝相比，FOPLP最大特色在於單次處理面積擴大，有效提升生產效率並降低單位成本，隨著先進封裝愈加複雜與晶片多元整合的需求增加，FOPLP技術的可擴展性與成本效益，滿足產業未來的要求。\n除高階封裝外，在AI 趨勢下，高階AI晶片設計製造複雜度大幅提升，帶動市場對於先進測試需求，封測龍頭日月光亦積極擴大測試領域。",
+  "chains": [
+    {
+      "title": "上游",
+      "companies": [
+        {
+          "id": "ic_link_DC00",
+          "text": "IP設計//IC設計/代工服務",
+          "detailed_data": {
+            "title": "IP設計/IC設計代工服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌陽",
+                "url": "company_basic.php?stk_code=2401",
+                "is_foreign": false
+              },
+              {
+                "name": "智原",
+                "url": "company_basic.php?stk_code=3035",
+                "is_foreign": false
+              },
+              {
+                "name": "創意",
+                "url": "company_basic.php?stk_code=3443",
+                "is_foreign": false
+              },
+              {
+                "name": "全訊",
+                "url": "company_basic.php?stk_code=5222",
+                "is_foreign": false
+              },
+              {
+                "name": "億而得-創",
+                "url": "company_basic.php?stk_code=6423",
+                "is_foreign": false
+              },
+              {
+                "name": "晶心科",
+                "url": "company_basic.php?stk_code=6533",
+                "is_foreign": false
+              },
+              {
+                "name": "芯鼎",
+                "url": "company_basic.php?stk_code=6695",
+                "is_foreign": false
+              },
+              {
+                "name": "世芯-KY",
+                "url": "company_basic.php?stk_code=3661",
+                "is_foreign": false
+              },
+              {
+                "name": "泰谷",
+                "url": "company_basic.php?stk_code=3339",
+                "is_foreign": false
+              },
+              {
+                "name": "力旺",
+                "url": "company_basic.php?stk_code=3529",
+                "is_foreign": false
+              },
+              {
+                "name": "M31",
+                "url": "company_basic.php?stk_code=6643",
+                "is_foreign": false
+              },
+              {
+                "name": "安國",
+                "url": "company_basic.php?stk_code=8054",
+                "is_foreign": false
+              },
+              {
+                "name": "巨有科技",
+                "url": "company_basic.php?stk_code=8227",
+                "is_foreign": false
+              },
+              {
+                "name": "群聯",
+                "url": "company_basic.php?stk_code=8299",
+                "is_foreign": false
+              },
+              {
+                "name": "芯測",
+                "url": "company_basic.php?stk_code=6786",
+                "is_foreign": false
+              },
+              {
+                "name": "瑞宇",
+                "url": "company_basic.php?stk_code=6842",
+                "is_foreign": false
+              },
+              {
+                "name": "益芯科",
+                "url": "company_basic.php?stk_code=7707",
+                "is_foreign": false
+              },
+              {
+                "name": "擷發科",
+                "url": "company_basic.php?stk_code=7796",
+                "is_foreign": false
+              },
+              {
+                "name": "安謀",
+                "url": "http://www.arm.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "益華",
+                "url": "http://www.cadence.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Imagination",
+                "url": "http://imgtec.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "新思科技",
+                "url": "http://www.synopsys.com/home.aspx",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共22家"
+          }
+        },
+        {
+          "id": "ic_link_D100",
+          "text": "IC設計",
+          "detailed_data": {
+            "title": "IC設計",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_D110",
+                "title": "LED驅動IC",
+                "companies": [
+                  {
+                    "name": "台達電",
+                    "url": "company_basic.php?stk_code=2308",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯陽",
+                    "url": "company_basic.php?stk_code=3014",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "天鈺",
+                    "url": "company_basic.php?stk_code=4961",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "點晶",
+                    "url": "company_basic.php?stk_code=3288",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聚積",
+                    "url": "company_basic.php?stk_code=3527",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "普誠",
+                    "url": "company_basic.php?stk_code=6129",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "茂達",
+                    "url": "company_basic.php?stk_code=6138",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "安華高科技",
+                    "url": "http://www.avagotech.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "博通",
+                    "url": "http://www.broadcom.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "美信",
+                    "url": "https://www.analog.com/en/index.html",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "德州儀器",
+                    "url": "http://www.ti.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D120",
+                "title": "光通訊IC",
+                "companies": [
+                  {
+                    "name": "凱鈺",
+                    "url": "company_basic.php?stk_code=5468",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宏觀",
+                    "url": "company_basic.php?stk_code=6568",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "海思半導體",
+                    "url": "http://www.hisilicon.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "邁威爾",
+                    "url": "http://www.marvell.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "PMC-Sierra",
+                    "url": "http://pmcs.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D130",
+                "title": "光源管理IC",
+                "companies": [
+                  {
+                    "name": "矽創",
+                    "url": "company_basic.php?stk_code=8016",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "昇佳電子",
+                    "url": "company_basic.php?stk_code=6732",
+                    "is_foreign": false
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D140",
+                "title": "消費性IC",
+                "companies": [
+                  {
+                    "name": "台達電",
+                    "url": "company_basic.php?stk_code=2308",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "凌陽",
+                    "url": "company_basic.php?stk_code=2401",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "偉詮電",
+                    "url": "company_basic.php?stk_code=2436",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯發科",
+                    "url": "company_basic.php?stk_code=2454",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "義隆",
+                    "url": "company_basic.php?stk_code=2458",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯陽",
+                    "url": "company_basic.php?stk_code=3014",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯詠",
+                    "url": "company_basic.php?stk_code=3034",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "揚智",
+                    "url": "company_basic.php?stk_code=3041",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺寶-創",
+                    "url": "company_basic.php?stk_code=3150",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "晶相光",
+                    "url": "company_basic.php?stk_code=3530",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "新唐",
+                    "url": "company_basic.php?stk_code=4919",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "凌通",
+                    "url": "company_basic.php?stk_code=4952",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "芯鼎",
+                    "url": "company_basic.php?stk_code=6695",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "威鋒電子",
+                    "url": "company_basic.php?stk_code=6756",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "矽創",
+                    "url": "company_basic.php?stk_code=8016",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "天方能源",
+                    "url": "company_basic.php?stk_code=3073",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "笙泉",
+                    "url": "company_basic.php?stk_code=3122",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "海德威",
+                    "url": "company_basic.php?stk_code=3268",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "點晶",
+                    "url": "company_basic.php?stk_code=3288",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聚積",
+                    "url": "company_basic.php?stk_code=3527",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "禾瑞亞",
+                    "url": "company_basic.php?stk_code=3556",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "凌陽創新",
+                    "url": "company_basic.php?stk_code=5236",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "笙科",
+                    "url": "company_basic.php?stk_code=5272",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "太欣",
+                    "url": "company_basic.php?stk_code=5302",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "通泰",
+                    "url": "company_basic.php?stk_code=5487",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "合邦",
+                    "url": "company_basic.php?stk_code=6103",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "普誠",
+                    "url": "company_basic.php?stk_code=6129",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "驊訊",
+                    "url": "company_basic.php?stk_code=6237",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "神盾",
+                    "url": "company_basic.php?stk_code=6462",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "九齊",
+                    "url": "company_basic.php?stk_code=6494",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宏觀",
+                    "url": "company_basic.php?stk_code=6568",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "安格",
+                    "url": "company_basic.php?stk_code=6684",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "久昌",
+                    "url": "company_basic.php?stk_code=6720",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "君曜",
+                    "url": "company_basic.php?stk_code=7770",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佑華",
+                    "url": "company_basic.php?stk_code=8024",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "安國",
+                    "url": "company_basic.php?stk_code=8054",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "傑霖科技",
+                    "url": "company_basic.php?stk_code=8102",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "映智",
+                    "url": "company_basic.php?stk_code=6563",
+                    "is_foreign": false
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D150",
+                "title": "記憶體IC",
+                "companies": [
+                  {
+                    "name": "旺宏",
+                    "url": "company_basic.php?stk_code=2337",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "華邦電",
+                    "url": "company_basic.php?stk_code=2344",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "南亞科",
+                    "url": "company_basic.php?stk_code=2408",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "晶豪科",
+                    "url": "company_basic.php?stk_code=3006",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "愛普*",
+                    "url": "company_basic.php?stk_code=6531",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺創",
+                    "url": "company_basic.php?stk_code=5351",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "美光",
+                    "url": "http://www.micron.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "三星電子",
+                    "url": "http://www.samsung.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "三星電子",
+                    "url": "http://www.samsung.com/tw/home/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "新帝公司",
+                    "url": "http://www.sandisk.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D160",
+                "title": "記憶體控制IC",
+                "companies": [
+                  {
+                    "name": "鑫創",
+                    "url": "company_basic.php?stk_code=3259",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "點序",
+                    "url": "company_basic.php?stk_code=6485",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "群聯",
+                    "url": "company_basic.php?stk_code=8299",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "智微",
+                    "url": "company_basic.php?stk_code=4925",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "英柏得",
+                    "url": "company_basic.php?stk_code=7843",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "安華高科技",
+                    "url": "http://www.avagotech.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "博通",
+                    "url": "http://www.broadcom.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "邁威爾",
+                    "url": "http://www.marvell.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "邁威爾",
+                    "url": "http://www.marvell.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "慧榮科技股份有限公司",
+                    "url": "http://www.siliconmotion.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D170",
+                "title": "微控制器IC",
+                "companies": [
+                  {
+                    "name": "台達電",
+                    "url": "company_basic.php?stk_code=2308",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "偉詮電",
+                    "url": "company_basic.php?stk_code=2436",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "義隆",
+                    "url": "company_basic.php?stk_code=2458",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯陽",
+                    "url": "company_basic.php?stk_code=3014",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯詠",
+                    "url": "company_basic.php?stk_code=3034",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "凌通",
+                    "url": "company_basic.php?stk_code=4952",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "松翰",
+                    "url": "company_basic.php?stk_code=5471",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "盛群",
+                    "url": "company_basic.php?stk_code=6202",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "笙泉",
+                    "url": "company_basic.php?stk_code=3122",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "金麗科",
+                    "url": "company_basic.php?stk_code=3228",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "凌陽創新",
+                    "url": "company_basic.php?stk_code=5236",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "通泰",
+                    "url": "company_basic.php?stk_code=5487",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "普誠",
+                    "url": "company_basic.php?stk_code=6129",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "研通",
+                    "url": "company_basic.php?stk_code=6229",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺太",
+                    "url": "company_basic.php?stk_code=6679",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "應廣",
+                    "url": "company_basic.php?stk_code=6716",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "佑華",
+                    "url": "company_basic.php?stk_code=8024",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Atmel",
+                    "url": "www.atmel.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "愛特梅爾",
+                    "url": "http://www.atmel.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "恩智浦半導體",
+                    "url": "http://www.nxp.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "瑞薩電子",
+                    "url": "http://www.renesas.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D180",
+                "title": "電源管理IC",
+                "companies": [
+                  {
+                    "name": "台達電",
+                    "url": "company_basic.php?stk_code=2308",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "偉詮電",
+                    "url": "company_basic.php?stk_code=2436",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯發科",
+                    "url": "company_basic.php?stk_code=2454",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯詠",
+                    "url": "company_basic.php?stk_code=3034",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "虹冠電",
+                    "url": "company_basic.php?stk_code=3257",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "通嘉",
+                    "url": "company_basic.php?stk_code=3588",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "瑞鼎",
+                    "url": "company_basic.php?stk_code=3592",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "凌通",
+                    "url": "company_basic.php?stk_code=4952",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "天鈺",
+                    "url": "company_basic.php?stk_code=4961",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "力智",
+                    "url": "company_basic.php?stk_code=6719",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "威鋒電子",
+                    "url": "company_basic.php?stk_code=6756",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "來頡",
+                    "url": "company_basic.php?stk_code=6799",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "矽創",
+                    "url": "company_basic.php?stk_code=8016",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "致新",
+                    "url": "company_basic.php?stk_code=8081",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "富鼎",
+                    "url": "company_basic.php?stk_code=8261",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "笙泉",
+                    "url": "company_basic.php?stk_code=3122",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "點晶",
+                    "url": "company_basic.php?stk_code=3288",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "尼克森",
+                    "url": "company_basic.php?stk_code=3317",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "類比科",
+                    "url": "company_basic.php?stk_code=3438",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聚積",
+                    "url": "company_basic.php?stk_code=3527",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "力士",
+                    "url": "company_basic.php?stk_code=4923",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "杰力",
+                    "url": "company_basic.php?stk_code=5299",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "普誠",
+                    "url": "company_basic.php?stk_code=6129",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "上亞科技",
+                    "url": "company_basic.php?stk_code=6130",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "茂達",
+                    "url": "company_basic.php?stk_code=6138",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "沛亨",
+                    "url": "company_basic.php?stk_code=6291",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "大中",
+                    "url": "company_basic.php?stk_code=6435",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "全宇昕",
+                    "url": "company_basic.php?stk_code=6651",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺太",
+                    "url": "company_basic.php?stk_code=6679",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "廣閎科",
+                    "url": "company_basic.php?stk_code=6693",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "博盛半導體",
+                    "url": "company_basic.php?stk_code=7712",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "登豐",
+                    "url": "company_basic.php?stk_code=7872",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "亞德諾半導體",
+                    "url": "http://www.analog.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "意法半導體",
+                    "url": "http://www.st.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "德州儀器",
+                    "url": "http://www.ti.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D190",
+                "title": "磁碟儲存控制器IC",
+                "companies": [
+                  {
+                    "name": "凌陽",
+                    "url": "company_basic.php?stk_code=2401",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "英柏得",
+                    "url": "company_basic.php?stk_code=7843",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "安華高科技",
+                    "url": "http://www.avagotech.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "博通",
+                    "url": "http://www.broadcom.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "邁威爾",
+                    "url": "http://www.marvell.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "邁威爾",
+                    "url": "http://www.marvell.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "三星電子",
+                    "url": "http://www.samsung.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "三星電子",
+                    "url": "http://www.samsung.com/tw/home/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D1A0",
+                "title": "網路通訊IC",
+                "companies": [
+                  {
+                    "name": "瑞昱",
+                    "url": "company_basic.php?stk_code=2379",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯發科",
+                    "url": "company_basic.php?stk_code=2454",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯傑",
+                    "url": "company_basic.php?stk_code=3094",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "立積",
+                    "url": "company_basic.php?stk_code=4968",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "達發",
+                    "url": "company_basic.php?stk_code=6526",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "亞信",
+                    "url": "company_basic.php?stk_code=3169",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "信驊",
+                    "url": "company_basic.php?stk_code=5274",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "茂達",
+                    "url": "company_basic.php?stk_code=6138",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宏觀",
+                    "url": "company_basic.php?stk_code=6568",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "天擎",
+                    "url": "company_basic.php?stk_code=6708",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "九暘",
+                    "url": "company_basic.php?stk_code=8040",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "博通",
+                    "url": "http://www.broadcom.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "高通",
+                    "url": "https://www.qualcomm.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "紫光",
+                    "url": "http://www.thunis.com/drupal/unis_about/intro",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D1B0",
+                "title": "輸出入介面IC",
+                "companies": [
+                  {
+                    "name": "凌陽",
+                    "url": "company_basic.php?stk_code=2401",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯陽",
+                    "url": "company_basic.php?stk_code=3014",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "祥碩",
+                    "url": "company_basic.php?stk_code=5269",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "迅杰",
+                    "url": "company_basic.php?stk_code=6243",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "威鋒電子",
+                    "url": "company_basic.php?stk_code=6756",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "精拓科",
+                    "url": "company_basic.php?stk_code=4951",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "創惟",
+                    "url": "company_basic.php?stk_code=6104",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "旺玖",
+                    "url": "company_basic.php?stk_code=6233",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "晶焱",
+                    "url": "company_basic.php?stk_code=6411",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宏觀",
+                    "url": "company_basic.php?stk_code=6568",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "鈺太",
+                    "url": "company_basic.php?stk_code=6679",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "安格",
+                    "url": "company_basic.php?stk_code=6684",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "安國",
+                    "url": "company_basic.php?stk_code=8054",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "智微",
+                    "url": "company_basic.php?stk_code=4925",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "映智",
+                    "url": "company_basic.php?stk_code=6563",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "博通",
+                    "url": "http://www.broadcom.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "英特爾",
+                    "url": "http://www.intel.com.tw/content/www/tw/zh/homepage.html",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "邁威爾",
+                    "url": "http://www.marvell.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "邁威爾",
+                    "url": "http://www.marvell.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D1C0",
+                "title": "平面顯示器控制IC",
+                "companies": [
+                  {
+                    "name": "聯發科",
+                    "url": "company_basic.php?stk_code=2454",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯詠",
+                    "url": "company_basic.php?stk_code=3034",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "凌通",
+                    "url": "company_basic.php?stk_code=4952",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聚積",
+                    "url": "company_basic.php?stk_code=3527",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "普誠",
+                    "url": "company_basic.php?stk_code=6129",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "Atmel",
+                    "url": "www.atmel.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "愛特梅爾",
+                    "url": "http://www.atmel.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "匯頂科技",
+                    "url": "http://www.goodix.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "Synaptics",
+                    "url": "http://www.synaptics.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D1D0",
+                "title": "平面顯示器驅動IC",
+                "companies": [
+                  {
+                    "name": "聯詠",
+                    "url": "company_basic.php?stk_code=3034",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "敦泰",
+                    "url": "company_basic.php?stk_code=3545",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "瑞鼎",
+                    "url": "company_basic.php?stk_code=3592",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "天鈺",
+                    "url": "company_basic.php?stk_code=4961",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "矽創",
+                    "url": "company_basic.php?stk_code=8016",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "晶宏",
+                    "url": "company_basic.php?stk_code=3141",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聚積",
+                    "url": "company_basic.php?stk_code=3527",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "普誠",
+                    "url": "company_basic.php?stk_code=6129",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "力領科技",
+                    "url": "company_basic.php?stk_code=6996",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "譜瑞-KY",
+                    "url": "company_basic.php?stk_code=4966",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯合聚晶",
+                    "url": "company_basic.php?stk_code=6927",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "格科微電子",
+                    "url": "http://www.gcoreinc.com/index.php?lang=en",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "瑞薩電子",
+                    "url": "http://tw.renesas.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "瑞薩電子",
+                    "url": "http://www.renesas.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "三星電子",
+                    "url": "http://www.samsung.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "三星電子",
+                    "url": "http://www.samsung.com/tw/home/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D1E0",
+                "title": "光儲存控制IC",
+                "companies": [
+                  {
+                    "name": "凌陽",
+                    "url": "company_basic.php?stk_code=2401",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯發科",
+                    "url": "company_basic.php?stk_code=2454",
+                    "is_foreign": false
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D1F0",
+                "title": "影像感測IC",
+                "companies": [
+                  {
+                    "name": "凌陽",
+                    "url": "company_basic.php?stk_code=2401",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "聯詠",
+                    "url": "company_basic.php?stk_code=3034",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "矽創",
+                    "url": "company_basic.php?stk_code=8016",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "原相",
+                    "url": "company_basic.php?stk_code=3227",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "映智",
+                    "url": "company_basic.php?stk_code=6563",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "豪威科技",
+                    "url": "http://www.ovt.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "三星電子",
+                    "url": "http://www.samsung.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "索尼",
+                    "url": "http://www.sony.net/",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共212家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游",
+      "companies": [
+        {
+          "id": "ic_link_D300",
+          "text": "IC/晶圓製造",
+          "detailed_data": {
+            "title": "IC/晶圓製造",
+            "categories": [],
+            "subcategories": [
+              {
+                "id": "sc_company_D310",
+                "title": "晶圓製造",
+                "companies": [
+                  {
+                    "name": "聯電",
+                    "url": "company_basic.php?stk_code=2303",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "台積電",
+                    "url": "company_basic.php?stk_code=2330",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "旺宏",
+                    "url": "company_basic.php?stk_code=2337",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "台亞",
+                    "url": "company_basic.php?stk_code=2340",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "華邦電",
+                    "url": "company_basic.php?stk_code=2344",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "大同",
+                    "url": "company_basic.php?stk_code=2371",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "南亞科",
+                    "url": "company_basic.php?stk_code=2408",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "統懋",
+                    "url": "company_basic.php?stk_code=2434",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "全新",
+                    "url": "company_basic.php?stk_code=2455",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "嘉晶",
+                    "url": "company_basic.php?stk_code=3016",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "台勝科",
+                    "url": "company_basic.php?stk_code=3532",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "新唐",
+                    "url": "company_basic.php?stk_code=4919",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "全訊",
+                    "url": "company_basic.php?stk_code=5222",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "力積電",
+                    "url": "company_basic.php?stk_code=6770",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "昇陽半導體",
+                    "url": "company_basic.php?stk_code=8028",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "穩懋",
+                    "url": "company_basic.php?stk_code=3105",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "漢磊",
+                    "url": "company_basic.php?stk_code=3707",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "世界",
+                    "url": "company_basic.php?stk_code=5347",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "中美晶",
+                    "url": "company_basic.php?stk_code=5483",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "合晶",
+                    "url": "company_basic.php?stk_code=6182",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "環球晶",
+                    "url": "company_basic.php?stk_code=6488",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "宏捷科",
+                    "url": "company_basic.php?stk_code=8086",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "環宇-KY",
+                    "url": "company_basic.php?stk_code=4991",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "格羅方德",
+                    "url": "https://gf.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "三星電子",
+                    "url": "http://www.samsung.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "中芯國際",
+                    "url": "http://www.smics.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D320",
+                "title": "DRAM製造",
+                "companies": [
+                  {
+                    "name": "華邦電",
+                    "url": "company_basic.php?stk_code=2344",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "南亞科",
+                    "url": "company_basic.php?stk_code=2408",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "力積電",
+                    "url": "company_basic.php?stk_code=6770",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "漢磊",
+                    "url": "company_basic.php?stk_code=3707",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "美光",
+                    "url": "http://www.micron.com",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "三星電子",
+                    "url": "http://www.samsung.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "三星電子",
+                    "url": "http://www.samsung.com/tw/home/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "SK海力士",
+                    "url": "https://www.skhynix.com/",
+                    "is_foreign": true
+                  }
+                ]
+              },
+              {
+                "id": "sc_company_D330",
+                "title": "其他IC/二極體製造",
+                "companies": [
+                  {
+                    "name": "麗正",
+                    "url": "company_basic.php?stk_code=2302",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "台亞",
+                    "url": "company_basic.php?stk_code=2340",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "茂矽",
+                    "url": "company_basic.php?stk_code=2342",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "統懋",
+                    "url": "company_basic.php?stk_code=2434",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "強茂",
+                    "url": "company_basic.php?stk_code=2481",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "光環",
+                    "url": "company_basic.php?stk_code=3234",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "德微",
+                    "url": "company_basic.php?stk_code=3675",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "漢磊",
+                    "url": "company_basic.php?stk_code=3707",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "台半",
+                    "url": "company_basic.php?stk_code=5425",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "IET-KY",
+                    "url": "company_basic.php?stk_code=4971",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "環宇-KY",
+                    "url": "company_basic.php?stk_code=4991",
+                    "is_foreign": false
+                  },
+                  {
+                    "name": "三安光電",
+                    "url": "http://www.sanan-e.com/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "首爾半導體",
+                    "url": "http://www.seoulsemicon.com/en/html/main/",
+                    "is_foreign": true
+                  },
+                  {
+                    "name": "豐田合成",
+                    "url": "http://www.toyoda-gosei.com/",
+                    "is_foreign": true
+                  }
+                ]
+              }
+            ],
+            "total_count": "共50家"
+          }
+        },
+        {
+          "id": "ic_link_D400",
+          "text": "生產製程/及/檢測設備",
+          "detailed_data": {
+            "title": "生產製程及檢測設備",
+            "categories": [],
+            "companies": [
+              {
+                "name": "致茂",
+                "url": "company_basic.php?stk_code=2360",
+                "is_foreign": false
+              },
+              {
+                "name": "志聖",
+                "url": "company_basic.php?stk_code=2467",
+                "is_foreign": false
+              },
+              {
+                "name": "德律",
+                "url": "company_basic.php?stk_code=3030",
+                "is_foreign": false
+              },
+              {
+                "name": "京鼎",
+                "url": "company_basic.php?stk_code=3413",
+                "is_foreign": false
+              },
+              {
+                "name": "晶彩科",
+                "url": "company_basic.php?stk_code=3535",
+                "is_foreign": false
+              },
+              {
+                "name": "辛耘",
+                "url": "company_basic.php?stk_code=3583",
+                "is_foreign": false
+              },
+              {
+                "name": "有成精密",
+                "url": "company_basic.php?stk_code=4949",
+                "is_foreign": false
+              },
+              {
+                "name": "全訊",
+                "url": "company_basic.php?stk_code=5222",
+                "is_foreign": false
+              },
+              {
+                "name": "崇越",
+                "url": "company_basic.php?stk_code=5434",
+                "is_foreign": false
+              },
+              {
+                "name": "宏正",
+                "url": "company_basic.php?stk_code=6277",
+                "is_foreign": false
+              },
+              {
+                "name": "迅得",
+                "url": "company_basic.php?stk_code=6438",
+                "is_foreign": false
+              },
+              {
+                "name": "穎崴",
+                "url": "company_basic.php?stk_code=6515",
+                "is_foreign": false
+              },
+              {
+                "name": "聯策",
+                "url": "company_basic.php?stk_code=6658",
+                "is_foreign": false
+              },
+              {
+                "name": "惠特",
+                "url": "company_basic.php?stk_code=6706",
+                "is_foreign": false
+              },
+              {
+                "name": "采鈺",
+                "url": "company_basic.php?stk_code=6789",
+                "is_foreign": false
+              },
+              {
+                "name": "創控",
+                "url": "company_basic.php?stk_code=6909",
+                "is_foreign": false
+              },
+              {
+                "name": "天虹",
+                "url": "company_basic.php?stk_code=6937",
+                "is_foreign": false
+              },
+              {
+                "name": "聚賢研發-創",
+                "url": "company_basic.php?stk_code=7631",
+                "is_foreign": false
+              },
+              {
+                "name": "暉盛-創",
+                "url": "company_basic.php?stk_code=7730",
+                "is_foreign": false
+              },
+              {
+                "name": "鴻勁",
+                "url": "company_basic.php?stk_code=7769",
+                "is_foreign": false
+              },
+              {
+                "name": "長廣",
+                "url": "company_basic.php?stk_code=7795",
+                "is_foreign": false
+              },
+              {
+                "name": "羅昇",
+                "url": "company_basic.php?stk_code=8374",
+                "is_foreign": false
+              },
+              {
+                "name": "好德",
+                "url": "company_basic.php?stk_code=3114",
+                "is_foreign": false
+              },
+              {
+                "name": "公準",
+                "url": "company_basic.php?stk_code=3178",
+                "is_foreign": false
+              },
+              {
+                "name": "泰谷",
+                "url": "company_basic.php?stk_code=3339",
+                "is_foreign": false
+              },
+              {
+                "name": "漢科",
+                "url": "company_basic.php?stk_code=3402",
+                "is_foreign": false
+              },
+              {
+                "name": "由田",
+                "url": "company_basic.php?stk_code=3455",
+                "is_foreign": false
+              },
+              {
+                "name": "台灣精材",
+                "url": "company_basic.php?stk_code=3467",
+                "is_foreign": false
+              },
+              {
+                "name": "世禾",
+                "url": "company_basic.php?stk_code=3551",
+                "is_foreign": false
+              },
+              {
+                "name": "家登",
+                "url": "company_basic.php?stk_code=3680",
+                "is_foreign": false
+              },
+              {
+                "name": "台特化",
+                "url": "company_basic.php?stk_code=4772",
+                "is_foreign": false
+              },
+              {
+                "name": "三聯",
+                "url": "company_basic.php?stk_code=5493",
+                "is_foreign": false
+              },
+              {
+                "name": "聖暉*",
+                "url": "company_basic.php?stk_code=5536",
+                "is_foreign": false
+              },
+              {
+                "name": "雷科",
+                "url": "company_basic.php?stk_code=6207",
+                "is_foreign": false
+              },
+              {
+                "name": "日揚",
+                "url": "company_basic.php?stk_code=6208",
+                "is_foreign": false
+              },
+              {
+                "name": "旺矽",
+                "url": "company_basic.php?stk_code=6223",
+                "is_foreign": false
+              },
+              {
+                "name": "精測",
+                "url": "company_basic.php?stk_code=6510",
+                "is_foreign": false
+              },
+              {
+                "name": "瑞耘",
+                "url": "company_basic.php?stk_code=6532",
+                "is_foreign": false
+              },
+              {
+                "name": "朋億*",
+                "url": "company_basic.php?stk_code=6613",
+                "is_foreign": false
+              },
+              {
+                "name": "群翊",
+                "url": "company_basic.php?stk_code=6664",
+                "is_foreign": false
+              },
+              {
+                "name": "信紘科",
+                "url": "company_basic.php?stk_code=6667",
+                "is_foreign": false
+              },
+              {
+                "name": "雍智科技",
+                "url": "company_basic.php?stk_code=6683",
+                "is_foreign": false
+              },
+              {
+                "name": "矽科宏晟",
+                "url": "company_basic.php?stk_code=6725",
+                "is_foreign": false
+              },
+              {
+                "name": "美達科技",
+                "url": "company_basic.php?stk_code=6735",
+                "is_foreign": false
+              },
+              {
+                "name": "華景電",
+                "url": "company_basic.php?stk_code=6788",
+                "is_foreign": false
+              },
+              {
+                "name": "濾能",
+                "url": "company_basic.php?stk_code=6823",
+                "is_foreign": false
+              },
+              {
+                "name": "千附精密",
+                "url": "company_basic.php?stk_code=6829",
+                "is_foreign": false
+              },
+              {
+                "name": "鏵友益",
+                "url": "company_basic.php?stk_code=6877",
+                "is_foreign": false
+              },
+              {
+                "name": "宏碩系統",
+                "url": "company_basic.php?stk_code=6895",
+                "is_foreign": false
+              },
+              {
+                "name": "家碩",
+                "url": "company_basic.php?stk_code=6953",
+                "is_foreign": false
+              },
+              {
+                "name": "意德士科技",
+                "url": "company_basic.php?stk_code=7556",
+                "is_foreign": false
+              },
+              {
+                "name": "明遠精密",
+                "url": "company_basic.php?stk_code=7704",
+                "is_foreign": false
+              },
+              {
+                "name": "光焱科技",
+                "url": "company_basic.php?stk_code=7728",
+                "is_foreign": false
+              },
+              {
+                "name": "竑騰",
+                "url": "company_basic.php?stk_code=7751",
+                "is_foreign": false
+              },
+              {
+                "name": "捷創科技",
+                "url": "company_basic.php?stk_code=7810",
+                "is_foreign": false
+              },
+              {
+                "name": "鈦昇",
+                "url": "company_basic.php?stk_code=8027",
+                "is_foreign": false
+              },
+              {
+                "name": "翔名",
+                "url": "company_basic.php?stk_code=8091",
+                "is_foreign": false
+              },
+              {
+                "name": "千附",
+                "url": "company_basic.php?stk_code=8383",
+                "is_foreign": false
+              },
+              {
+                "name": "敘豐",
+                "url": "company_basic.php?stk_code=3485",
+                "is_foreign": false
+              },
+              {
+                "name": "山太士",
+                "url": "company_basic.php?stk_code=3595",
+                "is_foreign": false
+              },
+              {
+                "name": "旭東",
+                "url": "company_basic.php?stk_code=4537",
+                "is_foreign": false
+              },
+              {
+                "name": "勵威",
+                "url": "company_basic.php?stk_code=5246",
+                "is_foreign": false
+              },
+              {
+                "name": "廣化",
+                "url": "company_basic.php?stk_code=5297",
+                "is_foreign": false
+              },
+              {
+                "name": "梭特",
+                "url": "company_basic.php?stk_code=6812",
+                "is_foreign": false
+              },
+              {
+                "name": "華洋精機",
+                "url": "company_basic.php?stk_code=6983",
+                "is_foreign": false
+              },
+              {
+                "name": "鋒魁科技",
+                "url": "company_basic.php?stk_code=7530",
+                "is_foreign": false
+              },
+              {
+                "name": "耀穎",
+                "url": "company_basic.php?stk_code=7772",
+                "is_foreign": false
+              },
+              {
+                "name": "宇辰系統",
+                "url": "company_basic.php?stk_code=7813",
+                "is_foreign": false
+              },
+              {
+                "name": "倍利科",
+                "url": "company_basic.php?stk_code=7822",
+                "is_foreign": false
+              },
+              {
+                "name": "創新服務",
+                "url": "company_basic.php?stk_code=7828",
+                "is_foreign": false
+              },
+              {
+                "name": "德揚",
+                "url": "company_basic.php?stk_code=7846",
+                "is_foreign": false
+              },
+              {
+                "name": "騏億鑫",
+                "url": "company_basic.php?stk_code=7848",
+                "is_foreign": false
+              },
+              {
+                "name": "政美應用",
+                "url": "company_basic.php?stk_code=7853",
+                "is_foreign": false
+              },
+              {
+                "name": "漢測",
+                "url": "company_basic.php?stk_code=7856",
+                "is_foreign": false
+              },
+              {
+                "name": "聯剛科技",
+                "url": "company_basic.php?stk_code=7870",
+                "is_foreign": false
+              },
+              {
+                "name": "聖凰",
+                "url": "company_basic.php?stk_code=7880",
+                "is_foreign": false
+              },
+              {
+                "name": "科建",
+                "url": "company_basic.php?stk_code=7886",
+                "is_foreign": false
+              },
+              {
+                "name": "慶康科技",
+                "url": "company_basic.php?stk_code=8098",
+                "is_foreign": false
+              },
+              {
+                "name": "立達軟體",
+                "url": "company_basic.php?stk_code=7505",
+                "is_foreign": false
+              },
+              {
+                "name": "京碼",
+                "url": "company_basic.php?stk_code=7611",
+                "is_foreign": false
+              },
+              {
+                "name": "埃爾思",
+                "url": "company_basic.php?stk_code=7677",
+                "is_foreign": false
+              },
+              {
+                "name": "天龍材料",
+                "url": "company_basic.php?stk_code=7698",
+                "is_foreign": false
+              },
+              {
+                "name": "安捷倫科技",
+                "url": "http://www.agilent.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "應用材料",
+                "url": "http://www.appliedmaterials.com/zh-hant/company/about",
+                "is_foreign": true
+              },
+              {
+                "name": "艾司摩爾",
+                "url": "http://www.asml.com/asml/show.do?ctx=427",
+                "is_foreign": true
+              },
+              {
+                "name": "Canon",
+                "url": "http://www.canon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "科磊",
+                "url": "http://www.kla-tencor.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "科林研發",
+                "url": "http://www.lamresearch.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "尼康株式會社",
+                "url": "http://www.nikon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "奧寶科技",
+                "url": "http://www.orbotech.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "東京電力",
+                "url": "http://www.tepco.co.jp/index-j.html",
+                "is_foreign": true
+              },
+              {
+                "name": "優貝克集團",
+                "url": "https://www.ulvac.co.jp/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共92家"
+          }
+        },
+        {
+          "id": "ic_link_D200",
+          "text": "光罩",
+          "detailed_data": {
+            "title": "光罩",
+            "categories": [],
+            "companies": [
+              {
+                "name": "光罩",
+                "url": "company_basic.php?stk_code=2338",
+                "is_foreign": false
+              },
+              {
+                "name": "翔耀",
+                "url": "company_basic.php?stk_code=2438",
+                "is_foreign": false
+              },
+              {
+                "name": "大日本印刷",
+                "url": "https://www.dnp.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "豐創",
+                "url": "http://www.photronics.com/plab/photronics/",
+                "is_foreign": true
+              },
+              {
+                "name": "凸版印刷",
+                "url": "http://www.toppan.co.jp/english/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_D500",
+          "text": "化學品",
+          "detailed_data": {
+            "title": "化學品",
+            "categories": [],
+            "companies": [
+              {
+                "name": "永光",
+                "url": "company_basic.php?stk_code=1711",
+                "is_foreign": false
+              },
+              {
+                "name": "長興",
+                "url": "company_basic.php?stk_code=1717",
+                "is_foreign": false
+              },
+              {
+                "name": "中華化",
+                "url": "company_basic.php?stk_code=1727",
+                "is_foreign": false
+              },
+              {
+                "name": "揚博",
+                "url": "company_basic.php?stk_code=2493",
+                "is_foreign": false
+              },
+              {
+                "name": "華立",
+                "url": "company_basic.php?stk_code=3010",
+                "is_foreign": false
+              },
+              {
+                "name": "昇貿",
+                "url": "company_basic.php?stk_code=3305",
+                "is_foreign": false
+              },
+              {
+                "name": "德淵",
+                "url": "company_basic.php?stk_code=4720",
+                "is_foreign": false
+              },
+              {
+                "name": "國精化",
+                "url": "company_basic.php?stk_code=4722",
+                "is_foreign": false
+              },
+              {
+                "name": "三福化",
+                "url": "company_basic.php?stk_code=4755",
+                "is_foreign": false
+              },
+              {
+                "name": "雙鍵",
+                "url": "company_basic.php?stk_code=4764",
+                "is_foreign": false
+              },
+              {
+                "name": "達興材料",
+                "url": "company_basic.php?stk_code=5234",
+                "is_foreign": false
+              },
+              {
+                "name": "崇越",
+                "url": "company_basic.php?stk_code=5434",
+                "is_foreign": false
+              },
+              {
+                "name": "台蠟",
+                "url": "company_basic.php?stk_code=1742",
+                "is_foreign": false
+              },
+              {
+                "name": "光洋科",
+                "url": "company_basic.php?stk_code=1785",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫科",
+                "url": "company_basic.php?stk_code=3663",
+                "is_foreign": false
+              },
+              {
+                "name": "新應材",
+                "url": "company_basic.php?stk_code=4749",
+                "is_foreign": false
+              },
+              {
+                "name": "晶呈科技",
+                "url": "company_basic.php?stk_code=4768",
+                "is_foreign": false
+              },
+              {
+                "name": "台特化",
+                "url": "company_basic.php?stk_code=4772",
+                "is_foreign": false
+              },
+              {
+                "name": "兆捷科技",
+                "url": "company_basic.php?stk_code=6959",
+                "is_foreign": false
+              },
+              {
+                "name": "華鉬",
+                "url": "company_basic.php?stk_code=6990",
+                "is_foreign": false
+              },
+              {
+                "name": "崇舜",
+                "url": "company_basic.php?stk_code=7763",
+                "is_foreign": false
+              },
+              {
+                "name": "芝普",
+                "url": "company_basic.php?stk_code=7858",
+                "is_foreign": false
+              },
+              {
+                "name": "宇川精材",
+                "url": "company_basic.php?stk_code=7887",
+                "is_foreign": false
+              },
+              {
+                "name": "喬越",
+                "url": "company_basic.php?stk_code=7896",
+                "is_foreign": false
+              },
+              {
+                "name": "液化空氣集團",
+                "url": "http://www.airliquide.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "荷商嘉柏微電子材料",
+                "url": "https://www.cmcmaterials.com/home/default.aspx",
+                "is_foreign": true
+              },
+              {
+                "name": "JSR株式會社",
+                "url": "http://www.jsr.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "林德集团",
+                "url": "https://www.linde.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "普萊克斯",
+                "url": "http://www.praxair.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Resonac",
+                "url": "https://www.resonac.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "信越化學",
+                "url": "https://www.shinetsu.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "昭和電工材料",
+                "url": "https://www.resonac.com/jp",
+                "is_foreign": true
+              },
+              {
+                "name": "東京応化工業株式会社",
+                "url": "http://www.tok.co.jp/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共33家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游",
+      "companies": [
+        {
+          "id": "ic_link_D900",
+          "text": "IC封裝測試",
+          "detailed_data": {
+            "title": "IC封裝測試",
+            "categories": [],
+            "companies": [
+              {
+                "name": "南染",
+                "url": "company_basic.php?stk_code=1410",
+                "is_foreign": false
+              },
+              {
+                "name": "福懋",
+                "url": "company_basic.php?stk_code=1434",
+                "is_foreign": false
+              },
+              {
+                "name": "華泰",
+                "url": "company_basic.php?stk_code=2329",
+                "is_foreign": false
+              },
+              {
+                "name": "旺宏",
+                "url": "company_basic.php?stk_code=2337",
+                "is_foreign": false
+              },
+              {
+                "name": "台亞",
+                "url": "company_basic.php?stk_code=2340",
+                "is_foreign": false
+              },
+              {
+                "name": "菱生",
+                "url": "company_basic.php?stk_code=2369",
+                "is_foreign": false
+              },
+              {
+                "name": "超豐",
+                "url": "company_basic.php?stk_code=2441",
+                "is_foreign": false
+              },
+              {
+                "name": "京元電子",
+                "url": "company_basic.php?stk_code=2449",
+                "is_foreign": false
+              },
+              {
+                "name": "聯鈞",
+                "url": "company_basic.php?stk_code=3450",
+                "is_foreign": false
+              },
+              {
+                "name": "日月光投控",
+                "url": "company_basic.php?stk_code=3711",
+                "is_foreign": false
+              },
+              {
+                "name": "力成",
+                "url": "company_basic.php?stk_code=6239",
+                "is_foreign": false
+              },
+              {
+                "name": "矽格",
+                "url": "company_basic.php?stk_code=6257",
+                "is_foreign": false
+              },
+              {
+                "name": "同欣電",
+                "url": "company_basic.php?stk_code=6271",
+                "is_foreign": false
+              },
+              {
+                "name": "華東",
+                "url": "company_basic.php?stk_code=8110",
+                "is_foreign": false
+              },
+              {
+                "name": "福懋科",
+                "url": "company_basic.php?stk_code=8131",
+                "is_foreign": false
+              },
+              {
+                "name": "南茂",
+                "url": "company_basic.php?stk_code=8150",
+                "is_foreign": false
+              },
+              {
+                "name": "微矽電子-創",
+                "url": "company_basic.php?stk_code=8162",
+                "is_foreign": false
+              },
+              {
+                "name": "欣銓",
+                "url": "company_basic.php?stk_code=3264",
+                "is_foreign": false
+              },
+              {
+                "name": "台星科",
+                "url": "company_basic.php?stk_code=3265",
+                "is_foreign": false
+              },
+              {
+                "name": "典範",
+                "url": "company_basic.php?stk_code=3372",
+                "is_foreign": false
+              },
+              {
+                "name": "精材",
+                "url": "company_basic.php?stk_code=3374",
+                "is_foreign": false
+              },
+              {
+                "name": "利機",
+                "url": "company_basic.php?stk_code=3444",
+                "is_foreign": false
+              },
+              {
+                "name": "單井",
+                "url": "company_basic.php?stk_code=3490",
+                "is_foreign": false
+              },
+              {
+                "name": "逸昌",
+                "url": "company_basic.php?stk_code=3567",
+                "is_foreign": false
+              },
+              {
+                "name": "勤凱科技",
+                "url": "company_basic.php?stk_code=4760",
+                "is_foreign": false
+              },
+              {
+                "name": "立衛",
+                "url": "company_basic.php?stk_code=5344",
+                "is_foreign": false
+              },
+              {
+                "name": "頎邦",
+                "url": "company_basic.php?stk_code=6147",
+                "is_foreign": false
+              },
+              {
+                "name": "雷科",
+                "url": "company_basic.php?stk_code=6207",
+                "is_foreign": false
+              },
+              {
+                "name": "久元",
+                "url": "company_basic.php?stk_code=6261",
+                "is_foreign": false
+              },
+              {
+                "name": "竑騰",
+                "url": "company_basic.php?stk_code=7751",
+                "is_foreign": false
+              },
+              {
+                "name": "捷創科技",
+                "url": "company_basic.php?stk_code=7810",
+                "is_foreign": false
+              },
+              {
+                "name": "博大",
+                "url": "company_basic.php?stk_code=8109",
+                "is_foreign": false
+              },
+              {
+                "name": "碩正科技",
+                "url": "company_basic.php?stk_code=7669",
+                "is_foreign": false
+              },
+              {
+                "name": "艾克爾",
+                "url": "http://www.amkor.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "長電科技",
+                "url": "http://www.cj-elec.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "天水華天",
+                "url": "http://en.tshtkj.com/index.html",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共36家"
+          }
+        },
+        {
+          "id": "ic_link_D600",
+          "text": "生產製程/及/檢測設備",
+          "detailed_data": {
+            "title": "生產製程及檢測設備",
+            "categories": [],
+            "companies": [
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "致茂",
+                "url": "company_basic.php?stk_code=2360",
+                "is_foreign": false
+              },
+              {
+                "name": "志聖",
+                "url": "company_basic.php?stk_code=2467",
+                "is_foreign": false
+              },
+              {
+                "name": "德律",
+                "url": "company_basic.php?stk_code=3030",
+                "is_foreign": false
+              },
+              {
+                "name": "蔚華科",
+                "url": "company_basic.php?stk_code=3055",
+                "is_foreign": false
+              },
+              {
+                "name": "辛耘",
+                "url": "company_basic.php?stk_code=3583",
+                "is_foreign": false
+              },
+              {
+                "name": "上品",
+                "url": "company_basic.php?stk_code=4770",
+                "is_foreign": false
+              },
+              {
+                "name": "宏正",
+                "url": "company_basic.php?stk_code=6277",
+                "is_foreign": false
+              },
+              {
+                "name": "迅得",
+                "url": "company_basic.php?stk_code=6438",
+                "is_foreign": false
+              },
+              {
+                "name": "穎崴",
+                "url": "company_basic.php?stk_code=6515",
+                "is_foreign": false
+              },
+              {
+                "name": "天虹",
+                "url": "company_basic.php?stk_code=6937",
+                "is_foreign": false
+              },
+              {
+                "name": "聚賢研發-創",
+                "url": "company_basic.php?stk_code=7631",
+                "is_foreign": false
+              },
+              {
+                "name": "暉盛-創",
+                "url": "company_basic.php?stk_code=7730",
+                "is_foreign": false
+              },
+              {
+                "name": "長華*",
+                "url": "company_basic.php?stk_code=8070",
+                "is_foreign": false
+              },
+              {
+                "name": "川寶",
+                "url": "company_basic.php?stk_code=1595",
+                "is_foreign": false
+              },
+              {
+                "name": "港建*",
+                "url": "company_basic.php?stk_code=3093",
+                "is_foreign": false
+              },
+              {
+                "name": "弘塑",
+                "url": "company_basic.php?stk_code=3131",
+                "is_foreign": false
+              },
+              {
+                "name": "倚強科",
+                "url": "company_basic.php?stk_code=3219",
+                "is_foreign": false
+              },
+              {
+                "name": "泰谷",
+                "url": "company_basic.php?stk_code=3339",
+                "is_foreign": false
+              },
+              {
+                "name": "漢科",
+                "url": "company_basic.php?stk_code=3402",
+                "is_foreign": false
+              },
+              {
+                "name": "由田",
+                "url": "company_basic.php?stk_code=3455",
+                "is_foreign": false
+              },
+              {
+                "name": "單井",
+                "url": "company_basic.php?stk_code=3490",
+                "is_foreign": false
+              },
+              {
+                "name": "世禾",
+                "url": "company_basic.php?stk_code=3551",
+                "is_foreign": false
+              },
+              {
+                "name": "博磊",
+                "url": "company_basic.php?stk_code=3581",
+                "is_foreign": false
+              },
+              {
+                "name": "台特化",
+                "url": "company_basic.php?stk_code=4772",
+                "is_foreign": false
+              },
+              {
+                "name": "均豪",
+                "url": "company_basic.php?stk_code=5443",
+                "is_foreign": false
+              },
+              {
+                "name": "三聯",
+                "url": "company_basic.php?stk_code=5493",
+                "is_foreign": false
+              },
+              {
+                "name": "聖暉*",
+                "url": "company_basic.php?stk_code=5536",
+                "is_foreign": false
+              },
+              {
+                "name": "豪勉",
+                "url": "company_basic.php?stk_code=6218",
+                "is_foreign": false
+              },
+              {
+                "name": "旺矽",
+                "url": "company_basic.php?stk_code=6223",
+                "is_foreign": false
+              },
+              {
+                "name": "久元",
+                "url": "company_basic.php?stk_code=6261",
+                "is_foreign": false
+              },
+              {
+                "name": "均華",
+                "url": "company_basic.php?stk_code=6640",
+                "is_foreign": false
+              },
+              {
+                "name": "美達科技",
+                "url": "company_basic.php?stk_code=6735",
+                "is_foreign": false
+              },
+              {
+                "name": "濾能",
+                "url": "company_basic.php?stk_code=6823",
+                "is_foreign": false
+              },
+              {
+                "name": "意德士科技",
+                "url": "company_basic.php?stk_code=7556",
+                "is_foreign": false
+              },
+              {
+                "name": "銳澤",
+                "url": "company_basic.php?stk_code=7703",
+                "is_foreign": false
+              },
+              {
+                "name": "光焱科技",
+                "url": "company_basic.php?stk_code=7728",
+                "is_foreign": false
+              },
+              {
+                "name": "印能科技",
+                "url": "company_basic.php?stk_code=7734",
+                "is_foreign": false
+              },
+              {
+                "name": "鈦昇",
+                "url": "company_basic.php?stk_code=8027",
+                "is_foreign": false
+              },
+              {
+                "name": "東捷",
+                "url": "company_basic.php?stk_code=8064",
+                "is_foreign": false
+              },
+              {
+                "name": "建暐",
+                "url": "company_basic.php?stk_code=8092",
+                "is_foreign": false
+              },
+              {
+                "name": "旭東",
+                "url": "company_basic.php?stk_code=4537",
+                "is_foreign": false
+              },
+              {
+                "name": "頌勝科技",
+                "url": "company_basic.php?stk_code=7768",
+                "is_foreign": false
+              },
+              {
+                "name": "新特",
+                "url": "company_basic.php?stk_code=7815",
+                "is_foreign": false
+              },
+              {
+                "name": "倍利科",
+                "url": "company_basic.php?stk_code=7822",
+                "is_foreign": false
+              },
+              {
+                "name": "和亞智慧",
+                "url": "company_basic.php?stk_code=7825",
+                "is_foreign": false
+              },
+              {
+                "name": "創新服務",
+                "url": "company_basic.php?stk_code=7828",
+                "is_foreign": false
+              },
+              {
+                "name": "德揚",
+                "url": "company_basic.php?stk_code=7846",
+                "is_foreign": false
+              },
+              {
+                "name": "漢測",
+                "url": "company_basic.php?stk_code=7856",
+                "is_foreign": false
+              },
+              {
+                "name": "聯剛科技",
+                "url": "company_basic.php?stk_code=7870",
+                "is_foreign": false
+              },
+              {
+                "name": "京碼",
+                "url": "company_basic.php?stk_code=7611",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共51家"
+          }
+        },
+        {
+          "id": "ic_link_D700",
+          "text": "基板",
+          "detailed_data": {
+            "title": "基板",
+            "categories": [],
+            "companies": [
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "景碩",
+                "url": "company_basic.php?stk_code=3189",
+                "is_foreign": false
+              },
+              {
+                "name": "和碩",
+                "url": "company_basic.php?stk_code=4938",
+                "is_foreign": false
+              },
+              {
+                "name": "同欣電",
+                "url": "company_basic.php?stk_code=6271",
+                "is_foreign": false
+              },
+              {
+                "name": "易華電",
+                "url": "company_basic.php?stk_code=6552",
+                "is_foreign": false
+              },
+              {
+                "name": "長華*",
+                "url": "company_basic.php?stk_code=8070",
+                "is_foreign": false
+              },
+              {
+                "name": "利機",
+                "url": "company_basic.php?stk_code=3444",
+                "is_foreign": false
+              },
+              {
+                "name": "雷科",
+                "url": "company_basic.php?stk_code=6207",
+                "is_foreign": false
+              },
+              {
+                "name": "恆勁科技",
+                "url": "company_basic.php?stk_code=6920",
+                "is_foreign": false
+              },
+              {
+                "name": "益瑞",
+                "url": "company_basic.php?stk_code=7618",
+                "is_foreign": false
+              },
+              {
+                "name": "IBIDEN",
+                "url": "http://www.ibiden.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "京瓷",
+                "url": "http://www.kyocera.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "日本特殊陶業株式會社",
+                "url": "http://www.ngkntk.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "新光電氣",
+                "url": "http://www.shinko.co.jp/english/index.html",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共14家"
+          }
+        },
+        {
+          "id": "ic_link_D800",
+          "text": "導線架",
+          "detailed_data": {
+            "title": "導線架",
+            "categories": [],
+            "companies": [
+              {
+                "name": "順德",
+                "url": "company_basic.php?stk_code=2351",
+                "is_foreign": false
+              },
+              {
+                "name": "百容",
+                "url": "company_basic.php?stk_code=2483",
+                "is_foreign": false
+              },
+              {
+                "name": "一詮",
+                "url": "company_basic.php?stk_code=2486",
+                "is_foreign": false
+              },
+              {
+                "name": "健策",
+                "url": "company_basic.php?stk_code=3653",
+                "is_foreign": false
+              },
+              {
+                "name": "界霖",
+                "url": "company_basic.php?stk_code=5285",
+                "is_foreign": false
+              },
+              {
+                "name": "長華*",
+                "url": "company_basic.php?stk_code=8070",
+                "is_foreign": false
+              },
+              {
+                "name": "佳穎",
+                "url": "company_basic.php?stk_code=3310",
+                "is_foreign": false
+              },
+              {
+                "name": "利機",
+                "url": "company_basic.php?stk_code=3444",
+                "is_foreign": false
+              },
+              {
+                "name": "長科*",
+                "url": "company_basic.php?stk_code=6548",
+                "is_foreign": false
+              },
+              {
+                "name": "益能達株式會社",
+                "url": "http://www.enomoto.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "三井高科技",
+                "url": "http://www.mitsui-high-tec.com/en/",
+                "is_foreign": true
+              },
+              {
+                "name": "品質集團",
+                "url": "http://www.qpl.com/index.php",
+                "is_foreign": true
+              },
+              {
+                "name": "新光電氣",
+                "url": "http://www.shinko.co.jp/english/index.html",
+                "is_foreign": true
+              },
+              {
+                "name": "住友金屬礦山",
+                "url": "http://www.smm.co.jp/E/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共14家"
+          }
+        },
+        {
+          "id": "ic_link_DA00",
+          "text": "IC模組",
+          "detailed_data": {
+            "title": "IC模組",
+            "categories": [],
+            "companies": [
+              {
+                "name": "福懋",
+                "url": "company_basic.php?stk_code=1434",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "創見",
+                "url": "company_basic.php?stk_code=2451",
+                "is_foreign": false
+              },
+              {
+                "name": "立萬利",
+                "url": "company_basic.php?stk_code=3054",
+                "is_foreign": false
+              },
+              {
+                "name": "凌航",
+                "url": "company_basic.php?stk_code=3135",
+                "is_foreign": false
+              },
+              {
+                "name": "鈺寶-創",
+                "url": "company_basic.php?stk_code=3150",
+                "is_foreign": false
+              },
+              {
+                "name": "全訊",
+                "url": "company_basic.php?stk_code=5222",
+                "is_foreign": false
+              },
+              {
+                "name": "同欣電",
+                "url": "company_basic.php?stk_code=6271",
+                "is_foreign": false
+              },
+              {
+                "name": "福懋科",
+                "url": "company_basic.php?stk_code=8131",
+                "is_foreign": false
+              },
+              {
+                "name": "宇瞻",
+                "url": "company_basic.php?stk_code=8271",
+                "is_foreign": false
+              },
+              {
+                "name": "威剛",
+                "url": "company_basic.php?stk_code=3260",
+                "is_foreign": false
+              },
+              {
+                "name": "泰谷",
+                "url": "company_basic.php?stk_code=3339",
+                "is_foreign": false
+              },
+              {
+                "name": "尚立",
+                "url": "company_basic.php?stk_code=3360",
+                "is_foreign": false
+              },
+              {
+                "name": "利機",
+                "url": "company_basic.php?stk_code=3444",
+                "is_foreign": false
+              },
+              {
+                "name": "廣穎電通",
+                "url": "company_basic.php?stk_code=4973",
+                "is_foreign": false
+              },
+              {
+                "name": "安國",
+                "url": "company_basic.php?stk_code=8054",
+                "is_foreign": false
+              },
+              {
+                "name": "品安",
+                "url": "company_basic.php?stk_code=8088",
+                "is_foreign": false
+              },
+              {
+                "name": "商丞",
+                "url": "company_basic.php?stk_code=8277",
+                "is_foreign": false
+              },
+              {
+                "name": "群聯",
+                "url": "company_basic.php?stk_code=8299",
+                "is_foreign": false
+              },
+              {
+                "name": "立達",
+                "url": "company_basic.php?stk_code=5262",
+                "is_foreign": false
+              },
+              {
+                "name": "映智",
+                "url": "company_basic.php?stk_code=6563",
+                "is_foreign": false
+              },
+              {
+                "name": "丹立",
+                "url": "company_basic.php?stk_code=7866",
+                "is_foreign": false
+              },
+              {
+                "name": "金士頓",
+                "url": "http://www.kingston.com/tw",
+                "is_foreign": true
+              },
+              {
+                "name": "記憶",
+                "url": "http://www.ramaxel.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Smart Modular Technologies",
+                "url": "https://www.smartm.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共25家"
+          }
+        },
+        {
+          "id": "ic_link_DB00",
+          "text": "IC通路",
+          "detailed_data": {
+            "title": "IC通路",
+            "categories": [],
+            "companies": [
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "聯強",
+                "url": "company_basic.php?stk_code=2347",
+                "is_foreign": false
+              },
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "華立",
+                "url": "company_basic.php?stk_code=3010",
+                "is_foreign": false
+              },
+              {
+                "name": "禾伸堂",
+                "url": "company_basic.php?stk_code=3026",
+                "is_foreign": false
+              },
+              {
+                "name": "增你強",
+                "url": "company_basic.php?stk_code=3028",
+                "is_foreign": false
+              },
+              {
+                "name": "威健",
+                "url": "company_basic.php?stk_code=3033",
+                "is_foreign": false
+              },
+              {
+                "name": "文曄",
+                "url": "company_basic.php?stk_code=3036",
+                "is_foreign": false
+              },
+              {
+                "name": "益登",
+                "url": "company_basic.php?stk_code=3048",
+                "is_foreign": false
+              },
+              {
+                "name": "全科",
+                "url": "company_basic.php?stk_code=3209",
+                "is_foreign": false
+              },
+              {
+                "name": "弘憶股",
+                "url": "company_basic.php?stk_code=3312",
+                "is_foreign": false
+              },
+              {
+                "name": "安馳",
+                "url": "company_basic.php?stk_code=3528",
+                "is_foreign": false
+              },
+              {
+                "name": "大聯大",
+                "url": "company_basic.php?stk_code=3702",
+                "is_foreign": false
+              },
+              {
+                "name": "豐藝",
+                "url": "company_basic.php?stk_code=6189",
+                "is_foreign": false
+              },
+              {
+                "name": "巨路",
+                "url": "company_basic.php?stk_code=6192",
+                "is_foreign": false
+              },
+              {
+                "name": "至上",
+                "url": "company_basic.php?stk_code=8112",
+                "is_foreign": false
+              },
+              {
+                "name": "三顧",
+                "url": "company_basic.php?stk_code=3224",
+                "is_foreign": false
+              },
+              {
+                "name": "昱捷",
+                "url": "company_basic.php?stk_code=3232",
+                "is_foreign": false
+              },
+              {
+                "name": "泰谷",
+                "url": "company_basic.php?stk_code=3339",
+                "is_foreign": false
+              },
+              {
+                "name": "尚立",
+                "url": "company_basic.php?stk_code=3360",
+                "is_foreign": false
+              },
+              {
+                "name": "利機",
+                "url": "company_basic.php?stk_code=3444",
+                "is_foreign": false
+              },
+              {
+                "name": "堡達",
+                "url": "company_basic.php?stk_code=3537",
+                "is_foreign": false
+              },
+              {
+                "name": "博士旺",
+                "url": "company_basic.php?stk_code=3555",
+                "is_foreign": false
+              },
+              {
+                "name": "亞矽",
+                "url": "company_basic.php?stk_code=6113",
+                "is_foreign": false
+              },
+              {
+                "name": "茂綸",
+                "url": "company_basic.php?stk_code=6227",
+                "is_foreign": false
+              },
+              {
+                "name": "方土昶",
+                "url": "company_basic.php?stk_code=6265",
+                "is_foreign": false
+              },
+              {
+                "name": "倍微",
+                "url": "company_basic.php?stk_code=6270",
+                "is_foreign": false
+              },
+              {
+                "name": "華豫寧",
+                "url": "company_basic.php?stk_code=6474",
+                "is_foreign": false
+              },
+              {
+                "name": "光菱",
+                "url": "company_basic.php?stk_code=8032",
+                "is_foreign": false
+              },
+              {
+                "name": "志旭",
+                "url": "company_basic.php?stk_code=8067",
+                "is_foreign": false
+              },
+              {
+                "name": "全達",
+                "url": "company_basic.php?stk_code=8068",
+                "is_foreign": false
+              },
+              {
+                "name": "巨虹",
+                "url": "company_basic.php?stk_code=8084",
+                "is_foreign": false
+              },
+              {
+                "name": "擎亞",
+                "url": "company_basic.php?stk_code=8096",
+                "is_foreign": false
+              },
+              {
+                "name": "群聯",
+                "url": "company_basic.php?stk_code=8299",
+                "is_foreign": false
+              },
+              {
+                "name": "富基電通",
+                "url": "company_basic.php?stk_code=6707",
+                "is_foreign": false
+              },
+              {
+                "name": "艾睿電子",
+                "url": "https://www.arrow.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "安富利",
+                "url": "www.avnet.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共37家"
+          }
+        }
+      ]
+    }
+  ]
+}

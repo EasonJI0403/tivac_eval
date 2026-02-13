@@ -1,0 +1,474 @@
+{
+  "title": "連接器產業鏈",
+  "introduction": "連接器產業鏈\n連接器產品泛指所有用在電子產品訊號與電源上的連接元件及其附屬配件，包括相關線材、插座、插頭等皆屬於廣義的連接器，連接器是互連部分可離合或替換的插接件，連結電子產品中的電路、模組及系統，也是所有訊號間的橋樑，其品質會對電流與訊號傳輸的可靠度產生影響，亦會牽動整個電子產品的運作，因此連接器的電路設計必須達到高靈敏度。\n一、上游：\n連接器產業上游產品為銅合金金屬、電鍍液、塑膠等材料，合計約占四至七成的製造成本，其中以金屬材料成本占最大比重，塑膠材料次之，再其次為電鍍材料。金屬材料用於製作連接器端子，為避免電子訊號在傳輸過程中受到阻礙，連接器端子多採用黃銅或磷青銅作為原料，製成銅合金板片。連接器的製程中，塑膠部份是由塑料射出成型，金屬部分是經由沖壓成型後，再以電鍍加工完成。電鍍材料以鍍金及鍍錫最常被使用，連接器外殼使用的塑膠常用原料包括以聚對苯二甲酸丁二酯（PBT）、聚硫化二甲苯（PPS）、聚醯胺（Nylon）、液晶聚合（LCP）樹脂等。\n電子產品因更迭速度快，因此廠商必須審慎觀察分析市場的需求變化，適時推出符合市場趨勢之連接器產品，此外，廠商還要加強庫存管理，避免原物料價格波動引起庫存跌價損失。目前臺灣連接器廠商已能夠完全掌握中游主要製程，但上游原料與設備主要仍掌握在日商手上，國內較少廠商投入相關領域研發，故我國廠商對上游廠商的議價能力較弱。\n二、中游：\n連接器產業中游產品為連接器與線材，其生產步驟包括前段的產品設計及模具開發、中段金屬沖壓、塑膠射出或電鍍及組立等製程，以及後段組裝測試；其中電鍍製程因技術與成本因素，幾乎委外為主。連接器可分為金屬件及塑膠件混和組成或純金屬件之連接器，金屬件利用沖壓（stamping）、車削（machining）、壓鑄（die-casting）電鍍(electroplate)等方式製作，沖壓通常用於製造端子及外殼，外殼亦有採用壓鑄方式製造，車削通常用於製造RF連接器的端子及外殼，塑膠件多以射出成型。而電鍍因成本較高，多委外製作；由於電子產品逐漸往高頻方向走，電磁干擾的情況將越趨困難，因此連接器的設計也越趨複雜。\n臺灣廠商以PCB板類、I/O、卡類、IC Socket等類型連接器為主要出貨產品型態，國內廠商在3C應用已經成為主要市場供應者，以電腦與週邊、網路通訊、消費性電子等產品為主要應用領域。連接器有線對線連接器、板對板連接器以及線對板連接器，區別是連接器兩端連接的產品類型不同，而線對板連接器是連接電線與電路板的連接器，主要是傳輸電流及信號；目前全球線對板連接器市場持續增長，因線對板連接器靈活性和可靠性而被廣泛使用，加上產品種類較多樣，可滿足不同場景的應用要求，區別在於針腳距離、電流大小、電壓高低。又線對板連接器可應用在通訊、消費電子、家用電器、IT、機械等領域，因3C電子領域產品種類眾多，線對板連接器的性能與功能多樣化、差異化要求明顯，需要生產商針對不同應用領域需求進行設計、製造。\n亞太地區是最大的3C電子生產地，也是全球最大的線對板連接器的消費地，尤其是中國，過去由於其笨重的特性造成工程上的不便，但經過改良的線對板連接器可以提供更佳的解決方案，適用於任何狹窄空間的應用，尤其小間距線對板連接器具有出色的電氣性能、低電阻和阻抗，可確保高效的電力傳輸和信號完整性，尤其在需要高速資料傳輸或可靠電源供應的應用中相當重要，例如電信、資料中心或工業自動化領域，因此未來需求將更為旺盛，且3C電子未來將以小型化、功能集成化、低能耗為發展趨勢，目前線對板連接器的材料選擇、產品設計、尺寸大小仍在持續改進中，隨著AI、5G、伺服器、智慧裝置與低軌道衛星以及物聯網、智慧製造發展快速，預計全球線對板連接器市場規模可持續成長。\n臺灣連接器產業客戶多集中在電腦與通訊產業，近幾年廠商積極拓展在非3C領域產業包括汽車、軍事航太、運輸、醫療等產業的開發，因產業供應鏈較封閉且認證難度高，需長期經營才能打進供應鏈體系，但隨著產品低價化趨勢衝擊廠商利潤，國內廠商轉往非3C領域發展，目前台廠已打入AI、5G、邊緣運算、電動車、雲端、智慧家庭、物聯網、工業4.0等高附加價值領域的利基型商品，尤其生成式AI誕生後，AI伺服器在AI模型訓練階段，需在資料中心內部進行大量運算，未來高頻與高壓連接器應用於高效運算、AI、機器學習與感測等領域的光纖陣列連接器產品將成為新主流；而台廠已打入輝達的供應鏈，大啖輝達晶片商機，AI大餅已成連接器廠大利多，高頻高速傳輸連接器與相關線材線束成當紅炸子雞，國內台廠競相加入，估計在未來2-3年占有AI商機的一席之地。\n三、下游：\n連接器的應用層面非常廣，包括汽車、電腦、通信、工業、軍事航太、運輸、醫療等產業。桌上型電腦連接器市場大多被國際大廠瓜分，而鴻海占比最高，也因桌上型電腦的市場穩定，缺乏增長動能，而筆記型電腦98%都是臺廠代工，多達200多家，其中鴻海最大。而連接器下游應用中的智慧型手機、電腦等產品因為替換較快，因此新興的部分如5G技術、伺服器、AI人工智慧、機器人、電動車、新能源汽車、物聯網、元宇宙產品等則是快速發展，預計將帶動連接器產業快速增長；根據估計2025年全球連接器市場規模將達到1103.2億美元，且在2025-2030年間以年複合成長率7.3%增長；而到2030年達到1569億美元。又預估2029年連接器市場規模將達到1,172.8 億美元，年複合成長率為 6.1%。\n目前Type-C已是市場主流，歐盟於 2024年12月28日正式實施《通用充電規範》，凡所有在歐盟銷售的行動電話及便攜式電子設備均須支援USB Type-C(USB-C)充電，此規範適用於智慧型手機、平板電腦、數位相機、可攜式揚聲器、鍵盤、滑鼠、電子書閱讀器、耳機、導航系統、遊戲機等設備；而2026年4月28日起強制適用於筆記型電腦(Laptop)；這將可減少電子垃圾且確保充電技術的一致性與安全性。而隨著筆電朝向輕薄化縮減插槽連接埠，周邊擴充基座Docking需求暴增，因此Type-C連接器可以支援更高的功率傳輸，具備更簡單、更輕量、體積小、容易操作等優點；而隨著影音與AI的應用需要能更快、傳更多的數據，因此Type-C的滲透率大增，應用更為廣泛，除了資料傳輸的速度快，能輸出影音訊號外，電力的支援更加提升；且USB Type-C 連接器可以支援USB 3.1以及其他標準，USB 3.1最高傳輸速度為10 Gbps比USB 3.0的5 Gbps快一倍。\n隨著Chat GPT的爆紅，AI已成為全球最火熱議題，再加上5G、電動車、自駕車、元宇宙、機器人等領域將持續帶動資料中心與伺服器市場的擴建需求，又英特爾(Intel)、超微(AMD)等處理器大廠，已開始全面支援USB4高速傳輸應用市場，而蘋果也加入支援USB4規格行列(USB4是一種高速資料傳輸標準，基於Thunderbolt 3協議，並採用USB Type-C連接器。提供更高的傳輸速度和更好的兼容性，並支持動態分配頻寬，允許不同裝置共享單一高速鏈路，最高速度可達40Gbps，甚至在特定情況下可達120Gbps；USB4訊號採雙通道傳輸，未來USB4設備和介面將主動與Thunderbolt設備兼容；USB4.0將使得手機為首之消費性電子裝置的傳輸介面趨於一致，未來串聯各種載具只要一條傳輸線；而USB4.0的資料傳輸速度每秒可達40Gbps，接頭也改為USB Type-C，未來隨意插拔也不用擔心插錯孔，因此未來有可能Type-C + USB4.0傳輸線成為3C的新組合。\n全球連接器產業集中度高，2023年全球連接器廠商排名(以出貨額)分別為TE Connectivity(泰科)、Amphenol(安費諾)、Aptiv(安波福)、Molex(莫仕)、Foxconn(富士康)、Luxshare Precision(立訊精密)、Yazaki(矢崎)、Rosenberger（羅森伯格）、JAE（日本航空電子）、Hirose(廣瀨)。目前全球連接器市場主要被泰科及安費諾、莫仕等國際巨頭引領全球連接器的技術潮流，而全球連接器最大的消費市場中國的本土廠商也已崛起。\n中國是全球最大的連接器消費市場，但生產的連接器以中低階為主，目前中國對於航太、電子、艦船等軍工領域對高端連接器需求和投入不斷增加，其各應用領域的連接器技術已逐漸達到國際水平，隨著中國對高階產品的需求多且成長快速，尤以電動車、電信與數據通信、雲端計算及周邊設備、工業、軍工航空等領域需求更大，使得高階連接器市場快速增長。\n中國連接器廠商有國營和民營兩種，國營著重於航空、軍用及工業級產品，民營企業則聚焦在消費類電子、汽車以及通訊市場，行業集中度高，競爭也很激烈。且中國大陸連接器廠商已進入規模最大、附加價值最高的智慧製造，以AI、工業4.0、軍民融合、物聯網、車聯網、電動車、5G通訊與元宇宙等新興領域，配合大數據的研究分析，相關的連接器產品未來可搶得很好的利潤，中國的競爭力與成長潛力不容忽視。隨著中國電動車品牌在全球攻城掠地，汽車電子產品的日益普及是推動未來幾年連接器市場成長的重要因素之一。\n受到對等關稅的影響，美國的消費性新品開發案出現停滯，美國零售商在關稅豁免期內大量回補庫存；而估計2025年下半年充滿不確定，大環境變數仍大，在消費性電子殺成紅海之際，台廠的技術層次相對較高，但仍必需轉型勢以對抗崛起的中國廠商。\n未來連接器的市場新需求的連接器將更小、可靠性更高、無線性能更強且同時具備一定的智能，而伴隨著高頻高速與無線傳輸、精確度更高、成本更低廉、更自動化。隨著AI與5G將逐漸普及，更多應用也可能隨之推出，而藉由5G的高數據和高傳輸要求更需要高頻高速特性的連接器，估計也可帶動連接器產品的升級與商機；而物聯網時代，無線技術無所不在，未來在工業、汽車等保證無線傳輸的連接也是一個保障；AI時代已正式來臨，連接器或能進行簡單的智能判斷和保護；以及工業4.0的發展，連接器的精密加工、磨具和CAD方面，先進的機器將成為產業的主力軍。\n連接器的市場需求永遠存在，而AI應用對高速資料傳輸的要求，其中高速傳輸晶片、傳輸介面連接器、記憶體與散熱模組等，都將出現規格升級，台廠有完整的供應鏈，尤其台灣連接器產業在智慧製造、智慧電網、雲端與物聯網、電動車、光纖、智慧穿戴裝置應用的連接器中已逐漸成功打入國際大廠如NVIDIA、Amazon、Tesla的供應鏈，佔有相當地位；為因應人工智慧，高畫質影音串流、線上直播、資料高速運算及傳輸等應用激增，各大廠積極推出相關新品因應，加上機器人、矽光子、毫米波（低軌衛星與6G）、國防軍工及生醫等新興領域，台廠正透過策略聯盟合作、共同開發以擴大市場觸角，期望未來能將光通訊與新興應用技術結合，拓展更多的發展空間。",
+  "chains": [
+    {
+      "title": "上游",
+      "companies": [
+        {
+          "id": "ic_link_K100",
+          "text": "金屬材料",
+          "detailed_data": {
+            "title": "金屬材料",
+            "categories": [],
+            "companies": [
+              {
+                "name": "榮星",
+                "url": "company_basic.php?stk_code=1617",
+                "is_foreign": false
+              },
+              {
+                "name": "鉅祥",
+                "url": "company_basic.php?stk_code=2476",
+                "is_foreign": false
+              },
+              {
+                "name": "佳穎",
+                "url": "company_basic.php?stk_code=3310",
+                "is_foreign": false
+              },
+              {
+                "name": "Codelco",
+                "url": "https://www.codelco.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "費利浦·麥克莫蘭銅金公司",
+                "url": "http://www.fcx.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "世泰科",
+                "url": "https://www.hcstarck.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "攀時",
+                "url": "http://www.plansee.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "俄羅斯鋁業聯合公司",
+                "url": "http://www.rusal.ru/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共8家"
+          }
+        },
+        {
+          "id": "ic_link_K200",
+          "text": "電鍍材料",
+          "detailed_data": {
+            "title": "電鍍材料",
+            "categories": [],
+            "companies": [
+              {
+                "name": "鉅祥",
+                "url": "company_basic.php?stk_code=2476",
+                "is_foreign": false
+              },
+              {
+                "name": "匯鑽科",
+                "url": "company_basic.php?stk_code=8431",
+                "is_foreign": false
+              },
+              {
+                "name": "巴里克黃金公司",
+                "url": "http://www.barrick.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "紐蒙特礦業",
+                "url": "http://www.newmont.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "PT Timah",
+                "url": "http://www.timah.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_K300",
+          "text": "塑膠材料",
+          "detailed_data": {
+            "title": "塑膠材料",
+            "categories": [],
+            "companies": [
+              {
+                "name": "鉅祥",
+                "url": "company_basic.php?stk_code=2476",
+                "is_foreign": false
+              },
+              {
+                "name": "華立",
+                "url": "company_basic.php?stk_code=3010",
+                "is_foreign": false
+              },
+              {
+                "name": "三福化",
+                "url": "company_basic.php?stk_code=4755",
+                "is_foreign": false
+              },
+              {
+                "name": "貿聯-KY",
+                "url": "company_basic.php?stk_code=3665",
+                "is_foreign": false
+              },
+              {
+                "name": "晉倫",
+                "url": "company_basic.php?stk_code=6151",
+                "is_foreign": false
+              },
+              {
+                "name": "華宏",
+                "url": "company_basic.php?stk_code=8240",
+                "is_foreign": false
+              },
+              {
+                "name": "喬越",
+                "url": "company_basic.php?stk_code=7896",
+                "is_foreign": false
+              },
+              {
+                "name": "耐特",
+                "url": "company_basic.php?stk_code=8058",
+                "is_foreign": false
+              },
+              {
+                "name": "巴斯夫",
+                "url": "https://www.basf.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "泰科纳",
+                "url": "http://www.celanese.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "東麗",
+                "url": "http://www.toray.co.jp/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共11家"
+          }
+        },
+        {
+          "id": "ic_link_K400",
+          "text": "其他材料/(如鋅合金、陶瓷、玻璃)",
+          "detailed_data": {
+            "title": "其他材料(如鋅合金、陶瓷、玻璃)",
+            "categories": [],
+            "companies": [],
+            "total_count": "共0家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游",
+      "companies": [
+        {
+          "id": "ic_link_K500",
+          "text": "連接器設計、/組裝及製造",
+          "detailed_data": {
+            "title": "連接器設計、組裝及製造",
+            "categories": [],
+            "companies": [
+              {
+                "name": "鴻海",
+                "url": "company_basic.php?stk_code=2317",
+                "is_foreign": false
+              },
+              {
+                "name": "佳世達",
+                "url": "company_basic.php?stk_code=2352",
+                "is_foreign": false
+              },
+              {
+                "name": "正崴",
+                "url": "company_basic.php?stk_code=2392",
+                "is_foreign": false
+              },
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "建通",
+                "url": "company_basic.php?stk_code=2460",
+                "is_foreign": false
+              },
+              {
+                "name": "良得電",
+                "url": "company_basic.php?stk_code=2462",
+                "is_foreign": false
+              },
+              {
+                "name": "百容",
+                "url": "company_basic.php?stk_code=2483",
+                "is_foreign": false
+              },
+              {
+                "name": "健和興",
+                "url": "company_basic.php?stk_code=3003",
+                "is_foreign": false
+              },
+              {
+                "name": "今皓",
+                "url": "company_basic.php?stk_code=3011",
+                "is_foreign": false
+              },
+              {
+                "name": "鴻名",
+                "url": "company_basic.php?stk_code=3021",
+                "is_foreign": false
+              },
+              {
+                "name": "信邦",
+                "url": "company_basic.php?stk_code=3023",
+                "is_foreign": false
+              },
+              {
+                "name": "譁裕",
+                "url": "company_basic.php?stk_code=3419",
+                "is_foreign": false
+              },
+              {
+                "name": "台端",
+                "url": "company_basic.php?stk_code=3432",
+                "is_foreign": false
+              },
+              {
+                "name": "維熹",
+                "url": "company_basic.php?stk_code=3501",
+                "is_foreign": false
+              },
+              {
+                "name": "嘉澤",
+                "url": "company_basic.php?stk_code=3533",
+                "is_foreign": false
+              },
+              {
+                "name": "宏致",
+                "url": "company_basic.php?stk_code=3605",
+                "is_foreign": false
+              },
+              {
+                "name": "鎰勝",
+                "url": "company_basic.php?stk_code=6115",
+                "is_foreign": false
+              },
+              {
+                "name": "金橋",
+                "url": "company_basic.php?stk_code=6133",
+                "is_foreign": false
+              },
+              {
+                "name": "浪凡",
+                "url": "company_basic.php?stk_code=6165",
+                "is_foreign": false
+              },
+              {
+                "name": "佳必琪",
+                "url": "company_basic.php?stk_code=6197",
+                "is_foreign": false
+              },
+              {
+                "name": "詮欣",
+                "url": "company_basic.php?stk_code=6205",
+                "is_foreign": false
+              },
+              {
+                "name": "驊陞",
+                "url": "company_basic.php?stk_code=6272",
+                "is_foreign": false
+              },
+              {
+                "name": "圓裕",
+                "url": "company_basic.php?stk_code=6835",
+                "is_foreign": false
+              },
+              {
+                "name": "瀚荃",
+                "url": "company_basic.php?stk_code=8103",
+                "is_foreign": false
+              },
+              {
+                "name": "貿聯-KY",
+                "url": "company_basic.php?stk_code=3665",
+                "is_foreign": false
+              },
+              {
+                "name": "康控-KY",
+                "url": "company_basic.php?stk_code=4943",
+                "is_foreign": false
+              },
+              {
+                "name": "好德",
+                "url": "company_basic.php?stk_code=3114",
+                "is_foreign": false
+              },
+              {
+                "name": "優群",
+                "url": "company_basic.php?stk_code=3217",
+                "is_foreign": false
+              },
+              {
+                "name": "建舜電",
+                "url": "company_basic.php?stk_code=3322",
+                "is_foreign": false
+              },
+              {
+                "name": "長盛",
+                "url": "company_basic.php?stk_code=3492",
+                "is_foreign": false
+              },
+              {
+                "name": "矽瑪",
+                "url": "company_basic.php?stk_code=3511",
+                "is_foreign": false
+              },
+              {
+                "name": "華盈",
+                "url": "company_basic.php?stk_code=3520",
+                "is_foreign": false
+              },
+              {
+                "name": "凡甲",
+                "url": "company_basic.php?stk_code=3526",
+                "is_foreign": false
+              },
+              {
+                "name": "映興",
+                "url": "company_basic.php?stk_code=3597",
+                "is_foreign": false
+              },
+              {
+                "name": "艾恩特",
+                "url": "company_basic.php?stk_code=3646",
+                "is_foreign": false
+              },
+              {
+                "name": "湧德",
+                "url": "company_basic.php?stk_code=3689",
+                "is_foreign": false
+              },
+              {
+                "name": "連展投控",
+                "url": "company_basic.php?stk_code=3710",
+                "is_foreign": false
+              },
+              {
+                "name": "慕康生醫",
+                "url": "company_basic.php?stk_code=5398",
+                "is_foreign": false
+              },
+              {
+                "name": "宣德",
+                "url": "company_basic.php?stk_code=5457",
+                "is_foreign": false
+              },
+              {
+                "name": "同協",
+                "url": "company_basic.php?stk_code=5460",
+                "is_foreign": false
+              },
+              {
+                "name": "信音",
+                "url": "company_basic.php?stk_code=6126",
+                "is_foreign": false
+              },
+              {
+                "name": "禾昌",
+                "url": "company_basic.php?stk_code=6158",
+                "is_foreign": false
+              },
+              {
+                "name": "幃翔",
+                "url": "company_basic.php?stk_code=6185",
+                "is_foreign": false
+              },
+              {
+                "name": "中探針",
+                "url": "company_basic.php?stk_code=6217",
+                "is_foreign": false
+              },
+              {
+                "name": "胡連",
+                "url": "company_basic.php?stk_code=6279",
+                "is_foreign": false
+              },
+              {
+                "name": "良維",
+                "url": "company_basic.php?stk_code=6290",
+                "is_foreign": false
+              },
+              {
+                "name": "詠昇",
+                "url": "company_basic.php?stk_code=6418",
+                "is_foreign": false
+              },
+              {
+                "name": "鴻呈",
+                "url": "company_basic.php?stk_code=6913",
+                "is_foreign": false
+              },
+              {
+                "name": "正淩",
+                "url": "company_basic.php?stk_code=8147",
+                "is_foreign": false
+              },
+              {
+                "name": "欣訊科技",
+                "url": "company_basic.php?stk_code=5254",
+                "is_foreign": false
+              },
+              {
+                "name": "紘通",
+                "url": "company_basic.php?stk_code=5271",
+                "is_foreign": false
+              },
+              {
+                "name": "太康精密",
+                "url": "company_basic.php?stk_code=6833",
+                "is_foreign": false
+              },
+              {
+                "name": "睿信",
+                "url": "company_basic.php?stk_code=7893",
+                "is_foreign": false
+              },
+              {
+                "name": "安費諾",
+                "url": "https://www.amphenol.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "莫仕",
+                "url": "https://www.molex.com/en-us/home",
+                "is_foreign": true
+              },
+              {
+                "name": "TE Connectivity",
+                "url": "http://www.te.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共56家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游",
+      "companies": []
+    }
+  ]
+}

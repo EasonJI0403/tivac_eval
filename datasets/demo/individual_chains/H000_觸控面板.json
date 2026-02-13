@@ -1,0 +1,845 @@
+{
+  "title": "觸控面板產業鏈",
+  "introduction": "觸控面板產業鏈\n觸控面板技術相當多元，依感應方式不同，可區分為電阻式、投射式電容、表面式電容、表面聲波式、紅外線式及光學式等，隨著Apple行動終端採用電容式觸控後，投射式電容觸控技術已廣泛被應用在智慧型手機及平板電腦，本文所述之觸控面板產業鏈以投射式電容觸控技術為主，以下簡稱觸控面板。\n一、上游：\n觸控面板（Touch Panel/Display）產業上游為玻璃基版、PET膜、ITO靶材、OCA光學膠(Optical Clear Adhesive )等原料。其中，玻璃基板又可分為觸控感測器（Touch Sensor）用玻璃基板，以及觸控面板用之保護玻璃（Cover Lens）。玻璃基板因用途不同，對材料及規格要求也不同，供應商亦有所差異，隨著折疊與柔性顯示器需求增加，超薄玻璃（Ultra Thin Glass, UTG）成為新焦點，現階段玻璃基板供應仍以日本及美國廠商為主。\nPET膜及ITO靶材等相關材料目前也仍是由日商或美商所供應。OCA光學膠材主要用以做觸控面板的貼合，由美商及日商占供應大宗。在PET膜上濺鍍ITO靶材製成ITO導電薄膜，在玻璃基版上濺鍍ITO靶材則製成ITO導電玻璃，臺廠在ITO導電玻璃的自製比重高，雖然也具備ITO導電薄膜及OCA光學膠材的供應能力，但因技術能量仍不及日本及美國，因此目前多數仰賴具關鍵技術的美、日系廠商。ITO是目前應用最廣泛的透明導電薄膜，但由於其難以滿足柔性電子元件應用需求，加上ITO(氧化銦錫)中的「銦」元素為稀有金屬，主要仰賴中國大陸供給，在地緣政治、價格攀升與原料短缺議題的影響下，諸多廠商與研究機構均在研發可替代氧化銦錫的透明導電材料，諸如石墨烯、金屬奈米線、奈米碳管，以及銀、銅和鋁薄膜等技術。此外，近期全球面板產業逐步重視低碳、可回收材料，部分新材料也強調環保與可持續性，亦是未來材料發展的新趨勢。\n二、中游：\n觸控面板產業的中游為觸控感測器及觸控面板製造。觸控面板依觸控感測器所在位置不同，可分成外掛式與內嵌式。外掛式觸控面板由專業的觸控面板廠商所供應，內嵌式觸控面板主要由面板廠商進行生產。\n外掛式觸控面板依ITO基板材質選用不同，又可再分成玻璃式與薄膜式，其製程主要係在ITO導電玻璃或薄膜上形成觸控感測電路，與具有控制IC在上面的軟性印刷電路板做熱壓合，製成觸控感測器後，再與保護玻璃/外蓋貼合，製成觸控模組（Touch Module），最後與液晶面板模組（LCM）貼合製成觸控面板。外掛式觸控面板在手機市場的比重正逐年下降，主要應用朝車載、工控、電子白板等利基或大尺寸市場發展。\n內嵌式觸控面板依感測器製作位置的不同以及顯示技術的不同，可分為LCD In cell、LCD On cell以及AMOLED On cell結構，LCD In cell指得是將觸控感測器做在TFT陣列（TFT Array）上，LCD On cell指的是將觸控感測器做在彩色濾光片（Color Filter）的另一側玻璃上。內嵌式AMOLED觸控面板現階段僅有AMOLED On cell的架構，將觸控感測器做在AMOLED封裝蓋/玻璃上。\n內嵌式觸控面板因為是將觸控感測器直接整合在面板結構上，主要由面板製造商進行產品開發及供應。當前在On cell觸控面板方面，高階的AMOLED On cell由南韓業者供應，以中低階應用為主的LCD In cell則是由台灣業者提供，然隨著大陸業者產能持續開出，這方面競爭正在加劇。\n當前智慧手機以顯示面板廠主導的內崁式技術為主流，而在平板和筆記型電腦方面則是滲透率逐步上升。隨著產業結構像內嵌式傾斜，各大觸控廠開始積極轉型，朝超音波感測、介面整合等新技術，奈米銀的新材料，以及電子白板和利基商用市場發展。此外在車載觸控方面，車載觸控螢幕目前以G-G和OGS等外掛式結構為主，正面臨面板大廠以In Cell架構持續擴展市場滲透率的進逼。\n調研機構數據顯示，2023年日系業者大幅度快速退出手機市場，韓系業者憑藉柔性AMOLED面板技術突圍，在中國大陸業者占半壁江山情況下仍維持一定地位。整體而言，2024年全球觸控螢幕顯示器市場規模約373.9億美元，預計2025年市場規模將持續成長，2025至2032年之年複合成長率約9%，預估2032年達745億美元規模。\n三、下游：\n隨著過往幾年手機品牌大廠持續擴大導入AMOLED應用，加之各家面板廠持續擴產AMOLED產線下，市調機構統計2024年其滲透率提升至約56.9%，預估2025年全年出貨量將超過8.7億片，年增約3.2%。 在零售觸控螢幕顯示器市場方面，2025年較2024年成長4.1%，2025至2029年CAGR為4.9%。智慧醫療顯示則是近來傳統面板業者積極發展的利基市場，預估至2028年全球醫療顯示器市場規模可以達到36億美元，其年複合成長率達5.8%，應用涵蓋包括X光檢查、斷層掃描、內視鏡、超音波或切片檢查等醫療影像需求，AMOLED亦逐步朝高階產品滲透。另在車用顯示方面，估計2025年全球車用顯示市場規模為153.2億美元，較2024年成長4.6%，預計至2037年規模達到315.5億美元水準。競爭態勢方面，中國大陸地區面板廠持續拓展，出貨量佔據半壁江山，預計2025年全球車載顯示面板出貨數量將維持5.4%高速增長，整體規模達到2.5億片水準。\n研究機構Grand View Research表示，隨著智慧工廠普及，適應惡劣的工業環境、抗衝擊與防震動的耐用特性需求，智慧工控設備逐步有以觸控面板取代傳統旋鈕或按鈕之趨勢，2024年全球工業顯示器市場規模為59億美元，預計到2030年將達到86.5億美元水準，年複合成長率為6.7%。同時隨著汽車走向電動化、智慧化，各種AI車載助理應用服務，透過結合各式智慧面板提升車內娛樂及內部空間之使用，不僅對智慧座艙需求顯著增加，亦為驅動觸控面板產業帶來擴張的動能。此外在永續淨零議題發酵下，觸控面板產業積極因應綠色減碳的能耐亦將牽動產業結構變化。",
+  "chains": [
+    {
+      "title": "上游",
+      "companies": [
+        {
+          "id": "ic_link_H100",
+          "text": "玻璃基板",
+          "detailed_data": {
+            "title": "玻璃基板",
+            "categories": [],
+            "companies": [
+              {
+                "name": "正達",
+                "url": "company_basic.php?stk_code=3149",
+                "is_foreign": false
+              },
+              {
+                "name": "悅城",
+                "url": "company_basic.php?stk_code=6405",
+                "is_foreign": false
+              },
+              {
+                "name": "臺龍",
+                "url": "company_basic.php?stk_code=6246",
+                "is_foreign": false
+              },
+              {
+                "name": "AGC株式会社",
+                "url": "http://www.agc.com/cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "康寧",
+                "url": "https://www.corning.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "首德集團",
+                "url": "http://www.schott.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_H200",
+          "text": "PET膜",
+          "detailed_data": {
+            "title": "PET膜",
+            "categories": [],
+            "companies": [
+              {
+                "name": "岱稜",
+                "url": "company_basic.php?stk_code=3303",
+                "is_foreign": false
+              },
+              {
+                "name": "勝釩",
+                "url": "company_basic.php?stk_code=6979",
+                "is_foreign": false
+              },
+              {
+                "name": "日東",
+                "url": "www.nitto.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "尾池工業",
+                "url": "http://www.oike-kogyo.co.jp/english/index.html",
+                "is_foreign": true
+              },
+              {
+                "name": "SK microworks America",
+                "url": "https://solutions.skmws.com/eng/",
+                "is_foreign": true
+              },
+              {
+                "name": "SKC Film",
+                "url": "https://www.skcfilms.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_H300",
+          "text": "ITO靶材",
+          "detailed_data": {
+            "title": "ITO靶材",
+            "categories": [],
+            "companies": [
+              {
+                "name": "光洋科",
+                "url": "company_basic.php?stk_code=1785",
+                "is_foreign": false
+              },
+              {
+                "name": "JX金屬",
+                "url": "https://www.jx-nmm.com/english/",
+                "is_foreign": true
+              },
+              {
+                "name": "三井金屬",
+                "url": "https://www.mitsui-kinzoku.co.jp/en/",
+                "is_foreign": true
+              },
+              {
+                "name": "JX日鑛日石金屬株式會社(JX控股)",
+                "url": "https://www.nikkeikinholdings.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "東曹",
+                "url": "http://www.tosoh.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_H400",
+          "text": "ITO導電玻璃",
+          "detailed_data": {
+            "title": "ITO導電玻璃",
+            "categories": [],
+            "companies": [
+              {
+                "name": "安可",
+                "url": "company_basic.php?stk_code=3615",
+                "is_foreign": false
+              },
+              {
+                "name": "蚌埠華益",
+                "url": "http://www.ctiec.net/",
+                "is_foreign": true
+              },
+              {
+                "name": "長信科技",
+                "url": "http://www.token-ito.com/cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "信利",
+                "url": "http://www.truly.com.hk/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_H500",
+          "text": "ITO導電薄膜",
+          "detailed_data": {
+            "title": "ITO導電薄膜",
+            "categories": [],
+            "companies": [
+              {
+                "name": "德淵",
+                "url": "company_basic.php?stk_code=4720",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫科",
+                "url": "company_basic.php?stk_code=3663",
+                "is_foreign": false
+              },
+              {
+                "name": "華宏",
+                "url": "company_basic.php?stk_code=8240",
+                "is_foreign": false
+              },
+              {
+                "name": "聯享",
+                "url": "company_basic.php?stk_code=3678",
+                "is_foreign": false
+              },
+              {
+                "name": "日東",
+                "url": "www.nitto.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "歐菲光",
+                "url": "http://www.o-film.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "長信科技",
+                "url": "http://www.token-ito.com/cn/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共7家"
+          }
+        },
+        {
+          "id": "ic_link_H600",
+          "text": "膠材",
+          "detailed_data": {
+            "title": "膠材",
+            "categories": [],
+            "companies": [
+              {
+                "name": "長興",
+                "url": "company_basic.php?stk_code=1717",
+                "is_foreign": false
+              },
+              {
+                "name": "雙鍵",
+                "url": "company_basic.php?stk_code=4764",
+                "is_foreign": false
+              },
+              {
+                "name": "達興材料",
+                "url": "company_basic.php?stk_code=5234",
+                "is_foreign": false
+              },
+              {
+                "name": "長華*",
+                "url": "company_basic.php?stk_code=8070",
+                "is_foreign": false
+              },
+              {
+                "name": "崇越電",
+                "url": "company_basic.php?stk_code=3388",
+                "is_foreign": false
+              },
+              {
+                "name": "奇鈦科",
+                "url": "company_basic.php?stk_code=3430",
+                "is_foreign": false
+              },
+              {
+                "name": "創為精密",
+                "url": "company_basic.php?stk_code=6899",
+                "is_foreign": false
+              },
+              {
+                "name": "聯致",
+                "url": "company_basic.php?stk_code=3585",
+                "is_foreign": false
+              },
+              {
+                "name": "山太士",
+                "url": "company_basic.php?stk_code=3595",
+                "is_foreign": false
+              },
+              {
+                "name": "喬越",
+                "url": "company_basic.php?stk_code=7896",
+                "is_foreign": false
+              },
+              {
+                "name": "巴斯夫",
+                "url": "https://www.basf.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "陶氏",
+                "url": "http://www.dow.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "南亞",
+                "url": "http://www.npc.com.tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共13家"
+          }
+        },
+        {
+          "id": "ic_link_H700",
+          "text": "印刷材料/(油墨)",
+          "detailed_data": {
+            "title": "印刷材料",
+            "categories": [],
+            "companies": [
+              {
+                "name": "利機",
+                "url": "company_basic.php?stk_code=3444",
+                "is_foreign": false
+              },
+              {
+                "name": "聯致",
+                "url": "company_basic.php?stk_code=3585",
+                "is_foreign": false
+              },
+              {
+                "name": "精工油墨",
+                "url": "http://www.seikoadvance.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "太陽油墨",
+                "url": "http://www.taiyoink.co.jp/english/",
+                "is_foreign": true
+              },
+              {
+                "name": "帝國油墨",
+                "url": "http://www.teikokuink.com/en/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_H800",
+          "text": "軟性電路板",
+          "detailed_data": {
+            "title": "軟性電路板",
+            "categories": [],
+            "companies": [
+              {
+                "name": "旭軟",
+                "url": "company_basic.php?stk_code=3390",
+                "is_foreign": false
+              },
+              {
+                "name": "日本旗勝",
+                "url": "http://www.mektron.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "住友電氣工業",
+                "url": "https://sumitomoelectric.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "南韓永豐集團",
+                "url": "https://www.ypzinc.co.kr/en",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_H900",
+          "text": "控制IC",
+          "detailed_data": {
+            "title": "控制IC",
+            "categories": [],
+            "companies": [
+              {
+                "name": "義隆",
+                "url": "company_basic.php?stk_code=2458",
+                "is_foreign": false
+              },
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "原相",
+                "url": "company_basic.php?stk_code=3227",
+                "is_foreign": false
+              },
+              {
+                "name": "禾瑞亞",
+                "url": "company_basic.php?stk_code=3556",
+                "is_foreign": false
+              },
+              {
+                "name": "映智",
+                "url": "company_basic.php?stk_code=6563",
+                "is_foreign": false
+              },
+              {
+                "name": "Atmel",
+                "url": "www.atmel.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "匯頂科技",
+                "url": "www.goodix.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Synaptics",
+                "url": "http://www.synaptics.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共8家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游",
+      "companies": [
+        {
+          "id": "ic_link_HA00",
+          "text": "觸控面板",
+          "detailed_data": {
+            "title": "觸控面板",
+            "categories": [],
+            "companies": [
+              {
+                "name": "銘旺科",
+                "url": "company_basic.php?stk_code=2429",
+                "is_foreign": false
+              },
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "全台",
+                "url": "company_basic.php?stk_code=3038",
+                "is_foreign": false
+              },
+              {
+                "name": "精金",
+                "url": "company_basic.php?stk_code=3049",
+                "is_foreign": false
+              },
+              {
+                "name": "融程電",
+                "url": "company_basic.php?stk_code=3416",
+                "is_foreign": false
+              },
+              {
+                "name": "群創",
+                "url": "company_basic.php?stk_code=3481",
+                "is_foreign": false
+              },
+              {
+                "name": "洋華",
+                "url": "company_basic.php?stk_code=3622",
+                "is_foreign": false
+              },
+              {
+                "name": "凌巨",
+                "url": "company_basic.php?stk_code=8105",
+                "is_foreign": false
+              },
+              {
+                "name": "TPK-KY",
+                "url": "company_basic.php?stk_code=3673",
+                "is_foreign": false
+              },
+              {
+                "name": "禾瑞亞",
+                "url": "company_basic.php?stk_code=3556",
+                "is_foreign": false
+              },
+              {
+                "name": "富晶通",
+                "url": "company_basic.php?stk_code=3623",
+                "is_foreign": false
+              },
+              {
+                "name": "熒茂",
+                "url": "company_basic.php?stk_code=4729",
+                "is_foreign": false
+              },
+              {
+                "name": "晶達",
+                "url": "company_basic.php?stk_code=4995",
+                "is_foreign": false
+              },
+              {
+                "name": "萬達光電",
+                "url": "company_basic.php?stk_code=5220",
+                "is_foreign": false
+              },
+              {
+                "name": "創為精密",
+                "url": "company_basic.php?stk_code=6899",
+                "is_foreign": false
+              },
+              {
+                "name": "日本顯示公司",
+                "url": "http://www.j-display.com/english/",
+                "is_foreign": true
+              },
+              {
+                "name": "NCR Voyix",
+                "url": "https://www.ncrvoyix.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "三星顯示",
+                "url": "http://www.samsung.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "歐菲光",
+                "url": "http://www.o-film.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共19家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游",
+      "companies": [
+        {
+          "id": "ic_link_HB00",
+          "text": "行動電話",
+          "detailed_data": {
+            "title": "行動電話",
+            "categories": [],
+            "companies": [
+              {
+                "name": "蘋果",
+                "url": "https://www.apple.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "華為",
+                "url": "http://www.huawei.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "三星電子",
+                "url": "http://www.samsung.com/tw/home/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共3家"
+          }
+        },
+        {
+          "id": "ic_link_HC00",
+          "text": "PDA",
+          "detailed_data": {
+            "title": "PDA",
+            "categories": [],
+            "companies": [
+              {
+                "name": "Datalogic",
+                "url": "https://www.datalogic.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Honeywell",
+                "url": "https://www.honeywell.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Zebra Technologies",
+                "url": "https://www.zebra.com/ap/en.html",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共3家"
+          }
+        },
+        {
+          "id": "ic_link_HD00",
+          "text": "衛星定位系統",
+          "detailed_data": {
+            "title": "衛星定位系統",
+            "categories": [],
+            "companies": [
+              {
+                "name": "研勤",
+                "url": "company_basic.php?stk_code=3632",
+                "is_foreign": false
+              },
+              {
+                "name": "台灣國際航電",
+                "url": "http://www.garmin.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Navico",
+                "url": "http://www.navico.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "TomTom",
+                "url": "http://www.tomtom.com/zh_tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_HJ00",
+          "text": "工業用設備",
+          "detailed_data": {
+            "title": "工業用設備",
+            "categories": [],
+            "companies": [
+              {
+                "name": "艾訊",
+                "url": "company_basic.php?stk_code=3088",
+                "is_foreign": false
+              },
+              {
+                "name": "陽程",
+                "url": "company_basic.php?stk_code=3498",
+                "is_foreign": false
+              },
+              {
+                "name": "世禾",
+                "url": "company_basic.php?stk_code=3551",
+                "is_foreign": false
+              },
+              {
+                "name": "科嶠",
+                "url": "company_basic.php?stk_code=4542",
+                "is_foreign": false
+              },
+              {
+                "name": "青雲",
+                "url": "company_basic.php?stk_code=5386",
+                "is_foreign": false
+              },
+              {
+                "name": "同亨",
+                "url": "company_basic.php?stk_code=5490",
+                "is_foreign": false
+              },
+              {
+                "name": "三聯",
+                "url": "company_basic.php?stk_code=5493",
+                "is_foreign": false
+              },
+              {
+                "name": "群翊",
+                "url": "company_basic.php?stk_code=6664",
+                "is_foreign": false
+              },
+              {
+                "name": "德揚",
+                "url": "company_basic.php?stk_code=7846",
+                "is_foreign": false
+              },
+              {
+                "name": "Kontron",
+                "url": "http://www.kontron.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "安迅資訊",
+                "url": "http://www.ncr.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "NCR Voyix",
+                "url": "https://www.ncrvoyix.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Radisys",
+                "url": "http://www.radisys.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共13家"
+          }
+        },
+        {
+          "id": "ic_link_HG00",
+          "text": "自動售票機",
+          "detailed_data": {
+            "title": "自動售票機",
+            "categories": [],
+            "companies": [
+              {
+                "name": "三商電",
+                "url": "company_basic.php?stk_code=2427",
+                "is_foreign": false
+              },
+              {
+                "name": "晶達",
+                "url": "company_basic.php?stk_code=4995",
+                "is_foreign": false
+              },
+              {
+                "name": "飛捷科技",
+                "url": "http://www.flytech.com.tw",
+                "is_foreign": true
+              },
+              {
+                "name": "安迅資訊",
+                "url": "http://www.ncr.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_HH00",
+          "text": "電子觸控白板",
+          "detailed_data": {
+            "title": "電子觸控白板",
+            "categories": [],
+            "companies": [
+              {
+                "name": "青雲",
+                "url": "company_basic.php?stk_code=5386",
+                "is_foreign": false
+              },
+              {
+                "name": "諾威",
+                "url": "https://mimio.boxlight.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Polycom",
+                "url": "http://www.polycom.com",
+                "is_foreign": true
+              },
+              {
+                "name": "夏普",
+                "url": "http://www.sharp.co.jp/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_HI00",
+          "text": "資訊收集設備",
+          "detailed_data": {
+            "title": "資訊收集設備",
+            "categories": [],
+            "companies": [
+              {
+                "name": "艾訊",
+                "url": "company_basic.php?stk_code=3088",
+                "is_foreign": false
+              },
+              {
+                "name": "迪堡多富資訊",
+                "url": "https://www.dieboldnixdorf.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "安迅資訊",
+                "url": "http://www.ncr.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "NCR Voyix",
+                "url": "https://www.ncrvoyix.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_HF00",
+          "text": "金融提款機/(ATM)",
+          "detailed_data": {
+            "title": "金融提款機(ATM)",
+            "categories": [],
+            "companies": [
+              {
+                "name": "三商電",
+                "url": "company_basic.php?stk_code=2427",
+                "is_foreign": false
+              },
+              {
+                "name": "晶達",
+                "url": "company_basic.php?stk_code=4995",
+                "is_foreign": false
+              },
+              {
+                "name": "迪堡多富資訊",
+                "url": "https://www.dieboldnixdorf.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "富士通",
+                "url": "http://www.fujitsu.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "安迅資訊",
+                "url": "http://www.ncr.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "NCR Atleos",
+                "url": "https://www.ncratleos.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_HE00",
+          "text": "公共資訊查詢站/(Kiosk)",
+          "detailed_data": {
+            "title": "公共資訊查詢站(Kiosk)",
+            "categories": [],
+            "companies": [
+              {
+                "name": "西柏",
+                "url": "company_basic.php?stk_code=3541",
+                "is_foreign": false
+              },
+              {
+                "name": "晶達",
+                "url": "company_basic.php?stk_code=4995",
+                "is_foreign": false
+              },
+              {
+                "name": "飛捷科技",
+                "url": "http://www.flytech.com.tw",
+                "is_foreign": true
+              },
+              {
+                "name": "安迅資訊",
+                "url": "http://www.ncr.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "NCR Voyix",
+                "url": "https://www.ncrvoyix.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        }
+      ]
+    }
+  ]
+}

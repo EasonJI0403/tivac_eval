@@ -1,0 +1,1299 @@
+{
+  "title": "軟體服務產業鏈",
+  "introduction": "軟體服務產業鏈\n軟體服務業可區分為應用/系統軟體設計開發、系統整合服務、資料處理服務、通路經銷等行業。應用/系統軟體設計開發業者從事各領域應用軟體，系統整合服務業者是負責整合硬軟體服務串連與技術服務的諮詢，電子商務是利用網際網路所進行的商業交易活動，資料處理服務業者則提供資料庫資訊之建置、檢索與分析服務以及網站代管等相關業務，通路經銷業者係從事各種的軟體代理銷售業務。\n應用/系統軟體設計開發業者主要係配合客戶營運需要，進行特定應用/系統軟體開發，有依特定產業而發展之應用軟體，如金融、醫療、流通業；或依軟體功能別所發展之特殊應用軟體，如商業智慧（Business Intelligence,BI）、企業資源規劃（Enterprise Resource Planning,ERP）、顧客關係管理（Customer Relationship Management,CRM）、資訊安全（Information Security）等。\n系統整合服務業者係依客戶特定營運需要而進行軟硬體建置，其服務範圍從前端規劃、設計、執行、整體專案管理、顧問諮詢服務，及整合資訊系統服務等。系統整合服務專案多半包括不同的平台與技術，如系統與客製化之應用開發及整合既有的應用軟體，因系統整合專案的客製化程度較高，故每次專案必須建立合約，藉此定義解決方案的規格與不同層級的產出績效，最終專案的產出為一完整的系統，方可符合專案定義的目的及技術規範。\n資料處理服務係指資料備份、回復、資料重複備份，及提供網站代管等業務。因電腦系統由許多元件組成，任何一個元件故障，都有可能導致資料破壞或遺失，使得長久以來建立的資料毀於一旦，且不管天災或人為破壞都有可能造成系統當機故障而無法使用，因此資料處理服務是維護企業資訊安全必要的一環，也因資訊安全的需求，帶動解決企業資訊安全的市場商機；隨著企業逐漸電子化，資安體系的產品與服務生態體系也逐漸完善；而隨著新興技術與應用場景的不同，未來AI、雲端運算、5G以及萬物聯網的時代，對於防火牆、使用者與實體設備行為分析、端點偵測與回應、資安協調、自動化與回應、網路流量分析等相關技術，搭配雲端運算、5G、物聯網、大數據、車聯網、元宇宙、工控等場景的不同，而有相當不同的資安作法因應，因此資安技術發展與市場將充滿商機；而IDC預估台灣的資安市場將快速擴大，年複合成長率達到驚人的11.9%，預計2028年總市場規模將達到7.16億美元。其中以資安軟體的需求增速突出，年成長率達到13.3%，遠高於硬體安全設備的5.6%。\n然而AI的應用將是一把雙面刃，雖可推動產業技術創新，但更易淪為駭客攻擊的新型武器。根據Gartner預測，至2028年至少15%的日常工作決策將由代理型AI自主做出；以生成式AI為例，產出的內容真假難辨，民眾需要面對更多難以判別的虛假訊息，更可能因為此類訊息造成社會不安或動盪，因此資安防護將面臨更多的挑戰，Gartner預測，到2028年將有50%的企業開始採用專為應對虛假資訊安全用例而設計的產品、服務或功能，目前此比例不到5%。\n通路經銷業者係提供套裝軟體的銷售，包括代理國內外品牌業者商用軟體、開發軟體、辦公室應用軟體等，亦提供客戶相關軟體的教育訓練，協助客戶與消費者能夠使用其代理銷售之軟體。\n而軟體業中，雲端運算產業是未來重要趨勢，雲端就是伺服器所建構的網際網路，它的運算能力更為強大，透過網路接收用戶的指令，來服務龐大的終端用戶，設置伺服器是方便使用者執行線上應用程式、儲存及管理大量的資料。雲端運算的四大佈署模式可分為公有雲、私有雲、社群雲、混合雲。而遠距辦公和線上會議的轉變加速了雲端的使用，搭配行動應用、巨量資料、社交媒體等新興科技的蓬勃發展，未來雲端商機無限。\n越來越多企業改以雲服務取代自身IT設備成本支出，可滿足企業因應數位化時代的彈性營運需求，雲端服務角色將無可取代。而雲端運算環境也改變企業軟體的建置模式，企業不需花費龐大金額買斷軟體授權，而是每月以租用付費方式透過網路取得軟體使用權；隨著辦公環境e化、電腦終端設備輕薄化、員工在辦公室內利用自有設備工作的需求日漸提升，一方面員工使用自己的軟體，同時公司兼顧資訊安全及資料保護，故桌面虛擬化將可以滿足需求；雲服務模式包括IaaS（Infrastructure as a Service,系統基礎架構即服務）、PaaS（Platform as a Service,應用基礎架構即服務）、SaaS（Software as a Service,軟體及服務）、DaaS（Desktop as a Service，雲桌面即服務）以及BPaaS(Business Process as a Service，業務流程即服務)等，未來包括作業系統、軟體及設定操作都可以透過網路雲端的方式來完成。\n目前臺灣雲端服務應用以IaaS為大宗，而SaaS的應用主要為電子郵件、視訊會議、文件分享等，未來雲端資安、雲端儲存、虛擬桌面、文書處理等應用的發展前景則相當可觀，亦即未來軟體即服務將成為市場主流，其使用上不受場域限制，只要有網路就可以存取資料或協同運作，尤其視訊會議與居家辦公的模式已成常態，也更凸顯SaaS服務的便利性；其建置成本相對較低且軟體升級速度更快，企業較願意去導入服務與系統，資訊安全性上也較佳。而Daas是由雲端運算衍生的新型態服務模式，資訊硬體可以採取「租用」、「託管」或「訂閱」的模式來使用，不需要規劃、設計與維護設備的生命週期，Dell、惠普、英特爾、Advantech、思科、CSA、聯想等業者皆有布局。隨著企業上雲的需求熱度不減，混合環境的管理是資訊服務市場的主軸，台灣資訊服務業者皆積極透過混合雲管理、產業雲、雲端安全等解決方案並擴大其業務，尤其企業上雲的趨勢更推升雲端運算服務市場需求；根據Grand View Research的報告，2030年全球雲端運算市場規模預計將達到2,3901.8億美元，2025年至2030年的複合年成長率為20.4%。而Gartner預測2025年全球終端使用者在公有雲服務上支出將從2024年的5957億美元增長至7234億美元。\n又根據Stastia Market Insight統計，2024年台灣公有雲市場達33.45億美元，至2028年將達49.96億美元，2024~2028CAGR為 10.55%。而成長速度依序為IaaS 24.93%、PaaS 21.36%以及DaaS 16.25%，台灣企業在基礎設施上雲仍有較高成長性，而未來PaaS採購將逐漸成為主流。\n又根據資策會MIC研究，台灣企業已付費使用雲端服務中，AI應用目前約占6％，排名第七，顯示目前臺灣雲端服務用戶仍未普遍使用AI雲端服務，然而未來兩年企業最期望導入的雲端服務中以AI應用（17％）拔得頭籌，大幅領先第二名的營運管理（9％）。且有超過半數的臺灣雲端服務供應業者已備妥AI雲端服務準備推行，加上企業在未來兩年導入AI雲端服務的積極度高，可預見AI雲端市場未來具有相當的發展性。\n目前全球國際雲端廠商為AWS、Microsoft、Google、阿里巴巴、華為，都定位雲端未來是以資料為驅動的雲端平臺，一致認同未來目標即是AI人工智慧與機器學習，前五大分別為AWS、微軟、阿里雲、Google與華為；其中AWS、微軟Azure和Google雲平台佔全球公有雲市場的七成，AWS是全球雲端服務市場的榜首，在全球雲端服務市場佔32%，微軟Azure市佔23%，Google雲端佔12%；隨著雲端市場擴大，又受到生成式AI和應用程式現代化的推動，加上通用基礎模型不斷被創造出來，及規模化交付Gen AI應用的速度加快，預計Gen AI將成為推動公有雲支出持續增長的主要力量，故Gartner預測公有雲終端使用者支出將在2030年時突破一兆美元大關。\nAWS、Microsoft、及Google等近年來無不積極地搶占台灣企業市場客戶，AWS最早進入台灣市場的業者，目前在台灣處於領先的位置。而Google最先在台灣本地有建置資料中心的業者，可提供更低延遲的雲服務，目前已逐漸打入各垂直市場。而AWS宣布將在台灣增建AWS基礎設施區域（region），由三座資料中心組成，各自擁有分隔的供電系統設施，能夠互相備援，是AWS最高安全等級的設置；微軟也宣布Microsoft365資料中心正是微軟在全球第66座區域級規模的資料中心，由3-4個資料中心組成，能夠互相調配算力或備援；而Meta則尚未發布關於資料中心的消息。但根據傳聞，亞馬遜AWS、微軟、Meta旗下AI資料中心將於2026年進駐桃園A-Top新嶺雲端數據園區。全球前四大CSP(雲端服務供應商)都來台灣，主因各大CSP計畫展開AI算力中心的戰備競賽，亞洲是CSP布局重點，台灣位居亞洲關鍵位置、水電便宜、AI蓬勃發展、機敏資料落地商機，大大提升台灣在國際雲端網路的地位，不過地緣政治則是最大風險。而中華電信及遠傳電信兩大業者近年對公有雲市場發展策略愈趨積極，推出自有品牌雲服務外，也開始加入三大公有雲業者的本地經銷夥伴行列。\n未來多雲及混合雲布局成企業投資重心，跨雲管理將是企業重要課題；在數據為王的趨勢下，未來優化顧客關係、產品創新將成為關鍵應用領域，而企業採納雲端平台最關注資訊安全，金融服務業則因牽涉一般民眾資產，且擁有大量機敏資料，因此兼具法遵與資安防護力、靈活性的雲端平台，才能打造更具擴充性、敏捷性的服務。\nChatGPT引領了AI風潮\n，\n而生成式AI的發展從過去有限的對話到大型自然語言模型的出現，使生成式AI技術愈成熟，並引發商業各種創新應用。近年生成式AI在文生圖與圖生文等部分已呈現快速發展趨勢。生成式AI是指讓機器學習模型研究歷史數據，學習歸納並創造出全新內容，包含文字、圖像、影片等形式，Chat GPT技術使生成式AI更易於理解和模仿人類語言行為，讓互動更加自然和真實。\n2024年Open AI透過 ChatGPT佔據全球\n34% AI市場份額\n後，\nAI模型大戰進入白熱化\n，目前最熱門的為Google的Gemini、 Open AI的ChatGPT、xAI的Grok與中國的DeepSeek；而Anthropic則靠Amazon加持，以安全導向為差異化突破口。AI模型訓練的平均成本每年成長3倍以上，且AI模型的競爭並非單純僅僅技術之爭，而是企業版圖與話語權的全球賽局，其首要門檻就是取得算力，因此各大雲端平台如AWS、Azure、Google Cloud成為基礎模型部署的核心戰場。又AI模型非常耗電，如GPT-4訓練一次\n所需電力\n，相當於76戶美國家庭一整年的用電量；而企業為了壓低環境成本，已開始研究如量子運算、神經形態晶片等新一代低能耗技術。\n又AI Agent是AI發展重要趨勢之一，因AI Agent具備自主決策和行動能力的人工智慧系統，能夠感知環境、與使用者或其他系統互動，並執行複雜任務以達成特定目標，而AI Agent的技術與應用蔚為風潮，更進一步帶動代理工作流程（Agentic Workflow）的變革，AI Agent未來將成為企業新型的數位勞動力，企業導入AI Agent解決方案來提升企業整體效率與創新發展注入新動能，可重塑世界經濟。AI Agent是下一波生產力的革命關鍵，而通用型的AI Agent可部署於各個行業，自動化廣泛的業務流程，科技大廠積極佈署AI Agent領域，被視為是下一波企業軟體的新商機，且先建好Agent生態者將能優先搶占企業主導權。\nAI為產業帶來革命性的突破，各產業領域也期待能導入AI以提升產業的效能，目前生成式 AI 可概分為 7 大應用領域，如文字、圖像、影片、程式碼、語音、3D 模型及其他等等；根據AI Special Report預估2030年AI產值將成長至 1.5 兆美元。\n生成式AI的普及帶來大量運算及軟體服務需求，台灣在未來3~5年內雲端產業需求將爆發，也將成為亞太地區的重要亮點。未來企業將透過雲端服務實踐數位轉型，尤其企業著重在業務轉型和IT轉型，也計畫朝向5G、人工智慧、區塊鏈、金融科技、數位貨幣、機器人技術、物聯網、自動駕駛汽車、智慧城市和量子計算等新興技術發展。另，金管會同意金融業把資料上雲端，但委託雲端服務業者處理的客戶資料以及資料儲存地，須以我國境內為原則，若是資料儲存地位於境外，得遵守三項規定辦理。資料上雲端、純網銀，再加上OpenAPI三大政策，對臺灣金融業將帶來新成長，可串連電商、網路產業的生態圈發展，更把臺灣雲端市場做大了。\n隨著行動通訊普及，行動軟體已侵蝕現有電腦軟體市場，並對以傳統電腦系統架構為開發重點的軟體廠商形成挑戰，同時也催生了新型態軟體服務業者如社群媒體及開發專屬應用程式（APP）軟體公司的興起，以及近年來社群媒體業者如Instagram、Meta、Youtube、LinkedIn、Line、微信、Tiktok等已是全球知名軟體公司，各式各樣的新興服務型態軟體公司，也正因應雲端應用快速發展而衍生。\n新型態的行動通訊軟體的應用商業模式正在生活中普及，如共享經濟的Uber、Airbnb，透過社群、影音、直播的網紅經濟，利用雲端媒體平台累積流量、建立知名度、吸引粉絲，又搭配VR/AR眼鏡的應用讓影像更顯逼真，實現元宇宙的概念，更是物聯網的發展與應用特性，促使產業生態、開發流程出現變化。\n元宇宙(metaverse)又稱後設宇宙、超感空間、魅塌域、魅他域；元宇宙的概念是專注於延伸和改善現有的虛擬實境(VR)、擴增實境(AR)和混合實境(MR)技術，元宇宙需要很多時間與資源的投入，是新的經濟模式，而熟悉VR/AR穿戴裝置可用來當作連線元宇宙的道具，元宇宙的後台，則是全球多座\n資料中心\n中的無數台伺服器。而隨著\nAI\n與電腦圖形技術進步下，未來數位人類（Digital Human）成為虛擬互動領域的革命。數位人類是模擬真實人類互動的虛擬存在，能透過AI和圖形演算法呈現逼真的外觀、聲音和行為，並解讀語氣、表情等非語言線索，使互動更自然流暢。預計2035年時數位人類產業規模快速將達到1,250億美元；受惠於企業對數位人類技術的廣泛採用，以及個人使用者對虛擬互動體驗需求不斷提升，未來也將被應用於醫療、金融、教育等更多領域，由虛擬實境（VR）和擴增實境（AR）技術結合，提供沉浸式互動體驗。數位人類將成為虛擬與現實世界的連結，開啟人機協作新時代。\n隨著智慧科技盛行、行動支付的興起，金融科技(Fintech)、區塊鏈經濟也改變了我們的生活，區塊鏈技術的去中心化及資料無法被竄改的特性日漸被認為可能顛覆人類數千年來交易基礎，可在商業網路中促進記錄交易與追蹤資產的程序。幾乎任何有價值的東西都可以透過區塊鏈網路追蹤與交易，以全面降低風險和成本。且區塊鏈技術可提供儲存在不可變總帳中的即時、共用及完全透明資訊，而且只有獲得許可的成員才能存取這些資訊。故區塊鏈技術也提供企業轉變的機會，應用的想像空間跟發展潛力極大，從金融領域到物聯網、雲端運算甚至醫療、製造、零售等各行業都可以看到它的身影。\n臺灣電腦系統軟體服務業高達上千家，可細分為軟體服務業、系統整合服務業及其他系統設計服務業等，其中電腦軟體服務業約占九成，其中又以系統整合為大宗。在軟體吞噬世界時代，各行業都需要軟體，不論是網路新創、遊戲軟體、行動APP，都需要相當的軟體服務開發，但軟體業在台灣規模小，許多跨領域的整合，包括電子業、醫療服務、金融服務等，也因市場規模過小而發展不易。\n台灣是ICT產業供應鏈與製造業的重地，而軟體又是支撐硬體轉型的基礎，未來資通訊產業的軟硬整合將成趨勢，不管是高科技或是傳統產業的升級都需要軟體，台灣軟體廠商只要做好國際化營運準備，未來充滿商機；政府現階段唯有積極推動軟硬整合、引導軟體產業創新、結合硬體產業、培育新興人才，才能讓台灣形成相當的產業規模。",
+  "chains": [
+    {
+      "title": "應用/系統軟體設計開發",
+      "companies": [
+        {
+          "id": "ic_link_R100",
+          "text": "應用/系統軟體設計開發",
+          "detailed_data": {
+            "title": "應用/系統軟體設計開發",
+            "companies": [
+              {
+                "name": "廣豐",
+                "url": "company_basic.php?stk_code=1416",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "三商電",
+                "url": "company_basic.php?stk_code=2427",
+                "is_foreign": false
+              },
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "華經",
+                "url": "company_basic.php?stk_code=2468",
+                "is_foreign": false
+              },
+              {
+                "name": "資通",
+                "url": "company_basic.php?stk_code=2471",
+                "is_foreign": false
+              },
+              {
+                "name": "敦陽科",
+                "url": "company_basic.php?stk_code=2480",
+                "is_foreign": false
+              },
+              {
+                "name": "喬鼎",
+                "url": "company_basic.php?stk_code=3057",
+                "is_foreign": false
+              },
+              {
+                "name": "一零四",
+                "url": "company_basic.php?stk_code=3130",
+                "is_foreign": false
+              },
+              {
+                "name": "達明",
+                "url": "company_basic.php?stk_code=4585",
+                "is_foreign": false
+              },
+              {
+                "name": "訊連",
+                "url": "company_basic.php?stk_code=5203",
+                "is_foreign": false
+              },
+              {
+                "name": "邁達特",
+                "url": "company_basic.php?stk_code=6112",
+                "is_foreign": false
+              },
+              {
+                "name": "關貿",
+                "url": "company_basic.php?stk_code=6183",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠",
+                "url": "company_basic.php?stk_code=6214",
+                "is_foreign": false
+              },
+              {
+                "name": "宏正",
+                "url": "company_basic.php?stk_code=6277",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "現觀科",
+                "url": "company_basic.php?stk_code=6906",
+                "is_foreign": false
+              },
+              {
+                "name": "中華資安",
+                "url": "company_basic.php?stk_code=7765",
+                "is_foreign": false
+              },
+              {
+                "name": "嘉實",
+                "url": "company_basic.php?stk_code=3158",
+                "is_foreign": false
+              },
+              {
+                "name": "訊聯基因",
+                "url": "company_basic.php?stk_code=4160",
+                "is_foreign": false
+              },
+              {
+                "name": "緯軟",
+                "url": "company_basic.php?stk_code=4953",
+                "is_foreign": false
+              },
+              {
+                "name": "凱衛",
+                "url": "company_basic.php?stk_code=5201",
+                "is_foreign": false
+              },
+              {
+                "name": "力新",
+                "url": "company_basic.php?stk_code=5202",
+                "is_foreign": false
+              },
+              {
+                "name": "寶碩",
+                "url": "company_basic.php?stk_code=5210",
+                "is_foreign": false
+              },
+              {
+                "name": "蒙恬",
+                "url": "company_basic.php?stk_code=5211",
+                "is_foreign": false
+              },
+              {
+                "name": "智崴",
+                "url": "company_basic.php?stk_code=5263",
+                "is_foreign": false
+              },
+              {
+                "name": "中菲",
+                "url": "company_basic.php?stk_code=5403",
+                "is_foreign": false
+              },
+              {
+                "name": "國眾",
+                "url": "company_basic.php?stk_code=5410",
+                "is_foreign": false
+              },
+              {
+                "name": "三聯",
+                "url": "company_basic.php?stk_code=5493",
+                "is_foreign": false
+              },
+              {
+                "name": "訊達電腦",
+                "url": "company_basic.php?stk_code=6140",
+                "is_foreign": false
+              },
+              {
+                "name": "華電網",
+                "url": "company_basic.php?stk_code=6163",
+                "is_foreign": false
+              },
+              {
+                "name": "晉泰",
+                "url": "company_basic.php?stk_code=6221",
+                "is_foreign": false
+              },
+              {
+                "name": "松崗",
+                "url": "company_basic.php?stk_code=6240",
+                "is_foreign": false
+              },
+              {
+                "name": "神盾",
+                "url": "company_basic.php?stk_code=6462",
+                "is_foreign": false
+              },
+              {
+                "name": "勤崴國際",
+                "url": "company_basic.php?stk_code=6516",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "叡揚",
+                "url": "company_basic.php?stk_code=6752",
+                "is_foreign": false
+              },
+              {
+                "name": "宏碁資訊",
+                "url": "company_basic.php?stk_code=6811",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "倍力",
+                "url": "company_basic.php?stk_code=6874",
+                "is_foreign": false
+              },
+              {
+                "name": "德鴻",
+                "url": "company_basic.php?stk_code=6910",
+                "is_foreign": false
+              },
+              {
+                "name": "意藍",
+                "url": "company_basic.php?stk_code=6925",
+                "is_foreign": false
+              },
+              {
+                "name": "碩網",
+                "url": "company_basic.php?stk_code=7547",
+                "is_foreign": false
+              },
+              {
+                "name": "大世科",
+                "url": "company_basic.php?stk_code=8099",
+                "is_foreign": false
+              },
+              {
+                "name": "三竹",
+                "url": "company_basic.php?stk_code=8284",
+                "is_foreign": false
+              },
+              {
+                "name": "碩豐",
+                "url": "company_basic.php?stk_code=6536",
+                "is_foreign": false
+              },
+              {
+                "name": "鼎恒",
+                "url": "company_basic.php?stk_code=6738",
+                "is_foreign": false
+              },
+              {
+                "name": "捷智商訊",
+                "url": "company_basic.php?stk_code=6816",
+                "is_foreign": false
+              },
+              {
+                "name": "采威國際",
+                "url": "company_basic.php?stk_code=6868",
+                "is_foreign": false
+              },
+              {
+                "name": "甲尚",
+                "url": "company_basic.php?stk_code=6882",
+                "is_foreign": false
+              },
+              {
+                "name": "知識科技",
+                "url": "company_basic.php?stk_code=7551",
+                "is_foreign": false
+              },
+              {
+                "name": "諾亞克",
+                "url": "company_basic.php?stk_code=7724",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "北祥科服",
+                "url": "company_basic.php?stk_code=7785",
+                "is_foreign": false
+              },
+              {
+                "name": "華芸科技",
+                "url": "company_basic.php?stk_code=7801",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠金融",
+                "url": "company_basic.php?stk_code=7819",
+                "is_foreign": false
+              },
+              {
+                "name": "倍利科",
+                "url": "company_basic.php?stk_code=7822",
+                "is_foreign": false
+              },
+              {
+                "name": "和亞智慧",
+                "url": "company_basic.php?stk_code=7825",
+                "is_foreign": false
+              },
+              {
+                "name": "極風雲創",
+                "url": "company_basic.php?stk_code=7826",
+                "is_foreign": false
+              },
+              {
+                "name": "智生活",
+                "url": "company_basic.php?stk_code=7836",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "聯剛科技",
+                "url": "company_basic.php?stk_code=7870",
+                "is_foreign": false
+              },
+              {
+                "name": "威睿",
+                "url": "company_basic.php?stk_code=8298",
+                "is_foreign": false
+              },
+              {
+                "name": "紐因科技",
+                "url": "company_basic.php?stk_code=7403",
+                "is_foreign": false
+              },
+              {
+                "name": "一等一科技",
+                "url": "company_basic.php?stk_code=7492",
+                "is_foreign": false
+              },
+              {
+                "name": "富宸",
+                "url": "company_basic.php?stk_code=7543",
+                "is_foreign": false
+              },
+              {
+                "name": "環球睿視",
+                "url": "company_basic.php?stk_code=7587",
+                "is_foreign": false
+              },
+              {
+                "name": "優思睿智科技",
+                "url": "company_basic.php?stk_code=7593",
+                "is_foreign": false
+              },
+              {
+                "name": "雲程在線",
+                "url": "company_basic.php?stk_code=7605",
+                "is_foreign": false
+              },
+              {
+                "name": "聯和趨動",
+                "url": "company_basic.php?stk_code=7645",
+                "is_foreign": false
+              },
+              {
+                "name": "皓德盛科技",
+                "url": "company_basic.php?stk_code=7661",
+                "is_foreign": false
+              },
+              {
+                "name": "數位玩家",
+                "url": "company_basic.php?stk_code=7663",
+                "is_foreign": false
+              },
+              {
+                "name": "數位獵人",
+                "url": "company_basic.php?stk_code=7674",
+                "is_foreign": false
+              },
+              {
+                "name": "對稱資訊",
+                "url": "company_basic.php?stk_code=7684",
+                "is_foreign": false
+              },
+              {
+                "name": "微軟",
+                "url": "http://www.microsoft.com/zh-tw/",
+                "is_foreign": true
+              },
+              {
+                "name": "甲骨文",
+                "url": "https://www.oracle.com/index.html",
+                "is_foreign": true
+              },
+              {
+                "name": "思愛普",
+                "url": "https://www.sap.com/index.html",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共79家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "系統整合服務",
+      "companies": [
+        {
+          "id": "ic_link_R200",
+          "text": "系統整合服務",
+          "detailed_data": {
+            "title": "系統整合服務",
+            "companies": [
+              {
+                "name": "佳世達",
+                "url": "company_basic.php?stk_code=2352",
+                "is_foreign": false
+              },
+              {
+                "name": "致茂",
+                "url": "company_basic.php?stk_code=2360",
+                "is_foreign": false
+              },
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "三商電",
+                "url": "company_basic.php?stk_code=2427",
+                "is_foreign": false
+              },
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "華經",
+                "url": "company_basic.php?stk_code=2468",
+                "is_foreign": false
+              },
+              {
+                "name": "資通",
+                "url": "company_basic.php?stk_code=2471",
+                "is_foreign": false
+              },
+              {
+                "name": "敦陽科",
+                "url": "company_basic.php?stk_code=2480",
+                "is_foreign": false
+              },
+              {
+                "name": "鴻名",
+                "url": "company_basic.php?stk_code=3021",
+                "is_foreign": false
+              },
+              {
+                "name": "零壹",
+                "url": "company_basic.php?stk_code=3029",
+                "is_foreign": false
+              },
+              {
+                "name": "喬鼎",
+                "url": "company_basic.php?stk_code=3057",
+                "is_foreign": false
+              },
+              {
+                "name": "一零四",
+                "url": "company_basic.php?stk_code=3130",
+                "is_foreign": false
+              },
+              {
+                "name": "達明",
+                "url": "company_basic.php?stk_code=4585",
+                "is_foreign": false
+              },
+              {
+                "name": "邁達特",
+                "url": "company_basic.php?stk_code=6112",
+                "is_foreign": false
+              },
+              {
+                "name": "關貿",
+                "url": "company_basic.php?stk_code=6183",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠",
+                "url": "company_basic.php?stk_code=6214",
+                "is_foreign": false
+              },
+              {
+                "name": "宏正",
+                "url": "company_basic.php?stk_code=6277",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "中華資安",
+                "url": "company_basic.php?stk_code=7765",
+                "is_foreign": false
+              },
+              {
+                "name": "大綜",
+                "url": "company_basic.php?stk_code=3147",
+                "is_foreign": false
+              },
+              {
+                "name": "嘉實",
+                "url": "company_basic.php?stk_code=3158",
+                "is_foreign": false
+              },
+              {
+                "name": "大塚",
+                "url": "company_basic.php?stk_code=3570",
+                "is_foreign": false
+              },
+              {
+                "name": "訊聯基因",
+                "url": "company_basic.php?stk_code=4160",
+                "is_foreign": false
+              },
+              {
+                "name": "凱衛",
+                "url": "company_basic.php?stk_code=5201",
+                "is_foreign": false
+              },
+              {
+                "name": "力新",
+                "url": "company_basic.php?stk_code=5202",
+                "is_foreign": false
+              },
+              {
+                "name": "坤悅",
+                "url": "company_basic.php?stk_code=5206",
+                "is_foreign": false
+              },
+              {
+                "name": "新鼎",
+                "url": "company_basic.php?stk_code=5209",
+                "is_foreign": false
+              },
+              {
+                "name": "寶碩",
+                "url": "company_basic.php?stk_code=5210",
+                "is_foreign": false
+              },
+              {
+                "name": "凌網",
+                "url": "company_basic.php?stk_code=5212",
+                "is_foreign": false
+              },
+              {
+                "name": "天剛",
+                "url": "company_basic.php?stk_code=5310",
+                "is_foreign": false
+              },
+              {
+                "name": "中菲",
+                "url": "company_basic.php?stk_code=5403",
+                "is_foreign": false
+              },
+              {
+                "name": "國眾",
+                "url": "company_basic.php?stk_code=5410",
+                "is_foreign": false
+              },
+              {
+                "name": "三聯",
+                "url": "company_basic.php?stk_code=5493",
+                "is_foreign": false
+              },
+              {
+                "name": "上奇",
+                "url": "company_basic.php?stk_code=6123",
+                "is_foreign": false
+              },
+              {
+                "name": "訊達電腦",
+                "url": "company_basic.php?stk_code=6140",
+                "is_foreign": false
+              },
+              {
+                "name": "驊宏資",
+                "url": "company_basic.php?stk_code=6148",
+                "is_foreign": false
+              },
+              {
+                "name": "華電網",
+                "url": "company_basic.php?stk_code=6163",
+                "is_foreign": false
+              },
+              {
+                "name": "豪勉",
+                "url": "company_basic.php?stk_code=6218",
+                "is_foreign": false
+              },
+              {
+                "name": "晉泰",
+                "url": "company_basic.php?stk_code=6221",
+                "is_foreign": false
+              },
+              {
+                "name": "互動",
+                "url": "company_basic.php?stk_code=6486",
+                "is_foreign": false
+              },
+              {
+                "name": "勤崴國際",
+                "url": "company_basic.php?stk_code=6516",
+                "is_foreign": false
+              },
+              {
+                "name": "普鴻",
+                "url": "company_basic.php?stk_code=6590",
+                "is_foreign": false
+              },
+              {
+                "name": "安碁資訊",
+                "url": "company_basic.php?stk_code=6690",
+                "is_foreign": false
+              },
+              {
+                "name": "東捷資訊",
+                "url": "company_basic.php?stk_code=6697",
+                "is_foreign": false
+              },
+              {
+                "name": "智聯服務",
+                "url": "company_basic.php?stk_code=6751",
+                "is_foreign": false
+              },
+              {
+                "name": "虎門科技",
+                "url": "company_basic.php?stk_code=6791",
+                "is_foreign": false
+              },
+              {
+                "name": "宏碁資訊",
+                "url": "company_basic.php?stk_code=6811",
+                "is_foreign": false
+              },
+              {
+                "name": "騰雲",
+                "url": "company_basic.php?stk_code=6870",
+                "is_foreign": false
+              },
+              {
+                "name": "倍力",
+                "url": "company_basic.php?stk_code=6874",
+                "is_foreign": false
+              },
+              {
+                "name": "德鴻",
+                "url": "company_basic.php?stk_code=6910",
+                "is_foreign": false
+              },
+              {
+                "name": "意藍",
+                "url": "company_basic.php?stk_code=6925",
+                "is_foreign": false
+              },
+              {
+                "name": "碩網",
+                "url": "company_basic.php?stk_code=7547",
+                "is_foreign": false
+              },
+              {
+                "name": "創泓科技",
+                "url": "company_basic.php?stk_code=7714",
+                "is_foreign": false
+              },
+              {
+                "name": "仁大資訊",
+                "url": "company_basic.php?stk_code=7767",
+                "is_foreign": false
+              },
+              {
+                "name": "大世科",
+                "url": "company_basic.php?stk_code=8099",
+                "is_foreign": false
+              },
+              {
+                "name": "三竹",
+                "url": "company_basic.php?stk_code=8284",
+                "is_foreign": false
+              },
+              {
+                "name": "實威",
+                "url": "company_basic.php?stk_code=8416",
+                "is_foreign": false
+              },
+              {
+                "name": "碩豐",
+                "url": "company_basic.php?stk_code=6536",
+                "is_foreign": false
+              },
+              {
+                "name": "捷智商訊",
+                "url": "company_basic.php?stk_code=6816",
+                "is_foreign": false
+              },
+              {
+                "name": "采威國際",
+                "url": "company_basic.php?stk_code=6868",
+                "is_foreign": false
+              },
+              {
+                "name": "知識科技",
+                "url": "company_basic.php?stk_code=7551",
+                "is_foreign": false
+              },
+              {
+                "name": "諾亞克",
+                "url": "company_basic.php?stk_code=7724",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "北祥科服",
+                "url": "company_basic.php?stk_code=7785",
+                "is_foreign": false
+              },
+              {
+                "name": "華芸科技",
+                "url": "company_basic.php?stk_code=7801",
+                "is_foreign": false
+              },
+              {
+                "name": "宇辰系統",
+                "url": "company_basic.php?stk_code=7813",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠金融",
+                "url": "company_basic.php?stk_code=7819",
+                "is_foreign": false
+              },
+              {
+                "name": "倍利科",
+                "url": "company_basic.php?stk_code=7822",
+                "is_foreign": false
+              },
+              {
+                "name": "和亞智慧",
+                "url": "company_basic.php?stk_code=7825",
+                "is_foreign": false
+              },
+              {
+                "name": "極風雲創",
+                "url": "company_basic.php?stk_code=7826",
+                "is_foreign": false
+              },
+              {
+                "name": "智生活",
+                "url": "company_basic.php?stk_code=7836",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "聖育",
+                "url": "company_basic.php?stk_code=7868",
+                "is_foreign": false
+              },
+              {
+                "name": "聯剛科技",
+                "url": "company_basic.php?stk_code=7870",
+                "is_foreign": false
+              },
+              {
+                "name": "宏羚",
+                "url": "company_basic.php?stk_code=7885",
+                "is_foreign": false
+              },
+              {
+                "name": "富宸",
+                "url": "company_basic.php?stk_code=7543",
+                "is_foreign": false
+              },
+              {
+                "name": "邦柏智慧",
+                "url": "company_basic.php?stk_code=7568",
+                "is_foreign": false
+              },
+              {
+                "name": "環球睿視",
+                "url": "company_basic.php?stk_code=7587",
+                "is_foreign": false
+              },
+              {
+                "name": "優思睿智科技",
+                "url": "company_basic.php?stk_code=7593",
+                "is_foreign": false
+              },
+              {
+                "name": "皓德盛科技",
+                "url": "company_basic.php?stk_code=7661",
+                "is_foreign": false
+              },
+              {
+                "name": "Control4",
+                "url": "https://www.control4.com",
+                "is_foreign": true
+              },
+              {
+                "name": "HPE",
+                "url": "https://www.hpe.com/us/en/home.html",
+                "is_foreign": true
+              },
+              {
+                "name": "國際商業機器股份有限公司",
+                "url": "http://www.ibm.com/en-us/homepage-d.html",
+                "is_foreign": true
+              },
+              {
+                "name": "印福思",
+                "url": "https://www.infosys.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "勤達睿",
+                "url": "https://www.kyndryl.com",
+                "is_foreign": true
+              },
+              {
+                "name": "威普羅",
+                "url": "https://www.wipro.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共87家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "資料處理服務",
+      "companies": [
+        {
+          "id": "ic_link_R400",
+          "text": "資料處理服務",
+          "detailed_data": {
+            "title": "資料處理服務",
+            "companies": [
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "三商電",
+                "url": "company_basic.php?stk_code=2427",
+                "is_foreign": false
+              },
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "華經",
+                "url": "company_basic.php?stk_code=2468",
+                "is_foreign": false
+              },
+              {
+                "name": "邁達特",
+                "url": "company_basic.php?stk_code=6112",
+                "is_foreign": false
+              },
+              {
+                "name": "關貿",
+                "url": "company_basic.php?stk_code=6183",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠",
+                "url": "company_basic.php?stk_code=6214",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "現觀科",
+                "url": "company_basic.php?stk_code=6906",
+                "is_foreign": false
+              },
+              {
+                "name": "中華資安",
+                "url": "company_basic.php?stk_code=7765",
+                "is_foreign": false
+              },
+              {
+                "name": "訊聯基因",
+                "url": "company_basic.php?stk_code=4160",
+                "is_foreign": false
+              },
+              {
+                "name": "三聯",
+                "url": "company_basic.php?stk_code=5493",
+                "is_foreign": false
+              },
+              {
+                "name": "台灣銘板",
+                "url": "company_basic.php?stk_code=6593",
+                "is_foreign": false
+              },
+              {
+                "name": "宏碁資訊",
+                "url": "company_basic.php?stk_code=6811",
+                "is_foreign": false
+              },
+              {
+                "name": "倍力",
+                "url": "company_basic.php?stk_code=6874",
+                "is_foreign": false
+              },
+              {
+                "name": "德鴻",
+                "url": "company_basic.php?stk_code=6910",
+                "is_foreign": false
+              },
+              {
+                "name": "意藍",
+                "url": "company_basic.php?stk_code=6925",
+                "is_foreign": false
+              },
+              {
+                "name": "碩網",
+                "url": "company_basic.php?stk_code=7547",
+                "is_foreign": false
+              },
+              {
+                "name": "大世科",
+                "url": "company_basic.php?stk_code=8099",
+                "is_foreign": false
+              },
+              {
+                "name": "捷智商訊",
+                "url": "company_basic.php?stk_code=6816",
+                "is_foreign": false
+              },
+              {
+                "name": "采威國際",
+                "url": "company_basic.php?stk_code=6868",
+                "is_foreign": false
+              },
+              {
+                "name": "程曦資訊",
+                "url": "company_basic.php?stk_code=6898",
+                "is_foreign": false
+              },
+              {
+                "name": "知識科技",
+                "url": "company_basic.php?stk_code=7551",
+                "is_foreign": false
+              },
+              {
+                "name": "諾亞克",
+                "url": "company_basic.php?stk_code=7724",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "北祥科服",
+                "url": "company_basic.php?stk_code=7785",
+                "is_foreign": false
+              },
+              {
+                "name": "華芸科技",
+                "url": "company_basic.php?stk_code=7801",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠金融",
+                "url": "company_basic.php?stk_code=7819",
+                "is_foreign": false
+              },
+              {
+                "name": "和亞智慧",
+                "url": "company_basic.php?stk_code=7825",
+                "is_foreign": false
+              },
+              {
+                "name": "極風雲創",
+                "url": "company_basic.php?stk_code=7826",
+                "is_foreign": false
+              },
+              {
+                "name": "智生活",
+                "url": "company_basic.php?stk_code=7836",
+                "is_foreign": false
+              },
+              {
+                "name": "達人網",
+                "url": "company_basic.php?stk_code=7839",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "聯剛科技",
+                "url": "company_basic.php?stk_code=7870",
+                "is_foreign": false
+              },
+              {
+                "name": "發條橘子",
+                "url": "company_basic.php?stk_code=7569",
+                "is_foreign": false
+              },
+              {
+                "name": "環球睿視",
+                "url": "company_basic.php?stk_code=7587",
+                "is_foreign": false
+              },
+              {
+                "name": "優思睿智科技",
+                "url": "company_basic.php?stk_code=7593",
+                "is_foreign": false
+              },
+              {
+                "name": "數位經濟",
+                "url": "company_basic.php?stk_code=7624",
+                "is_foreign": false
+              },
+              {
+                "name": "皓德盛科技",
+                "url": "company_basic.php?stk_code=7661",
+                "is_foreign": false
+              },
+              {
+                "name": "薪傳智庫",
+                "url": "company_basic.php?stk_code=7676",
+                "is_foreign": false
+              },
+              {
+                "name": "印福思",
+                "url": "https://www.infosys.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Tata",
+                "url": "http://www.tata.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "塔塔",
+                "url": "https://www.tcs.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "威普羅",
+                "url": "https://www.wipro.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共44家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    },
+    {
+      "title": "通路經銷",
+      "companies": [
+        {
+          "id": "ic_link_R500",
+          "text": "通路經銷",
+          "detailed_data": {
+            "title": "通路經銷",
+            "companies": [
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "三商電",
+                "url": "company_basic.php?stk_code=2427",
+                "is_foreign": false
+              },
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "華經",
+                "url": "company_basic.php?stk_code=2468",
+                "is_foreign": false
+              },
+              {
+                "name": "零壹",
+                "url": "company_basic.php?stk_code=3029",
+                "is_foreign": false
+              },
+              {
+                "name": "邁達特",
+                "url": "company_basic.php?stk_code=6112",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠",
+                "url": "company_basic.php?stk_code=6214",
+                "is_foreign": false
+              },
+              {
+                "name": "資拓宏宇",
+                "url": "company_basic.php?stk_code=6614",
+                "is_foreign": false
+              },
+              {
+                "name": "中華資安",
+                "url": "company_basic.php?stk_code=7765",
+                "is_foreign": false
+              },
+              {
+                "name": "大綜",
+                "url": "company_basic.php?stk_code=3147",
+                "is_foreign": false
+              },
+              {
+                "name": "力新",
+                "url": "company_basic.php?stk_code=5202",
+                "is_foreign": false
+              },
+              {
+                "name": "三聯",
+                "url": "company_basic.php?stk_code=5493",
+                "is_foreign": false
+              },
+              {
+                "name": "上奇",
+                "url": "company_basic.php?stk_code=6123",
+                "is_foreign": false
+              },
+              {
+                "name": "訊達電腦",
+                "url": "company_basic.php?stk_code=6140",
+                "is_foreign": false
+              },
+              {
+                "name": "順發",
+                "url": "company_basic.php?stk_code=6154",
+                "is_foreign": false
+              },
+              {
+                "name": "晉泰",
+                "url": "company_basic.php?stk_code=6221",
+                "is_foreign": false
+              },
+              {
+                "name": "宏碁資訊",
+                "url": "company_basic.php?stk_code=6811",
+                "is_foreign": false
+              },
+              {
+                "name": "倍力",
+                "url": "company_basic.php?stk_code=6874",
+                "is_foreign": false
+              },
+              {
+                "name": "德鴻",
+                "url": "company_basic.php?stk_code=6910",
+                "is_foreign": false
+              },
+              {
+                "name": "博弘",
+                "url": "company_basic.php?stk_code=6997",
+                "is_foreign": false
+              },
+              {
+                "name": "創泓科技",
+                "url": "company_basic.php?stk_code=7714",
+                "is_foreign": false
+              },
+              {
+                "name": "昕奇雲端",
+                "url": "company_basic.php?stk_code=7747",
+                "is_foreign": false
+              },
+              {
+                "name": "仁大資訊",
+                "url": "company_basic.php?stk_code=7767",
+                "is_foreign": false
+              },
+              {
+                "name": "大世科",
+                "url": "company_basic.php?stk_code=8099",
+                "is_foreign": false
+              },
+              {
+                "name": "富基電通",
+                "url": "company_basic.php?stk_code=6707",
+                "is_foreign": false
+              },
+              {
+                "name": "知識科技",
+                "url": "company_basic.php?stk_code=7551",
+                "is_foreign": false
+              },
+              {
+                "name": "北祥科服",
+                "url": "company_basic.php?stk_code=7785",
+                "is_foreign": false
+              },
+              {
+                "name": "精誠金融",
+                "url": "company_basic.php?stk_code=7819",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "聖育",
+                "url": "company_basic.php?stk_code=7868",
+                "is_foreign": false
+              },
+              {
+                "name": "優思睿智科技",
+                "url": "company_basic.php?stk_code=7593",
+                "is_foreign": false
+              },
+              {
+                "name": "數位經濟",
+                "url": "company_basic.php?stk_code=7624",
+                "is_foreign": false
+              },
+              {
+                "name": "Arrow Electronics",
+                "url": "https://www.arrow.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Ingram Micro Holding Corporation",
+                "url": "https://www.ingrammicro.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "TD SYNNEX",
+                "url": "https://www.tdsynnex.com/na/us/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共35家",
+            "categories": [],
+            "subcategories": []
+          }
+        }
+      ]
+    }
+  ]
+}

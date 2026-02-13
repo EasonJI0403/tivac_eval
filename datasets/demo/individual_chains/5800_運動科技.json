@@ -1,0 +1,696 @@
+{
+  "title": "運動科技產業鏈",
+  "introduction": "運動科技產業供應鏈\n運動科技（Sports Technology）係指以運動為本體，藉由將IoT、DataTech、雲端、AI、5G等數位技術結合運動器材、感測裝置等，為運動創造新的價值、提升運動體驗。而運動科技的訴求，是希望將先進技術結合器材、裝置和軟體等，協助職業／業餘／一般運動者擁有更好的運動表現，或讓賽事觀賞者藉數位技術獲得更佳的觀賽體驗。\n隨新興科技進展，也加速科技與運動領域的結合，創造出更多元的運動產品、服務及商業模式。近年來，全球運動科技市場規模成長快速，據Grand View Research推估，全球運動科技市場規模將從2024年的188.5億美元（約新台幣5,647億元）成長至2025年的229.7億美元（約新台幣6,882億元），年成長率為21.9%。成長因素主要來自智慧運動場館、體育轉播升級、運動器材創新、運動員安全防護等領域。預期2024至2030年市場將成長至617.2億美元（約新台幣1兆8,491億元），CAGR為21.9%。\n在大型體育賽事全面恢復下，創投對運動科技產業的關注和投資已逐步回升，據美國運動科技研究機構SportsTechX指出，2025年第一季全球運動科技新創投資金額約達72億美元（約新台幣2,157億元），已大幅超越2024年的29億美元（2023年疫情恢復常態後僅約20億美元），有望觸及2022年的82億美元，故推測市場信心逐步回穩。從2025投資趨勢可觀察到，粉絲體驗、運動員和利基型解決方案成為焦點，如Infinite Reality、DAZN和Superbet等新創。\n2025年運動科技領域可觀測以下幾個重要的發展趨勢：\n穿戴式裝置與AI深度整合：穿戴式裝置持續普及，除具備監測心率、步數、卡路里消耗等功能，有助使用者掌握身體狀況並調整運動規劃外。隨著AI技術快速發展，裝置已不僅止於記錄數據，更可即時分析運動表現、預測疲勞與傷害風險，並提供個人化訓練建議。在專業運動上，運動數據與AI更廣泛應用於建立運動資料庫、協助教練制定戰術與訓練計畫、分析選手表現及預防運動傷害等。\n虛擬科技與沉浸式運動體驗：虛擬運動（Virtual Sports）是指運動結合3D/XR、動作感知等內容與體感相關技術，打造具備沉浸互動感的運動體驗，且可結合遊戲化、競技性、打破時空限制等，發展備受關注，例如:2021年國際奧會即舉辦「奧林匹克虛擬系列賽」，包含棒球、自行車、划船、帆船、賽車共5個虛擬運動項目，吸引至少100個國家超過25萬名參賽者參賽。2023年國際奧會更舉辦「奧林匹克電競系列賽」，共有約50萬名選手進入資格賽，決賽也在新加坡6月下旬舉辦的「奧林匹克電競週」舉行，讓131名決賽選手角逐棒球、自行車、帆船、賽車、舞蹈、西洋棋、網球、射擊、射箭、跆拳道共10個虛擬運動項目的獎盃，也吸引約2萬名觀眾參加。\n高齡族群運動與職場健康：隨全球邁向高齡化社會，針對高齡族群訂定健身計畫和促進職場健康成為重要趨勢，旨在提升其生活品質、減少醫療支出、提升企業生產力。\n我國在資通訊硬體產業發展基礎下，過去以設備製造、運動器材生產／代工為主，近年除器材、感測等硬體外，更著重如課程、體感內容的產製，以及後續健康管理服務、數據分析等。而這些創新應用服務、軟硬整合相關廠商也在產業鏈中扮演相當重要的角色。在數位經濟迅速發展下，也將有更多跨域廠商加入。\n整體而言，運動科技產業鏈的上游包括運動裝置／器材的顯示器、零組件，以及配備於器材上之感測裝置、軟體開發等；中游則為運動所使用的健身器材、運動用品、穿戴式裝置，也包括裝置／器材連網時所使用的通訊服務，以及使用硬體設備運動時所觀看的數位內容；下游則為和運動者接觸的通路和管道，包括用品裝置零售與租賃、運動場館（含健身房）、健身平台／App、運動服務／顧問、行銷媒體等。\n一、上游：\n運動科技產業鏈上游中，運動裝置/器材的顯示器如配置在健身器材上的顯示器，或用於運動手錶、AR/VR虛擬運動之穿戴式裝置上的顯示器，如敦吉、群利科技；裝置/器材零組件則指硬體所用之電機類、電阻類零組件、發電機、馬達等，如：祺驊、寶緯；感測裝置如連網感測裝置、穿戴式感測裝置等；軟體開發則指裝置/器材之應用軟體開發。\n二、中游：\n運動科技產業鏈之中游涵蓋運動時所使用之健身器材，如跑步機、划船機、攀岩機、健身鏡等固定式硬體裝置；運動用品則如球拍、智慧啞鈴、智慧跳繩等較輕便的可攜式硬體裝置，如：建大、東隆興、能率網通、大田等；穿戴式裝置為配備感測器或具備生理量測功能的智慧手錶、心率帶等，以及進行虛擬運動時所用的AR/VR眼鏡；通訊服務則為使裝置/器材連網的網路服務，如正能量智能；數位內容則如健身器材的隨選、直播課程等。\n三、下游：\n運動科技產業鏈下游包括運動用品、裝置之零售/租賃，如賣場、百貨、運動用品店等，如喬山、岱宇；運動場館如大型球類場館、運動中心、健身房等營運場地提供者，如展逸、列特博；健身平台/App為透過網路平台或手機應用程式提供運動課程隨選服務，如神寶醫資；運動服務/顧問則為如運動保健、健康管理顧問、運動賽事防護、運動諮詢等服務提供者；運動行銷/媒體如賽事轉播、網路社群媒體等，如展逸、鍇睿國際。學校/職業運動係指職業、業餘聯盟及其運動場域。",
+  "chains": [
+    {
+      "title": "上游",
+      "companies": [
+        {
+          "id": "ic_link_5810",
+          "text": "裝置/器材顯示器",
+          "detailed_data": {
+            "title": "裝置/器材顯示器",
+            "categories": [],
+            "companies": [
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "群利科技",
+                "url": "company_basic.php?stk_code=7558",
+                "is_foreign": false
+              },
+              {
+                "name": "京東方",
+                "url": "https://www.boe.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "LG顯示",
+                "url": "http://www.lgdisplay.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "三星電子",
+                "url": "http://www.samsung.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "三星顯示",
+                "url": "http://www.samsung.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_5820",
+          "text": "裝置/器材零組件",
+          "detailed_data": {
+            "title": "裝置/器材零組件",
+            "categories": [],
+            "companies": [
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "祺驊",
+                "url": "company_basic.php?stk_code=1593",
+                "is_foreign": false
+              },
+              {
+                "name": "寶緯",
+                "url": "company_basic.php?stk_code=4558",
+                "is_foreign": false
+              },
+              {
+                "name": "正能量智能",
+                "url": "company_basic.php?stk_code=5348",
+                "is_foreign": false
+              },
+              {
+                "name": "群利科技",
+                "url": "company_basic.php?stk_code=7558",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_5830",
+          "text": "感測裝置",
+          "detailed_data": {
+            "title": "感測裝置",
+            "categories": [],
+            "companies": [
+              {
+                "name": "台亞",
+                "url": "company_basic.php?stk_code=2340",
+                "is_foreign": false
+              },
+              {
+                "name": "敦吉",
+                "url": "company_basic.php?stk_code=2459",
+                "is_foreign": false
+              },
+              {
+                "name": "原相",
+                "url": "company_basic.php?stk_code=3227",
+                "is_foreign": false
+              },
+              {
+                "name": "三聯",
+                "url": "company_basic.php?stk_code=5493",
+                "is_foreign": false
+              },
+              {
+                "name": "艾華",
+                "url": "company_basic.php?stk_code=6204",
+                "is_foreign": false
+              },
+              {
+                "name": "鈺太",
+                "url": "company_basic.php?stk_code=6679",
+                "is_foreign": false
+              },
+              {
+                "name": "群利科技",
+                "url": "company_basic.php?stk_code=7558",
+                "is_foreign": false
+              },
+              {
+                "name": "列特博",
+                "url": "company_basic.php?stk_code=7725",
+                "is_foreign": false
+              },
+              {
+                "name": "和亞智慧",
+                "url": "company_basic.php?stk_code=7825",
+                "is_foreign": false
+              },
+              {
+                "name": "三星電子",
+                "url": "http://www.samsung.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "三星電子",
+                "url": "http://www.samsung.com/tw/home/",
+                "is_foreign": true
+              },
+              {
+                "name": "索尼",
+                "url": "http://www.sony.net/",
+                "is_foreign": true
+              },
+              {
+                "name": "意法半導體",
+                "url": "http://www.st.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共13家"
+          }
+        },
+        {
+          "id": "ic_link_5840",
+          "text": "軟體開發",
+          "detailed_data": {
+            "title": "軟體開發",
+            "categories": [],
+            "companies": [
+              {
+                "name": "研華",
+                "url": "company_basic.php?stk_code=2395",
+                "is_foreign": false
+              },
+              {
+                "name": "正能量智能",
+                "url": "company_basic.php?stk_code=5348",
+                "is_foreign": false
+              },
+              {
+                "name": "群利科技",
+                "url": "company_basic.php?stk_code=7558",
+                "is_foreign": false
+              },
+              {
+                "name": "列特博",
+                "url": "company_basic.php?stk_code=7725",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "fitbit",
+                "url": "https://www.fitbit.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游",
+      "companies": [
+        {
+          "id": "ic_link_5850",
+          "text": "健身器材",
+          "detailed_data": {
+            "title": "健身器材",
+            "categories": [],
+            "companies": [
+              {
+                "name": "岱宇",
+                "url": "company_basic.php?stk_code=1598",
+                "is_foreign": false
+              },
+              {
+                "name": "喬山",
+                "url": "company_basic.php?stk_code=1736",
+                "is_foreign": false
+              },
+              {
+                "name": "群利科技",
+                "url": "company_basic.php?stk_code=7558",
+                "is_foreign": false
+              },
+              {
+                "name": "lifefitness",
+                "url": "https://www.lifefitness.com/en-us",
+                "is_foreign": true
+              },
+              {
+                "name": "peloton",
+                "url": "https://www.onepeloton.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "technogym",
+                "url": "https://www.technogym.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_5860",
+          "text": "運動用品",
+          "detailed_data": {
+            "title": "運動用品",
+            "categories": [],
+            "companies": [
+              {
+                "name": "建大",
+                "url": "company_basic.php?stk_code=2106",
+                "is_foreign": false
+              },
+              {
+                "name": "東隆興",
+                "url": "company_basic.php?stk_code=4401",
+                "is_foreign": false
+              },
+              {
+                "name": "正能量智能",
+                "url": "company_basic.php?stk_code=5348",
+                "is_foreign": false
+              },
+              {
+                "name": "能率網通",
+                "url": "company_basic.php?stk_code=8071",
+                "is_foreign": false
+              },
+              {
+                "name": "大田",
+                "url": "company_basic.php?stk_code=8924",
+                "is_foreign": false
+              },
+              {
+                "name": "群利科技",
+                "url": "company_basic.php?stk_code=7558",
+                "is_foreign": false
+              },
+              {
+                "name": "民盛",
+                "url": "company_basic.php?stk_code=7811",
+                "is_foreign": false
+              },
+              {
+                "name": "淞康",
+                "url": "company_basic.php?stk_code=7670",
+                "is_foreign": false
+              },
+              {
+                "name": "微笑元素創意",
+                "url": "company_basic.php?stk_code=7697",
+                "is_foreign": false
+              },
+              {
+                "name": "Adidas",
+                "url": "https://www.adidas.com.tw/",
+                "is_foreign": true
+              },
+              {
+                "name": "Nike",
+                "url": "https://www.nike.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Puma",
+                "url": "https://tw.puma.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共12家"
+          }
+        },
+        {
+          "id": "ic_link_5870",
+          "text": "穿戴式裝置",
+          "detailed_data": {
+            "title": "穿戴式裝置",
+            "categories": [],
+            "companies": [
+              {
+                "name": "仁寶",
+                "url": "company_basic.php?stk_code=2324",
+                "is_foreign": false
+              },
+              {
+                "name": "華碩",
+                "url": "company_basic.php?stk_code=2357",
+                "is_foreign": false
+              },
+              {
+                "name": "廣達",
+                "url": "company_basic.php?stk_code=2382",
+                "is_foreign": false
+              },
+              {
+                "name": "正崴",
+                "url": "company_basic.php?stk_code=2392",
+                "is_foreign": false
+              },
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              },
+              {
+                "name": "群創",
+                "url": "company_basic.php?stk_code=3481",
+                "is_foreign": false
+              },
+              {
+                "name": "正能量智能",
+                "url": "company_basic.php?stk_code=5348",
+                "is_foreign": false
+              },
+              {
+                "name": "宣德",
+                "url": "company_basic.php?stk_code=5457",
+                "is_foreign": false
+              },
+              {
+                "name": "群利科技",
+                "url": "company_basic.php?stk_code=7558",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "蘋果",
+                "url": "https://www.apple.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "fitbit",
+                "url": "https://www.fitbit.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Meta Quest",
+                "url": "https://www.oculus.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共13家"
+          }
+        },
+        {
+          "id": "ic_link_5880",
+          "text": "通訊服務",
+          "detailed_data": {
+            "title": "通訊服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "正能量智能",
+                "url": "company_basic.php?stk_code=5348",
+                "is_foreign": false
+              },
+              {
+                "name": "群利科技",
+                "url": "company_basic.php?stk_code=7558",
+                "is_foreign": false
+              },
+              {
+                "name": "中國移動",
+                "url": "www.10086.cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "威訊通訊",
+                "url": "http://www.verizonwireless.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_5890",
+          "text": "數位內容",
+          "detailed_data": {
+            "title": "數位內容",
+            "categories": [],
+            "companies": [
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              },
+              {
+                "name": "正能量智能",
+                "url": "company_basic.php?stk_code=5348",
+                "is_foreign": false
+              },
+              {
+                "name": "展逸",
+                "url": "company_basic.php?stk_code=6798",
+                "is_foreign": false
+              },
+              {
+                "name": "群利科技",
+                "url": "company_basic.php?stk_code=7558",
+                "is_foreign": false
+              },
+              {
+                "name": "鍇睿國際",
+                "url": "company_basic.php?stk_code=7779",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "Meta Quest",
+                "url": "https://www.oculus.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "WONDERCORE",
+                "url": "https://wondercore.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共8家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游",
+      "companies": [
+        {
+          "id": "ic_link_58A0",
+          "text": "用品裝置零售/租賃",
+          "detailed_data": {
+            "title": "用品裝置零售/租賃",
+            "categories": [],
+            "companies": [
+              {
+                "name": "迪卡儂",
+                "url": "https://www.decathlon.fr/",
+                "is_foreign": true
+              },
+              {
+                "name": "FootLocker",
+                "url": "https://www.footlocker.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Intersport",
+                "url": "https://www.intersport.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共3家"
+          }
+        },
+        {
+          "id": "ic_link_58B0",
+          "text": "運動場館",
+          "detailed_data": {
+            "title": "運動場館",
+            "categories": [],
+            "companies": [
+              {
+                "name": "展逸",
+                "url": "company_basic.php?stk_code=6798",
+                "is_foreign": false
+              },
+              {
+                "name": "列特博",
+                "url": "company_basic.php?stk_code=7725",
+                "is_foreign": false
+              },
+              {
+                "name": "anytime fitness",
+                "url": "https://www.anytimefitness.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Basic-fit",
+                "url": "https://www.basic-fit.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "planet fitness",
+                "url": "https://www.planetfitness.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_58C0",
+          "text": "健身平台/APP",
+          "detailed_data": {
+            "title": "健身平台/APP",
+            "categories": [],
+            "companies": [
+              {
+                "name": "仁寶",
+                "url": "company_basic.php?stk_code=2324",
+                "is_foreign": false
+              },
+              {
+                "name": "群利科技",
+                "url": "company_basic.php?stk_code=7558",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "Classpass",
+                "url": "https://classpass.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "北京卡路里科技",
+                "url": "http://www.gotokeep.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "peloton",
+                "url": "https://www.onepeloton.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_58D0",
+          "text": "運動服務/顧問",
+          "detailed_data": {
+            "title": "運動服務/顧問",
+            "categories": [],
+            "companies": [
+              {
+                "name": "正能量智能",
+                "url": "company_basic.php?stk_code=5348",
+                "is_foreign": false
+              },
+              {
+                "name": "展逸",
+                "url": "company_basic.php?stk_code=6798",
+                "is_foreign": false
+              },
+              {
+                "name": "列特博",
+                "url": "company_basic.php?stk_code=7725",
+                "is_foreign": false
+              },
+              {
+                "name": "鍇睿國際",
+                "url": "company_basic.php?stk_code=7779",
+                "is_foreign": false
+              },
+              {
+                "name": "Creative Artists Agency",
+                "url": "https://www.caa.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Excelsports Management",
+                "url": "https://www.excelsm.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Wasserman",
+                "url": "https://www.teamwass.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共7家"
+          }
+        },
+        {
+          "id": "ic_link_58E0",
+          "text": "運動行銷/媒體",
+          "detailed_data": {
+            "title": "運動行銷/媒體",
+            "categories": [],
+            "companies": [
+              {
+                "name": "正能量智能",
+                "url": "company_basic.php?stk_code=5348",
+                "is_foreign": false
+              },
+              {
+                "name": "展逸",
+                "url": "company_basic.php?stk_code=6798",
+                "is_foreign": false
+              },
+              {
+                "name": "鍇睿國際",
+                "url": "company_basic.php?stk_code=7779",
+                "is_foreign": false
+              }
+            ],
+            "total_count": "共3家"
+          }
+        },
+        {
+          "id": "ic_link_58F0",
+          "text": "學校/職業運動",
+          "detailed_data": {
+            "title": "學校/職業運動",
+            "categories": [],
+            "companies": [
+              {
+                "name": "展逸",
+                "url": "company_basic.php?stk_code=6798",
+                "is_foreign": false
+              },
+              {
+                "name": "淞康",
+                "url": "company_basic.php?stk_code=7670",
+                "is_foreign": false
+              },
+              {
+                "name": "MLB",
+                "url": "https://www.mlb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "NBA",
+                "url": "https://www.nba.com/?20",
+                "is_foreign": true
+              },
+              {
+                "name": "NHL",
+                "url": "https://www.nhl.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        }
+      ]
+    }
+  ]
+}

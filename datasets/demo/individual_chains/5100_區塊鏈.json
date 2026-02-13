@@ -1,0 +1,647 @@
+{
+  "title": "區塊鏈產業鏈",
+  "introduction": "區塊鏈產業價值鏈\n不論是世界經濟論壇(WEF)、研究機構Gartner或顧問公司麥肯錫，均估算在十年之內，區塊鏈技術是繼網際網路後的潛力科技之一，會在全球商業活動佔據關鍵地位，全球超過一成以上的GDP規模會運用區塊鏈來進行處理，形成重塑當前國際經濟運作模式的一股重要力量，並在未來世界經濟運作體系中，扮演重要的基石。\n由於區塊鏈技術的日益受到關注與領域應用的逐漸成熟，包括英國、新加坡、中國大陸、澳大利亞等國陸續將區塊鏈技術納入其國家數位經濟或數位戰略等發展方針內，以強化該國在競逐國際數位經濟發展版圖的能量，取得該國在未來數位經濟時代的領導角色。\n區塊鏈產業價值鏈，可區分為五個區塊，分別是運算資源、基礎技術開發、解決方案提供、應用服務及支援服務。其中運算資源業者旨在提供維繫區塊鏈運作的基礎運算資源；基礎技術開發則是區塊鏈平台業者、開發工具或監控管理業者，均為具備區塊鏈核心技術的資訊廠商；解決方案供應商則是提供區塊鏈應用之建置服務，涵蓋區塊鏈即服務(BaaS)業者、系統整合商以及領域方案業者；應用服務商則是透過建立商業模式，提供基於區塊鏈技術的應用服務，例如交易平台、錢包/加密資產管理或各類商業應用；支援服務則包括創投業者、顧問諮詢、媒體推廣或資安審計等，主要是圍繞在區塊鏈技術應用的支援服務上。\n一、運算資源：\n區塊鏈產業的運算資源供應商，以提供維繫區塊鏈運作的軟硬體運算資源服務為主，包括運算晶片供應商、驗證節點服務及元件裝置等。\n區塊鏈為源自比特幣的底層技術組合，是一種基於區塊(block)所串成的分散式資料集合，其需要運算節點參與運作，用以驗證區塊鏈上資料的有效性，故而衍生出特殊運算晶片的需求與業者，例如知名的比特大陸、嘉楠科技；在區塊鏈運作支援方面，驗證節點通常也稱之為礦場或礦池業者，美國掛牌的Marathon Digital及CleanSpark堪為代表；而元件裝置則是所謂的礦機設備業者，知名業者有比特大陸、嘉楠科技為代表。\n二、基礎技術開發：\n基礎技術開發則是區塊鏈平台業者、開發工具或監控管理業者，均為具備區塊鏈核心技術的資訊廠商，相關業者包括提供XRP Ledger公鏈的Ripple、Solana公鏈的Solana Labs、企業級區塊鏈Corda的R3及聯盟鏈代表Hyperledger Fabric的Linux基金會；提供技術開發的有IBM或ConsenSys等，臺灣也有如博士旺、區塊科技等業者。\n三、解決方案供應商：\n解決方案供應商主要為提供區塊鏈應用之建置服務，涵蓋區塊鏈即服務(BaaS)業者、系統整合商以及領域方案業者。當前主要雲端大廠如微軟Azure、GCP或AWS均有提供BaaS服務；而領域方案業者，則有IBM的供應鏈、全球貿易解決方案，提供加密資產託管的Zodia，提供代幣化解決方案的Securitize，或聚焦支付的Bridge等。\n四、應用服務商：\n應用服務商則是透過建立商業模式，提供基於區塊鏈技術的應用服務，例如交易平台、錢包/加密資產管理或各類商業應用。交易平台部分早期以交易各類加密貨幣為主要業務，代表者有coinbase、Kraken等；錢包/加密資產管理軟體商則以提供錢包程式或結合加密資產交易業者為主，例如metamask；至於各類商業應用業者，則涵蓋金融、支付、物流、零售等領域，除金融領域相關發展較為熱絡外，其他領域多發展中階段。\n五、支援服務業者：\n支援服務主要是以提供各類協助區塊鏈技術應用發展的周邊服務為主，包括創投、顧問諮詢、媒體推廣或資安審計等，例如coinbase所屬的創投基金coinbase Venture、知名區塊鏈媒體情報公司CoinDesk、或區塊鏈資安審計業者OpenZeppelin等。\n國際調研機構Gartner的調查報告顯示，全球超過1,000項企業級區塊鏈開發計畫中，有高達36%應用於金融領域，其次依序為製造業、保險業、資訊科技、貿易及醫療保健等領域。Deloitte在全球區塊鏈報告中指出，針對全球企業高階管理人員的調查，超過55%受訪者回應區塊鏈技術開發是該企業主要開發優先事項，另有39%受訪者表示已經區塊鏈導入生產業務流程，顯見區塊鏈在產業領域的應用，已逐漸由過去的概念性驗證走入實際落地應用階段，正革新企業的營運模式。\n根據Fortune Business Insights調研數據顯示，2025年全球區塊鏈市場規模達311.8億美元，預估到2032年，區塊鏈市場規模將增長到3,934億美元，年複合成長率將達到43.6%。另與區塊鏈技術相關的Web3領域方面，市場研究機構Acumen Research & Consulting報告顯示，預計至2032年市場規模將過800億美元規模，年複合增長率為44.5%，又以亞太地區成長最為顯著。另就投資資金觀察，根據Galaxy數據顯示，2024年全球區塊鏈公司獲得2,153筆交易共115億美元的投資，其中早期階段交易吸引60%的資金。在投資案件領域方面，以穩定幣公司籌集資金最多，其中Tether從Cantor Fitzgerald獲得6億美元融資，其次是基礎設施和Web3新創公司；數量上則以 Web3、DeFi和基礎設施公司件次最多。\n展望未來，Web3具備可驗證（Verifiable）、去信任（Trustless）、自治（Self-governing）、分散式（Distributed）等特性，預期將全面改變資料與網路應用的關係，架構新穎的網路應用生態。其中伴隨著AI發展熱潮，透過區塊鏈提供安全可信的資料環境，AI利用大量數據實現自動化與智慧決策，兩者結合將可提升資安防護和運作效能。其次則是實體資產代幣化(Real World Assets, RWA)議題正在傳統金融機構中發酵，包括貝萊德、摩根大通乃至於花旗集團等均積極投入相關應用的發展。\n臺灣方面，金管會已召集包括臺灣集中保管結算所及台新銀行、台北富邦銀行、中國信託銀行、國泰證券、國泰投信及元大金控等六家金融機構成立「RWA代幣化小組」，並聚焦國內、外債券和基金作為代幣化初期研究標的及PoC實證，以期臺灣在RWA發展上與世界同步。",
+  "chains": [
+    {
+      "title": "應用服務",
+      "companies": [
+        {
+          "id": "ic_link_5110",
+          "text": "交易平台",
+          "detailed_data": {
+            "title": "交易平台",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "敦陽科",
+                "url": "company_basic.php?stk_code=2480",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "幣安",
+                "url": "https://www.binance.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Coinbase",
+                "url": "https://www.coinbase.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Coinbase Ventures",
+                "url": "https://www.coinbase.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "eTORO",
+                "url": "https://www.etoro.com/zh-tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共7家"
+          }
+        },
+        {
+          "id": "ic_link_5120",
+          "text": "商業應用",
+          "detailed_data": {
+            "title": "商業應用",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "敦陽科",
+                "url": "company_basic.php?stk_code=2480",
+                "is_foreign": false
+              },
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "國際商業機器股份有限公司",
+                "url": "http://www.ibm.com/en-us/homepage-d.html",
+                "is_foreign": true
+              },
+              {
+                "name": "R3",
+                "url": "https://www.r3.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "VISA",
+                "url": "https://www.visa.com",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共9家"
+          }
+        },
+        {
+          "id": "ic_link_5130",
+          "text": "錢包/資產管理",
+          "detailed_data": {
+            "title": "錢包/資產管理",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "幣安",
+                "url": "https://www.binance.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "metamask",
+                "url": "https://metamask.io/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "解決方案提供",
+      "companies": [
+        {
+          "id": "ic_link_5140",
+          "text": "BaaS",
+          "detailed_data": {
+            "title": "BaaS",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "亞馬遜網路服務公司",
+                "url": "https://aws.amazon.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Google",
+                "url": "https://about.google/intl/ALL_tw/",
+                "is_foreign": true
+              },
+              {
+                "name": "微軟",
+                "url": "http://www.microsoft.com/zh-tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_5150",
+          "text": "系統整合",
+          "detailed_data": {
+            "title": "系統整合",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "宏正",
+                "url": "company_basic.php?stk_code=6277",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "國際商業機器股份有限公司",
+                "url": "http://www.ibm.com/en-us/homepage-d.html",
+                "is_foreign": true
+              },
+              {
+                "name": "印福思",
+                "url": "https://www.infosys.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "威普羅",
+                "url": "https://www.wipro.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_5160",
+          "text": "領域方案",
+          "detailed_data": {
+            "title": "領域方案",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "ConsenSys",
+                "url": "https://consensys.net/",
+                "is_foreign": true
+              },
+              {
+                "name": "國際商業機器股份有限公司",
+                "url": "http://www.ibm.com/en-us/homepage-d.html",
+                "is_foreign": true
+              },
+              {
+                "name": "R3",
+                "url": "https://www.r3.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "基礎技術開發",
+      "companies": [
+        {
+          "id": "ic_link_5170",
+          "text": "底層平台",
+          "detailed_data": {
+            "title": "底層平台",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "經貿聯網",
+                "url": "company_basic.php?stk_code=7841",
+                "is_foreign": false
+              },
+              {
+                "name": "ConsenSys",
+                "url": "https://consensys.net/",
+                "is_foreign": true
+              },
+              {
+                "name": "國際商業機器股份有限公司",
+                "url": "http://www.ibm.com/en-us/homepage-d.html",
+                "is_foreign": true
+              },
+              {
+                "name": "R3",
+                "url": "https://www.r3.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_5180",
+          "text": "開發工具",
+          "detailed_data": {
+            "title": "開發工具",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "宏達電",
+                "url": "company_basic.php?stk_code=2498",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "亞馬遜網路服務公司",
+                "url": "https://aws.amazon.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Google",
+                "url": "https://about.google/intl/ALL_tw/",
+                "is_foreign": true
+              },
+              {
+                "name": "微軟",
+                "url": "http://www.microsoft.com/zh-tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_5190",
+          "text": "監控管理",
+          "detailed_data": {
+            "title": "監控管理",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "宏正",
+                "url": "company_basic.php?stk_code=6277",
+                "is_foreign": false
+              },
+              {
+                "name": "昕力資*",
+                "url": "company_basic.php?stk_code=7781",
+                "is_foreign": false
+              },
+              {
+                "name": "亞馬遜網路服務公司",
+                "url": "https://aws.amazon.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Google",
+                "url": "https://about.google/intl/ALL_tw/",
+                "is_foreign": true
+              },
+              {
+                "name": "微軟",
+                "url": "http://www.microsoft.com/zh-tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "運算資源",
+      "companies": [
+        {
+          "id": "ic_link_51A0",
+          "text": "運算晶片",
+          "detailed_data": {
+            "title": "運算晶片",
+            "categories": [],
+            "companies": [
+              {
+                "name": "比特大陸",
+                "url": "https://www.bitmain.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "英特爾",
+                "url": "http://www.intel.com.tw/content/www/tw/zh/homepage.html",
+                "is_foreign": true
+              },
+              {
+                "name": "輝達",
+                "url": "https://www.eaton.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "輝達",
+                "url": "https://www.nvidia.com/zh-tw/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_51B0",
+          "text": "元件裝置",
+          "detailed_data": {
+            "title": "元件裝置",
+            "categories": [],
+            "companies": [
+              {
+                "name": "映泰",
+                "url": "company_basic.php?stk_code=2399",
+                "is_foreign": false
+              },
+              {
+                "name": "華擎",
+                "url": "company_basic.php?stk_code=3515",
+                "is_foreign": false
+              },
+              {
+                "name": "撼訊",
+                "url": "company_basic.php?stk_code=6150",
+                "is_foreign": false
+              },
+              {
+                "name": "比特大陸",
+                "url": "https://www.bitmain.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "嘉楠耘智",
+                "url": "https://canaan-creative.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "億邦國際",
+                "url": "https://www.ebang.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_51C0",
+          "text": "節點服務",
+          "detailed_data": {
+            "title": "節點服務",
+            "categories": [],
+            "companies": [
+              {
+                "name": "螞蟻礦池",
+                "url": "https://v3.antpool.com/home",
+                "is_foreign": true
+              },
+              {
+                "name": "F2Pool",
+                "url": "https://www.f2pool.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Marathon Digital Holdings Inc",
+                "url": "https://marathondh.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共3家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "支援服務",
+      "companies": [
+        {
+          "id": "ic_link_51D0",
+          "text": "創投",
+          "detailed_data": {
+            "title": "創投",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "a16z",
+                "url": "https://a16z.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "AU21 Capital",
+                "url": "https://au21.capital/",
+                "is_foreign": true
+              },
+              {
+                "name": "Coinbase Ventures",
+                "url": "https://www.coinbase.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        },
+        {
+          "id": "ic_link_51E0",
+          "text": "顧問諮詢",
+          "detailed_data": {
+            "title": "顧問諮詢",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "ConsenSys",
+                "url": "https://consensys.net/",
+                "is_foreign": true
+              },
+              {
+                "name": "Deloitte",
+                "url": "https://www2.deloitte.com/us/en.html",
+                "is_foreign": true
+              },
+              {
+                "name": "Deloitte Consulting LLP",
+                "url": "https://www2.deloitte.com/global/en/services/consulting-deloitte.html",
+                "is_foreign": true
+              },
+              {
+                "name": "國際商業機器股份有限公司",
+                "url": "http://www.ibm.com/en-us/homepage-d.html",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共6家"
+          }
+        },
+        {
+          "id": "ic_link_51F0",
+          "text": "媒體推廣",
+          "detailed_data": {
+            "title": "媒體推廣",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "宇萌",
+                "url": "company_basic.php?stk_code=7406",
+                "is_foreign": false
+              },
+              {
+                "name": "Blockchain.com",
+                "url": "https://www.blockchain.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "CoinDesk",
+                "url": "https://www.coindesk.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Crypto.com",
+                "url": "https://crypto.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_51G0",
+          "text": "資安審計",
+          "detailed_data": {
+            "title": "資安審計",
+            "categories": [],
+            "companies": [
+              {
+                "name": "凌群",
+                "url": "company_basic.php?stk_code=2453",
+                "is_foreign": false
+              },
+              {
+                "name": "Certik",
+                "url": "https://certik.io/",
+                "is_foreign": true
+              },
+              {
+                "name": "ConsenSys",
+                "url": "https://consensys.net/",
+                "is_foreign": true
+              },
+              {
+                "name": "OpenZeppelin",
+                "url": "https://openzeppelin.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共4家"
+          }
+        }
+      ]
+    }
+  ]
+}

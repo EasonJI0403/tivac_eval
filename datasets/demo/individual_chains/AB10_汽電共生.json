@@ -1,0 +1,466 @@
+{
+  "title": "汽電共生產業鏈",
+  "introduction": "汽電共生產業鏈\n利用煤炭、燃油、天然氣或廢棄物，以一套設備同時產生有效熱能及電能者，稱為汽電共生(Cogeneration, combined heat and power, CHP)，為一種工業製程技巧，利用發電後的廢熱用於工業製造或是利用工業製造的廢熱發電，達到能量最大化利用的目的。\n汽電共生系統依發電與製程先後次序可分為先發電式汽電共生系統及後發電式汽電共生系統；所謂先發電式汽電共生系統就是以初級能源先用來發電，發電後之餘熱再提供製程使用，剩餘的電能再賣給電網，適合「中溫度製程」產業，諸如造紙、化工、食品、紡織、染整業等；而後發電式汽電共生系統就是以初級能源先供給製程之熱能需求，再將排出之餘熱，供作發電之用，若有餘電亦能再賣給電網，適合「高溫度製程」產業，諸如水泥、玻璃、煉鋼、冶金等行業。\n當今汽電共生產業鏈其上中下游分別為設備製造業、整合營造業以及發電維運三個區塊，設備製造業即提供汽電共生系統及相關電力設施之業者，整合營造業則是提供包括規劃設計、營造及系統整合等服務，發電維運則涵蓋設備維護服務及發電營運等。\n一、上游：\n汽電共生產業鏈上游為設備製造業，分為渦輪發電機組及電力設施等兩大部分。其中渦輪發電機組有蒸汽渦輪機組、燃氣渦輪機組等，電力設施則涵蓋配電系統、變壓器、電線電纜及其他配件等。\n當前渦輪發電機組供應商仍以西門子、三菱重工、奇異等工業設備大廠居領導地位；而電力設施方面，配電系統有傳統電力設施大廠ABB、西門子、奇異等業者，國際電纜線大廠則有Prysmian、Nexans及General Cable（現屬住友電工集團）等業者，國內則有華新麗華、太平洋電線電纜等代表。\n二、中游：\n汽電共生產業鏈中游為整合營造業，包括汽電共生系統之規劃設計、系統營造與設置，以及系統整合等工程諮詢服務。其中規劃設計服務係提供業者汽電共生系統之系統設計、財務規劃或環境保護等顧問諮詢業務；系統營造與設置則提供包括工程規劃、施工管理、設備裝機建置等服務；系統整合則是提供汽電共生系統設置所需之機電控制及整合服務。國際上以西門子、奇異等主要電力工程集團為首，台灣則有台汽電、台朔重工、中鼎集團、巨路國際等業者為代表。\n三、下游：\n汽電共生產業鏈之下游為設備維護以及發電營運兩個部分。設備維護業者是在汽電共生系統(廠)完成相關硬體設施建置並營運後，由設備供應商或協力之協力廠商業者提供設備之後續保固、檢測與維修替換服務；發電營運業者即透過所屬之汽電共生系統(廠)提供電力及熱能所需，並維持供電、供熱網路之穩定。\n設備維護業者以西門子、三菱重工、奇異等機組供應商為代表，輔以其協力之設備代理、維修服務業者。台灣發電營運方面則有台灣電力公司、台汽電及其他民營電廠為代表。\n汽電共生系統為一發電及工廠製程蒸汽或熱能予以結合的能源整合系統，其能源使用效率一般可達50%以上，遠較單獨發電的系統高出許多，具有低碳、效率提升、降低成本以及增進能源可靠度等價值，其主要效益為：屬分散型電力，汽電共生系統多屬就近設置，可有效減少輸配電的損失，對電力系統供應穩定有所助益；有效整合電能及熱能需求，提高能源使用效率；發電自用有助業者降低缺電風險，以可在尖峰時段提供電網需求，抑低其尖峰負載，有助提高電網淨尖峰供電能力，進而減少電網需啟動高成本機組之發電成本支出。\n當前淨零減排已經成為各國積極推動的能源轉型目標，歐洲能源轉型智慧型網路技術與創新平台（ETIP SNET）在其《綜合能源系統2020-2030研發路線圖》及《2021-2024年綜合能源系統研發實施計畫》中已明確表明，汽電共生發展方面將聚焦在以天然氣/生物質汽電共生技術進行低剩餘負荷時供熱、高剩餘負荷時發電的商業模式；基於氫能和燃料電池的汽電共生之發展以及各種高效率汽電共生的機組開發三個部分。預期會帶動汽電共生市場朝高效能、多元化和機組中小型化的趨勢發展。\n從區域系統設置規模來看，亞洲是目前最大市場，而中國大陸在政策支持下，預計未來數年仍會帶動全球增長態勢；日本則是到2030年，其汽電共生裝機容量將可能達到1,630萬千瓩，並期待其分散式能源系統發電量占總電力供應的兩成水準。另根據經濟合作暨發展組織核能署(OECD/NEA)發布報告指出，因俄烏戰爭造成的能源安全問題影響，正在推升核能汽電共生在現有核電廠和新建核電廠中的建置規模。根據國際研究機構Fortune Business Insight數據顯示，全球汽電共生市場2024年為179億美元，2025年成長至190.6億美元水準，估計到2032年將成長至303.8億美元，2025至2032年其年複合成長率為6.89%。其中具備碳排放更低、更清潔的天然氣燃燒機組占比最大，亞太地區則是汽電共生最大市場。另針對生物燃料和廢棄物的使用預估將持續增加，其中尤以南美洲和非洲將明顯成長。此外，近年針對亦有業者推出氫燃料燃氣渦輪CHP系統推動清潔能源轉型，也有業者聚焦於氫能燃料電池技術商業化、多元燃料應用及微型汽電共生設備等方向。\n台灣方面，因應燃料價格高漲，鼓勵增氣減煤，經濟部能源局預告將修正汽電共生系統實施辦法，修訂收購費率上限，以滿足台灣對低碳轉型、邁向2050淨零轉型的需求。在永續循環經濟議題下，訴求循環經濟、廢棄物再利用，可見不少廢棄物處理業者相繼加碼投資布局汽電共生，如提供廢熱發電、沼氣發電等，而「固體再生燃料」（Solid Recovered Fuel, SRF）用於汽電共生商轉亦受到關注，例如大園汽電便預計在2025年第二季後機組全數改為天然氣及SRF再生燃料，持續推動企業減碳目標。",
+  "chains": [
+    {
+      "title": "上游設備製造業",
+      "companies": [
+        {
+          "id": "ic_link_AB11",
+          "text": "渦輪發電機",
+          "detailed_data": {
+            "title": "渦輪發電機",
+            "categories": [],
+            "companies": [
+              {
+                "name": "勞勃·博世公司",
+                "url": "http://m.bosch.com/en/com/home/index.php",
+                "is_foreign": true
+              },
+              {
+                "name": "Bosch Home Comfort Group",
+                "url": "https://www.bosch-homecomfortgroup.com/en/startpage.html",
+                "is_foreign": true
+              },
+              {
+                "name": "奇異",
+                "url": "http://www.ge.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "川崎重工",
+                "url": "https://global.kawasaki.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "三菱重工",
+                "url": "http://www.mhi.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "三菱重工",
+                "url": "http://www.mhi.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Viessmann Group",
+                "url": "https://www.viessmann.co.uk/products/combined-heat-and-power",
+                "is_foreign": true
+              },
+              {
+                "name": "Viessmann Group",
+                "url": "https://www.viessmann.co.uk/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共10家"
+          }
+        },
+        {
+          "id": "ic_link_AB12",
+          "text": "配電系統",
+          "detailed_data": {
+            "title": "配電系統",
+            "categories": [],
+            "companies": [
+              {
+                "name": "亞力",
+                "url": "company_basic.php?stk_code=1514",
+                "is_foreign": false
+              },
+              {
+                "name": "華城",
+                "url": "company_basic.php?stk_code=1519",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "奇異",
+                "url": "http://www.ge.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共7家"
+          }
+        },
+        {
+          "id": "ic_link_AB13",
+          "text": "變壓器",
+          "detailed_data": {
+            "title": "變壓器",
+            "categories": [],
+            "companies": [
+              {
+                "name": "華城",
+                "url": "company_basic.php?stk_code=1519",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "奇異",
+                "url": "http://www.ge.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        },
+        {
+          "id": "ic_link_AB14",
+          "text": "電纜",
+          "detailed_data": {
+            "title": "電纜",
+            "categories": [],
+            "companies": [
+              {
+                "name": "宏泰",
+                "url": "company_basic.php?stk_code=1612",
+                "is_foreign": false
+              },
+              {
+                "name": "大山",
+                "url": "company_basic.php?stk_code=1615",
+                "is_foreign": false
+              },
+              {
+                "name": "合機",
+                "url": "company_basic.php?stk_code=1618",
+                "is_foreign": false
+              },
+              {
+                "name": "大東電",
+                "url": "company_basic.php?stk_code=1623",
+                "is_foreign": false
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "General Cable",
+                "url": "https://es.prysmian.com/General-Cable",
+                "is_foreign": true
+              },
+              {
+                "name": "耐克森",
+                "url": "https://www.nexans.com",
+                "is_foreign": true
+              },
+              {
+                "name": "普睿司曼",
+                "url": "https://www.prysmiangroup.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共8家"
+          }
+        },
+        {
+          "id": "ic_link_AB15",
+          "text": "其他配件",
+          "detailed_data": {
+            "title": "其他配件",
+            "categories": [],
+            "companies": [
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "LM Wind Power",
+                "url": "https://www.lmwindpower.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共2家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游整合營造業",
+      "companies": [
+        {
+          "id": "ic_link_AB16",
+          "text": "規劃設計",
+          "detailed_data": {
+            "title": "規劃設計",
+            "categories": [],
+            "companies": [
+              {
+                "name": "源大環能",
+                "url": "company_basic.php?stk_code=6639",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "奇異",
+                "url": "http://www.ge.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "川崎重工",
+                "url": "https://global.kawasaki.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共7家"
+          }
+        },
+        {
+          "id": "ic_link_AB17",
+          "text": "營造設置",
+          "detailed_data": {
+            "title": "營造設置",
+            "categories": [],
+            "companies": [
+              {
+                "name": "台汽電",
+                "url": "company_basic.php?stk_code=8926",
+                "is_foreign": false
+              },
+              {
+                "name": "中鼎",
+                "url": "company_basic.php?stk_code=9933",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "奇異",
+                "url": "http://www.ge.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "川崎重工",
+                "url": "https://global.kawasaki.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共8家"
+          }
+        },
+        {
+          "id": "ic_link_AB18",
+          "text": "系統整合",
+          "detailed_data": {
+            "title": "系統整合",
+            "categories": [],
+            "companies": [
+              {
+                "name": "巨路",
+                "url": "company_basic.php?stk_code=6192",
+                "is_foreign": false
+              },
+              {
+                "name": "源大環能",
+                "url": "company_basic.php?stk_code=6639",
+                "is_foreign": false
+              },
+              {
+                "name": "ABB",
+                "url": "www.abb.com",
+                "is_foreign": true
+              },
+              {
+                "name": "ABB Group",
+                "url": "https://www.abb.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "奇異",
+                "url": "http://www.ge.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中國電力建設",
+                "url": "http://www.powerchina.cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共8家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游發電維運",
+      "companies": [
+        {
+          "id": "ic_link_AB19",
+          "text": "設備維護",
+          "detailed_data": {
+            "title": "設備維護",
+            "categories": [],
+            "companies": [
+              {
+                "name": "巨路",
+                "url": "company_basic.php?stk_code=6192",
+                "is_foreign": false
+              },
+              {
+                "name": "奇異",
+                "url": "http://www.ge.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "GE Vernova",
+                "url": "http://www.gevernova.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "川崎重工",
+                "url": "https://global.kawasaki.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "三菱重工",
+                "url": "http://www.mhi.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "三菱重工",
+                "url": "http://www.mhi.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "西門子",
+                "url": "http://www.siemens.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共7家"
+          }
+        },
+        {
+          "id": "ic_link_AB1A",
+          "text": "發電營運",
+          "detailed_data": {
+            "title": "發電營運",
+            "categories": [],
+            "companies": [
+              {
+                "name": "台汽電",
+                "url": "company_basic.php?stk_code=8926",
+                "is_foreign": false
+              },
+              {
+                "name": "源大環能",
+                "url": "company_basic.php?stk_code=6639",
+                "is_foreign": false
+              },
+              {
+                "name": "大唐新能源",
+                "url": "http://www.cdt-re.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "中國華電集團",
+                "url": "http://www.chd.com.cn/",
+                "is_foreign": true
+              },
+              {
+                "name": "中國華能集團",
+                "url": "http://www.chng.com.cn/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共5家"
+          }
+        }
+      ]
+    }
+  ]
+}

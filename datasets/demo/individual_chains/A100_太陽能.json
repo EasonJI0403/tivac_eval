@@ -1,0 +1,817 @@
+{
+  "title": "太陽能產業產業鏈",
+  "introduction": "太陽能產業鏈\n太陽能發電產業依技術可區分為矽晶、薄膜等兩大類，目前市場主流為矽晶太陽能電池，包含單晶與多晶兩種型態，共占約近九成市場；薄膜類包含:非晶矽薄膜、CdTe、CIGS、染料敏化、有機薄膜以及新興的鈣鈦礦等型太陽能電池，因轉換效率仍較低，但具有美觀、可撓且弱光環境可發電、未來成本可快速下降之潛力等特性，約佔一成以下之利基市場。\n從產業鏈的角度來看，主流矽晶太陽能電池產業可劃分為上游之多晶矽材、晶錠／矽晶圓、中游之太陽能電池片、模組，以及下游之系統建置；此外，尚有周邊材料（包括玻璃、軟性基材、氣體、靶材、槳料、染料及電極材料等）及設備等相關產業；薄膜型太陽能電池製程較為簡化，僅有中游模組與下游系統產業。\n一、上游：\n矽材製造流程係將石英礦砂經洗選加工、電弧爐還原冶金等程序後提煉至純度約98%以上的冶金矽後，再經第二階段的高純化製程，把矽純度提升至99.9999999%(9N)以上，目前主流製程為改良西門子法，目前亦有廠商投入發展矽烷流化床(FBR)改良技術，可望降低製造能耗與生產成本。目前全球矽材領導廠商主要為Wacker（德國）、OCI（南韓）、Hemlock、REC Silicon（挪威；美國廠已關閉）、Tokuyama（日本）、保利協鑫GCL（中國大陸）、通威/永祥（中國大陸）、東方希望（中國大陸）、特變電工（中國大陸）、大全（中國大陸）等大廠，其中中國大陸廠商，已佔約全球產能九成以上。\n多晶矽因建廠週期與需求週期常無法達到平衡，市場價格呈現劇烈波動。2008年至2020年期間，因市場嚴重供過於求，價格呈現持續下跌，在2021-2022年期間，因國際能源價格快速上漲，加上中國大陸面臨限電限產壓力，上游多晶矽面臨減產，價格反彈上漲，但市場於2022年底起至2024年，隨著新一輪中國大陸廠商的擴產潮展開，多晶矽價格持續下跌至歷史低點，至2025年市場仍然為嚴重供過於求。\n各國政府之間的貿易角力，也是造成太陽能上游不穩定之主要因素之一。2014年中國大陸對美國的進口多晶矽徵收反補貼稅與反傾銷稅，造成國內料源具有優勢。隨後，中美韓德等國之間的雙反貿易制裁措施，進一步造成市場波動。最新美國2021年通過維吾爾人權法案，要求企業禁用從中國新疆地區生產之商品，2022年美國商務部限制五家中國公司對美出口，2024年底美國對從中國大陸進口的多晶矽加徵50%的關稅，隨後中國大陸採取反制措施，對美國廠商實施反補貼和反傾銷措施。中國大陸廠商擴產及政府的補貼政策，則是過去幾年影響多晶矽市場供需長期失衡主要關鍵。\n矽晶圓片製造流程分為多晶與單晶兩種製程，兩者在前段製程上無法直接轉換。單晶製程係將矽原料經由長晶、拉晶、切斷、研磨、切片、清洗後完成，多晶製程則不使用拉晶步驟，而使用定向鑄錠爐直接結晶，因此晶粒排列呈現不規則狀，轉換效率較差，但成本較低。矽晶圓製程技術以透過材料選擇與溫度控制提升長晶品質，以及透過切割方式朝薄型化、減少切割損耗等為發展重點。2017年以來市場對單晶需求持續增加，單晶矽晶圓廠不斷擴產，多晶矽晶圓公司雖積極導入鑽石線切割之「黑矽」製程，使效率上能與單晶抗衡，然而目前市場單晶矽晶圓已超越多晶矽晶圓成為主流，占比超過九成。目前全球太陽能晶圓矽材中國大陸約佔九成以上，台灣及各國廠商幾乎已經退出市場，或是封存其產能。\n太陽能電池其他耗材包括氣體、電極材料、靶材、漿料、玻璃、軟性基材、染料等，耗材主要發展重點在降低成本。隨著全球太陽光電生產基地移往大中華為主的亞太地區，我國在矽片切削液、銀鋁漿、鑽石切割線、EVA（樹脂材料）、背板等耗材已有廠商積極投入。\n二、中游：\n主流之矽晶太陽能電池片製造流程係將矽片經由蝕刻、磷擴散、製作抗反射薄膜、電極網印、燒結、測試後完成。在製程技術發展上，TOPCon (隧穿氧化層鈍化接觸電池)為目前市場主流發展趨勢，其它最後段製程技術如電極雙層列印、選擇性射極等，以及次世代電池結構如HJT（異質接面電池）與IBC (指叉式背電極太陽電池)亦有廠商積極導入。矽晶太陽能電池片依據原料來源不同可分為單晶與多晶兩種，單晶電池片轉換效率較高，成本亦較多晶高，但考量最終整體投資報酬率，單晶已經成為目前市場主流。全球矽晶太陽能電池生產以中國大陸為龍頭，約佔七成以上、台灣則低於一成，其餘則包含日本、韓國及馬來西亞等國家。因歐美對中國大陸及台灣課徵雙反稅率，部分廠商在東南亞等第三地設置產能，以規避高額稅率。雖然目前全球產能高度仰賴在中國大陸，但是美國與歐洲政府與廠商，正積極倡議重新復興本土太陽能製造產能。美國方面，在2023年時任拜登總統簽署氣候法案後，已經有數家美國企業，宣布計劃在全美建造太陽能電池產能，例如: Suniva與Maxeon。歐洲方面，瑞士設備大廠Meyer Burger宣布投入HJT電池產能，法國新創公司Carbon也計畫投入TOPCon與 IBC電池產能。2024年5月，美國政府宣布，廢除在東南亞四國所產太陽能板的免關稅豁免，並促進使用美製生產的太陽能開發計畫，更容易獲得政府補貼，以保護美國自身太陽能產業。新任川普政府延續政策，除了2025年1月開始，對中國進口的太陽能電池關稅從25%大幅增加至50%外，同時擴大對東南亞（柬埔寨、越南、馬來西亞、泰國）太陽能產品的反傾銷與反補貼稅，部分生產商的稅率甚至超過3,500%，幾乎等同將這些產品排除於美國市場之外，同時切斷中國大陸產品藉繞道轉口方式進入美國市場。\n在矽晶太陽光電模組方面，其他原材料主要包括太陽能電池、EVA、玻璃和膠膜，其製造過程係將上述原料經檢視、焊接、串連、疊層、層壓、修邊、封邊、組框、測試、包裝後產出。目前產業發展以疊片以及雙面方式，增加光電轉化效率。由於模組生產物料及人力成本較高，中國大陸廠商以其低成本，輔以政府提供低利且豐沛融資等優勢，幾乎佔全球市場比重近八成以上而成為全球第一大生產國，加上大陸內需規模已成為全球最大單一市場，更有利其廠商進行產能擴充以搶占市場。國內廠商在下游太陽能安裝政策趨動下，也積極增加模組產能，然主要仍以內需市場為主，全球佔比較低。隨著美國政府，對於中國大陸廠商的貿易關稅壁壘，有望增加台灣廠商出口美國市場之機會。\n薄膜型太陽能模組是在玻璃基板或其他材質基板上，經過多次薄膜沈積及雷射切割，製成金屬、半導體、透明導電等層薄膜，再經模組封裝後，直接完成模組之製作。從材料類別來看，薄膜型太陽光電模組又可區分為矽薄膜、碲化鎘(CdTe)、銅銦鎵硒(CIGS)以及有機化合物之染料敏化、有機薄膜等技術。其中矽薄膜技術相對成熟，廠商已發展至多層堆疊技術，惟轉換效率成長空間相對有限；碲化鎘技術則由美商First Solar一枝獨秀，且佔全球薄膜模組市場比重近七成左右，多數後進廠商則投入轉換效率有機會與晶矽太陽光電模組一別苗頭的銅銦鎵硒，以日本商Solar Frontier為代表，不過由於製造設備隨廠商材料配方而變，生產成本仍待降低，市占率已經偏低。薄膜太陽光電模組技術雖具備材料成本低之優勢，但製程設備相對昂貴，再加上因矽晶模組跌價快速而快速席捲市場，以致薄膜太陽能模組侷限應用於建築一體化、沙漠高溫等偏遠地區等利基市場。新興的鈣鈦礦太陽能電池技術在光電轉換效率上發展迅速，有逐漸追上矽晶電池的機會，但在化學分子穩定度與製程成熟度上仍需持續投入研發，未見大型廠商進入量產製程。\n三、下游：\n太陽能產業下游為系統建置與應用，其中以安裝於地面與屋頂之太陽光電發電系統為主要應用，少數太陽光電元件則應用於路燈、交通號誌、建築外牆、救災設備及消費性產品等。目前全球太陽光電發電系統業者發展以大規模地面型發電廠為主，依靠政府的保證收購機制（FiT）為收入來源，然而在各國能源政策轉型後將以家戶、廠辦等屋頂型、分散式發電系統採以自發自用模式成為趨勢。隨著競爭加劇，系統業者除向上游供應鏈發展確保貨源以外，中游業者亦試圖跨足下游系統業務，使產業朝向上下游整合發展。近年來隨著我國政府的太陽能安裝政策推動下，也帶動數家獨立太陽能系統廠發展，包含已興櫃的聚恆科技、開陽能源，以及已上市的泓德能源、森崴能源與雲豹能源。\n台灣太陽能產業主要佈局在中游電池片領域，然而台灣在上游及下游產業領域較為弱勢，台灣上游唯一生產業者已退出矽材業務。下游雖有多家模組業者，但僅佔全球市場比重之2%以下。2017年開始，台灣太陽能電池產業鏈發生重組，以數家合作共組聯盟形式進行整併，並宣布進軍模組製造以及下游電站系統。新日光、昱晶、昇陽科三家上市公司合併成立聯合再生能源，大力發展下游垂直整合；茂迪與碩禾攜手合資新公司生產太陽能模組；元晶與碩禾也合作建立新模組產能。這些合縱連橫策略，改變原本台灣系統業者規模普遍較小且僅具中小型系統之現狀。2024年台灣模組銷售量，主要由聯合再生能源、元晶、友達與茂迪領先，國內市占率合計達70％以上。國內產業結構本以外銷為主，目前已轉變為外銷與內用並進，尤其在全球對中國產地產生疑慮下，台灣廠商出口比重在2024年明顯增加。在國內內需市場幫助下，穩定電池片產能利用率，並逐步拓展海外市場。。\n2024年全球太陽能安裝市場雖仍壟罩在烏克蘭戰爭、中美貿易脫鉤的大背景影響下，但全球加速能源轉型，整體太陽能安裝量超乎預期，創新高達約560GW。全球前五大市場（中、美、歐盟、印、巴基斯坦）比重高達9成，又以中國大陸市場佔約六成，仍為全球最大市場。中國大陸在2024年安裝量與前一年相比增加五成，未來幾年在政策引導下，安裝量仍可望維持高點。歐洲因地緣政治及能源危機壓力下，刺激區域能源獨立政策，歐盟委員會更新 REPowerEU 提案，旨在擺脫對俄羅斯天然氣的依賴，並已通過將2030年可再生能源目標提高至42.5%。美國在前拜登政府通過的「降低通膨法案」(IRA)為清潔能源技術提供長期的稅收抵減，使得2024年安裝量穩定增長，然在川普政府上台後，立即簽署行政命令，要求聯邦機構暫停IRA相關資金的撥付，並對補助、貸款等進行審查，同時美國眾議院共和黨推動廢止或大幅提前終止IRA多項清潔能源稅收抵減，已成為美國太陽能安裝量能否繼續成長的最大變數。日本雖逐年縮減收購電價，但宣告了2050零碳承諾，預計未來安裝量也會維持平穩。其他新興市場占比小成長率卻仍高，為成長亮點，包含如：印度、巴基斯坦、巴西、東南亞、中東等地區，新興市場是帶動整體產業持續成長之動力來源之一。展望2025年，持續高速的成長動能，全球太陽能安裝量有機會達到650GW以上。",
+  "chains": [
+    {
+      "title": "上游",
+      "companies": [
+        {
+          "id": "ic_link_A110",
+          "text": "材料",
+          "detailed_data": {
+            "title": "材料",
+            "categories": [],
+            "companies": [
+              {
+                "name": "永光",
+                "url": "company_basic.php?stk_code=1711",
+                "is_foreign": false
+              },
+              {
+                "name": "長興",
+                "url": "company_basic.php?stk_code=1717",
+                "is_foreign": false
+              },
+              {
+                "name": "達興材料",
+                "url": "company_basic.php?stk_code=5234",
+                "is_foreign": false
+              },
+              {
+                "name": "崇越",
+                "url": "company_basic.php?stk_code=5434",
+                "is_foreign": false
+              },
+              {
+                "name": "貿聯-KY",
+                "url": "company_basic.php?stk_code=3665",
+                "is_foreign": false
+              },
+              {
+                "name": "光洋科",
+                "url": "company_basic.php?stk_code=1785",
+                "is_foreign": false
+              },
+              {
+                "name": "奇鈦科",
+                "url": "company_basic.php?stk_code=3430",
+                "is_foreign": false
+              },
+              {
+                "name": "鑫科",
+                "url": "company_basic.php?stk_code=3663",
+                "is_foreign": false
+              },
+              {
+                "name": "碩禾",
+                "url": "company_basic.php?stk_code=3691",
+                "is_foreign": false
+              },
+              {
+                "name": "勤凱科技",
+                "url": "company_basic.php?stk_code=4760",
+                "is_foreign": false
+              },
+              {
+                "name": "磐采",
+                "url": "company_basic.php?stk_code=4765",
+                "is_foreign": false
+              },
+              {
+                "name": "華旭先進",
+                "url": "company_basic.php?stk_code=6682",
+                "is_foreign": false
+              },
+              {
+                "name": "喬越",
+                "url": "company_basic.php?stk_code=7896",
+                "is_foreign": false
+              },
+              {
+                "name": "保利協鑫能源",
+                "url": "http://www.gcl-power.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "REC",
+                "url": "http://www.recgroup.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "SK Materials",
+                "url": "http://www.sk-materials.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "瓦克化學",
+                "url": "http://www.wacker.com/cms/cn/home/index.jsp",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共17家"
+          }
+        },
+        {
+          "id": "ic_link_A120",
+          "text": "矽晶圓//矽晶片",
+          "detailed_data": {
+            "title": "矽晶圓/矽晶片",
+            "categories": [],
+            "companies": [
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "友達",
+                "url": "company_basic.php?stk_code=2409",
+                "is_foreign": false
+              },
+              {
+                "name": "統懋",
+                "url": "company_basic.php?stk_code=2434",
+                "is_foreign": false
+              },
+              {
+                "name": "華立",
+                "url": "company_basic.php?stk_code=3010",
+                "is_foreign": false
+              },
+              {
+                "name": "達能",
+                "url": "company_basic.php?stk_code=3686",
+                "is_foreign": false
+              },
+              {
+                "name": "中美晶",
+                "url": "company_basic.php?stk_code=5483",
+                "is_foreign": false
+              },
+              {
+                "name": "保利協鑫能源",
+                "url": "http://www.gcl-power.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "晶科能源公司",
+                "url": "https://www.jinkosolar.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "隆基股份",
+                "url": "http://www.longi-silicon.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "隆基股份",
+                "url": "http://www.longi-silicon.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共10家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "中游",
+      "companies": [
+        {
+          "id": "ic_link_A130",
+          "text": "太陽能/電池",
+          "detailed_data": {
+            "title": "太陽能電池",
+            "categories": [],
+            "companies": [
+              {
+                "name": "昇貿",
+                "url": "company_basic.php?stk_code=3305",
+                "is_foreign": false
+              },
+              {
+                "name": "聯合再生",
+                "url": "company_basic.php?stk_code=3576",
+                "is_foreign": false
+              },
+              {
+                "name": "太極",
+                "url": "company_basic.php?stk_code=4934",
+                "is_foreign": false
+              },
+              {
+                "name": "元晶",
+                "url": "company_basic.php?stk_code=6443",
+                "is_foreign": false
+              },
+              {
+                "name": "晶呈科技",
+                "url": "company_basic.php?stk_code=4768",
+                "is_foreign": false
+              },
+              {
+                "name": "中美晶",
+                "url": "company_basic.php?stk_code=5483",
+                "is_foreign": false
+              },
+              {
+                "name": "茂迪",
+                "url": "company_basic.php?stk_code=6244",
+                "is_foreign": false
+              },
+              {
+                "name": "第一太陽能",
+                "url": "http://www.firstsolar.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Hanwha Q Cells",
+                "url": "https://www.q-cells.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "晶澳太陽能",
+                "url": "http://www.jasolar.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "英利綠色能源",
+                "url": "http://www.yinglisolar.com/en/",
+                "is_foreign": true
+              },
+              {
+                "name": "英利綠色能源",
+                "url": "http://www.yinglisolar.com/en/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共12家"
+          }
+        },
+        {
+          "id": "ic_link_A140",
+          "text": "太陽能/電池模組",
+          "detailed_data": {
+            "title": "太陽能電池模組",
+            "categories": [],
+            "companies": [
+              {
+                "name": "科風",
+                "url": "company_basic.php?stk_code=3043",
+                "is_foreign": false
+              },
+              {
+                "name": "昇貿",
+                "url": "company_basic.php?stk_code=3305",
+                "is_foreign": false
+              },
+              {
+                "name": "聯合再生",
+                "url": "company_basic.php?stk_code=3576",
+                "is_foreign": false
+              },
+              {
+                "name": "太極",
+                "url": "company_basic.php?stk_code=4934",
+                "is_foreign": false
+              },
+              {
+                "name": "有成精密",
+                "url": "company_basic.php?stk_code=4949",
+                "is_foreign": false
+              },
+              {
+                "name": "崇越",
+                "url": "company_basic.php?stk_code=5434",
+                "is_foreign": false
+              },
+              {
+                "name": "元晶",
+                "url": "company_basic.php?stk_code=6443",
+                "is_foreign": false
+              },
+              {
+                "name": "安集",
+                "url": "company_basic.php?stk_code=6477",
+                "is_foreign": false
+              },
+              {
+                "name": "新晶投控",
+                "url": "company_basic.php?stk_code=3713",
+                "is_foreign": false
+              },
+              {
+                "name": "中美晶",
+                "url": "company_basic.php?stk_code=5483",
+                "is_foreign": false
+              },
+              {
+                "name": "茂迪",
+                "url": "company_basic.php?stk_code=6244",
+                "is_foreign": false
+              },
+              {
+                "name": "博大",
+                "url": "company_basic.php?stk_code=8109",
+                "is_foreign": false
+              },
+              {
+                "name": "第一太陽能",
+                "url": "http://www.firstsolar.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "晶澳太陽能",
+                "url": "http://www.jasolar.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "晶科能源公司",
+                "url": "https://www.jinkosolar.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "Solar Frontier  K.K",
+                "url": "http://www.solar-frontier.com",
+                "is_foreign": true
+              },
+              {
+                "name": "Solar Frontier K.K",
+                "url": "http://www.solar-frontier.com",
+                "is_foreign": true
+              },
+              {
+                "name": "天合光能",
+                "url": "http://www.trinasolar.com/cn",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共18家"
+          }
+        }
+      ]
+    },
+    {
+      "title": "下游",
+      "companies": [
+        {
+          "id": "ic_link_A150",
+          "text": "太陽能發電設備//系統及系統工程",
+          "detailed_data": {
+            "title": "太陽能發電設備/系統及系統工程",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中興電",
+                "url": "company_basic.php?stk_code=1513",
+                "is_foreign": false
+              },
+              {
+                "name": "樂事綠能",
+                "url": "company_basic.php?stk_code=1529",
+                "is_foreign": false
+              },
+              {
+                "name": "華新",
+                "url": "company_basic.php?stk_code=1605",
+                "is_foreign": false
+              },
+              {
+                "name": "中電",
+                "url": "company_basic.php?stk_code=1611",
+                "is_foreign": false
+              },
+              {
+                "name": "新光鋼",
+                "url": "company_basic.php?stk_code=2031",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "大同",
+                "url": "company_basic.php?stk_code=2371",
+                "is_foreign": false
+              },
+              {
+                "name": "國碩",
+                "url": "company_basic.php?stk_code=2406",
+                "is_foreign": false
+              },
+              {
+                "name": "華立",
+                "url": "company_basic.php?stk_code=3010",
+                "is_foreign": false
+              },
+              {
+                "name": "信邦",
+                "url": "company_basic.php?stk_code=3023",
+                "is_foreign": false
+              },
+              {
+                "name": "辛耘",
+                "url": "company_basic.php?stk_code=3583",
+                "is_foreign": false
+              },
+              {
+                "name": "永崴投控",
+                "url": "company_basic.php?stk_code=3712",
+                "is_foreign": false
+              },
+              {
+                "name": "有成精密",
+                "url": "company_basic.php?stk_code=4949",
+                "is_foreign": false
+              },
+              {
+                "name": "崇越",
+                "url": "company_basic.php?stk_code=5434",
+                "is_foreign": false
+              },
+              {
+                "name": "旭隼",
+                "url": "company_basic.php?stk_code=6409",
+                "is_foreign": false
+              },
+              {
+                "name": "森崴能源",
+                "url": "company_basic.php?stk_code=6806",
+                "is_foreign": false
+              },
+              {
+                "name": "雲豹能源",
+                "url": "company_basic.php?stk_code=6869",
+                "is_foreign": false
+              },
+              {
+                "name": "泓德能源",
+                "url": "company_basic.php?stk_code=6873",
+                "is_foreign": false
+              },
+              {
+                "name": "富威電力",
+                "url": "company_basic.php?stk_code=6994",
+                "is_foreign": false
+              },
+              {
+                "name": "長華*",
+                "url": "company_basic.php?stk_code=8070",
+                "is_foreign": false
+              },
+              {
+                "name": "羅昇",
+                "url": "company_basic.php?stk_code=8374",
+                "is_foreign": false
+              },
+              {
+                "name": "台汽電",
+                "url": "company_basic.php?stk_code=8926",
+                "is_foreign": false
+              },
+              {
+                "name": "jpp-KY",
+                "url": "company_basic.php?stk_code=5284",
+                "is_foreign": false
+              },
+              {
+                "name": "天方能源",
+                "url": "company_basic.php?stk_code=3073",
+                "is_foreign": false
+              },
+              {
+                "name": "漢科",
+                "url": "company_basic.php?stk_code=3402",
+                "is_foreign": false
+              },
+              {
+                "name": "單井",
+                "url": "company_basic.php?stk_code=3490",
+                "is_foreign": false
+              },
+              {
+                "name": "華盈",
+                "url": "company_basic.php?stk_code=3520",
+                "is_foreign": false
+              },
+              {
+                "name": "元創精密",
+                "url": "company_basic.php?stk_code=3685",
+                "is_foreign": false
+              },
+              {
+                "name": "新晶投控",
+                "url": "company_basic.php?stk_code=3713",
+                "is_foreign": false
+              },
+              {
+                "name": "寶碩",
+                "url": "company_basic.php?stk_code=5210",
+                "is_foreign": false
+              },
+              {
+                "name": "新門",
+                "url": "company_basic.php?stk_code=5432",
+                "is_foreign": false
+              },
+              {
+                "name": "聖暉*",
+                "url": "company_basic.php?stk_code=5536",
+                "is_foreign": false
+              },
+              {
+                "name": "廣運",
+                "url": "company_basic.php?stk_code=6125",
+                "is_foreign": false
+              },
+              {
+                "name": "高僑",
+                "url": "company_basic.php?stk_code=6234",
+                "is_foreign": false
+              },
+              {
+                "name": "茂迪",
+                "url": "company_basic.php?stk_code=6244",
+                "is_foreign": false
+              },
+              {
+                "name": "進能服",
+                "url": "company_basic.php?stk_code=6692",
+                "is_foreign": false
+              },
+              {
+                "name": "麗升能源",
+                "url": "company_basic.php?stk_code=8087",
+                "is_foreign": false
+              },
+              {
+                "name": "博大",
+                "url": "company_basic.php?stk_code=8109",
+                "is_foreign": false
+              },
+              {
+                "name": "聚恆",
+                "url": "company_basic.php?stk_code=4582",
+                "is_foreign": false
+              },
+              {
+                "name": "泰創工程",
+                "url": "company_basic.php?stk_code=6750",
+                "is_foreign": false
+              },
+              {
+                "name": "開陽能源",
+                "url": "company_basic.php?stk_code=6839",
+                "is_foreign": false
+              },
+              {
+                "name": "微電能源",
+                "url": "company_basic.php?stk_code=6883",
+                "is_foreign": false
+              },
+              {
+                "name": "寶晶能源*",
+                "url": "company_basic.php?stk_code=6987",
+                "is_foreign": false
+              },
+              {
+                "name": "怡和國際",
+                "url": "company_basic.php?stk_code=7590",
+                "is_foreign": false
+              },
+              {
+                "name": "海利普",
+                "url": "company_basic.php?stk_code=7877",
+                "is_foreign": false
+              },
+              {
+                "name": "美格能",
+                "url": "company_basic.php?stk_code=7409",
+                "is_foreign": false
+              },
+              {
+                "name": "元皓",
+                "url": "company_basic.php?stk_code=7449",
+                "is_foreign": false
+              },
+              {
+                "name": "牧陽能控",
+                "url": "company_basic.php?stk_code=7557",
+                "is_foreign": false
+              },
+              {
+                "name": "台智能",
+                "url": "company_basic.php?stk_code=7692",
+                "is_foreign": false
+              },
+              {
+                "name": "Complete Solaria, Inc.",
+                "url": "http://us.sunpower.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "京瓷",
+                "url": "http://www.kyocera.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "菲尼克斯太陽能",
+                "url": "http://www.phoenixsolar-group.com/en.html",
+                "is_foreign": true
+              },
+              {
+                "name": "夏普",
+                "url": "http://www.sharp.co.jp/",
+                "is_foreign": true
+              },
+              {
+                "name": "陽光能源",
+                "url": "https://www.solargiga.com/zh-TW/index.html",
+                "is_foreign": true
+              },
+              {
+                "name": "SunEdison",
+                "url": "http://www.sunedison.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "太陽能源",
+                "url": "http://us.sunpower.com/",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共56家"
+          }
+        },
+        {
+          "id": "ic_link_A160",
+          "text": "太陽能/電廠",
+          "detailed_data": {
+            "title": "太陽能電廠",
+            "categories": [],
+            "companies": [
+              {
+                "name": "中興電",
+                "url": "company_basic.php?stk_code=1513",
+                "is_foreign": false
+              },
+              {
+                "name": "樂事綠能",
+                "url": "company_basic.php?stk_code=1529",
+                "is_foreign": false
+              },
+              {
+                "name": "大亞",
+                "url": "company_basic.php?stk_code=1609",
+                "is_foreign": false
+              },
+              {
+                "name": "台達電",
+                "url": "company_basic.php?stk_code=2308",
+                "is_foreign": false
+              },
+              {
+                "name": "國碩",
+                "url": "company_basic.php?stk_code=2406",
+                "is_foreign": false
+              },
+              {
+                "name": "華立",
+                "url": "company_basic.php?stk_code=3010",
+                "is_foreign": false
+              },
+              {
+                "name": "鈺德",
+                "url": "company_basic.php?stk_code=3050",
+                "is_foreign": false
+              },
+              {
+                "name": "永崴投控",
+                "url": "company_basic.php?stk_code=3712",
+                "is_foreign": false
+              },
+              {
+                "name": "元晶",
+                "url": "company_basic.php?stk_code=6443",
+                "is_foreign": false
+              },
+              {
+                "name": "安集",
+                "url": "company_basic.php?stk_code=6477",
+                "is_foreign": false
+              },
+              {
+                "name": "森崴能源",
+                "url": "company_basic.php?stk_code=6806",
+                "is_foreign": false
+              },
+              {
+                "name": "雲豹能源",
+                "url": "company_basic.php?stk_code=6869",
+                "is_foreign": false
+              },
+              {
+                "name": "泓德能源",
+                "url": "company_basic.php?stk_code=6873",
+                "is_foreign": false
+              },
+              {
+                "name": "長華*",
+                "url": "company_basic.php?stk_code=8070",
+                "is_foreign": false
+              },
+              {
+                "name": "台汽電",
+                "url": "company_basic.php?stk_code=8926",
+                "is_foreign": false
+              },
+              {
+                "name": "中租-KY",
+                "url": "company_basic.php?stk_code=5871",
+                "is_foreign": false
+              },
+              {
+                "name": "天方能源",
+                "url": "company_basic.php?stk_code=3073",
+                "is_foreign": false
+              },
+              {
+                "name": "華盈",
+                "url": "company_basic.php?stk_code=3520",
+                "is_foreign": false
+              },
+              {
+                "name": "新晶投控",
+                "url": "company_basic.php?stk_code=3713",
+                "is_foreign": false
+              },
+              {
+                "name": "上亞科技",
+                "url": "company_basic.php?stk_code=6130",
+                "is_foreign": false
+              },
+              {
+                "name": "茂迪",
+                "url": "company_basic.php?stk_code=6244",
+                "is_foreign": false
+              },
+              {
+                "name": "麗升能源",
+                "url": "company_basic.php?stk_code=8087",
+                "is_foreign": false
+              },
+              {
+                "name": "泰創工程",
+                "url": "company_basic.php?stk_code=6750",
+                "is_foreign": false
+              },
+              {
+                "name": "開陽能源",
+                "url": "company_basic.php?stk_code=6839",
+                "is_foreign": false
+              },
+              {
+                "name": "三地能源",
+                "url": "company_basic.php?stk_code=6946",
+                "is_foreign": false
+              },
+              {
+                "name": "寶晶能源*",
+                "url": "company_basic.php?stk_code=6987",
+                "is_foreign": false
+              },
+              {
+                "name": "怡和國際",
+                "url": "company_basic.php?stk_code=7590",
+                "is_foreign": false
+              },
+              {
+                "name": "海利普",
+                "url": "company_basic.php?stk_code=7877",
+                "is_foreign": false
+              },
+              {
+                "name": "Complete Solaria, Inc.",
+                "url": "http://us.sunpower.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "第一太陽能",
+                "url": "http://www.firstsolar.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "太陽城",
+                "url": "http://www.solarcity.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "太陽能源",
+                "url": "http://us.sunpower.com/",
+                "is_foreign": true
+              },
+              {
+                "name": "特變電工",
+                "url": "https://www.tbea.com",
+                "is_foreign": true
+              }
+            ],
+            "total_count": "共33家"
+          }
+        }
+      ]
+    }
+  ]
+}
