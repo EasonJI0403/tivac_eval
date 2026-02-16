@@ -393,7 +393,7 @@ class OllamaProvider(ModelProvider):
 
         if not self.config.enable_reasoning:
             if "gpt" in model_lower:
-                extra_params.setdefault("think", "low")
+                extra_params.setdefault("reasoning", "low")
                 return ChatOllama(
                     model=self.config.model_name,
                     base_url=base_url,
@@ -404,7 +404,7 @@ class OllamaProvider(ModelProvider):
                 return ChatOllama(
                     model=self.config.model_name,
                     base_url=base_url,
-                    think=False,
+                    reasoning=False,
                     temperature=self.config.temperature,
                     **extra_params
                 )
